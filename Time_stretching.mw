@@ -1,0 +1,6 @@
+'''Time stretching''' is the process of changing the speed or duration of an audio signal without affecting its pitch. Pitch scaling or pitch shifting is the reverse: the process of changing the pitch without affecting the speed. There are also more advanced methods used to change speed, pitch, or both at once, as a function of time.
+
+These processes are used, for instance, to match the pitches and tempos of two pre-recorded clips for mixing when the clips cannot be reperformed or resampled. (A drum track could be moderately resampled for tempo without adverse effects, but a pitched track could not). They are also used to create effects such as increasing the range of an instrument (like pitch shifting a guitar down an octave).
+
+
+{{template:stub}}
