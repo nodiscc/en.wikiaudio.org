@@ -1,0 +1,14 @@
+'''Wow''' is a relatively slow form of flutter (pitch variation) which can affect both gramophone records and tape recorders. In the latter, the collective expression wow and flutter is commonly used.
+
+
+== Gramophone records ==
+
+When playing gramophone records, wow is a once-per-revolution pitch variation which could result from warping of the record or from a spindle hole that was not precisely centered.
+
+If the hole is not centered exactly, the linear velocity of the stylus, instead of dropping gradually as the groove spirals towards the center, varies every revolution to be too high (resulting in a higher pitch) when the stylus is further out, and too low when the stylus is further inwards (resulting in a lower pitch). Obviously, the more eccentric the positioning of the spindle hole, the greater the pitch variation.
+
+The cause for "wow"-effects on a warped disc is basically the same; a variation in the linear velocity of the stylus relative to the disc. This can be by either radial warping (similar to the eccentric hole case) or by the disc warping out of its plane. This would mean that the stylus would have to travel faster over the warped section as it must displace both in and out of the plane of the disc.
+
+
+== Tape recorders ==
+A similar problem can occur with tape recorders. The changes in frequency are caused by irregular tape motion during recording or playback. For example, a change in the angular velocity of the capstan, or dragging of the tape within an audio cassette shell. In these cases, the terms "wow and flutter" are often referred to together. A typical modern cassette recorder may have a wow and flutter specification of 0.08%
