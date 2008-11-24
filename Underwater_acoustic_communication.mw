@@ -1,0 +1,26 @@
+[[Image:Vixar3.jpg|bottom|thumb|300px|Example of multi-path [[radio propagation|propagation]]]]
+
+'''Underwater acoustic communication''' is a technique of sending and receiving message below water. There are several ways of doing such communication but the most common is using [[hydrophone]]s. Under water communication is difficult due to factors like multi-path [[radio propagation|propagation]], time variations of the channel, small available bandwidth and strong [[attenuation|signal attenuation]], especially over long ranges. In underwater communication there are low data rates compared to terrestrial communication, since underwater communication uses [[acoustic wave]]s instead of [[electromagnetic waves]].
+
+== Use of vector sensor receivers ==
+A vector sensor is capable of measuring important non-scalar components of the acoustic field such as the wave velocity, which cannot be obtained by a single scalar pressure sensor. 
+
+In recent decades, extensive research has been conducted on the theory and design of vector sensors<ref>Proc. AIP Conf. Acoustic Particle Velocity Sensors: Design, Performance, and Applications, Mystic, CT, 1995.</ref><ref>A. Nehorai and E. Paldi, “Acoustic vector-sensor array processing,” IEEE Trans. Signal Processing, vol. 42, pp. 2481-2491, 1994.</ref>. Many vector sensor signal processing algorithms have been designed <ref>K. T. Wong & H. Chi, "Beam Patterns of an Underwater Acoustic Vector Hydrophone Located Away from any Reflecting Boundary," IEEE Journal of Oceanic Engineering, vol. 27, no. 3, pp. 628-637, July 2002.</ref><ref>P. Tichavsky, K. T. Wong & M. D. Zoltowski, "Near-Field/Far-Field Azimuth & Elevation Angle Estimation Using a Single Vector-Hydrophone," IEEE Transactions on Signal Processing, vol. 49, no. 11, pp. 2498-2510, November 2001.</ref><ref>K. T. Wong & M. D. Zoltowski, “Self-Initiating MUSIC-Based Direction Finding in Underwater Acoustic Particle Velocity-Field Beamspace," IEEE Journal of Oceanic Engineering, vol. 25, no. 2, pp. 262-273, April 2000.</ref><ref>K. T. Wong & M. D. Zoltowski, “Root-MUSIC-Based Azimuth-Elevation Angle-of-Arrival Estimation with Uniformly Spaced
+but Arbitrarily Oriented Velocity Hydrophones," IEEE Transactions on Signal Processing, vol. 47, no. 12, pp. 3250-3260, December 1999.</ref><ref>K. T. Wong & M. D. Zoltowski, “Extended-Aperture Underwater Acoustic Multisource Azimuth/Elevation Direction-Finding Using Uniformly But Sparsely Spaced Vector Hydrophones," IEEE Journal of Oceanic Engineering, vol. 22, no. 4, pp. 659-672, Oct. 1997.</ref><ref>K. T. Wong & M. D. Zoltowski, “Closed-Form Underwater Acoustic Direction-Finding with Arbitrarily Spaced Vector-Hydrophones at Unknown Locations," IEEE Journal of Oceanic
+Engineering, vol. 22, no. 3, pp. 566-575, July 1997.</ref>. They have been mainly used for underwater target localization and [[SONAR]] applications.
+
+Earlier underwater acoustic communication systems have been relying on scalar sensors only, which measure the pressure of the acoustic field. Vector sensors measure the scalar and vector components of the acoustic field in a single point in space, therefore can serve as a compact multichannel receiver. This is different from the existing multichannel underwater receivers<ref>T. C. Yang, “Temporal resolutions of time-reversal and passive phase conjugation for underwater acoustic communications,” IEEE J. Oceanic Eng., vol. 28, pp. 229–245, 2003.</ref><ref>M. Stojanovic, J. A. Catipovic, and J. G. Proakis, “Reduced-complexity spatial and 	temporal processing of underwater acoustic communication signals,” J. Acoust. Soc. Am., vol. 98, pp. 961–972, 1995.</ref>, which are composed of spatially separated pressure-only sensors, which may result in large-size arrays. 
+
+In general, there are two types of vector sensors: inertial and gradient<ref>T. B. Gabrielson, “Design problems and limitations in vector sensors,” in Proc. workshop 	Directional Acoustic Sensors (CD-ROM), New Port, RI, 2001.</ref>. Inertial sensors truly measure the velocity or acceleration by responding to the acoustic medium motion, whereas gradient sensors employ a finite-difference approximation to estimate the gradients of the acoustic field such as velocity and acceleration.
+
+[[Image:Vixar2.jpg|right|thumb|300px|Vector sensor communications with three channels the pressure channel ''p'', represented by a straight dashed line, and two pressure-equivalent velocity channels ''pz'' and ''py'', shown by curved dashed lines.]]
+
+In the example of vector sensor communications shown, there is one transmitter pressure transducer, shown by a black dot, whereas for reception we use a vector sensor, shown by a black square, which measures the pressure and the ''y'' and ''z'' components of the velocity. This is a 1×3 [[single-input multiple-output]] (SIMO) system. With more pressure transmitters, one can have a [[multiple-input multiple-output]] (MIMO) system also.
+
+== References ==
+<references/>
+
+== External links ==
+*[https://www.ensieta.fr/e3i2/images/E3I2/Publi/publi/JARROT_05a.pdf A paper on denoising of underwater signals]
+
+*[http://www.eie.polyu.edu.hk/~enktwong/ Click here to download references (3)-(8)]
