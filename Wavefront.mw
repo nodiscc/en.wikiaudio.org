@@ -1,0 +1,34 @@
+
+
+In [[optics]] and [[physics]], a '''wavefront''' is the [[Locus (mathematics)|locus]] (a [[line (mathematics)|line]], or, in a [[wave]] propagating in 3 dimensions, a [[surface]]) of [[Point (geometry)|point]]s having the same [[phase (waves)|phase]]. Since infrared, optical, x-ray and gamma-ray frequencies are so high, the temporal component of electromagnetic waves is usually ignored at these wavelengths, and it is only the phase of the spatial oscillation that is described. Additionally, most optical systems and detectors are indifferent to [[polarization]], so this property of the wave is also usually ignored. At radio wavelengths, the polarisation becomes more important, and receivers are usually phase-sensitive. Many audio detectors are also phase-sensitive.
+[[Image:Onde plane 3d.jpg|right|thumb|The wavefronts of a [[plane wave]] are [[Plane (mathematics)|planes]].]]
+[[Image:Lens and wavefronts.gif|right|frame|A [[lens (optics)|lens]] can be used to change the shape of wavefronts. Here, plane wavefronts become spherical after going through the lens.]]
+
+==Simple wavefronts and propagation==
+Optical systems can be described with [[Maxwell's equations]], and linear propagating waves such as sound or electron beams have similar wave equations. However, given the above simplifications, [[Huygens' principle]] provides a quick method to predict the propagation of a wavefront through, for example, [[free space]]. The construction is as follows: Let every point on the wavefront be considered a new [[point source]]. By calculating the total effect from every point source, the resulting field at new points can be computed. Computational algorithms are often based on this approach. Specific cases for simple wavefronts can be computed directly. For example, a spherical wavefront will remain spherical as the energy of the wave is carried away equally in all directions. Such directions of energy flow, which are always perpendicular to the wavefront, are called [[ray (geometry)|rays]].
+
+The simplest form of a wavefront is the [[plane wave]], where the rays are [[parallel (geometry)|parallel]] to one-another. The light from this type of wave is referred to as [[collimated]] light. The plane wavefront is a good model for a surface-section of a very large spherical wavefront; for instance, sunlight strikes the earth with a spherical wavefront that has a radius of about 93 million miles (1 [[Astronomical Unit|AU]]). For many purposes, such a wavefront can be considered planar.
+
+==Wavefront aberrations==
+Methods utilizing wavefront measurements or predictions can be considered an advanced approach to lens optics, where a single focal distance may not exist due to lens thickness or imperfections. Note also that for manufacturing reasons, a perfect lens has a spherical (or toroidal) surface shape though, theoretically, the ideal surface would be ''aspheric''. Shortcomings such as these in an optical system cause what are called [[Aberration in optical systems|optical aberrations]]. The best-known aberrations include [[spherical aberration]] and [[Coma (optics)|coma]].
+ 
+However there may be more complex sources of aberrations such as in a large telescope due to spatial variations in the index of refraction of the atmosphere. The deviation of a wavefront in an optical system from a desired perfect planar wavefront is called the ''wavefront aberration''. Wavefront aberrations are usually described as either a sampled image or a collection of two-dimensional polynomial terms. Minimization of these aberrations is considered desirable for many applications in optical systems.
+
+==Wavefront sensor and reconstruction techniques==
+A [[wavefront sensor]] is basically a device which measures the wavefront aberration in a coherent signal to describe the optical quality or lack thereof in an optical system. A very common method is to use a [[Shack-Hartmann]] [[lenslet]] array. There are many applications that include [[adaptive optics]], optical metrology and even the measurement of the aberrations in the [[eye]] itself. In this approach, a weak laser source is directed into the eye and the reflection off the [[retina]] is sampled and processed.
+
+Alternative wavefront sensing techniques to the [[Shack-Hartmann]] system are emerging. A mathematical technique, the Iatia Quantitative Phase Imaging (QPI) algorithm, is also capable of providing wavefront estimations. This algorithm computes wavefront images from two conventional brightfield images at different focal planes without the need for specialised wavefront optics. While Shack-Hartmann lenslet arrays are limited in lateral resolution to the size of the lenslet array, techniques such as these are only limited by the resolution of the two digital images used to compute the wavefront measurements. The trade-off is that Shack-Hartmann solutions provide good axial resolution for metrological applications, whereas software reconstruction provides only a general estimation of the wavefront structure. Therefore software reconstruction techniques are for now used mainly in life sciences, where their ability to obtain wavefront images is appreciable.
+
+Another application of software reconstruction of the phase is the control of telescopes through the use of adaptive optics. A common method is the Roddier test, also called wavefront curvature sensing. It yields good correction, but needs an already good system as a starting point.
+
+
+
+
+==Further reading==
+* [http://adsabs.harvard.edu/abs/1991ApOpt..30.1325R/ C. Roddier, F. Roddier. Wavefront reconstruction using iterative Fourier transforms. Applied Optics Vol. 30, No. 11, pp. 1325-1327, april 1991]
+* [http://adsabs.harvard.edu/abs/1993OSAJ...10.2277R/ C. Roddier, F. Roddier, Wave Front Reconstruction from Defocused Images and the Testing of Ground-Based Optical Telescope, J Opt Soc Am A 10, 2277-87 (1993)]
+* [http://www2.keck.hawaii.edu/optics/staff/mvandam/tiptiltfromdefocused.pdf Wavefront tip/tilt estimation from defocused images]
+
+==External links==
+* [http://www.okotech.com/software/lightpipes/ LightPipes] - Free [[Unix]] wavefront propagation software
+* [http://www.lasikfacts.org/Wavefront-Lasik.html Wavefront Lasik] - Wavefront mapping of the eye
