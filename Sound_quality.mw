@@ -1,0 +1,21 @@
+'''Sound quality''' generally is the quality of the [[sound|audio]] output from various electronic devices. 
+
+Sound quality can be defined as the degree of accuracy with which a device records or emits the original sound waves. For digital recording/digital playback, this accuracy depends on the ''range'' of sound which is sampled, the ''rate'' at which it is sampled, and the various ''conversions'' that occur in any sound reproduction system.  With [[lossy data compression|lossy codec]]s such as [[MP3]] and [[Ogg Vorbis]], sound quality is a quantifiable factor that determines how much sound data the encoder is allowed to discard in order to reduce [[file size]].  MP3-encoded sound is generally [[Constant bit rate|CBR]], so its quality is defined by its bitrate, in kilobits per second (kbit/s).  Quality of Ogg Vorbis-encoded files, which are most commonly [[Variable bitrate|VBR]], is a [[decimal value]] ranging from &ndash;1 to 10, with &ndash;1 being suitable only for low-quality voice.
+
+The ''range'' of sound (in [[hertz]]) which the equipment detecting the sound samples affects sound quality. Humans can hear vibrations ranging from about 20 Hz to approximately 20 kHz, so sampling that doesn't extend this far will have a detrimental effect on the resultant quality.
+
+The [[Sampling frequency|''rate'']] at which the sound is sampled refers to the amount of information the detection equipment records about each second of sound. More information about the shape of the sound waves results in a more accurate sample, in other words, this is due to the [[digital]] [[quantization (sound processing)|quantization]] of the [[analog signal|analogue]] sound wave.
+
+The ''conversions'' of sample range and sample rate between different pieces of equipment in a sound recording and reproduction system will affect the quality of the sound. More conversions usually results in a lower level of quality.
+
+Sound quality is the physical pleasure or fatigue experienced by a listener, and is typically characterized in a live setting by the skill of the musicians, the tonal quality of their instruments, and the physical traits of the venue.  In a playback setting it is characterized by the same traits as in a live setting but is also affected by the recording techniques and equipment used, from the microphones at the session to the final pressing at the record or compact disc factory, to the quality of electronics and speakers used to recreate the sound in a listener's home.
+
+
+== See also ==
+*[[Audio quality measurement]]
+*[[Weighting filter]]
+*[[Equal-loudness contour]]
+*[[Noise weighting]]
+*[[A-weighting]]
+*[[ITU-R 468 noise weighting]]
+*[[Tape bias]]
