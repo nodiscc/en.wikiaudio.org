@@ -1,0 +1,26 @@
+'''Programme level''' refers to the level that an audio source is transmitted or recorded at, and is important in audio if listeners to CD's, radio and television are to get the best experience, without excessive noise in quiet periods or compression of loud sounds. It is often measured using a peak programme meter or a VU meter.
+
+The level of an audio signal would seem to be the most basic of measurements, and yet widespread misunderstanding and disagreement about programme levels has become arguably the biggest single obstacle to high quality sound reproduction.
+
+Live sound covers an enormous range of levels, but this is not something that can be demonstrated with a conventional sound level meter. Sound level meters respond quite slowly, even on a ‘fast’ setting: they have to do because they use an root mean square (RMS) rectifier, which by definition must take a slow running average of the square of the input voltage. Music is complex, and constantly varying, with brief peaks originating from the initial impact of sticks on cymbals and drums, and a loud band might measure 100 dB SPL on a sound level meter, yet have peaks reaching 130 dB SPL or higher. It is these peaks that a recording system must handle, and they can be measured using a peak responding meter with an integration time of 0.5 ms or less (not a standard IEC type PPM which has a longer integration time). Of course there is no such thing as the loudness of an orchestra or band: it depends on distance. Here we assume a desirable listening position (not actually among the instruments where ear protectors are recommended).
+
+The sound level meter is also useless for properly assessing noise levels, since the commonly used A-weighting is based on equal-loudness contours for pure tones, and is not valid for the random noise. The subjective loudness of noise is best measured using a noise-meter to the ITU-R 468 noise weighting standard. The chart below shows, on this basis, the real range of live music, and then the level capabilities of various stages in the audio chain, from microphone to loudspeaker.
+
+== Analysing programme levels ==
+
+
+[[image:Lindos10.png]]
+
+
+The above chart is based on the assumption that what goes in should come out; true high-fidelity, and so an Alignment Level (AL) corresponding to 100 dB SPL has been assumed throughout. Any lower level would imply severe clipping at the first stage; the master recording. With this assumption, it can be seen that top quality microphones do not present a problem; most will handle 130 dB SPL without severe distortion, and some manage 140 dB SPL.
+
+The master recording process, using current 24-bit techniques, can be seen to offer around 99 dB of ‘true dynamic range’ (based on the ITU-R 468 noise weighting standard); which is identical to the dynamic range of a good studio microphone, though it should be noted that very few recordings will use just one microphone, and so the noise on most recordings is likely to be the sum of several microphones after mixing, and probably at least 6 dB worse than shown. Allowing 24 dB of headroom, the highest peaks will be clipped, indicating the desirability of using a soft-limiter at the microphone input to attenuate the very highest levels. There is little point trying to record the highest levels faithfully, since they will not be reproducible on any known currently available loudspeaker, even if they were passed through the rest of the chain. A modern 24-bit master recording aligned to 100 dB SPL is therefore capable of handling almost anything, without any need for the recording level to be adjusted to suit the programme level, although some increase in level for quiet material might make the recording more robust (less dependent on the lowest noise levels being consistently maintained on playback).
+
+After this, things get more difficult, with compact disc or other 16-bit formats requiring some degree of compression of the highest levels, to fit within the 18 dB of headroom. This turns out to be irrelevant though, because a typical ‘hi-end’ loudspeaker is not capable of reproducing anything above 105 dB SPL. Even very expensive professional studio monitors only manage 110 or 115 dB SPL, and then only at 3 m listening distance. Attempting to play a master recording through any known loudspeakers at original recorded SPL is therefore doomed to result in clipping of peaks and considerable distortion.
+
+== External links ==
+*[http://www.ebu.ch/CMSimages/en/tec_text_r68-2000_tcm6-4669.pdf EBU Recommendation R68-2000]
+*[https://secure.aes.org/store/AccessableItems.cfm?action=Continue AES Preprint 4828 - Levels in Digital Audio Broadcasting by Neil Gilchrist (not free)]
+*[http://www.ebu.ch/CMSimages/en/tec_text_r117-2006_tcm6-42681.pdf EBU Recommendation R117-2006] (against [[loudness war]])
+*[http://www.irt.de/IRT/FuE/as/pdf/AES2002OnLevelling.pdf AES Convention Paper 5538 On Levelling and Loudness Problems at Broadcast Studios]
+*[http://www.ebu.ch/CMSimages/en/tec_text_r89-1997_tcm6-4703.pdf EBU R89-1997 on CD-R levels]
