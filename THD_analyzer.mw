@@ -1,0 +1,19 @@
+'''Total Harmonic Distortion (THD) Analyzers''' calculate the total [[distortion]] introduced by all the [[harmonics]] of the [[fundamental frequency]] wave.  In most cases [[Total harmonic distortion|THD]] is the amount that is required to calculate, rather than distortion caused by individual harmonics. This type of analysis is very important in systems (e.g. Audio) in which filters having an extremely small [[passband]]/ [[stopband]] is desired, such as a [[notch filter]].
+
+==Fundamental Suppression Analyzer==
+[[Image:THD.jpg|thumb|right|430px|Block Diagram of a [[THD]] Analyzer]]
+This is a specific type of THD analyzer, in which basically the fundamental frequency of the input wave is ''suppressed'' so as to remove it from the spectra of the meters used for distortion measurement, and the total gain of all the harmonics is calculated, thus obtaining the ''total distortion'' caused by the harmonics. 
+
+===Construction===
+[[Image:THD Response.jpg|thumb|right|400px|The frequency response of a Fundamental Suppression Analyzer]]
+A block diagram of a Fundamental Suppression Analyzer is shown in Fig.1. 
+This basic construction consists of three main sections: Input section with [[impedance matcher]], a rejection [[amplifier]] section and an output [[meter]]ing circuit. Notice the [[feedback]] from the bridge amplifier to the pre-amp section, that enables the rejection circuit to work more accurately.
+
+===Working=== 
+The applied input wave is [[Electrical impedance|impedance]] matched with the rejection circuit with the help of an [[attenuator]] and an impedance matcher. This signal is then applied to a [[pre-amplifier]] which raises the signal level to a desired value. The following section consists of a [[Wien bridge]]. The bridge is tuned to the fundamental frequency by frequency control and it is balanced for zero output by adjusting the bridge controls, thus giving a [[notch]] in the frequency response of the rejection section.
+After the Wien Bridge, a bridge amplifier follows that simply amplifies low harmonic voltage levels to measurable higher levels. A feedback loop is formed from Bridge Amp o/p to the Pre-Amp i/p thus eliminating even the slightest effect of fundamental frequency. This filtered output is then applied to a meter amplifier which can be an [[instrumentation amplifier]]. This amp raises the voltage levels to the compatibility of the meter scale/[[digital meter]] which follows. Thus the total voltage obtained at the meter output shows the amount of distortion present in the wave due to harmonics of fundamental.
+
+==References==
+''Modern Electronic Instrumentation & Measurement Techniques by '''Albert D. Helfrick,William D. Cooper'''''
+
+''Electronic Communications by '''Dennis Roddy, John Coolen'''''
