@@ -1,0 +1,1 @@
+A '''SMPTE to MTC converter''' is a device that translates analog SMPTE timecode into a digitized form called MIDI time code (MTC). MIDI time code can then be recognized by a MIDI equipped device (like a MIDI sequencer or drum machine) allowing it to sync with the original analog SMPTE signal.
