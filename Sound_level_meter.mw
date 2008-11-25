@@ -1,0 +1,109 @@
+'''Sound level meters''' measure '''sound pressure level''' and are commonly used in [[noise pollution]] studies for the quantification of almost any noise, but especially for industrial,  environmental and aircraft noise.   However, the reading given by a sound level meter does not correlate well to human-perceived loudness; for this a loudness meter is needed. The current International standard for sound level meter performance  is IEC 61672:2003 and this mandates the inclusion of an ''A''-frequency-[[weighting filter]] and also describes other frequency weightings  of ''C'' and ''Z'' (zero) frequency weightings. The older ''B'' and ''D'' frequency-weightings are now obsolete and are no longer described in the standard.
+
+== A-frequency-weighting ==
+In almost all countries, the use of A-frequency-weighting is  mandated  to be used for the protection of workers against noise-induced [[deafness]]. The A-frequency curve was based on the historical equal-loudness contours and while arguably A-frequency-weighting is no longer the ideal frequency weighting on purely scientific grounds, it is nonetheless the legally required standard for almost all such measurements and has the huge practical advantage that old data can be compared with new measurements. It is for these reasons that A-frequency-weighting is the only weighting mandated by the international standard, the frequency weightings 'C' and 'Z' being optional fitments.
+
+Originally,  the A-frequency-weighting was only meant for quiet sounds in the region of 40 dB SPL, but is now mandated for all levels. C-frequency-weighting however is still used in the measurement of the peak value of a noise in some legislation, but B-frequency-weighting - a half way house between 'A' and 'C' has almost no practical use. D-frequency-weighting was designed for use in measuring aircraft noise, when non-bypass jets were being measured and after the demise of Concord, these are all military types. For all civil aircraft noise measurements A-frequency-weighting is used as is mandated by the ISO and ICOA standards.
+
+== Exponentially averaging sound level meter ==
+The '''standard''' sound level meter is more correctly called an ''exponentially averaging sound level meter'' as the AC signal from the microphone is converted to DC by a [[root-mean-square]] (RMS) circuit and thus it must have a time-constant of integration;  today referred to as time-weighting. Three of these time-weightings have been standardised, 'S' (1s) originally called Slow, 'F' (125 [[millisecond|ms]]<!--not millisiemens-->) originally called Fast and 'I' (35 ms) originally called Impulse. Their names were changed in the 1980s to be the same in any language. I-time-weighting is no longer in the body of the standard because it has little real correlation with the impulsive character of noise events.
+
+The output of the RMS circuit is linear in voltage and is passed through a logarithmic circuit to give a readout linear in decibels (dB). This is 20 times the base 10 logarithm of the ratio of a given root-mean-square sound pressure to the reference sound pressure. Root-mean-square sound pressure being obtained with a standard frequency weighting and standard time weighting. The reference pressure is set by International agreement to be 20 micropascals for airborne sound. It follows that the decibel is in a sense not a unit, it is simply a dimensionless ratio—in this case the ratio of two pressures.
+
+An ''exponentially integrating sound level meter'', giving as it does a snapshot of the current noise level, is of limited use for hearing damage risk measurements and an integrating or integrating-averaging meter is usually mandated. An integrating meter simply integrates - or in other words 'sums' - the frequency-weighted noise to give sound exposure and the metric used is pressure squared times time, often  Pa²·s, but Pa²·h is also used. However, because sound was historically described in decibels, the exposure is most often described in terms of sound exposure level (SEL), the logarithmic conversion of sound exposure into decibels. 
+
+<blockquote>
+Note: in acoustics all 'levels' are in decibels.
+</blockquote>
+
+== ''L<sub>AT</sub>''   or  L<sub>eq</sub>: Equivalent continuous sound level ==
+Sound exposure level - in decibel - is not much used in industrial noise measurement. Instead, the time-averaged value is used. This is the  time average sound level or as it is usually called the 'equivalent continuous sound level' has the formal symbol'' L<sub>AT</sub>'' as described in paragraph 3,9 "Definitions" of IEC 61672 -1 where many correct formal symbols and their common abbreviations are given. These mainly, follow the formal ISO acoustic definitions qv. However, for mainly historical reasons, L''<sub>AT</sub>'' is commonly referred to as  ''L''<sub>eq</sub>. 
+
+Formally, L''<sub>AT</sub>'' is 20 times the base 10 logarithm of the ratio of a root-mean-square A-weighted sound pressure during a stated time interval to the reference sound pressure and there is no time constant involved. To measure L''<sub>AT</sub>'' an integrating-averaging meter is needed; this in concept takes the sound exposure, divides it by time and then takes the logarithm of the result.
+
+
+== Short ''L''<sub>eq</sub> ==
+An important variant of overall LAT is "short ''L''<sub>eq</sub>" where very short ''L''<sub>eq</sub> values are taken in succession, say at 1/8 second intervals, each being stored in a digital memory. These data elements can either be transmitted to another unit or be recovered from the memory and re-constituted into almost any conventional metric long after the data has been acquired. This can be done using either dedicated programs or standard spreadsheets. Short ''L''<sub>eq</sub> has the advantage that as regulations change, old data can be re-processed to check if a new regulation is met. It also permits data to be converted from one metric to another in some cases. Today almost all fixed airport noise monitoring systems, which are in concept just complex sound level meters, use short ''L''<sub>eq</sub> as their metric, as a steady stream of the digital one second ''L''<sub>eq</sub> values can be transmitted via telephone lines or the Internet to a central display and processing unit. Short L<sub>eq</sub> is a feature of most commercial integrating sound level meters - although some manufacturers give it many different names.
+
+
+Short Leq is a very valuable method for acoustic data storage; initially, a concept of the French Government's Laboratoire National d'Essais (ref 1), it has now become the most common method of storing and displaying a true Time History of the noise in professional commercial sound level meters.   The alternative method which is to generate a Time History by storing and displaying samples of exponential sound level has too many artifacts of the sound level meter to be as valuable and such sampled data cannot be readily combined to form an overall set of data.
+
+
+Until 2003 there were separate standards for exponential and linear integrating sound level meters, (IEC 60651 and IEC 60804—both now withdrawn), but since then the combined standard IEC 61672 has described both types of meter. For short L<sub>eq</sub> to be valuable the manufacturer must ensure that each separate L<sub>eq</sub> element fully complies with IEC 61672.
+
+
+
+== PSEM: or Personal Sound Exposure Meter ==
+
+
+A common variant of the sound level meter is a [[noise dosemeter]] (dosimeter in American English). However, this is now formally known as a personal sound exposure meter (PSEM) and has its own International standard IEC 61252:1993. This is normally intended to be a body worn instrument and thus has a relaxed technical requirement, as a body-worn instrument—because of the presence of the body - has a poorer overall acoustic performance. A PSEM gives a read-out based on sound exposure, usually Pa²·h, and the older 'classic'  dosimeters giving the metric of 'percentage dose' are no longer used in most countries. The problem with "%dose" is that is relates to the political situation and thus any device can become obsolete if the "100%" value is changed by local laws. Today, one of the most common devices in use is a miniature PSEM called by many manufacturers a 'dosebadge', or some similar name, as it is so small and light that it somewhat resembles a radiation badge.  These tiny devices have the three advantages that not only do they not affect the sound field, but they are so small that they do not interfere with the worker in any way and his work pattern does not change; as well, having no microphone cable, they should have a lower risk of failure, by the cable 'catching on machinery'.
+
+== ''LC''<sub>pk</sub>: peak sound pressure level ==
+Most national  regulations also call for the absolute peak value to be measured to protect workers hearing against sudden large pressure peaks,  using either 'C' or 'Z' frequency weighting. 'Peak sound pressure level' should not be confused with 'MAX sound pressure level'.  'Max sound pressure level' is simply the highest reading a conventional sound level meter gives over a stated period and can be many decibel less than the peak value. In the European Union the maximum permitted value of the peak sound level is 140 dB(C) and this equates to 200 Pa pressure. The symbol for the ''A''-frequency and ''S''-time weighted maximum sound level is LAS<sub>max</sub>.  For the ''C''-frequency weighted peak it is  ''LC''<sub>pk</sub>.
+
+== Sound level meters classes ==
+Sound level meters are divided into two classes—what were called 'types' in previous standards. The two classes have the same design centre goals but the tolerances differ.  Class 1 instruments have a wider frequency range and a tighter tolerance than a similar, lower cost, Class 2 unit. This applies to both the sound level meter itself as well as the associated calibrator.  Most national standards permit the use of "at least a Class 2 instrument" and for many measurements, there is little practical point in using a Class 1 unit; these are best employed for research and law enforcement. New in the standard IEC 61672 is a minimum 60 dB linear span requirement and ''Z''-frequency-weighting, with a general tightening of limit tolerances, as well as the inclusion of measurement uncertainty in the testing regime. This makes is unlikely that a sound level meter designed to the older 60651 and 60804 standards will meet the requirements of IEC 61672 : 2003.
+
+== ANSI/IEC: the Atlantic divide ==
+Sound level meters are also divided into two types in the  "the Atlantic divide". Sound level meters meeting the USA [[American National Standards Institute]] (ANSI) specifications cannot usually meet the corresponding [[International Electrotechnical Commission]] (IEC) specifications at the same time, as the ANSI standard describes instruments that are calibrated to a randomly incident wave, i.e. a diffuse sound field, while internationally meters are calibrated to a free field wave, that is sound coming from a single direction. Further, USA dosimeters have an exchange rate of level against time where every 5 dB increase in level halves the permitted exposure time; whereas in the rest of the world a 3 dB increase in level halves the permitted exposure time. The 3 dB doubling method is called the "equal energy" rule and there is no possible way of converting data taken under one rule to be used under the other. Despite these differences, many developing countries try to specify both USA and international specifications in one instrument in their national regulations. Because of this, many commercial PSEM have  dual channels with 3 and 5 dB doubling, with some even having 4 dB for the U.S. Air Force.
+
+== Pattern approval ==
+One of the more difficult decisions in selecting a sound level meter is "How do you know if it complies with its claimed standard? This is a difficult question and IEC 61672 part 2 tries to answer this by the concept of "pattern approval". A manufacturer has to supply instruments to a national laboratory which tests one of them and if it meets its claims issue a formal Pattern Approval certificate. In Europe the most common—and the most rigorous—approval is often considered to be that from the PTB in Germany  ([[Physikalisch-Technische Bundesanstalt]]). If a manufacturer cannot show at least one model in his range that has such approval, it is reasonable to be wary, but the cost of this approval militate against any manufacturer having all his range approved. There are many very low cost devices masquerading as sound level meters, many under $200, but so far none of these have been proven to meet their sales claims—by Pattern Approval—and their use may risk hearing damage because of possible measurement errors.
+
+Even the most accurate approved sound level meter must be regularly checked for sensitivity - what most people loosely call 'calibration'. To assist in this sensitivity checking, PTB also Pattern Approves sound calibrators to IEC 60942 : 2003 and in April 2008, the first commercial units were formally approved both at Class 1 and Class 2 level with the approval number  PTB-1.61.4028829.
+
+These units consist of a computer controlled generator with additional sensors to correct for humidity, temperature, battery voltage and static pressure. The output of the generator is fed to transducer in a half-inch cavity into which the sound level meter microphone is inserted. The acoustic level generated is 94 dB which is 1 Pascal and is at a frequency of 1kHz where all the frequency weightings have the same sensitivity.
+
+== International standards ==
+The following International standards define sound level meters, PSEM and associated devices. Most countries National standards—except of course those of the USA—follow these very closely. In many cases the equivalent European standard, agreed by the EU, is designated for example EN 61672 and the UK national standard then becomes BS. EN 61672.
+
+* IEC 61672 : 2003  "Electroacoustics - sound level meters"	
+* IEC 61252 : 1993  "Electroacoustics - specifications for personal sound exposure meters" 
+* IEC 60942 : 2003  "Electroacoustics - sound calibrators"
+
+These International Standards were prepared by IEC technical committee 29:Electroacoustics, in cooperation with the International Organization of Legal Metrology (OIML).  
+
+'''Also see'''
+* IEC 61260 : 1996    Octave and fractional Octave filters	
+* IEC 61094 : 2000.   Measurement microphones
+
+== References ==
+* '''Komorn A. & Luquet P.'''  ''Methode de description objective d'un environnement acoustique'' LNE report 1979
+* '''Wallis  A. D.''' ''From Mahogany to Computers'' Proceedings  Euronoise,  London.   Plenary Paper. Sept 1992.
+* '''Beranek, Leo L''', ''Acoustics'' (1993) Acoustical Society of America. ISBN 0-88318-494-X
+* '''Krug R. W''' ''Dosimeter standards, Europe & America, what difference does it make?''  Proc AIHCE 1993.
+
+== Links ==
+* [http://www.ioa.org.uk/ The United Kingdom professional body for acoustics]
+* [http://www.i-ince.org/ The International Institute for Noise control]
+* [http://www.iec.ch/ The home page of the IEC standards body]
+
+Commercial links to some major international manufacturers of Approved sound level meters, all of whom - with others - have provided engineers for many years to the working group of the IEC and all of whom were involved in the production of the standard IEC 61672.
+
+All these companies produce new technology sound level meters claiming to comply with IEC 61672 and have obtained formal Pattern Approval for at least one instrument.  There are many other companies who claim to manufacture instruments meeting the new standards, who have not been involved with the production of the standard and who have not obtained Pattern Approval; none of these are listed as without formal Pattern Approval it is not possible to separate commercial claims from reality.
+
+
+
+The companies are listed in alpha-numerical order with their approximate age since their foundation in brackets, e.g. {40}, rounded to five years. 
+
+* 01dB-Metravib SA.............France {40} [http://www.01db-metravib.com 01dB-Metravib]
+* Bruel and Kjaer A/S..........Denmark {60} [http://www.bk.dk Bruel & Kjaer A/S]
+* Casella CEL Ltd..............United Kingdom {35} [http://www.casellacel.com Casella CEL Ltd.]
+* Cesva S.L......................Spain  {40}  [http://www.cesva.com Cesva Instruments s.l.]
+* Cirrus Research Plc.........United Kingdom  {40} [http://www.cirrusresearch.com Cirrus Research plc]
+* Norsonics A.S.................Norway {40} [http://www.norsonic.com Norsonic A.S.]
+* Pulsar Instruments Plc.....United Kingdom {40} [http://www.pulsarinstruments.com Pulsar Instruments plc]
+* Quest Technoloies Inc......USA {40} [http://www.quest-technologies.com Quest Technologies Inc.]
+* Rion Company Ltd............Japan  {50} [http://www.rion.co.jp/english Rion Co. Ltd]
+
+
+There are also some newer companies who have obtained Pattern Approval but were not involved in the production of the relevant standards.
+* Svantek Sp. z o.o. .........Poland {20} [http://www.svantek.com Svantek Sp. z o.o.]
+
+== See also ==
+*[[Equal-loudness contour]]
+*[[Noise regulation]]
+*[[ITU-R 468 noise weighting]]
+*[[Audio quality measurement]]
+*[[Fletcher-Munson curves]]
+*[[Sound pressure]]
