@@ -1,0 +1,46 @@
+
+== String potentiometer ==
+
+
+
+
+A '''string potentiometer''' is a [[transducer]] used to detect and measure linear position and velocity using a flexible cable and spring-loaded spool.  Other common names include "string pot", "cable-extension transducer", "draw wire sensor", and "yo-yo sensor".
+
+String Potentiometers are composed of four main parts:
+
+# measuring cable
+# spool
+# spring
+# rotational sensor
+
+Inside the transducer's housing, a [[stainless steel]] cable is wound on a precisely machined constant diameter cylindrical spool that turns as the measuring cable reels and unreels.
+
+To maintain cable tension, a [[torsion spring]] is coupled to the spool. The spool is coupled to the shaft of a rotational sensor (a [[potentiometer]] or [[encoder]]). As the transducer's cable extends along with the movable object, it causes the spool and sensor shafts to rotate. The rotating shaft creates an electrical signal proportional to the cable's linear extension or velocity.  
+
+==Applications==
+String potentiometers are used to measure a moving object. The measurement cable can be connected directly to the moving part, to give a direct measurement of the point of interest. This simple type of measurement device has been in use by engineers and designers for about 40 years.  String potentiometers are generally durable, simple to use, and inexpensive.  
+
+The original application for string pots in the 1960’s was aerospace cyclic fatigue testing.   Engineers designed and built these units originally to measure movement of airplane parts as they were cycled during testing. Today, the string pot is used both for testing and as a component of equipment. Common applications include :  
+* Hydraulic cylinder position measurement, 
+* automotive and aerospace testing, 
+* factory automation, 
+* medical devices,
+* oil and chemical,
+* structural testing,
+* industrial machinery,  
+* robotics.
+
+Hydraulic cylinders are used in many industries such as [[forklift]]s, cranes and aerials, material handling, [[die-casting]], oil and gas, robotics and automation. Measurement or control of the extension of the cylinder requires a position transducer, and often a string potentiometer is used. 
+
+The string potentiometer may be connected as a three-wire tapped [[resistor]] (voltage divider), in a control circuit, or may be packaged with electronics to produce a measurement signal in a useful form, such as a variable voltage 0-10 VDC, variable current[ [4-20mA]], pulse encoder, Bus ([[DeviceNet]] and [[Canbus]]) and [[RS232]] communications. 
+
+Measurement ranges vary from about 1 inch to over 100 feet and are available in many appropriate package sizes.
+
+==Limitations of the method==
+Since the measuring cable may sag or be deflected by wind or gravity, the overall precision of a string potentiometer measurement is limited. The cable mechanism limits the speed at which the measured object can move. Changing temperatures affect both the length of the cable and the resistance value of the potentiometer. Where multiple objects, such as articles on an assembly line, or objects that are hot or coated with wet paint are to be measured, a non-contacting method is required. 
+
+Other linear position measurements methods include [[LVDT]]s, capacitive and inductive sensors, and rack-and-pinion transducers that convert linear motion into rotary motion.  Optical (time-of-flight), ultrasonic, and radar transducers exist and find specialized applications. 
+
+==External links==
+*[http://celesco.com/faq/cet.htm String Pot: Diagrams and Explanations]
+*[http://www.firstmarkcontrols.com/s054b.htm String Potentiometer and String Encoder Engineering Guide]
