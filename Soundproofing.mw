@@ -1,0 +1,54 @@
+[[Image:anechoic_chamber.jpg|thumb|250px|A [[sound proof room]], showing acoustic dampening tiles used for noise absorption.]]
+'''Soundproofing''' is any means of reducing the intensity of [[sound]] with respect to a specified source and receptor.  There are several basic approaches to reducing sound: increasing the distance between source and receiver, using [[noise barrier]]s to block or absorb the energy of the sound waves, using damping structures such as [[sound baffle]]s, or using active [[antinoise]] sound generators.
+
+Soundproofing affects sound in two different ways: ''noise reduction'' and ''noise absorption''. Noise reduction simply blocks the passage of sound waves through the use of distance and intervening objects in the sound path.  Noise absorption operates by transforming the sound wave. Noise absorption involves suppressing [[Echo (phenomenon)|echoes]], [[reverberation]], [[resonance]] and [[Reflection (physics)|reflection]]. The damping characteristics of the materials it is made out of are important in noise absorption. The wetness or moisture level in a medium can also reflect sound waves, significantly reducing and distorting the sound traveling through it, making moisture an important factor in soundproofing.
+
+==Distance==
+
+The use of distance to dissipate sound is straightforward. The energy density of sound waves decreases as they spread out, so that increasing the distance between the receiver and source results in a progressively lesser intensity of sound at the receiver.  In a normal three dimensional setting, the intensity of sound waves will be attenuated according to the inverse square of the distance from the source.  Using mass to absorb sound is also quite straightforward, with part of the sound energy being used to vibrate the mass of the intervening object, rather than being transmitted.
+When this mass consists of air the extra dissipation on top of the distance effect is only significant for typically more than 1000 meters, depending also on the weather and reflections from the soil.<ref>The combined effect of distance and dissipation in air is implemented in this [http://www.numericalexample.com/content/view/18/33 calculator].</ref>
+
+==Damping==
+
+[[Damping]] is the process by which sonic vibrations are converted into heat over time and distance. This can be achieved in several ways. One way is to add a layer of material such as [[lead]] or [[neoprene]] which are both heavy and soft. These can be used as a sound deadening layer in such areas as wall, floor and ceiling construction in sound studios where levels of air borne and mechanically produced sound are targeted for reduction or virtual elimination. Lead and Neoprene do not address the lower, most bothersome low frequency vibrations and can be very difficult to install as well as costly. One commonly used material is internally damped drywall such as [[QuietRock]].
+
+Making a sound wave transfer through different layers of material with different densities assists in noise damping. Open-celled [[foam]] is not a good sound damper inside of a wall; the sound waves are forced to travel through multiple foam cell air pockets and their cell walls as sound travels through the foam medium. Improper use of foam tape as a stand-off for paneling can lead to problems with structural [[compliance]] enabling resonance of the panel. This process is analogous to a string holding wind-chimes: the string helps the chimes ring by isolating the vibration instead of damping it. Foam tapes may, therefore, be undependable in a soundproofing protocol.
+
+[[Styrofoam]] (XPS) and [[Polystyrene#Solid foam|expanded polystyrene foam]] (EPS), commonly used for thermal insulation, are significant conductors of sound. Polystyrene's use as a sound damper should be avoided except in applications where moisture resistance and buoyancy is necessary.
+
+== Room Within A Room ==
+A Room Within A Room (RWAR) is one method of isolating sound and stopping it from transmitting to the outside world where it may be undesirable.
+
+Most [[vibration]] / sound transfer from a room to the outside occurs through mechanical means. The vibration passes directly through the brick, woodwork and other solid [[structural]] elements. When it meets with an element such as a wall, ceiling, floor or window, which acts as a [[sounding board]] the vibration is amplified and heard in the second space. A mechanical transmission is much faster, more efficient and may be more readily amplified than an airborne transmission of the same initial strength.
+
+The use of acoustic foams and other absorbent means are useless against this transmitted vibration. The user is required to break the connection between the room that contains the noise source and the outside world. This is called acoustic de-coupling. Ideal de-coupling involves eliminating vibration transfer in both solid materials and in the air, so air-flow into the room is often controlled.  This has safety implications, for example proper ventilation must be assured and gas heaters cannot be used inside de-coupled space.
+
+==Noise cancellation==
+
+Noise cancellation generators for [[active noise control]] are a relatively modern innovation. A microphone is used to pick up the sound that is then analyzed by a computer; then, sound waves with opposite polarity (180° phase at all frequencies) are output through a speaker, causing [[destructive interference]] and cancelling much of the noise.
+
+==Noise barriers as exterior soundproofing==
+
+
+Since the early 1970s it has become common practice in the United States (followed later by many other industrialized countries) to engineer [[noise barrier]]s along along major highways to protect adjacent residents from intruding roadway noise. The technology exists to predict accurately the optimum geometry for the noise barrier design. Noise barriers may be constructed of masonry, earth or a combination thereof. One of the earliest noise barrier designs was in Arlington, Virginia adjacent to Interstate 66, stemming from interests expressed by the Arlington Coalition on Transportation. Possibly the earliest scientifically designed and published noise barrier construction was in Los Altos, California in 1970.
+
+== See also ==
+*[[Acoustic board]]
+*[[Acoustic transmission]]
+*[[Anechoic chamber]]
+*[[Noise barrier]]
+*[[Noise pollution]]
+*[[Recording studio]]
+*[[OSHA]]
+
+==References==
+<references/>
+
+==External links==
+
+*[http://soundproofingforum.co.uk/guides/bregs/ "Soundproofing Building Regulations"]
+*[http://www.soundtesting.org "Sound insulation and testing guide for the UK Building Regulations"]
+*[http://www.soundservice.co.uk/articles_index.html "Soundproofing Guides and FAQs"]
+*[http://www.drumdojo.com/tech/soundproofing/soundpro_cw_intro.htm An article following the construction of a RWAR]
+*[http://www.soundproofinginfo.com/cat/449/ Soundproofing different spaces]
+*[http://www.stinkfight.com/2008/01/09/how-to-soundproof-your-home-studio/ Article "How we soundproofed our home studio for 100 bucks"]
