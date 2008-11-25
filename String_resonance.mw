@@ -1,0 +1,180 @@
+'''String resonance''' occurs on [[string instruments]]. Strings or parts of strings may resonate at their [[fundamental]] or [[overtone]] frequencies when other strings are sounded. For example, an A string at 440 Hz will cause an E string at 330 Hz to resonate, because they share an overtone of 1320 Hz (3rd overtone of A and 4th overtone of E).
+
+[[Electric guitar]]s can have [[string tree (instrument)|string tree]]s near the tuning pegs to mute this type of [[reverberation]]. The string length behind the [[bridge (instrument)|bridge]] also must be as short as possible to prevent the resonance.
+String resonance is a factor in the [[timbre]] of a string instrument. [[Tailed bridge guitar]]s like the [[Fender Jaguar]] differ in [[timbre]] from guitars with short bridges, because of their (extended) [[floating bridge]]. The Japanese [[Koto (musical instrument)|Koto]] is also a good example of an instrument with occurring string resonance.
+
+==String resonance in instrument building==
+Sometimes string resonance is used in the construction of the instrument, like for instance the [[Sympathetic strings]] in many Eastern instruments.
+
+====Piano====
+According to a 2007 [[Grove Music Online]] article on "duplex scaling", [[Steinway]] developed a system of [[Aliquot stringing]] to provide sympathetic resonance, with the intention of enriching the treble register of the piano. In the "octave duplex" piano by [[Hoerr]] of [[Toronto]], each note had four strings, of which two, three or four could be struck by the hammer depending on the depression of any of four pedals. Steinway’s [[duplex scale]] was inspired a half century earlier by an experiment conducted by the German piano maker [[Wilhelm Leberecht Petzoldt]], in which a small bridge was placed behind the standard larger one with the intention of maximizing the potential additional resonance of a sympathetically vibrating additional length of string.
+
+==Overtones due to string resonance on the koto==
+The following table<ref>[http://www.music.sc.edu/fs/bain/atmi02/cents/default.html BAIN ATMI 2002: Cents/RatioToCents Appl<!-- Bot generated title -->]</ref> 
+<ref>[http://www.xs4all.nl/~huygensf/doc/intervals.html Stichting Huygens-Fokker: List of intervals<!-- Bot generated title -->]</ref> 
+shows the created resonating overtones on the [[koto (musical instrument)|koto]] for various positions on a stopped string (the proportion being between the "played" portion of the string and resonant portion, the remaining length of the string).
+
+{| class="wikitable"
+! Resonating string 
+length/Played string
+! resonating harmonic
+!width="50"| cents
+!width="50"| reduced<br />cents
+|-
+| 1/1
+| [[prime|P0]]
+|align="right" | 0.0
+|align="right" | 0.0
+|-
+| 8/9
+| [[Just major tone]]
+|align="right" | 203.9
+|align="right" | 203.9
+|-
+| 7/8
+| Septimal major second
+|align="right" | 231.2
+|align="right" | 231.2
+|-
+| 6/7
+|[[Septimal minor third]]
+|align="right" | 266.9
+|align="right" | 266.9
+|-
+| 5/6
+| [[Just minor third]]
+|align="right" | 315.6
+|align="right" | 315.6
+|-
+| 4/5
+| [[Just major third]]
+|align="right" | 386.3
+|align="right" | 386.3
+|-
+| 3/4
+| [[perfect fourth]]
+|align="right" | 498.0
+|align="right" | 498.0
+|-
+| 2/3
+| [[Perfect fifth|P5]]
+|align="right" | 702.0
+|align="right" | 702.0
+|-
+| 3/5
+| Just [[major sixth]]
+|align="right" | 884.4
+|align="right" | 884.4
+|-
+| 1/2
+| [[octave|P8]]
+|align="right" | 1200.0
+|align="right" | 0.0
+|-
+| 2/5
+| 2P8 + just M3
+|align="right" | 1586.3
+|align="right" | 386.3
+|-
+| 1/3
+| P8 + P5
+|align="right" | 1902.0
+|align="right" | 702.0
+|-
+| 1/4
+| 2P8
+|align="right" | 2400.0
+|align="right" | 0.0
+|-
+| 1/5
+| 2P8 + just M3
+|align="right" | 2786.3
+|align="right" | 386.3
+|-
+| 1/6
+| 2P8 + P5
+|align="right" | 3102.0
+|align="right" | 702.0
+|-
+| 1/7
+| 2P8 + septimal m7
+|align="right" | 3368.8
+|align="right" | 968.8
+|-
+| 1/8
+| 3P8
+|align="right" | 3600.0
+|align="right" | 0.0
+|-
+| 1/9
+| 3P8 + pyth M2
+|align="right" | 3803.9
+|align="right" | 203.9
+|-
+| 1/10
+| 3P8 + just M3
+|align="right" | 3986.3
+|align="right" | 386.3
+|-
+| 1/11
+| 3P8 + just M3 + GUN2
+|align="right" | 4151.3
+|align="right" | 551.3
+|-
+| 1/12
+| 3P8 + P5
+|align="right" | 4302.0
+|align="right" | 702.0
+|-
+| 1/13
+| 3P8 + P5 + T23T
+|align="right" | 4440.5
+|align="right" | 840.5
+|-
+| 1/14
+| 3P8 + P5 + septimal m3
+|align="right" | 4568.8
+|align="right" | 968.8
+|-
+| 1/15
+| 3P8 + P5 + just M3
+|align="right" | 4688.3
+|align="right" | 1088.3
+|-
+| 1/16
+| 4P8
+|align="right" | 4800.0
+|align="right" | 0.0
+|-
+|}
+
+==Instruments that utilize string resonance==
+*[[Baryton]]
+*[[Bazantar]]
+*[[Crwth]]
+*[[Dilruba]]
+*[[Esraj]]
+*[[Gadulka]]
+*[[Gottuvadhyam]]
+*[[Hardingfele]]
+*[[H'arpeggione]]
+*[[Koto (musical instrument)|Koto]]
+*Modern versions of the [[nyckelharpa]]
+*[[Mohan veena]]
+*[[Piano]] (right pedal)
+*[[Prepared guitar]]
+*[[Prepared piano]]
+*[[Rubab]]
+*[[Sarangi]]
+*[[Sarod]]
+*[[Sitar]]
+*[[Tambura]]
+*[[Ten-string guitar]]
+*[[Ukelin]]
+*[[Viola d'amore]]
+*[[Tar (lute)]]
+*[[Setar]]
+*[[Winslanirian]]
+
+==References==
+<references/>
