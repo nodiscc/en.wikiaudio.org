@@ -1,0 +1,3 @@
+'''Spectral masking''' is a sound effect that arises from the analysis of two sound-files. The created effect is a third sound-file that is composed of the loudest parts of the analyzed sound-files.
+
+A frequency domain version of temporal masking, spectral masking tends to occur in sounds with similar frequencies: a powerful spike at 1 kHz will tend to mask out a lower-level tone at 1.1 kHz. This too, can be exploited by the psychoacoustic model.
