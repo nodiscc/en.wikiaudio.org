@@ -1,0 +1,26 @@
+The '''Soundfield microphone''' is an audio [[microphone]] composed of four closely spaced subcardioid or cardioid (unidirectional) microphone capsules positioned in a [[tetrahedron]]. It was invented by [[Michael Gerzon]] and Peter Craven, and is a part of, but not exclusive to, [[Ambisonics]], a [[surround sound]] technology. It can function as a mono microphone, a stereo microphone or as a surround sound microphone.
+
+A Soundfield microphone kit, consisting of the microphone and a signal processor, produces two distinct sets of audio signals.
+
+The first set, the A-Format, is produced by the Soundfield microphone itself and consists of the four signals from the microphone capsules. These four signals are not intended to be used without further processing. The A-Format is then normally transformed into the second set of audio signals, the B-Format.  This process is described in references 1 and 2. Depending on the microphone model, this transformation is performed in either hardware or software.
+
+The B-Format is the standard audio format produced by a Soundfield kit. It consists of the following four signals:
+*W - a pressure signal corresponding to the output from an omnidirectional microphone 
+*X - the front-to-back directional information, a forward-pointing velocity or "figure-of-eight" microphone
+*Y - the side-to-side directional information, a leftward-pointing "figure-of-eight" microphone
+*Z - the up-to-down directional information, an upward-pointing "figure-of-eight" microphone
+
+By combining these signals in various proportions, it is possible to derive any number of first-order microphones, pointing in any direction. For example, a forward-facing cardioid is produced by[[image:Soundfield_formula.png‎ ]]. Examples of software that perform these calculations are
+[http://vvaudio.com/vvmic/ Visual Virtual Microphone], Soundfield Research's [http://www.soundfield.com/products/s_zone.php Surround Zone] and Ambisonic Studio's [http://www.radio.uqam.ca/ambisonic/b2x.html B2X decoders] plug-ins.
+
+In other words, the B-format recording can be decoded to model any number of microphones pointing in arbitrary directions: each microphone's pattern can be selected to be omnidirectional, cardioid, hypercardioid, figure-of-eight, or anything in between. This can be done live or in post-production (after the recording is made).
+
+The playback configuration is equally flexible.  Again in post-production, the B-format recording can be decoded to any number of speakers arranged in both the horizontal and vertical planes.
+
+
+
+== External links ==
+*[http://www.soundfield.com/ SoundField Limited], a soundfield mic manufacturer
+*[http://www.agmdigital.com/ AGM Digital Arts GmbH], a soundfield mic manufacturer
+*[http://www.core-sound.com/ Core Sound LLC], a soundfield mic manufacturer
+*[http://www.ambisonia.com/wiki/index.php/Microphones#Home_made_tetrahedrons Home built soundfield mics]
