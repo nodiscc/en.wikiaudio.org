@@ -1,0 +1,6 @@
+'''Self oscillation''' is a term usually used when describing a voltage controlled filter of an analog synthesizer. Self oscillation occurs when the resonance or Q factor of the filter is set so high as to cause the filter circuitry to generate a tone on its own after it has been excited by an impulse.
+
+Self oscillation produces an audio sine wave which can range from high-pitched to subaudible frequency. This waveform's pitch can be altered by an envelope generator, or the cutoff frequency knob. If the synthesizer containing the filter has keyboard tracking available, the keyboard can control the pitch, as if the filter were a normal VCO.
+
+
+{{template:stub}}
