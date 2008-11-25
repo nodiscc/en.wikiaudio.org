@@ -1,0 +1,27 @@
+
+
+'''Sub-band coding''' (SBC) is any form of [[transform coding]] that breaks a signal into a number of different [[frequency band]]s and encodes each one independently.  This decomposition is often the first step in data compression for audio and video signals.
+
+==Basic Principles==
+The utility of SBC is perhaps best illustrated with a specific example. When used for audio compression, SBC exploits what might be considered a deficiency of the human auditory system. Human ears are normally sensitive to a wide range of frequencies, but when a sufficiently loud signal is present at one frequency, the ear will not hear weaker signals at nearby frequencies. We say that the louder signal masks the softer ones. The louder signal is called the masker, and the point at which masking occurs is known, appropriately enough, as the masking threshold.
+
+The basic idea of SBC is to enable a data reduction by discarding information about frequencies which are masked. The result necessarily differs from the original signal, but if the discarded information is chosen carefully, the difference will not be noticeable. 
+
+==Encoding audio signals==
+The simplest way to digitally encode audio signals is [[pulse-code modulation]] (PCM), which is used on [[audio CDs]], [[Digital Audio Tape|DAT]] recordings, and so on. Digitization transforms continuous signals into discrete ones by sampling a signal's amplitude at uniform intervals and rounding to the nearest value representable with the available number of bits. This process is fundamentally inexact. The more bits used represent each sample, the finer the granularity in the digital representation, and thus the smaller the error. Such ''quantization errors'' may be thought of as a type of noise, because they are effectively the difference between the original source and its binary representation. With PCM, the only way to mitigate the audible effects of these errors is to use enough bits to ensure that the noise is low enough to be masked either by the signal itself or by other sources of noise. A high quality signal is possible, but at the cost of a high [[bitrate]] (e.g., over 700 [[kbit/s]] for one channel of CD audio). In effect, many bits are wasted in encoding masked portions of the signal because PCM makes no assumptions about how the human ear hears.
+
+More clever ways of digitizing an audio signal can reduce that waste by exploiting known characteristics of the auditory system. A classic method is nonlinear PCM, such as [[mu-law]] encoding (named after a perceptual curve in auditory perception research). Small signals are digitized with finer granularity than are large ones; the effect is to add noise that is proportional to the signal strength. Sun's [[Au file format]] for sound is a popular example of mu-law encoding. Using 8-bit mu-law encoding would cut the per-channel bitrate of CD audio down to about 350 kbit/s, or about half the standard rate. Because this simple method only minimally exploits masking effects, it produces results that are often audibly poorer than the original.
+
+==A basic SBC scheme==
+
+[[Image:sbc.fig1.gif]]
+
+To enable higher quality compression, one may use subband coding. First, a digital filter bank divides the input signal spectrum into some number (e.g., 32) of subbands. The psychoacoustic model looks at the energy in each of these subbands, as well as in the original signal, and computes masking thresholds using psychoacoustic information. Each of the subband samples is quantized and encoded so as to keep the quantization noise below the dynamically computed masking threshold. The final step is to format all these quantized samples into groups of data called frames, to facilitate eventual playback by a decoder.
+
+Decoding is much easier than encoding, since no psychoacoustic model is involved. The frames are unpacked, subband samples are decoded, and a frequency-time mapping reconstructs an output audio signal.
+
+Over the last five to ten years, SBC systems have been developed by many of the key companies and laboratories in the audio industry. Beginning in the late 1980s, a standardization body called the Motion Picture Experts Group (MPEG) developed generic standards for coding of both audio and video. Subband coding resides at the heart of the popular MP3 format (more properly known as MPEG 1 audio layer III), for example.
+
+==External links==
+* [http://www.otolith.com/otolith/olt/sbc.html Sub-Band Coding Tutorial]
+* [http://sbc.sourceforge.net/ Bluetooth low-complexity, subband codec]
