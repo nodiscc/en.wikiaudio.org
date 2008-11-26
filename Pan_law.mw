@@ -1,0 +1,12 @@
+
+== Pan law ==
+
+
+
+'''Pan Law''' is a recording and mixing principle that states if one has a stereo signal, then mixes it down to monophonic, any signal of equal amplitude in both channels will increase in level 3 dB. Conversely, pan law applies to any monophonic signal that is not panned hard left (all the way to the left) or hard right (all the way to the right). This means that the specific level will change from 0 dB to 3 dB as the mono signal is panned from center to hard left or right.
+
+Pan Law can have drastic effects on stereo music heard on mono radio broadcasts or TV broadcasts. For example, if you have a stereo mix of a pop song, then sum the channels to mono, and the vocal is in the phantom center channel, the vocal will be 3 dB louder than the backing vocals and instruments that were originally isolated in each stereo channel.
+
+Some mixing consoles have an electronic circuit that automatically compensates so that when a signal is panned to mono, it eliminates the 3 dB rise.
+
+Pan Law functions can be different in different kinds of mixing consoles and other recording gear. For example, in Digidesign Pro Tools, the pan law is 2.5 dB.
