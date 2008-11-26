@@ -1,0 +1,138 @@
+== Sequencer ==
+
+
+
+A '''sequencer''' (also '''MIDI sequencer''' or '''music sequencer''') is software or hardware designed to create and manage computer-generated music.  
+
+Originally, music sequencers did not include the ability to record audio. Instead, they managed control information (such as control voltage or note on/off commands) to be sent to [[synthesizer|electronic musical instrument]]s to produce audio output. Most modern sequencers now feature audio editing and processing capabilities as well. Consequently, the terms "music sequencer" and "[[digital audio workstation]]" are often used interchangeably. 
+
+Although the term 'sequencer' is today used primarily for software, some hardware [[synthesizer]]s and almost all [[music workstation]]s include a built-in [[MIDI]] sequencer. [[Drum machine]]s generally have a step sequencer built in. There are still also standalone hardware MIDI sequencers, though the market demand for those has diminished greatly in the last ten years.
+
+Many sequencers have features for limited [[music notation]], and most are able to show music in a [[piano roll]] notation. (For software designed specifically for music notation, see [[scorewriter]].)
+
+Music can also be sequenced using [[tracker]]s such as [[ModPlug Tracker]], and some of those are able to sequence MIDI events too.
+
+==History==
+
+Early analogue sequencers used a control voltage interface; circuitry sequentially selected one of a number of potentiometers (8, 16 or more) which would set the instantaneous output voltage, and simultaneously generated a trigger pulse.  These circuits were later enhanced by, then replaced by digital hardware and software-based MIDI sequencers, which could play back MIDI events and control MIDI information at a specified number of beats per minute.
+
+As computer speeds increased in the 1990s, audio recording, audio editing, and sample triggering features were added to the software. Such advanced software is called a digital audio workstation (DAW). To distinguish them from sequencers and multitrack recording programs, DAWs almost always include sequencing features, but go beyond what a sequencer is.
+
+==Step sequencers==
+
+A special case or mode of sequencers are step sequencers. Instead of recording played notes or drawing notes by hand on the piano roll, the user composes patterns using a grid of (usually) 16 buttons, or steps, each step being 1/16th of a [[measure (music)|measure]]. Step sequencer patterns are monophonic by nature, but usually a single pattern may contain individual subpatterns for a number of different instruments. These patterns are then chained together to form longer compositions. Step sequencers are mostly used in [[drum machine]]s and [[groovebox]]es. A commercial sequencer that works in this manner is Freestyle by MOTU.
+
+==List of software sequencers / DAWs with sequencing features==
+
+
+
+
+===Commercial Sequencers===
+
+* [[ACID Pro]] and Cinescore from Sony
+* [[Cubase]] and [[Nuendo]] from [[Steinberg]] 
+* [[Digital Performer]] from MOTU
+* [[FL Studio]] from Image Line Software
+* [[Ableton Live | Live]] from [[Ableton]]
+* [[Logic Pro]], [[Logic Express]] and [[Garageband]] from Apple
+* [[Orion Platinum]] from [[Synapse Audio]]
+* [[Pro Tools]] from Digidesign
+* [[Reason (program) | Reason]] from Propellerhead
+* Samplitude, Sequoia, Music Maker and Music Studio from Magix
+* [http://www.sawstudio.com SAWStudio] from RML Labs
+* [[Cakewalk Sonar | Sonar]], [http://cakewalk.com/Products/Project5/ Project5] and Home Studio from [[Cakewalk (company) | Cakewalk]]
+* Storm from Arturia
+* [[REAPER]] From Cockos
+* [[Tracktion]] from Mackie
+
+===Open Source Sequencers===
+
+* [[LMMS]]
+* [[MusE]]
+* [[Rosegarden]]
+* [http://www.filter24.org/seq24/ Seq24]
+* [[Hydrogen (software)|Hydrogen]] ([[drum machine]])
+* [[Ardour (audio processor) | Ardour]]
+
+==Hardware music sequencers==
+
+A list of hardware sequencers and synthesizers, grooveboxes and drum machines that contain a sequencer in alphabetical order (and by no means exhaustive):
+<!--group these by analog, digital, microprocessor? just wondering... -->
+* [[Music Production Center|AKAI MPC series]]
+* [[Alesis MMT-8]]
+* [[Casio CZ synthesizers]] (the CZ-5000 included a built in sequencer)
+* [[Clavivox]], keyboard synth patented in [[1956]] by [[Raymond Scott]]
+* [[Doepfer MAQ 16-3]]
+* [[Doepfer Schaltwerk]]
+* [[Doepfer Regelwerk]]
+* [[Elektron Machinedrum]]
+* [[Elektron Monomachine]]
+* [[EMS Synthi AKS]] -- a Synthi A synthesizer combined with the KS touch-pad keyboard/256-note digital sequencer unit
+* [[Ensoniq ASR-10]]
+* [[Ensoniq ESQ-1]]
+* [[Ensoniq EPS-16]]
+* [[Fairlight CMI]]
+* [[Frostwave Fat Controller]]
+* [[genoQs Octopus]]
+* [[genoQs Nemo]]
+* [[Infection Music Phaedra]]
+* [[Infection Music Zeit]]
+* Latronic [[Notron]]
+* [[Kawai Q-80]]
+* [[Korg SQ-8]]
+* [[Korg SQD-1]]
+* [[Korg SQD-8]]
+* [[Manikin Schrittmacher]]
+* [[Moog synthesizer|Moog]] 960 Sequential Controller -- part of the [[Moog modular synthesizer]] system, and possibly the earliest sequencer.
+* [[Radikal Technologies Spectralis]]
+* [[RCA Mark II Sound Synthesizer]] (Victor). Room-filling device built in 1957 for a half-million dollars. Included a 4-polyphony synth with 12 oscillators, a sequencer fed with paper tape, and a shellac record lathe for output.
+* [[Roland DJ-70]]
+* [[Roland DJ-70mkII]]
+* [[Roland Fantom-X]]
+* [[Roland JX-305]]
+* [[Roland MC-4 Microcomposer]]
+* [[Roland MC-8 Microcomposer]]
+* [[Roland MC-09]]
+* [[Roland MC-300]]
+* [[Roland MC-303]]
+* [[Roland MC-327]]
+* [[Roland MC-50]]
+* [[Roland MC-50mkII]]
+* [[Roland MC-500 Microcomposer]]
+* [[Roland MC-505]]
+* [[Roland MC-808]]
+* [[Roland MC-909]]
+* [[Roland MV-30]]
+* [[Roland MV-8000]]
+* [[Roland PMA-5]]
+* [[Roland SB-55]]
+* [[Roland TB-303]]
+* [[Sequential Circuits PolySequencer]]
+* [[Sequentix P3]]
+* [[Synthesizers.com Q119]]
+* [[Synthesizers.com Q960 & Q962 Sequential Switch]]
+* [[Yamaha PSR-3000]]
+* [[Yamaha QX1]]
+* [[Yamaha QX3]]
+* [[Yamaha QX5]]
+* [[Yamaha QX7]]
+* [[Yamaha QX21]]
+* [[Yamaha QY8]]
+* [[Yamaha QY10]]
+* [[Yamaha QY20]]
+* [[Yamaha QY22]]
+* [[Yamaha QY70]]
+* [[Yamaha QY100]]
+* [[Yamaha QY300]]
+* [[Yamaha QY700]]
+* [[Yamaha RM1x]]
+* [[Yamaha RS7000]]
+* [[Zyklus MPS]]
+
+==External links==
+* [http://www.emulatorarchive.com/AM/AnalogArticles/RolandSeq/rolandseq.html Early Roland sequencers (1977&ndash;1984)]
+* [http://www.vintagesynth.com/misc/sequencers.shtml Early sequencer controllers from the Vintage Synth Explorer]
+* [http://www.saxmusicplus.com/articles-reviews/Music-Technology/Articles/sequencers/audio-midi-sequencers.htm Music tech author Keith Gemmell examines the sequencer in some of its many guises ]
+* [http://lennart.regebro.nu/music/sequencer_chart/chart The sequencer comparison chart ]
+
+[[Category:MIDI]]
