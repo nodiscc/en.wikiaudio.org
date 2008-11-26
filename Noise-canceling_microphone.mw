@@ -1,0 +1,17 @@
+A '''noise-canceling microphone''' is a [[microphone]] designed to filter out [[ambient noise level|ambient noise]] from the desired sound, especially useful in noisy environments. This technique often uses two or more microphones and circuitry to remove the noise. The primary microphone, a unidirectional mic, is directed at the desired source (like a person's mouth). A second mic pointed in another direction receives ambient noise. In a noisy environment, both microphones receive noise, but only the primary mic receives the desired sounds.
+
+The internal electronic circuitry of a noise-canceling mic compares the noise signal with the signal from the primary, directional microphone. The circuit may employ passive or active [[noise canceling]] techniques to filter out the noise, producing an output signal that has a lower [[noise floor]] and a higher [[signal-to-noise ratio]].
+
+==Applications==
+* Call center headsets
+* Helicopter pilot headsets
+* Race car driver headsets
+* Shipboard communications
+* Voxtec's Phraselator
+
+
+==References==
+<references/>
+* [http://www.freepatentsonline.com/7248708.html U.S. Patent 7,248,708]
+* [http://www.freepatentsonline.com/7162041.html U.S. Patent 7,162,041]
+* [http://www.adaptivetechinc.com/nc_mic.php?mm=4 Digital Noise Canceling Mic] by Adaptive Technologies
