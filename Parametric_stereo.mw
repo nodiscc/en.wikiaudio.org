@@ -1,0 +1,17 @@
+
+== Parametric Stereo ==
+
+
+
+'''Parametric Stereo''' is a feature used in Advanced Audio Coding to further enhance efficiency in low bandwidth stereo media. It, along with spectral band replication (SBR), is part of HE-AAC v2. An HE-AAC v1 decoder will only give mono sound when decoding an AAC HE v2 bitstream.
+
+Parametric Stereo performs sparse coding in the spatial domain, somewhat similar to what SBR does in the frequency domain.
+
+An AAC HE v2 bitstream is obtained by downmixing the stereo audio to mono at the encoder along with 2-3 kbit/s of side info (the Parametric Stereo information) in order to describe the spatial intensity stereo generation and ambience regeneration at the decoder. By having the Parametric Stereo side info along with the mono audio stream, the decoder (player) can regenerate a faithful spatial approximation of the original stereo panorama at very low bitrates.
+
+Because only one audio channel is transmitted, along with the parametric side info, a 24 kbit/s coded audio signal with Parametric Stereo will be substantially improved in quality, compared to a discretely stereo coded audio signal coded with conventional means. Thus, the additional bitrate spent on the single mono channel (combined with some PS side info) will improve the perceived quality substantially of the audio compared to a standard stereo stream at similar bitrate.
+
+However, this technique is only useful at the lowest bitrates (say 16 - 32 kbit/s, sweet-spot at 24 kbit/s) to give a good stereo impression, so while it can improve perceived quality at very low bitrates, it generally does not achieve transparency, since simulating the stereo dynamics of the audio with the technique is limited and generally deteriorates perceived quality regardless of the bitrate.
+
+==External links==
+* [http://www.codingtechnologies.com/products/paraSter.htm Parametric Stereo at Coding Technologies]
