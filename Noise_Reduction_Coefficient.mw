@@ -1,0 +1,12 @@
+The '''Noise Reduction Coefficient''' (commonly abbreviated '''NRC''') is a scalar  representation of the amount of [[sonic|sound]] [[energy]] absorbed upon striking a particular surface.  An NRC of 0 indicates perfect [[Reflection (physics)|reflection]]; an NRC of 1 indicates perfect [[absorption (acoustics)|absorption]].
+
+In particular, it is the average of four sound [[absorption coefficient]]s of the particular surface at frequencies of 250 [[Hertz|Hz]], 500 Hz, 1000 Hz, and 2000 Hz.  These frequencies encompass the [[fundamental frequencies]] and first few [[overtones]] of typical human [[Speech communication|speech]], and, therefore, the NRC provides a decent and simple quantification of how well the particular surface will absorb the [[human voice]].  A more broad frequency range should be considered for applications such as music or controlling mechanical noise.
+
+Specifications for materials used in sound absorption commonly include an NRC for simplicity, in addition to more detailed [[frequency]] vs [[amplitude]] charts.
+
+Acoustical materials manufacturers often report NRC values higher than 1.0 due to the way the number is calculated in a laboratory. A test material's area does not include the sides of the panel (which are exposed to the test chamber) which vary due to its thickness. A certain percentage of the sound will be absorbed by the side of the panel due to diffraction effects.
+
+
+
+==External links==
+*[http://sound.eti.pg.gda.pl/denoise/noise.html Noise Reduction]
