@@ -1,0 +1,47 @@
+'''Phantom power''' (labeled as '''+48 V''' on some audio equipment) is a method that sends a DC electrical voltage through microphone cables. It is best known as a common power source for condenser microphones, though many active [[DI box]]es also use it. 
+
+Phantom power supplies are often built into mixing desks, microphone preamplifiers and similar equipment. In addition to powering the circuitry of a microphone, in traditional (DC-polarized) condenser microphones the phantom powering directly or indirectly supplies the voltage used for polarizing the microphone's transducer element ("capsule").
+
+==Technical information==
+Phantom powering consists of direct current applied equally through the two [[Signalling (telecommunication)|signal]] lines of a [[balanced audio connector]] (in modern equipment, usually an [[XLR connector]]). The supply voltage is referenced to the ground pin of the connector (= pin 1 of an XLR), which normally is connected to the cable shield or a ground wire in the cable or both. When phantom powering was introduced, one of its advantages was that the same type of balanced, shielded microphone cable that studios were already using for dynamic microphones could be used for condenser microphones as well—in contrast to vacuum-tube microphones, which required special, multi-conductor cables of various kinds.
+
+With phantom power, the supply voltage is effectively invisible to balanced microphones that do not use it: ''e.g.'' most dynamic microphones. A balanced signal consists only of the differences in voltage between two signal lines; phantom powering places the same DC voltage on both signal lines of a balanced connection. This is in marked contrast to another, slightly earlier method of powering known as "parallel powering" or "T-powering" (from the German term Tonaderspeisung), in which DC was overlaid directly onto the signal in differential mode. Connecting a dynamic microphone (especially a ribbon microphone) to an input that had parallel powering enabled could very well damage the microphone severely, but this is not normally so with phantom powering unless the cables are defective or wired incorrectly.
+
+Many desks have a switch for turning phantom power off or on; in most high-end equipment this can be done individually by channel, while on smaller desks all channels are either off or on at once. If it is desired to disconnect phantom power from one channel only, this can be done by using a 1:1 isolation transformer or blocking capacitors. Phantom powering can cause equipment malfunction or even damage if used with cables or adaptors that connect one side of the input to ground, or if certain equipment other than microphones is connected to it.
+
+[[Instrument amplifier]]s rarely provide phantom power. To use equipment requiring it with these amplifiers, a separate power supply must be inserted into the line. These are readily available commercially, or alternatively are one of the easier projects for the amateur electronics constructor.
+
+==History==
+Phantom powering was used in telephone systems for many years before it was applied to condenser microphones. The first known commercially available phantom-powered microphone was the Schoeps model CMT 20, which came out in 1964, built to the specifications of French radio with 9-12 Volt DC phantom power; the positive pole of this powering was grounded. Microphone preamplifiers of the Nagra IV-series tape recorders offered this type of powering as an option for many years and Schoeps continued to support "negative phantom" until the CMT series was discontinued in the mid-1970s, but it is obsolete now.
+
+In 1966, Neumann GmbH of Berlin, Germany, presented a new type of transistorized microphone to the Norwegian Broadcasting Corporation, NRK. Norwegian Radio had requested phantom-powered operation. Since NRK already had 48V available in their studios for their emergency lighting systems, this voltage was therefore used for powering the new microphones (model KM 84), and is the origin of 48-V Phantom Power. This arrangement was later standardized in DIN 45596.
+The prevailing international standard, IEC 61938, defines 48-Volt and 12-Volt phantom powering. The signal conductors are positive, both fed through resistors of equal value (for 48-volt phantom powering, the standard value is 6.81 k&Omega;, and the shield is [[ground (electricity)|ground]]. A 24-Volt version of phantom powering, proposed quite a few years later, was also included in the DIN standard for several years, but it was never widely adopted by equipment manufacturers.
+
+==Cautions==
+
+Some microphones offer a choice of internal battery powering or (external) phantom powering. In some such microphones it is advisable to remove the internal batteries when phantom power is being used (''i.e.,'' beyond the normal concern about possible leakage of corrosive chemicals from batteries). Other microphones are specifically designed to switch over to the internal batteries if an external supply fails, which may be useful.
+
+Phantom powering is not always implemented correctly or adequately, even in professional-quality preamps, mixers, and recorders. In part this is because first-generation (late-1960s through mid-1970s) 48-volt phantom-powered condenser microphones had simple circuitry and required only small amounts of operating current (typically less than 1 mA per microphone), so the phantom supply circuits typically built into recorders, mixers, and preamps of that time were designed on the assumption that this current would be adequate. The original DIN 45596 phantom-power specification called for a maximum of 2 mA. This practice has carried forward to the present; many 48-volt phantom power supply circuits, especially in low-cost and portable equipment, simply cannot supply more than 1 or 2 mA total without breaking down. Some circuits also have significant additional resistance in series with the standard pair of supply resistors for each microphone input; this may not affect low-current microphones much, but it can disable microphones that need more current.
+
+Mid-1970s and later condenser microphones designed for 48-volt phantom powering often require much more current (e.g. 2–4 mA for Neumann transformerless microphones, 4–5 mA for the Schoeps CMC ("Colette") series and Josephson microphones, 5–6 mA for most Shure KSM-series microphones, 8 mA for CAD Equiteks and 10 mA for Earthworks). The IEC standard gives 10 mA as the maximum allowed current per microphone. If its required current is not available, a microphone may still put out a signal, but it cannot deliver its intended level of performance. The specific symptoms vary somewhat, but the most common result will be reduction of the maximum sound-pressure level that the microphone can handle without overload (distortion). Some microphones will also show lower sensitivity (output level for a given sound-pressure level).
+
+Most [[Ground_lift|earth lift]] switches have the unwanted effect of disconnecting phantom power; there must still be a path for pin 1 of the microphone to reach the negative side of the 48 volt supply if current is to flow.
+
+==Other mic powering techniques==
+
+An alternative to phantom powering which is fading into obsolescence is T-power, also known as A-B powering or 12T, described in DIN 45595. In this scheme, 12 volts is applied through 180 Ohm resistors between the mic's "hot" terminal (XLR pin 2) and the mic's "cold" terminal (XLR pin 3). This results in a 12 volt potential difference with significant current capability across pins 2 and 3 which would likely cause permanent damage if applied to a dynamic or ribbon mic.
+
+The low-current 3 to 5 V supply provided at the microphone jack of some consumer equipment, such as portable recorders and computer [[sound card]]s, is sometimes called "phantom power." However, it is connected in a completely different way and is suitable only for powering microphones specifically designed for use with this type of power supply. Damage may result if these microphones are connected to true phantom power.
+
+Some condenser mics can be powered with a 1.5 volt battery contained in a small compartment in the mic itself or in an external housing.
+
+These alternative powering schemes are sometimes improperly referred to as "phantom power" and should not be confused with true 48-volt phantom powering described above.
+
+==External links==
+
+*[http://www.schoepsclassics.de/1964_cmt20.htm The Schoeps CMT 20 microphone of 1964] — the world's first phantom-powered microphone
+*[http://www.mackie.com/pdf/arcane_mysteries.pdf A PDF provided by [[Mackie]] — a sound equipment company.]
+*[http://www.epanorama.net/circuits/microphone_powering.html Powering microphones] — a collection of information and circuits for powering electret microphone capsules
+*[http://en.wikibooks.org/wiki/Acoustics/Microphone_Design_and_Operation Microphone Design and Operation] — contains alternative condenser mic powering techniques including T-power/12T/A-B powering/DIN 45595
+
+[[Category:Microphones]]
