@@ -1,0 +1,47 @@
+
+== Microphone techniques ==
+
+
+There exist a number of well-developed [[microphone]] techniques used for miking musical, film, or voice sources. Choice of technique depends on a number of factors, including:
+*The collection of extraneous noise. This can be a concern, especially in amplified performances, where [[audio feedback]] can be a significant problem. Alternatively, it can be a desired outcome, in situations where ambient noise is useful (hall reverberation, audience reaction).
+*Choice of a signal type: [[Monaural|Mono]], [[stereophonic sound|stereo]] or multi-channel.
+*Type of sound-source: Acoustic instruments produce a very different sound than electric instruments, which are again different from the human voice.
+*Situational circumstances: Sometimes a microphone should not be visible, or having a microphone nearby is not appropriate. In scenes for a movie the microphone may be held above the pictureframe, just out of sight. In this way there is always a certain distance between the actor and the microphone.
+*Processing: If the signal is destined to be heavily processed, or "mixed down", a different type of input may be required.
+*The use of a windshield as well as a [[pop filter|pop shield]], designed to reduce vocal [[plosive]]s.
+
+=== Basic techniques ===
+There are several classes of microphone placement for recording and amplification.
+*In '''close miking''', a microphone is placed relatively close to an instrument or sound source. This serves to reduce extraneous noise, including room reverberation, and is commonly used when attempting to record a number of separate instruments while keeping the signals separate, or when trying to avoid feedback in an amplified performance.
+*In '''ambient''' or '''distant miking''', a microphone — typically a sensitive one — is placed at some distance from the sound source. The goal of this technique is to get a broader, natural mix of the sound source or sources, along with ambient sound, including reverberation from the room or hall.
+
+=== Stereo recording techniques ===
+There are two features of sound that the human brain uses to place objects in the stereo sound-field between the loudspeakers. These are the relative [[level]] (or loudness) difference between the two channels ''Δ&nbsp;L'', and the time-delay difference in arrival times for the same sound in each channel ''Δ&nbsp;t''. The "interaural" signals (binaural ''ILD'' and ''ITD'') at the ears are not the stereo microphone signals which are coming from the loudspeakers, and are called "interchannel" signals (''Δ&nbsp;L'' and ''Δ&nbsp;t''). These signals are normally not mixed. Loudspeaker signals are different from the sound arriving at the ear. See the section "[[#Binaural recording for earphones|Binaural recording for earphones]]".
+
+==Various methods of stereo recording==
+===X-Y technique: intensity stereophony ===
+[[Image:XY stereo.png|thumb|right|100px|XY Stereo]]Here there are two directional [[microphone]]s at the same place, and typically placed at 90° or more to each other.<ref>
+[http://www.rycote.com/assets/documents/technical_files/The%20Stereophonic%20Zoom.pdf The Stereophonic Zoom by Michael Williams]</ref>
+
+
+A stereo effect is achieved through differences in sound pressure level between two microphones. Due to the lack of differences in time-of-arrival and phase-ambiguities, the sonic characteristic of X-Y recordings is generally less "spacy" and has less depth compared to recordings employing an AB-setup.
+
+[[Image:Blumlein Stereo.png|thumb|right|100px|Blumlein Stereo]]When the microphones are bidirectional and placed facing +-45° with respect to the sound source, the X-Y-setup is called a [[Blumlein Pair]]. The sonic image produced by this configuration is considered by many authorities to create a realistic, almost holographic soundstage.
+
+X-Y and Blumlein recordings offer the best compatibility with mono reproduction, barring the M/S technique.
+
+A stereo [[microphone]] integrates two microphones in one unit to produce a stereophonic signal. A stereo microphone is often used for [[broadcast]] applications or [[field recording]] where it would be impractical to configure two separate condenser microphones in a classic X-Y configuration. Some such microphones have an adjustable angle of coverage between the two channels.
+
+See also [[Acoustic intensity]].
+
+===A-B technique: time-of-arrival stereophony===
+This uses two parallel omnidirectional microphones some distance apart, so capturing time-of-arrival stereo information as well as some level (amplitude) difference information, especially if employed in close proximity to the sound source(s). At a distance of about 50 cm (0.5 m) the time delay for a signal reaching first one and then the other microphone from the side is approximately 1.5 msec (1 to 2 msec). According to [[Eberhard Sengpiel]], this is enough to locate the sound source exactly at the speaker on the respective side, resulting in a stereophonic pickup angle of 180°. If you increase the distance between the microphones you effectively decrease the pickup angle. At 70 cm distance it is about equivalent to the pickup angle of the near-coincident [[ORTF stereo technique|ORTF]] setup.
+
+===M/S technique: Mid/Side stereophony===
+[[Image:MS stereo.png|thumb|right|Mid-Side Stereo]]This coincident technique employs a bidirectional microphone facing sideways and a cardioid(of any characteristic; [[Alan Blumlein]] described the usage of an omnidirectional transducer in his original patent) at an angle of 90° facing the sound source. One mic is physically inverted over the other, so they share the same distance. The left and right channels are produced through a simple matrix: Left = Mid + Side, Right = Mid - Side (the polarity-reversed side-signal). This configuration produces a completely mono-compatible signal, the width of which can be manipulated after the recording has taken place, which makes it especially useful for the usage on film-based projects. Although many times the M signal is represented as a omnidirectional microphone, in effect only cardioid microphones should be used as only this way a convincing stereo image can be created.
+
+==References==
+<references/>
+
+== External links ==
+*[http://www.utopia-sound.com/oct/]
