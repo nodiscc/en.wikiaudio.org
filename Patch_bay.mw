@@ -1,0 +1,35 @@
+A '''patch bay''' or patch panel or jackfield is a panel, typically rackmounted, that houses cable connections. One typically shorter patch cable will plug into the front side, while the back will hold the connection of a much longer and more permanent cable. The assembly of hardware is arranged so that a number of circuits, usually of the same or similar type, appear on jacks for monitoring, interconnecting, and testing circuits in a convenient, flexible manner.
+
+[[Image:patchpannel.JPG|thumb|200px|right|A remote broadcast trailer's jackfield]]
+
+Patch bays offer the convenience of allowing technicians to quickly change the path of select signals, without the expense of dedicated switching equipment. This was first used by early telephone exchanges, where the telephone switchboard (a massive array of patch panels) and a large room full of telephone operators running it was ubiquitous.
+
+==Uses and connectors==
+In recording studios, television and radio broadcast studios, and concert sound reinforcement systems, patchbays are widely used to facilitate the connection of different devices, such as microphones, electric or electronic instruments, effects (e.g., compression, reverb, etc.), recording gear, amplifiers, or broadcasting equipment. Patchbays make it easier to connect different devices in different orders for different projects, because all of the changes can be made at the patchbay. As well, patchbays make it easier to troubleshoot problems such as ground loops, hum, or static.
+
+Even small home studios and amateur project studios often use patchbays, because it groups all of the input jacks into one location. This means that devices mounted in racks or keyboard instruments can be connected without having to hunt around behind the rack or instrument with a flashlight for the right jack. Using a patchbay also saves wear and tear on the input jacks of studio gear and instruments, because all of the connections are made with the patchbay.
+
+==Normalling==
+
+Patch bays may be half-normal or full-normal, "normal" indicating that the top and bottom jacks are wired together internally.  When a patch bay has half-normal wiring, its switching contacts flow through the bottom jacks of the bottom row while connected to the top row; plugging into the output connection will split the signal.  If a patch bay is wired to full-normal, then it includes switching contacts in both rows of jacks.
+[[Image:Theatpatchbay.JPG|thumb|right|200 px|A patch bay for patching circuits to [[stage lighting]] [[Stage lighting instrument|instruments]] ]]
+
+==Switches==
+Dedicated switching equipment can be an alternative to patch bays in some applications. Switchers can make routing as easy as pushing a button, and can provide other benefits over patch bays, including routing a signal to any number of destinations simultaneously. However, switching equipment that can emulate the capabilities of a given patch bay is much more expensive.
+
+Example: a 16-point S-Video patch panel, with 8 patch cables, may cost $300.00, and connect 8 inputs and 8 outputs. An S-Video matrix routing switcher with the same capability (8x8) would probably cost between $2,000.00 and $4,000.00 new, though it would probably have more capabilities, including audio-follow-video and built-in distribution amplifiers.
+
+There are various types of switchers for audio and video, from simple selector switches to sophisticated production switchers. However, emulating or exceeding the capabilities of audio and/or video patch bays requires specialized devices like routing switchers and matrix routers (aka "crosspoint switchers").
+
+Like patch panels, switching equipment for nearly any type of signal is available, including analog and digital video and audio, as well as RF (cable TV), MIDI, telephone, networking, electrical, and just about anything else.
+
+Switching equipment may be electronic, mechanical, or electro-mechanical. Some switcher hardware can be controlled via computer and/or other external devices. Some have automated and/or pre-programmed operational capabilities. There are also software switcher applications used to route signals and control data within a "pure digital" computer environment.
+
+Distribution frames are cheaper, but less convenient.
+
+
+
+
+==References==
+*[http://www.its.bldrdoc.gov/fs-1037/fs-1037c.htm Federal Standard 1037C]
+*[http://en.wikipedia.org/wiki/MIL-STD-188 MIL-STD-188]
