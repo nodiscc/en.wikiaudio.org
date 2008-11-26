@@ -1,0 +1,10 @@
+NC(noise criterion) curves: A unit of measurement for the background noise level(s) of occupied indoor spaces. The Noise Criterion curves are octave band curves each assigned a single number rating.The measured noise spectrum of a room is then compared against these curves to determine the NC level of the space. The curves were derived by Leo L. Beranek and published in 1957. More modern criteria had been developed to measure background noise since.
+
+
+
+{{template:stub}}
+
+
+
+== Reference ==
+[http://www.rane.com/par-n.html#NC_curves  Rane pro audio reference]
