@@ -1,0 +1,191 @@
+In professional [[Sound reproduction|audio]], a '''mixing console''',  or ''audio mixer'', also called a '''sound board''' or '''soundboard''', is an [[Electronics|electronic]] device for combining (also called "[[Audio mixing|mixing]]"), routing, and changing the level, [[Timbre|timbre]] and/or dynamics of audio signals. A mixer can mix [[analog (signal)|analog]] or [[digital signal]]s, depending on the type of mixer. The modified signals ([[voltage]]s or [[digital samples]]) are [[sum]]med to produce the combined output signals.
+
+Mixing consoles are used in  many applications, including [[recording studio]]s, [[public address system]]s, [[sound reinforcement system]]s, [[broadcasting]], [[television]], and [[film]] [[post-production]]. An example of a simple application would be to enable the signals that originated from two separate [[microphone]]s (each being used by vocalists [[singing]] a [[duet]], perhaps) to be heard through one set of [[Loudspeaker|speaker]]s simultaneously. When used for live performances, the signal produced by the mixer will usually be sent directly to an [[amplifier]], unless that particular mixer is “powered” or it is being connected to [[powered speakers]]. 
+[[Image:Mark III radio desk.jpg|right|thumb|430px|BBC Local Radio Mark III radio mixing desk]]
+
+== Structure ==
+
+[[Image:aamixer.jpg|right|thumb|320px|Yamaha 2403 audio mixing console in a 'live' mixing application]]
+
+The input strip is usually separated into these sections:
+* Input Jacks / [[Microphone preamp]]s
+* Basic input controls
+* Channel EQ (High, Mids and low)
+* Routing Section including Direct Outs, [[Aux-send]]s, [[Panning (audio)|Panning control]] and Subgroup assignments
+* Input [[Fade (audio engineering)#Fader|Faders]]
+* Subgroup faders
+* Output controls including Master level controls,  EQ and/or Matrix routing
+On the Yamaha Console to the right, these sections are color coded for quick identification by the operator. 
+Each signal that is [[input]] into the mixer has its own ''channel''. Depending on the specific mixer, each channel is [[stereophonic sound|stereo]] or [[monaural]]. On most mixers, each channel has an [[XLR connector|XLR]] input, and many have [[RCA connector|RCA]] or quarter-inch [[Jack plug]] line inputs. 
+
+===Basic input controls===
+Below each input, there are usually several rotary controls (knobs, pots).  The first is typically a ''trim'' or ''gain'' control.  The inputs [[buffer amplifier|buffer]] the signal from the external device and this controls the amount of amplification or attenuation needed to bring the signal to a [[nominal level]] for processing.  This stage is where most noise or interference is picked up, due to the high gains involved (around +50 [[decibel|dB]], for a microphone).  [[Balanced line|Balanced]] inputs and connectors, such as XLR or [[Tip ring sleeve|Tip-Ring-Sleeve]] (TRS) quarter-inch connectors, reduce interference problems.
+
+There may be ''insert'' points after the buffer/gain stage, which  send to and return from external processors which should only affect the signal of that particular channel.  Insert points are most commonly used with effects that control a signal's [[amplitude]], such as [[noise gate]]s, [[expander]]s, and [[Audio level compression|compressor]]s.
+
+===Auxiliary send routing===
+The ''Auxiliary send'' routes a split of the incoming signal to an auxiliary bus which can then be used with external devices. ''Auxiliary sends'' can either be pre-fader or post-fader, in that the level of a pre-fade send is set by the ''Auxiliary send'' control, whereas post-fade sends depend on the position of the channel fader as well. ''Auxiliary sends'' can be used to send the signal to an external processor such as a reverb, which can then be routed back through another channel or designated auxiliary returns on the mixer. These will normally be post-fader. Pre-fade ''auxiliary sends'' can be used to provide a monitor mix to musicians onstage, this mix is thus independent of the main mix.
+[[Image:Audio mixer faders.jpg|thumb|250px|Mixing desk used for live performances.]]
+
+=== Channel equalization ===
+Further channel controls affect the [[equalization]] (EQ) of the signal by separately attenuating or boosting a range of [[frequency|frequencies]], e.g., [[bass (musical term)|bass]], midrange, and [[treble]].  Most large mixing consoles (24 channels and more) usually have sweep equalization in one or more bands of its [[parametric equalizer]] on each channel, where the frequency and affected bandwidth of equalization can be selected. Smaller mixing consoles have few or no equalization controls. Care must be taken not to add too much EQ to a signal that is already close to clipping; additional energy will overdrive the channel.
+
+Some mixers have a general equalization control (either graphic or parametric) at the output.
+
+===Subgroup and mix routing===
+Each channel on a mixer has an audio taper pot, or [[potentiometer]], controlled by a sliding volume control (''fader''), that allows adjustment of the level, or amplitude, of that channel in the final ''mix''.  A typical mixing console has many rows of these sliding volume controls. Each control adjusts only its respective channel (or one half of a stereo channel); therefore, it only affects the level of the signal from one microphone or other audio device.  The signals are summed to create the main ''mix'', or combined on a ''bus'' as a submix, a group of channels that are then added to get the final mix (for instance, many drum mics could be grouped into a bus, and then the proportion of drums in the final mix can be controlled with one bus fader).
+
+There may also be ''insert'' points for a certain bus, or even the entire mix.
+
+===Master output controls===
+Subgroup and main output fader controls are often found together on the right hand side of the mixer or, on larger consoles, in a center section flanked by banks of input channels. Matrix routing is often contained in this master section, as are headphone and local loudspeaker monitoring controls. Talkback controls allow conversation with the artist through their wedges, headphones or IEMs. A test tone generator might be located in the master output section. Aux returns such as those signals returning from outboard reverb devices are often in the master section.
+
+===Metering===
+Finally, there are usually one or more [[VU meter|VU]] or [[peak meter]]s to indicate the levels for each channel, or for the master outputs, and to indicate whether the console levels are overmodulating or [[clipping (audio)|clipping]] the signal. Most mixers have at least one additional [[output]], besides the main mix.  These are either individual bus outputs, or ''auxiliary outputs'', used, for instance, to output a different mix to on-stage [[loudspeaker|monitor]]s.  The operator can vary the mix (or levels of each channel) for each output.
+
+As audio is heard in a logarithmic fashion (both [[amplitude]] and frequency), mixing console controls and displays are almost always in [[decibel]]s, a logarithmic measurement system.  This is also why special audio taper [[potentiometer|pots]] or circuits are needed.  Since it is a relative measurement, and not a unit itself (like a percentage), the meters must be referenced to a [[nominal level]].  The "professional" nominal level is considered to be +4 [[Decibel#Voltage|dBu]].  The "consumer grade" level is −10 [[Decibel#Voltage|dBV]].
+
+===Hardware routing and patching===
+For convenience, some mixing consoles include [[Insert (effects processing)|inserts]] or a [[patch bay]] or patch panel.
+
+Most, but not all, audio mixers can
+* add external [[sound effects|effect]]s.
+* use monaural signals to produce stereo sound by adjusting the position of each signal on the [[sound stage]] ([[Panning (audio)|pan]] and [[Stereophonic sound#Balance|balance]] controls).
+* provide [[phantom power]] (typically 48 [[volt]]s) required by some microphones.
+* create an audible tone via an [[oscillator]], usually at 440 [[Hertz|Hz]], 1 kHz, or 2 kHz
+
+Some mixers can
+* add [[sound effects|effect]]s internally.
+* interface with computers or other recording equipment (to control the mixer with computer presets, for instance).
+* be powered by [[Battery (electricity)|batteries]].
+
+[[Image:Mixing_console.jpg|thumb|right|280px|16-channel mixing console]]
+
+==Digital vs. Analog==
+[[Digital mixing console]] sales have increased dramatically since their introduction in the 1990s. [[Yamaha Corporation|Yamaha]] sold more than 1000 PM5D mixers by July, 2005,<ref>[http://www.yamahamusic.com.au/news/news.asp?action=view_item&resourceid=31 Yamaha PM5D Sales Top 1,000 Units]</ref> and other manufacturers are seeing increasing sales of their digital products. Digital mixers are more versatile than analog ones and offer many new features, such as the ability to save multiple mute groups, multiple VCA groups and channel settings into a scene and reconfigure signal routing at the touch of a button. The faders can be "swapped" or "flipped" to show aux send levels; a feature very useful in mixing artists' monitors. In addition, digital consoles often include a range of special effects such as [[Parametric equalization|parametric EQ]], [[Dynamic range compression|compression]], [[Noise gate|gating]], [[Reverberation|reverb]], automatic [[Audio feedback|feedback]] reduction, [[Delay (audio effect)|tap delay]] and [[Delay line|straight delay]]. Some products are expandable via third-party software features (called [[plugin]]s) that add further reverb, compression, delay and tone-shaping tools. Several digital mixers include [[Spectrum analyzer|spectrograph]] and [[Real Time Analyzer|real time analyzer]] functions. A few incorporate loudspeaker management tools such as [[Audio crossover#Digital Crossovers|crossover filtering]] and [[Limiter|limiting]]. [[Digital signal processor|Digital signal processing]] can perform automatic mixing for some simple applications, such as courtrooms, conferences and panel discussions, but at this time no digital mixer in live audio includes [[automixing]]. 
+
+Digital mixers can be designed to be quieter than most analog mixers, as digital mixers often incorporate very low threshold noise gates to stop inactive mix bus [[Electronic noise|background hiss]] from summing with active signals. Digital circuitry is more [[Electromagnetic interference|resistant to outside interference]] from radio transmitters such as walkie-talkies and cell phones. 
+
+===Propagation delay===
+Digital mixers have an unavoidable amount of latency or [[Propagation delay|propagation delay]], ranging from 1.5 milliseconds to as much as 10 ms, depending on the model of digital mixer and what functions are engaged. This small amount of delay isn't a problem for loudspeakers aimed at the audience or even monitor wedges aimed at the artist, but can be disorienting and unpleasant for IEMs ([[In ear monitors]]) where the artist hears their voice acoustically in their head ''and'' electronically amplified in their ears but delayed by a couple of milliseconds. 
+
+Every [[Analog-to-digital converter|analog to digital conversion]] and [[Digital-to-analog converter|digital to analog conversion]] within a digital mixer entails propagation delay. [[Insert (effects processing)|Audio inserts]] to favorite external analog processors make for almost double the usual delay. Further delay can be traced to [[Data conversion|format conversions]] such as from [[ADAT]] to [[AES/EBU|AES3]] and from normal digital signal processing steps. 
+
+Within a digital mixer there can be differing amounts of latency, depending on the routing and on how much DSP is in use. Assigning a signal to two parallel paths with significantly different processing on each path can result in extreme comb filtering when recombined. Some digital mixers incorporate internal methods of latency correction so that such problems are avoided.
+
+===Ease of use===
+Analog consoles remain popular due to their continuing to have one knob, fader or button per function, a reassuring feature for the user. This takes up more physical space but allows more rapid response to changing performance conditions. Most digital mixers take advantage of the technology to reduce the physical space requirements of their product, entailing compromises in user interface such as a single shared channel adjustment area that is selectable for only one channel at a time. Additionally, most digital mixers have virtual pages or layers which change the fader banks into separate controls for additional inputs or for adjusting equalization or aux send levels. This layering can be confusing for operators. 
+
+Analog consoles make for simpler understanding of hardware routing. Many digital mixers allow internal reassignment of inputs so that convenient groupings of inputs appear near each other at the fader bank, a feature that can be disorienting for persons having to make a hardware patch change. 
+
+On the other hand, many digital mixers allow for extremely easy building of a mix from saved data. [[USB flash drive]]s and other storage methods are employed to bring past performance data to a new venue in highly portable manner. At the new venue, the traveling mix technician simply plugs the collected data into the venue's digital mixer and quickly makes small adjustments to the local input and output patch layout, allowing for full show readiness in very short order. 
+
+Some digital mixers allow offline editing of the mix, a feature that lets the traveling technician use a laptop to make anticipated changes to the show while ''en route'', further shortening the time it takes for the sound system to be ready for the artist.
+
+===Sound quality===
+Both digital and analog mixers rely on analog mic preamps, a high-gain circuit that is the origin of much of the perceived character of sound quality in an audio mixer. In this respect, both formats are on par with each other. In a digital mixer, the mic preamp is followed by an [[Analog-to-digital converter|ADC]] which quantizes the audio stream. Ideally, this process is carefully engineered to deal gracefully with overloading and clipping while delivering an accurate digital stream over the linear dynamic range. Further processing and mixing of digital streams within a mixer need to avoid clipping and truncation if maximum audio quality is desired. 
+
+Analog mixers, too, must deal gracefully with overloading and clipping at the mic preamp and as well as avoiding overloading of mix buses. Background hiss in an analog mixer is always present, though good gain stage management minimizes its audibility. Idle subgroups left "up" in a mix will add their background hiss to the main outputs; many digital mixers avoid this problem by low-level gating.
+
+Many electronic design elements combine to affect perceived sound quality, making the global "analog mixer vs. digital mixer" question difficult to answer. Controlled [[ABX test|ABX double-blind]] listening tests haven't been published at this date; no conclusive answer can be reached. Experienced live sound professionals agree that microphones and loudspeakers (with their innate higher distortion levels) are a much greater source of coloration of sound than the choice of mixer. The mix style of the person mixing is also more important than the make and model of audio console. Analog and digital mixers both have been associated with extremely high-quality concert performances and studio recordings.
+
+===Remote control===
+Analog mixing in live sound has had the option since the 1990s of using wired remote controls for certain digital processes such as monitor wedge equalization and parameter changes in outboard reverb devices. That concept has expanded until wired and wireless remote controls are being seen in relation to entire digital mixing platforms. It's possible to set up a sound system and mix via wireless (or wired) laptop, touchscreen or tablet, especially if the performance requires no unpredictable fast responses to multiple changing conditions on stage. [[Computer network]]s can connect digital system elements for expanded monitoring and control, allowing the system technician to make adjustments to distant devices during the performance. The use of remote control technology can be utilized to reduce "seat-kills", allowing more paying customers into the performance space.
+
+===Virtual mixing===
+Increasingly, the mixing process can be performed on screen, using computer software and associated input, output and recording hardware. The traditional large control surface of the mixing console is not utilized, saving space at the engineer's mix position. Some virtual mixing (such as the Gamble DCX<ref>[http://www.gambleboards.com/Article.htm Gamble, Jim. ''Designer's Notebook: Four Decades of Evolution. The Yield is a Digitally-Controlled Analog Console.'' Live Sound Magazine, March/April 2001.]</ref>) uses digital controls of analog audio circuitry, but most virtual mixers are fully digital so as to save cost and physical space. In the virtual studio, there is either no normal mixer fader bank at all or there is a compact group of motorized faders designed to fit into a small space and connected to the computer via USB or Firewire. Many project studios use such a space-efficient solution, as the mixing room at other times can serve as business office, media archival, etc.
+
+==Applications==
+[[Image:BehringerEuroRackUB1002FX.jpg|thumb|330px|A Behringer EuroRack UB1002FX in a DJ setup]]
+[[Dub music|Dub]] producers/engineers such as Lee 'Scratch' Perry were perhaps the first musicians to use a mixing board as a [[musical instrument]].
+
+Public address systems will use a mixing console to set microphones for different speakers to the correct level, and can add in recorded sounds into the mix.  A major requirement is to minimise audio feedback.
+
+Most bands will use a mixing console to combine musical instruments and vocals to the correct level.
+
+Radio broadcasts use a mixing desk to select audio from different sources, such as CD players, telephones, remote feeds, or prerecorded advertisements.
+
+== Mixing console manufacturers ==
+
+<!--URL FOR CURRENT REDLINKS ONLY, BLUELINKS HAVE IT ALREADY-->
+* [[ADT-Audio]] [http://www.adt-audio.com/]
+* [[Alesis]] [http://www.alesis.com/]
+* [[Alice Soundtech]] [http://www.alice.co.uk]
+* [[Allen & Heath]]
+* [[Altair E-3]] [http://www.altairconsoles.com]
+* [[Amek]] [http://www.amek.com]
+* [[AMS Neve]]
+* [[Audient]] [http://www.audient.co.uk]
+* [[Automated Processes Inc]] [http://www.apiaudio.com]
+* [[Audio Toys Inc]] [http://www.audiotoys.com]
+* [[Behringer]]
+* [[Bushnell Electronics]]
+* [[Cadac]] [http://www.cadac-sound.com]
+* [[Calrec]] [http://www.calrec.com]
+* [[Carvin A&I]]
+* [[Ciclotron]] [http://www.ciclotron.com.br]
+* [[Crest Audio]] [http://www.crestaudio.com]
+* [[D&R]] [http://www.d-r.nl]
+* [[DDA Consoles]] [http://www.ddaconsoles.com]
+* [[DHD (audio)]] [http://www.dhd-audio.com]
+* [[DiGiCo]] [http://www.digico.org]
+* [[Digidesign]] [http://www.digidesign.com]
+* [[Dynacord]] [http://www.dynacord.com]
+* [[Elberg]] [http://www.elberg-elt.dk/english]
+* [[Euphonix]][http://www.Euphonix.com]
+* [[EAW]][http://www.eaw.com]
+* [[Fairlight]]
+* [[Daniel Flickinger]]
+* [[Harris Corporation]]
+* [[Harrison Audio Consoles]] [http://www.harrisonconsoles.com]
+* [[Helios]]
+* [[InnovaSON]] [http://www.innovason.com]
+* [[Inter-M]] [http://www.inter-m.com]
+* [[Jim Gamble Associates]]  [http://www.gambleboards.com/]
+* [[Klotz Digital]]  [http://www.klotzdigital.com]
+* [[Lawo]] [http://www.lawo.de]
+* [[Logitek]] [http://www.logitekaudio.com/]
+* [[Mackie]]
+* [[MCI (audio)|MCI]]
+* [[Merging Technologies]]  [http://www.merging.com]
+* [[Midas Consoles]]  [http://www.midasconsoles.com]
+* [[Neotek]]
+* [[Peavey]]
+* [[Phonic Corporation]]
+* [[Pioneer Corporation]] [http://www.pioneer.com]
+* [[Quad Eight Electronics]]
+* [[Radio Systems]] [http://www.radiosystems.com]
+* [[Rane Corporation]]
+* [[Renegade Labs]] [http://www.renegadelabs.com]
+* [[Roland Corporation]] [http://www.rolandus.com]
+* [[Salzbrenner Stagetec]] [http://www.stagetec.com/] [http://www.stagetec.com/salzbrenner_de/]
+* [[Samick]]
+* [[Samson Technologies]]
+* [[Shure]]
+* [[SignVideo]] [http://www.signvideo.com/]
+* [[Smart AV]]  [http://www.smartav.net]
+* [[Solid State Logic]] [http://www.solidstatelogic.com/]
+* [[Soundcraft]] [http://www.soundcraft.com/]
+* [[Soundtracs]] [http://www.studiosystems.co.uk/soundtracs/]
+* [[Stage-tec]][http://www.stagetec.com]
+* [[Staner]] [http://www.staner.com.br]
+* [[Studer]][http://www.studer.ch]
+* [[Studiomaster]][http://www.studiomaster.com]
+* [[Tapco]]
+* [[Tascam]]
+* [[Toft Audio Designs]] [http://www.toftaudiodesigns.com/]
+* [[Wheatstone Corporation]] [http://www.wheatstone.com]
+* [http://www.wharfedalepro.com Wharfedale Pro]
+* [[Yamaha Corporation]]
+
+==References==
+<references/>
+
+
+== External links ==
+
+* [http://entertainment.howstuffworks.com/band-equipment5.htm ''How band equipment works'']
+* [http://music.concordia.ca/Programs/Electroacoustics/mixer/Mixer_Terms.html Glossary of mixer terms]
+* [http://www.musicianstechcentral.com/mixer.html Mixer how-to]
+* [http://3345.com.au/cyclopedia/lev2_learningtoDJ.htm Mixing and Learning to DJ]
+* [http://www.custom-consoles.com/studio-furniture-gallery.php Mixing Console Furniture Gallery]
