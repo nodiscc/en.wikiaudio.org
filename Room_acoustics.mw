@@ -1,0 +1,9 @@
+
+'''Room acoustics''' describes how sound behaves in an enclosed space.
+
+The way that sound behaves in a room can be broken up into roughly four different frequency zones:
+
+* The first zone is below the frequency that has a wavelength of twice the longest length of the room. In this zone sound behaves very much like changes in static air pressure.
+* Above that zone, until the frequency is approximately 11,250(RT60/V)1/2, wavelengths are comparable to the dimensions of the room, and so room resonances dominate.
+* The third region which extends approximately 2 octaves is a transition to the fourth zone.
+* In the fourth zone, sounds behave like rays of light bouncing around the room.
