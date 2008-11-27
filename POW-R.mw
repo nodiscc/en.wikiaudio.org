@@ -1,0 +1,15 @@
+'''POW-R''' (Psychoacoustically Optimized Wordlength Reduction) is a dithering algorithm developed by the consortium of Lake Technology (Dolby Labs), Weiss Engineering, Millennia Media and Z-Systems. This mathematical algorithm reduces longer digital audio word lengths (20, 24, 32 bits) to industry standard CD-quality 16 bits while retaining a high degree of perceived dynamic efficiency and very low noise. POW-R is a scalable algorithm, meaning it is dynamically optimized and ready for all sample rates from 16 kHz to 192 kHz, or higher.
+
+POW-R is compact and designed for portability. The algorithms operate optimally in both DSP and native software in digital audio workstation applications. POW-R is technically not noise shaping. Rather, the original POW-R algorithm is based on narrow-band Nyquist dither and is free from artifacts, such as "birdies" and "motorboating", present in other Nyquist-band WLR techniques. With POW-R, look-up tables are avoided and all audio program is dynamically decorrelated from Nyquist-band dither. To better target all audio sources, non-narrow-band techniques are also offered in the POW-R algorithm set.
+
+
+== POW-R algorithms ==
+
+
+POW-R users are offered a choice of two or three POW-R algorithms from which to select:
+
+* POW-R #1: optimized for simple program of average dynamic range, such as spoken word.
+* POW-R #2: optimized for low dynamic range program, such as rock music.
+* POW-R #3: optimized for complex, high dynamic range program, such as orchestral music.
+
+The POW-R Consortium, LLC is an autonomous, non-competitive entity established for the sole purpose of maintaining and supporting the POW-R Algorithms. POW-R is a registered trademark of the POW-R Consortium, LLC (John La Grou, Chairman). POW-R is licensed to Apple Computer, Avid-Digidesign, SADiE, Sonic Studio, BIAS, Cakewalk Sonar, Merging Technologies, Ableton, Magix / Sequoia / Samplitude, and others.
