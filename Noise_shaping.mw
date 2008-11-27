@@ -1,0 +1,4 @@
+
+Similar to [[dither]], noise shaping is a bit reduction technique used to minimize quantization error. Noise shaping is used in many areas of digital signal processing, including digital audio and digital video.
+
+Dither effectively reduces quantization error by adding noise prior to the quantization process. See the dither page for a more complete explanation of how this works. One concern about dither is that it adds white noise (sometimes colored noise) to the signal, inserting a noise floor at a fixed level below full scale (roughly 6 dB per bit). In situations wherein the receptor (in the case of digital audio, the human ear) is more sensitive to some frequencies than others, noise shaping can be used to "re-shape" the frequency contour of the noise.
