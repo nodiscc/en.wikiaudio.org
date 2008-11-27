@@ -1,0 +1,11 @@
+
+
+
+
+'''Open Media Framework''' (OMF) or Open Media Framework Interchange (OMFI)  is a standard multi-track audio format, intended for transfer of digital media between different DAW, or Digital Audio Workstations.
+The OMF format can store multiple tracks, volume and pan information, and references to audio files; however, other settings such as insertion effects and channel routing options cannot be saved in an OMF file.
+
+Example: if you export a protools session as an OMF file you can import the session into another DAW such as logic and the time relationships between the audio files will be the same for playback and editing.
+
+
+{{template:stub}}
