@@ -1,0 +1,4 @@
+
+'''Toroidal inductors and transformers''' are electronic components, typically consisting of a circular ring-shaped magnetic core of iron powder, ferrite, or other material around which wire is coiled to make an inductor. Toroidal coils are used in a broad range of applications, such as high-frequency coils and transformers. Toroidal inductors can have higher Q factors and higher inductance than similarly constructed solenoid coils. This is due largely to the smaller number of turns required when the core provides a closed magnetic path. The magnetic flux in a toroid is largely confined to the core, preventing its energy from being absorbed by nearby objects, making toroidal cores essentially self-shielding.
+
+In the geometry of torus-shaped magnetic fields, the poloidal flux direction threads the "donut hole" in the center of the torus, while the toroidal flux direction is parallel the core of the torus.
