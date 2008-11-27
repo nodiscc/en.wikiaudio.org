@@ -1,0 +1,3 @@
+With dynamic compression '''knee''' refers to the shape of the curve at or around the threshold.
+'''Hard Knee''' means the curve is sharp, providing near-instantaneous compression above the threshold.
+'''Soft Knee''' means the curve is rounded, and the onset of the compression around given threshold is more gradual resulting in a more subtle and less percievable sound.
