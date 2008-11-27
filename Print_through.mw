@@ -1,0 +1,8 @@
+
+'''Print-through''' (sometimes referred to as bleed-through) is a generally undesirable effect that arises in the use of magnetic tape for storing analogue information, in particular music.
+
+The proximity of layers of tape on the spools of a cassette or reel to reel tape causes a weak imprint of magnetic information to be transferred to adjacent layers, effectively shifting a copy of the signal backwards and forwards along the tape. This can sometimes be heard as pre- or post-echo. Thinner tapes (designed for longer running times, since more tape can be held on the same spool) are more prone to the effect than thicker tapes, and tapes held in storage for a long period or exposed to a weak magnetic field can show pronounced print-through. Digital tapes are not affected in the same manner as the imprint is generally too weak to change the state of bits recorded on adjacent layers of the tape.
+
+Print-through on a silent section of analogue tape can sometimes be corrected digitally by replacing it with a 'clone' of a silent passage without print-through. It is usually necessary to take the cloned section from the same tape in order to preserve the original ambience.
+
+Print-through is actually used deliberately to mass-record prerecorded audio cassettes. In the duplicator, an endless loop of the source tape is forced into close contact with blank tape and run across a "print-through head" in which a weak AC high frequency sinewave is used to transfer the information to the blank tape without erasing the source tape. This permits the tapes to be run at very high speed, speeding up production. However, audio quality using this method is not as good as when the signal is directly recorded onto the tape.
