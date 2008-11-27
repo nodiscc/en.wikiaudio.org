@@ -1,0 +1,4 @@
+'''Tape bias''' is the term for two phenomena, DC bias and AC bias, that improve the fidelity of analogue magnetic tape sound recordings. DC bias is the addition of a direct current to the audio signal that is being recorded. AC bias is the addition of an inaudible high-frequency signal (generally from 40 to 150 kHz) to the audio signal. Magnetic tape has a nonlinear response at low signal strengths, as measured by its coercivity. Bias increases the signal quality of most audio recordings significantly by pushing the signal into the linear zone of the tape's transfer function. 
+
+
+{{template:stub}}
