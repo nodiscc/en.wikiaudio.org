@@ -1,0 +1,10 @@
+
+'''Temporal masking''' or "non-simultaneous masking" occurs when a sudden stimulus sound makes inaudible other sounds which are present immediately preceding or following the stimulus. Masking that obscures a sound immediately preceding the masker is called backward masking or pre-masking and masking that obscures a sound immediately following the masker is called forward masking or post-masking. Temporal masking's effectiveness attenuates exponentially from the onset and offset of the masker, with the onset attenuation lasting approximately 20 ms and the offset attenuation lasting approximately 100 ms.
+
+Similar to simultaneous masking, temporal masking reveals the frequency analysis performed by the auditory system; forward masking thresholds for complex harmonic tones (e.g., a sawtooth probe with a fundamental frequency of 500 Hz) exhibit threshold peaks (i.e., high masking levels) for frequency bands centered on the first several harmonics. In fact, auditory bandwidths measured from forward masking thresholds are narrower and more accurate than those measured using simultaneous masking.
+
+Temporal masking should not be confused with the ear's acoustic reflex, an involuntary response in the middle ear that is activated to protect the ear's delicate structures from loud sounds.
+
+
+
+{{template:stub}}
