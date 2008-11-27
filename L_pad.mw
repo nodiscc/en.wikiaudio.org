@@ -1,0 +1,41 @@
+An '''L pad''' (meaning Loss or Losser Pads) is a special configuration of [[potentiometer|rheostat]]s used to control the volume of a [[loudspeaker]] while maintaining a constant load [[Electrical impedance|impedance]] on the output of the [[audio amplifier]].
+
+This constant-impedance load was important in the days of [[vacuum tube]] [[power amplifier]]s because such amplifiers often did not work efficiently when terminated into an impedance greatly different than their specified output impedance. Maintaining constant impedance is less important to modern amplifiers using [[Solid state (electronics)|solid state electronics]], so L pads are rarely seen today.
+
+== Audio Frequency (AF) Operation ==
+
+The L pad does this by having two separate rheostats connected in an "L' configuration (hence the name). One rheostat is connected in series with the loudspeaker and, as the [[Electrical resistance|resistance]] of this rheostat increases, less power is coupled into the loudspeaker and the [[loudness]] of sound produced by the loudspeaker decreases. The second rheostat is connected between the input and ground (earth). As the first rheostat increases in resistance, the second rheostat decreases in resistance, keeping the load impedance (presented at the input of the L pad) constant. The second rheostat usually has a special ''taper'' (function of resistance versus rotation) to accommodate the need for constant input impedance.
+
+== Radio Frequency (RF) Operation ==
+
+In RF (radio frequency) applications, the L-network is the basis of many common impedance matching circuits, such as the pi-network employed in amplifiers and the T-network that is common in transmatches.
+
+The L-network relies on a procedure known as [[Series circuit| series]]-[[Parallel circuit|parallel]] transformation. For every series combination of resistance, R<sub>S</sub>, and [[Reactance (electronics)|reactance]], X<sub>S</sub>, there exists a parallel combination of R<sub>P</sub> and X<sub>P</sub> that acts identically to the voltage applied across the series combination. In other words, the series components and the parallel components provide the same impedance at their terminals.  The transformation ratio is the ratio of the input and output impedances of the impedance matching network.
+
+The series-parallel transformation allows the input impedance to be dropped down to lower impedances while sustaining a voltage across the circuit.  This system works in reverse as well.  The equations needed for this transformation are as follows:
+
+Q = X<sub>S</sub>/R<sub>S</sub>= R<sub>P</sub>/X<sub>P </sub>= [(R<sub>p</sub>/R<sub>s</sub>)-1    ]^0.5                   [1]
+
+R<sub>P
+</sub>= R<sub>S </sub>(Q<sup>2 </sup>+ 1) and R<sub>S </sub>= R<sub>P </sub>/
+(Q<sup>2 </sup>+ 1)                        [2]
+
+X<sub>S </sub>= QR<sub>S </sub>and X<sub>P </sub>= R<sub>P </sub>/ Q                                            [3]
+
+For the resistance R<sub>s</sub> and reactance X<sub>s</sub> in series, R<sub>p</sub> and X<sub>p</sub> exist as a parallel combination. One simply needs to know the input impedance R<sub>p</sub> and to choose the output impedance R<sub>s</sub>. Or conversely know R<sub>s</sub> and choose R<sub>p</sub>.  Keep in mind that R<sub>p</sub> must be larger than R<sub>s</sub>. Because reactance is frequency dependent the L-network will only transform the impedances at one frequency. 
+
+Inclusion of two L-networks back to back creates what is known as a T-network. T-networks work well for matching an even greater range of impedances.
+
+== Application notes ==
+
+L pads are designed to match the impedance of the speaker, so they were commonly available with 4, 8, and 16 [[ohm|Ω]] impedances.
+
+== References ==
+
+Silver, H. Ward, Experiment #21: The L-Network (Hands-On Radio), QST, Oct. 2004, pp. 62-63
+
+==External links==
+
+All About Pads <http://www.uneeda-audio.com/pads/><br />
+L-Pads <http://www.bcae1.com/lpad.htm><br />
+Weber L-Pad Design <http://www.webervst.com/lpad.htm>
