@@ -1,0 +1,1 @@
+'''Impedance matching''' is the practice of attempting to make the output impedance of a source equal to the input impedance of the load to which it is ultimately connected, usually in order to maximize the power transfer and minimize reflections from the load. This only applies when both are linear devices.
