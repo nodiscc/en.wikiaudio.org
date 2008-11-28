@@ -1,0 +1,38 @@
+In [[audio engineering]], '''joint''' refers to a joining of several channels of similar information in order to obtain higher quality or smaller file size.
+
+==Joint stereo==
+The term '''joint stereo''' has become prominent as the [[Internet]] has allowed for the transfer of relatively low [[bit rate]], acceptable-quality audio with modest Internet access speeds. Joint stereo refers to any number of encoding techniques used for this purpose. Two forms are described here, both of which are implemented in various ways with different [[codec]]s, such as [[MP3]], [[Advanced Audio Coding|AAC]] and [[Ogg Vorbis]].<ref>[http://harmsy.freeuk.com/mostync Joint Stereo: The Myths ... and The Realities<!-- Bot generated title -->]</ref>
+
+===Intensity stereo coding===
+This form of joint stereo uses a technique known as '''joint frequency encoding''', which functions on the principle of [[sound localization]]. Human hearing is predominantly less acute at perceiving the direction of certain audio frequencies. By exploiting this 'limitation', intensity stereo coding can reduce the data rate of an audio stream with little or no perceived change in apparent quality. 
+
+More specifically, the dominance of ''inter-aural time differences (ITD)'' for sound localization by humans is only given for lower frequencies. That leaves ''inter-aural amplitude differences (IAD)'' as the dominant location indicator for higher frequencies. The idea of ''intensity stereo coding'' is to merge the upper spectrum into just one channel (thus reducing overall differences between channels) and to transmit a little side information about how to [[Panning (audio)|pan]] certain frequency regions to recover the ''IAD'' cues. 
+
+This type of coding does not perfectly reconstruct the original audio because of the loss of information which results in the simplification of the stereo image. It can produce unwanted [[compression artifacts|artifacts]] that affect this image to a perceivable extent. However, for very low bitrates this tool usually provides a gain of perceived quality. 
+
+It is supported by many audio compression formats (including [[MP3]], [[Advanced Audio Coding|AAC]] and [[Vorbis]]) but not always by every [[encoder]].
+
+===M/S stereo coding===
+M/S stereo coding transforms the left and right channels into a mid channel and a side channel, hence the name. The mid channel is the sum of the left and right channels, or L + R. The side channel is the difference of the left and right channels, i.e., L − R. Unlike intensity stereo coding, M/S coding is a special case of transform coding, and retains the audio perfectly without introducing artifacts. Lossless codecs such as FLAC or Monkey's Audio use M/S stereo coding because of this. Note however that when used in conjunction with a lossy form of compression, artifacts can become apparent.
+
+This kind of coding is also sometimes known as matrix stereo, and is utilized in many different forms of audio processing and recording equipment. It is therefore not limited to digital systems, and can even be created with passive audio transformers or analog amplifiers.
+
+
+One example of the use of M/S stereo is in FM stereo broadcasting, where L + R modulates the carrier wave and L − R modulates a subcarrier.
+
+==Joint frequency encoding==
+'''Joint frequency encoding''' is an [[encoder|encoding]] technique used in [[audio data compression]] to reduce the [[data rate]].
+
+The idea is to merge a given frequency range of multiple sound channels together so that the resulting encoding will preserve the sound information of that range not as a bundle of separate channels but as one [[wiktionary:Homogenous|homogenous]] data stream. This will naturally destroy the original channel separation for good, as the information cannot be accurately reconstructed, but this process will greatly lessen the amount of required storage space. It should be noted that only some forms of joint stereo use the joint frequency encoding technique, such as intensity stereo coding.
+
+==Implementations==
+When used within the MP3 compression process, joint stereo normally employs multiple techniques and 
+can switch between them for each MPEG frame, including simple L/R stereo.
+With some encoding software it is possible to force the use of joint stereo without ever using L/R stereo.  Within the [[LAME]] encoder, this is known as forced joint-stereo.
+
+==External links==
+*[http://dafx04.na.infn.it/ DAFx'04 7th International Conference of Digital Audio Effects] Paper 157
+*[http://harmsy.freeuk.com/mostync Joint Stereo: The Myths and The Realities]
+
+==References==
+<references/>
