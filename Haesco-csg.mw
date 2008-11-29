@@ -1,0 +1,19 @@
+[[Image:HAECOCSG.JPG|The HAECO-CSG Generator.]]
+
+The '''HAECO-CSG''' or ''Holzer Audio Engineering-Compatible Stereo Generator'' system was an analog electronic device and method developed by [[Howard Holzer]], Chief Engineer at [[A&M Records]] in Hollywood.  His company, [[Holzer Audio Engineering]], developed the system in the 1960's, during the years of transition from [[monaural]] to [[stereophonic sound|stereophonic]] popular music recording.
+
+The reason for the process was the [[stereophonic]]/[[monophonic]] compatibility issue:  the lead vocals and instruments, appearing in both the left and right channels of a stereophonic mix, would often sound too loud to the mix producers when they heard them playing back on monaural [[AM radio]] stations and [[record player]]s, because when the left and right channels were added together, the lead vocals or instruments, being equal in level on both channels, would add up to be 3 [[decibel]]s louder than the mix in Stereo. 
+
+The idea beind HAECO-CSG was to create stereophonic records that when played on monaural equipment and radio stations, would "fold-down" to monaural properly.
+
+The system worked by actually taking the right audio channel and shifting it electrically 90 degrees out-of-phase with the left channel, so that when played back in mono, the mono mix would cancel out the center instruments and singers by the corresponding 3 decibels. 
+
+Unfortunately, the system also "blurred" the focus of the lead vocals and instruments panned to the center, making [[headphone]] listening particularly un-natural sounding, as the lead vocalist or performer's audio waveform would be attempting to partially cancel itself inside the listener's head, confusing the brain's audio positioning sense.
+
+Of special note is that the system did not employ a delay; instead, it electrically rotated the phase of the waveform amplitude by 90 degrees, treating all frequencies equally.
+
+Many A&M releases during the period (most Sergio Mendes and Brasil '66, [[Herb Alpert and the Tijuana Brass]], for example) were released with this audio process.  Other labels soon followed suit, and an estimated 10% of all stereophonic albums released during the late 1960's and early 1970's employed the system.
+
+The system was applied at the master tape mix session; therefore many [[Compact Disc]]s of those albums still are "encoded" with the system, causing a "blurring" effect, even on modern digital players.  
+
+The system can be removed in a re-mastering session by digitally re-rotating the right channel back 90 degrees.  Specialty remastering services such as [[Penteo]] specialize in performing this process.  The automatic phase-correction tools in programs such as Adobe Audition are unable to properly detect this system and are unable to remove the system's encoding on their own.
