@@ -1,0 +1,74 @@
+'''Euphonix''' is a pioneering professional audio company located in Palo Alto, California, United States. Euphonix produced the first successful line of large digitally-controlled analog audio mixing consoles in the late 1980s and has since moved on to all-digital systems.
+
+== History ==
+=== Founding through IPO  ===
+
+The Euphonix approach to using digital logic to control multiple analog signal chains stems from original ideas by Scott Silfvast. By day employed at [[Stanford Research Systems]] (SRS), by night he developed the preliminary concepts for what would become Euphonix's first product, the Crescendo. Mechanical designer Adam Reif, also an SRS employee, joined Scott in 1988 to start Euphonix in a garage in Palo Alto behind Scott's residence. At the same time, younger brother Rob Silfvast designed the Crescendo's 4-band parametric equalizer, one of its hallmark technologies. Shortly thereafter, Andrew Kalman (who had also worked at SRS with Scott and Adam) and his [[Stanford University]] roommate Russ Kadota joined the team to develop the firmware and software, respectively, for the Crescendo. 
+
+Initially, Euphonix was privately financed. Many early investors were the friends and families of the employees. As payrol and burn rate grew, private investing was secured. Industry veterans were hired as the company outgrew the garage and moved into a larger building under the same roof as Fry's Electronics in Palo Alto.
+
+=== The Euphonix name ===
+
+While still at SRS Scott considered various names for the future company, and was particularly partial to the word "euphonic" meaning "of pleasing sound". Eventually the name "Euphonix" was adopted. In 2004 Euphonix [http://firstgovsearch.gov/search?v%3aproject=firstgov&v%3afile=viv_584%4019%3aHHJm0A&v%3astate=root%7croot&opener=full-window&url=http%3a%2f%2fwww.uspto.gov%2fweb%2foffices%2fcom%2fsol%2ffoia%2fttab%2f2dissues%2f2004%2f78059702.pdf&rid=Ndoc0&v%3aframe=redirect&rsource=firstgov-msn&v%3astate=%28root%29%7croot&rrank=0& prevailed] in a trademark dispute with Euphonic Audio, Inc over its trademark "Euphonix".
+
+=== IPO ===
+
+Euphonix went public on the NASDAQ (EUPH) in 1995. Like many other Silicon Valley companies its stock declined over the next few years and it was subsequently delisted.
+
+=== Today ===
+
+Euphonix customer Yello's Dieter Meier eventually acquired a controlling interest in the company and then took it private. It continues today as a premier supplier of audio electronics to a variety of industries.
+
+== Impact on the Recording Industry ==
+
+Euphonix's entry into the professional audio market brought with it technology that significantly improved the working methods and economics of producing music and audio-for-film/TV. Euphonix's all-new designs won many industry awards. System integration was always an important aspect of the Euphonix product lineup.
+
+== Mixing consoles ==
+=== The Crescendo Digitally-Controlled Analog Audio Mixing Console ===
+
+The Crescendo's architecture was highly unconventional for its time. A system was comprised of a Mix Controller (roughly the size of a kitchen table), the (analog) Audio Mainframe, a single multi-pair control cable between them, the Support Computer (with color monitor) connected to the Mix Controller via RS-232, and an external patch bay with up to 8 Elco multi-pair cables to the Audio Mainframe. With the exception of the talkback microphone in the Mix Controller, all audio passed in and out of the Audio Mainframe. 
+
+==== The Mix Controller ====
+
+The Mix Controller was a collection of a Master and one or more I/O modules held in a custom frame. The modules could be arranged in any order in the frame. Each I/O module serviced four channels of audio. Each channel included a stereo LED bargraph meter, an output section, two microphone preamps, four auxiliary bus controls and two independent stereo faders per channel via 8 rotary potentiometers, 2 linear faders and 15 pushbutton switches. 
+
+There was no audio signal in an I/O module -- rather, each I/O module had a single 4&nbsp;MHz Z80 microprocessor that was responsible for converting user input (switches, knobs, faders) on four channels to control signals for the audio tower, and for returning sample level information for display on the meters and overload information for clipping indicators. The Master module (also powered by a single 4&nbsp;MHz Z80) handled the master faders, the talkback system, additional meters, etc. and also included a jog wheel and dot-matrix alphanumeric display for configuring the system. Since most controls (e.g. the changing of the gain of a selected EQ) could be performed with the jog wheel and alphanumeric display and were shown in real time on the Support Computer's display, a mix engineer could do most of his/her work from a central location at the Mix Controller while remaining in the audio "sweet spot" for monitoring purposes, etc. This was in stark contrast to the conventional mixing consoles of the time, where a particular EQ had to be adjusted via the associated knobs in that particular channel strip, which might be located a considerable distance from the sweet spot. A third Z80-based processor board -- the MPU -- resided inside the Master module and was responsible for system booting and initialization, system management, inter-module communication and communication with an external PC. 
+
+A modular, multi-processor-based approach was required in order to meet one of the Crescendo's initial goals -- complete reconfiguration of the entire console (regardless of size) in an SMPTE frame, i.e. in 1/30s.  This was achieved by having a single processor dedicated every four I/O channels, independent of the size of the console. All of the processors in the I/O and Master modules ran in parallel and communicated with the MPU via a shared memory scheme. The MPU module controlled access to the shared memory via a bus-address-based time sharing scheme with handshaking. Each I/O and Master module used the same basic memory paging architecture -- the lower 32KB were mapped to a 2KB boot EPROM and a 32KB SRAM, and the upper 32KB could be mapped under local control to one of eight 32KB SRAMs. SRAM pages 0 through 6 were located in the module itself, but the 32KB SRAM for page 7 (the so-called Bulletin Board RAM) was located remotely in the MPU module. The system's Z80 address and data busses ran the length of the console's internal bus, which could be in excess of 9 feet (3 m) long in larger configurations. Address and data lines in each I/O and Master module were of course required for such a long bus. The memory architecture of the MPU module differed slightly from the I/O and Master modules by utilizing EPROMS in pages 1 through 6 to store the firmware for each of the three module types. RAM pages 1 through 6 in the Master and I/O modules were ultimately used for runtime automation. Though the clock signal was shared across multiple modules, each module ran independently and unsynchronized, only to re-synchronize at the end of each SMPTE frame. The Crescendo was coded entirely in Z80 assembly language, utilizing nearly all of the 64KB of program memory space available to each. 
+
+A typical (e.g. 24-channel) Crescendo Mix Controller was approximately 44" deep, 56" wide and 10" thick (need exact sizes), not counting its legs. The switching power supplies for the console (a 56-fader console had over 5,000 LEDs!) were housed within the console itself.
+
+==== The Audio Mainframe ====
+
+The Audio Mainframe was a small-refrigerator-sized tower containing all of the system's audio-controlling devices. Analog audio passed into each module in the Audio Mainframe, was processed in the analog domain, and then passed back out as analog audio. Most processing was done with multiplying Digital-to-Analog converters (MDACs) employed as variable gain / variable resistance elements, with analog switches, and with relays. Components used in the audio signal path included common logic still available today, as well as high-performance audio chips from companies like PMI, SSM, Analog Devices, Burr-Brown, National Semiconductor, Maxim Integrated Products, and others. An Audio Mainframe was populated with one Master audio module and up to 28 I/O audio modules. The Mix Controller's Master module controlled the Master audio module, and each of the Mix Controller's I/O modules controlled four I/O audio modules. Communication between the Mix Controller and the Audio Mainframe was via a 1 Mbit/s link for each module in the Mix Controller. Since the communications link between the Mix Controller and the Audio Mainframe was strictly a digital control interface without any audio signals, the Audio Mainframe could be positioned a large distance from the Mix Controller. This was very helpful from an acoustic standpoint, as the fans required to cool the Audio Mainframe were quite loud. Additionally, since the circuitry in the audio modules could be arranged completely independently of the constraints imposed by a conventional mixer's control surface, the Audio Module was able to achieve some of the best (analog) audio specifications ever seen in this type of product. The Audio Mainframe consumed around 2.5 kW in operation from its dedicated power supply.
+
+==== Evolution ====
+
+The first Cresendo system was delivered to Poolside Studios (now Outpost Studios) in San Francisco in 1990. The Crescendo morphed into the CSII, and eventually into the CS2000 & CS3000. Along the way it gained a faster (10 Mbit/s) interface to the Support Computer via the Z180-based APU module, became fully automated, acquired flat-panel displays and motorized faders, increased in size up to 102 channels via two Audio Mainframes and a larger Mix Controller frame, underwent many cosmetic and packaging improvements, and was expanded with external modules (e.g. the Cube and ES108 dynamics processors).
+
+==== Users ====
+Euphonix's analog consoles quickly found favor amongst musicians, composers, TV stations, post-production houses, opera houses, and other venues throughout the world. One notable early adopter is the film composer Hans Zimmer.
+==== End of Life ====
+
+Starting in 1999, the Crescendo/CSII/CS2000/CS3000 line was gradually phased out and replaced by Euphonix's System 5 all-digital console. Several hundred Crescendo/CSII/CS2000/CS3000 consoles are still in use today.
+
+=== The System 5 All-Digital Mixing Console ===
+System 5 is a high performance digital audio mixing system specifically designed for audio post-production and music applications. 
+
+System 5 has gone through a major evolutionary redesign including new surface modules, new DSP SuperCore, and the new EuCon Hybrid Option for adding DAW control from the System 5 surface.
+
+
+
+=== S5 Fusion ===
+
+=== The Max Air ===
+
+=== MC ===
+
+=== System 5-MC ===
+
+=== The Artist Series ===
+
+== External links ==
+*[http://www.euphonix.com Euphonix web site]
+*[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=8&f=G&l=50&co1=AND&d=PTXT&s1=euphonix&OS=euphonix&RS=euphonix Euphonix Patent 5,402,501 for the Crescendo/CSII/CS2000 architecture] - Note that the first two inventor names are misspelled
