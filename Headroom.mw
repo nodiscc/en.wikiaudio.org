@@ -1,0 +1,21 @@
+In a digital and analog [[sound reproduction|audio]] systems, '''headroom''' is the amount by which linear signal capabilities exceed actual signal level. In digital audio, headroom is defined as the amount that full scale (FS) exceeds the permitted maximum level (PML) in [[Decibel|dB]] (decibels). The [[EBU|European Broadcasting Union]] (EBU) specifies a PML of 9 dB below 0 [[dBFS]] (-9 dBFS), thus giving 9 dB of headroom. In analog audio, headroom can stand for low-level signal capabilities as well as for the amount of extra power reserve available within the power amplifiers that drive the loudspeakers.
+
+Alignment level is an 'anchor' point, a reference level which exists throughout the system or broadcast chain, though it may have different actual voltage levels at different points in the analog chain. Typically, nominal (alignment) level is 0 dB, corresponding to an analog sine wave voltage of +4 [[dBu]], corresponding to an RMS voltage of 1.23 V, or an amplitude of 1.74 V. In the digital realm, alignment level is −18 dBFS. An alternative EBU recommendation allows 24 dB of headroom, which might be used for 24-bit master recordings, where it is useful to allow more room for unexpected peaks during live recording.
+
+Failure to provide adequate headroom can bring about [[clipping (audio)|clipping]] of brief, higher-voltage transients. This was a common problem with CDs published in the late 1990s and early 2000s which often used heavy [[Audio level compression|level compression]], producing a constant level that lacked the sparkling dynamics provided by brief peaks from [[percussion]] sounds.
+
+[[Image:Lindos10.png|centre]]
+
+AL = analog level
+SPL = sound pressure level
+
+
+
+== External links ==
+*[http://www.ebu.ch/CMSimages/en/tec_text_r68-2000_tcm6-4669.pdf EBU Recommendation R68-2000]
+*[https://secure.aes.org/store/AccessableItems.cfm?action=Continue AES Preprint 4828 - Levels in Digital Audio Broadcasting by Neil Gilchrist (not free)]
+*[http://www.ebu.ch/CMSimages/en/tec_text_r117-2006_tcm6-42681.pdf EBU Recommendation R117-2006] (against [[loudness war]])
+*[http://www.irt.de/IRT/FuE/as/pdf/AES2002OnLevelling.pdf AES Convention Paper 5538 On Levelling and Loudness Problems at Broadcast Studios]
+*[http://www.ebu.ch/CMSimages/en/tec_doc_t3282_tcm6-10542.pdf EBU Tech 3282-E on EBU RDAT Tape Levels]
+*[http://www.ebu.ch/CMSimages/en/tec_text_r89-1997_tcm6-4703.pdf EBU R89-1997 on CD-R levels]
+*[http://www.aes.org/publications/standards/courtesy.cfm?ID=21 AES17-1998 (r2004): AES standard method for digital audio engineering -- Measurement of digital audio equipment]
