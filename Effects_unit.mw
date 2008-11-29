@@ -1,0 +1,63 @@
+'''Effects units''' are devices that affect the sound of an electric instrument or other audio source (such as recorded material) when plugged in to the electrical signal path the instrument or source sends.
+
+==Types of effects==
+
+
+=== Dynamics ===
+
+; '''[[Compressor]]''' : The [[gain]] of the amplifier is varied to reduce the [[dynamic range]] of the signal.
+; '''[[Tremolo]]''' : Tremolo produces a periodic variation in the amplitude (volume) of the note.  i.e. A sine wave applied as input to a voltage-controlled amplifier produces this effect.
+
+=== Tone ===
+
+; [[Overdrive (music)|'''Overdrive''']] and [[distortion]]: Distortion is when the signal is amplified past the limits of the amplifier, resulting in clipping. (see [[Fuzzbox]]) Overdrive is when you amplify the signal from the guitar beyond the limits of the main amplifier.
+; '''[[Wah-wah pedal]]''' : An effect that gives the instrument an almost vocal effect, familiar as the wah-wah pedal. Examples include: "White Room" by Cream, used by Eric Clapton. Also popular in funk and psychedelic rock, i.e. Jimi Hendrix and Pink Floyd.
+
+; '''[[Ring modulation]]''' : "Organic" effect that takes a "carrier frequency" and your guitar frequency, and outputs the sum and difference of the two pitches. Must be heard to be understood. 
+; '''[[Equalization|Equalizer]]''' : Adjusts the frequency response in a number of different bands of EQ. Variants include the parametric EQ  which instead of flatly boosting and cutting frequencies, curves the frequency response to include changes in adjacent frequencies. As well the paragraphic EQ, which combines the visual interface of the graphic EQ with the flexibility of the parametric EQ, giving each band its own adjustable Q.
+; '''Clean boost''' or any other "booster": Amplifies some aspect of the instrument's signal output. Generally used for preventing signal loss through long chains of effects units (pedals) and getting overdrive tones out of a tube amp. On stage, used for volume boosts for solos.
+; '''[[Talk box]]''' : A powered speaker that amplifies the guitar's output through a tube which is positioned next to a microphone. The effect is manipulated by vocal technique. Notable uses include Rufus's "Tell Me Something Good", Peter Frampton's "Show Me the Way", Aerosmith's Sweet Emotion and by Slash in many songs and solos. Also used in many Bon Jovi songs.
+
+=== Time-based ===
+
+; [[Delay (audio effect)|'''Delay''']] : First used by [[Les Paul]], e.g. ''I'm Forever Blowing Bubbles.'' (Modern digital delay units, the first of which was the Eventide Harmonizer, involve sound waves being converted from analog to digital signals, and clocked through large banks of RAM memory. Paul achieved time delay by stretching audiotape between two reel-to-reel tape decks spaced several feet apart.) The Edge of U2 is a notable user of this effect in his music. An obvious example of this is the song "Where the Streets Have No Name".
+; [[Echo (phenomenon)|'''Echo''']] : Uses short, effected delays to simulate an echo.
+; [[Reverberation|'''Reverb''']] : Simulates reverberation in stadiums, halls, other performance areas. Even actual surfaces, such as plate metal and metal springs, are sometimes simulated.
+; [[chorus effect|'''Chorus''']] : Splits the signal into a vibrato effect and a clean path. The output is the sum of these inputs. Creates a spacey sound, or if used subtly, a [[doubletracking|double-tracking]] effect.
+; [[Flanging]] : Uses very short variable delays to cause a changing comb filter effect. First notable uses were in "Itchycoo Park" by Small Faces, and "Sky Pilot" by The Animals. It is often said that flange sounds like air planes coming in for a landing or the swirling sound of water going down a drain. The flanger was a studio effect at first. Old tape reels have flanges in the reel. The effect was created by poking a drumstick in and out the flange in regular time. This created the sweeping effect.
+;[[Phase shifting]] (or phasing) : Modulates the phase of the signal. Popular during the 1970s; examples include the guitar from the ''Three's Company'' theme, and keyboard part of Paul Simon's "Slip-Slidin' Away". High phasing speeds produce an "underwater" effect, as used by  Jimi Hendrix in "1983... (A Merman I Should Turn to Be)".
+
+=== Frequency ===
+
+; [[Pitch shifter (audio processor)|'''Pitch shifter''']] : Also introduced by the Harmonizer which has a knob on the front to "change your pitch up." A notable example is the Digitech Whammy.
+
+; '''[[Vibrato]]''' : Vibrato refers to a variation in frequency of a note, for example as an opera singer holding one note for a long time will vary the frequency up and down.  A sine wave applied as input to a voltage-controlled oscillator produces this effect.<br>Guitarists often use the terms "vibrato" and "tremolo" inconsistently. A so-called ''vibrato unit'' in a guitar amplifier actually produces tremolo, while a ''tremolo arm'' on a guitar produces vibrato.  However, ''finger vibrato'' is genuine vibrato.
+
+=== Other specific effects ===
+
+; '''Defretter''' : It simulates a fretless guitar
+; '''Acoustic guitar simulator''' : Simulates an acoustic guitar.
+; '''Rotary speaker''': A [[Leslie speaker]] simulation effect. One particular effect of this type (the Uni-Vibe) was made famous by Jimi Hendrix.
+; '''Envelope Follower''' : Uses the signal amplitude envelope to control one or more effects.
+; '''Pickup simulation''' : Simulates either a [[single-coil]] pickup if the musician has a [[humbucker]] or vice-versa. 
+; '''Ambiance modelling''' : Creates an ambiance through an amalgam of effects.
+; '''Guitar amplifier modelling''' : Models instrument tone to imitate the tone produced by various amplifiers, especially to attain the [[valve sound]] with solid-state equipment.
+
+These types of effects are usually digital, and can therefore be found as features of effect processors such as the Boss ME series and Vox multieffects.
+
+=== Notable manufacturers ===
+
+* [[Behringer]]
+* [[Boss Corporation]]
+* [[DOD Electronics|DOD]]
+* [[Dunlop Manufacturing, Inc.|Jim Dunlop]]
+* [[Electro-Harmonix|Electro Harmonix]]
+* [[Korg]]
+* [[Lexicon]]
+* [[Line6]]
+* [[Roland]]
+* [[TC Electronic]]
+* [[Waves Audio]]
+* [[Vox (musical equipment)|Vox]]
+* [[Zoom (Audio Company)|Zoom]]
+* [[Zvex]]
