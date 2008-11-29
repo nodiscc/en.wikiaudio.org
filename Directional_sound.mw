@@ -1,0 +1,23 @@
+'''Directional Sound''' refers to the notion of using various devices to create fields of sound which spread less than most (small) traditional loudspeakers.  Several techniques are available to accomplish this, and each has its benefits and drawbacks.  Ultimately, choosing a directional sound device depends greatly on the environment in which it is deployed as well as the content that will be reproduced.  Keeping these factors in mind will yield the best results through any evaluation of directional sound technologies.
+
+Systems which guide evacuees during an emergency by the emission of pink noise to the exits are often also called "directional sound" systems.
+
+== Basic theory ==
+In all wave-producing sources, the directivity of any beam, at maximum, corresponds to the size of the source compared to the wavelengths it is generating.  The larger the source is compared to the wavelength of the sound waves, the more directional beam results.
+
+Sound waves have dimensions of inches to many feet, which roughly corresponds to the sizes of most loudspeaker systems.  At high frequencies, however, the wavelengths are quite short, which can result in a narrow distribution of sound from the tweeters in a conventional loudspeaker system.  By making the speaker larger, either through the use of a dome or speaker array, higher directivity can be obtained at lower frequencies.  
+
+The ultrasonic devices bypass this physics limitation somewhat, as they create a "virtual" loudspeaker (out of ultrasound) that is physically very large - but it is invisible, made of ultrasound.  For this reason, the resulting directivity of these devices is far higher than physically possible with any loudspeaker system.  However, they are reported to have limited low-frequency reproduction abilities.  See sound from ultrasound for more information.
+
+== Speaker arrays ==
+One method of creating directivity utilizes arrays of [[loudspeakers]], all driven together in-phase.  This creates a larger source size compared to wavelength, and the resulting sound field is narrowed compared to a single small speaker.  Large speaker arrays have been used in hundreds of arena sound systems, to mitigate noise that would ordinarily travel to adjoining neighborhoods, as well as other much smaller sized applications where some degree of directivity is helpful, such as museums and digital signage.
+
+
+
+Traditional speaker arrays can be fabricated in any shape or size, but a reduced physical dimension (relative to wavelength) will inherently sacrifice directivity in that dimension.  The larger the speaker array, the more directional, and the smaller the size of the speaker array, the less directional it is.  This is fundamental physics, and cannot be bypassed, even by using phased arrays or other signal processing methods.  This is because the directivity pattern of any wave source is the Fourier Transform of the source function <ref name="Steinberg">Steinberg, Principles of aperture and array system design: Including random and adaptive arrays, 1976</ref>.  Phased array design is, however, sometimes useful for beamsteering, or for sidelobe mitigation, but neither feature has become prominent in loudspeaker design.
+
+Acoustically, speaker arrays are essentially the same as [http://www.nths.net/academics/math/Connections/perception/ears.htm sound domes], which have also been available for decades; the size of the dome opening mimics the acoustic properties of a large speaker of the same width (or, equivalently, a large speaker array of the same width).  Domes, however, tend to be about half the weight of comparable speaker arrays (15 lbs vs. 37 lbs, per the manufacturer's websites).
+
+== References ==
+
+{{Reflist}}
