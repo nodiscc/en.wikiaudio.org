@@ -1,0 +1,18 @@
+
+
+An '''Exciter''' is an [[audio signal processing]] technique used to enhance a signal by dynamic [[equalization]], phase manipulation and harmonic synthesis of (usually) high frequency signals. Dynamic Equalization involves variation of the Equalizer characteristics in the time domain as a function of the input. Due to the varying nature, [[noise]] is reduced compared to static equalizers. [[Harmonic]] synthesis involves the creation of higher order harmonics from the [[fundamental frequency]] signals present in the recording. As noise usually decreases with the frequency band, the harmonics are derived from a purer frequency band resulting in clearer highs. Exciters are also used to synthesize harmonics of low frequency signals to simulate deep bass in smaller speakers.
+Originally made in valve ([[transistor]]) based equipment, they are now implemented as part of a [[digital signal processor]], often trying to emulate analogue Exciters.  Exciters are mostly found as plug-ins for sound editing software and in sound enhancement processors.
+
+==Uses==
+
+*Unlike traditional equalization, exciters have much better noise characteristics which make them highly useful in enhancing dull recordings.
+
+*Exciters are also used for restoring old recordings by adding lost spectral content
+
+*Exciters are increasingly implemented as an audio enhancement for hardware and software media players
+
+*Exciters can be useful for vinyl DJs to improve sound quality of the set.
+
+==External links==
+
+*[http://www.soundonsound.com/sos/1997_articles/may97/exciters.html Enhancers] article on Sound on Sound
