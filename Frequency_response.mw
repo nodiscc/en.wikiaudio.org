@@ -1,0 +1,28 @@
+'''Frequency response''' is the measure of any system's [[Frequency spectrum|spectrum]] response at the output to a signal of varying [[frequency]] (but constant amplitude) at its input. In the audible range it is usually referred to in connection with [[electronic amplifier]]s, [[microphone]]s and [[loudspeakers]]. Radio spectrum frequency response can refer to measurements of [[coaxial cable]]s, [[Category 6 cable|category cables]], [[video switcher]]s and [[wireless]] communications devices. Subsonic frequency response measurements can include [[earthquakes]] and [[electroencephalography]] (brain waves).
+
+[[Image:Butterworth response.png|thumb|300 px|Frequency response of a low pass filter with 6 dB per octave or 20 dB per decade]]
+
+The frequency response is typically characterized by the ''[[Amplitude|magnitude]]'' of the system's response, measured in [[decibel|dB]], and the ''[[Phase (waves)|phase]]'', measured in [[radians]], versus frequency.  The frequency response of a system can be measured by applying a ''test signal'', for example:
+ 
+*applying an impulse to the system and measuring its response (see [[impulse response]])
+*sweeping a constant-amplitude pure tone through the [[Bandwidth (signal processing)|bandwidth]] of interest and measuring the output level and phase shift relative to the input
+*applying a signal with a wide frequency spectrum (for example digitally-generated [[maximum length sequence]] noise, or analog filtered [[white noise]] equivalent, like [[pink noise]]), and calculating the impulse response by [[deconvolution]] of this input signal and the output signal of the system.
+
+These typical response measurements can be plotted in two ways: by plotting the magnitude and phase measurements to obtain a [[Bode plot]] or by plotting the imaginary part of the frequency response against the real part of the frequency response to obtain a [[Nyquist plot]].
+
+Once a frequency response has been measured (e.g., as an impulse response), providing the system is [[LTI system theory|linear and time-invariant]], its characteristic can be approximated with arbitrary accuracy by a [[digital filter]].  Similarly, if a system is demonstrated to have a poor frequency response, a digital or [[analog filter]] can be applied to the signals prior to their reproduction to compensate for these deficiencies. 
+
+Frequency response measurements can be used directly to quantify system performance and design control systems. However, frequency response analysis is not suggested if the system has slow dynamics.
+
+Frequency response curves are often used to indicate the accuracy of amplifiers and speakers for reproducing audio.  As an example, a [[high fidelity]] amplifier may be said to have a frequency response of 20 [[Hertz|Hz]] - 20,000 Hz ±1 [[decibel|dB]]. This means that the system amplifies all frequencies within that range within the limits quoted.  'Good frequency response' therefore does not guarantee a specific fidelity, but only indicates that a piece of equipment meets the basic frequency response requirements.
+
+"By measuring gain and phase over a range of frequencies, the [[full frequency response]] of the system can be plotted."<ref>Laubwald, Elke and Mark Readman, control-systems-principles.co.uk. "Frequency Response Analysis." [http://www.control-systems-principles.co.uk/whitepapers/frequency-response-analysis1.pdf]</ref>
+
+
+
+==References==
+*<references/>
+==External links==
+* University of Michigan: [http://www.engin.umich.edu/group/ctm/freq/freq.html Frequency Response Analysis and Design Tutorial]
+* Smith, Julius O. III: [http://ccrma.stanford.edu/~jos/filters/ Introduction to Digital Filters with Audio Applications] has a nice chapter on [http://ccrma.stanford.edu/~jos/filters/Frequency_Response_I.html Frequency Response]
+{{reflist}}
