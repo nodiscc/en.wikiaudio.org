@@ -1,0 +1,14 @@
+'''FFmpeg''' is a computer program that can record, convert and streaming media|stream digital audio and video in numerous formats.<ref>[http://ffmpeg.mplayerhq.hu/ffmpeg-doc.html FFmpeg Documentation<!-- Bot generated title -->]</ref>  FFmpeg is a command line tool that is composed of a collection of free software / open-source libraries.  It includes libavcodec, an audio/video codec library used by several other projects, and libavformat, an audio/video container mux and demux library. The name of the project comes from the MPEG video standards group, together with "FF" for "fast forward"<ref>[http://lists.mplayerhq.hu/pipermail/ffmpeg-devel/2006-February/007707.html | Bellard, Fabrice (18 February 2006). "FFmpeg naming and logo". FFmpeg developer mailing list. Mplayer website. Retrieved on 2007-03-29.] </ref>
+
+The project was started by Fabrice Bellard (using the pseudonym “Gerard Lantau”), and is now maintained by Michael Niedermayer.  Many FFmpeg developers are also part of the MPlayer project, and FFmpeg is hosted at the MPlayer project server.
+
+FFmpeg is developed under Linux, but it can be compiled under most operating systems, including Apple Inc. Mac OS X, Microsoft Windows and AmigaOS. There are no releases. Instead, FFmpeg developers recommend using the latest Subversion snapshot as development attempts to maintain a stable trunk.<ref> [http://ffmpeg.mplayerhq.hu/download.html | FFmpeg website] </ref> Released under the GNU Lesser General Public License or GNU General Public License (depending on which sub-libraries one would include), FFmpeg is free software.
+
+
+<references/>
+
+== External links ==
+
+* [http://ffmpeg.mplayerhq.hu/ FFmpeg homepage]
+* [http://linux.die.net/man/1/ffmpeg FFmpeg man page]
+* [http://ffmpeg.mplayerhq.hu/general.html#SEC3 list of supported formats]
