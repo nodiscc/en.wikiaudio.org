@@ -1,0 +1,8 @@
+In electronics, '''high impedance'''(also known as hi-Z, tri-stated, or floating) is the state of an output terminal which is not currently driven by the circuit. In digital circuits, it means that the signal is neither driven to a logical high nor low level - hence "tri-stated". Such a signal can be seen as an open circuit (or "floating" wire) because connecting it to a low impedance circuit will not affect that circuit; it will instead itself be pulled to the same voltage as the actively driven output. The combined input/output pins found on many ICs are actually tri-state capable outputs which have been internally connected to inputs. This is the basis for bus-systems in computers, among many other uses.
+
+In digital circuits, a wire at high impedance may sometimes have a voltage that is around, or even lower, than the threshold for a digital 0. This can cause people to mistakingly read a hi-Z wire as a digital 0. To verify if a wire is at hi-Z, a large value pull-up resistor can be used to try to pull the wire to high and low voltage levels. A non-hi-Z signal should not be able to be pulled in such a way.
+
+In analog circuits a high impedance node is one that does not have any low impedance paths to any other nodes. High impedance nodes have high thermal noise and are prone to pick up. They are also often difficult to probe as the impedance of a scope can load down the node. High impedance nodes are useful in amplifiers as they allow for large voltage gains without large current consumption.
+
+
+{{stub}}
