@@ -1,0 +1,36 @@
+
+
+A '''hydrophone''' (Greek "hydro" = "water" and "phone" = "sound") is a [[microphone]] designed to be used underwater for recording or listening to [[underwater sound]].  Most hydrophones are based on a [[piezoelectric]] [[transducer]] that generates electricity when subjected to a pressure change.  Such piezoelectric materials, or [[transducer]]s can convert a sound signal into an electrical signal since [[sound]] is a pressure wave in fluids.   Some transducers can also serve as a projector ([[emitter]]), but not all have this capability, and may be destroyed if used in such a manner.
+
+A hydrophone can "listen" to sound in air, but will be less sensitive due to its design as having a good [[acoustic impedance]] match to water, the denser fluid.  Likewise, a microphone can be buried in the ground, or immersed in water if it is put in a waterproof container, but will give similarly poor performance due to the similarly bad acoustic impedance match.
+
+==History==
+The hydrophone was used late in World War I. Convoy escorts used them to detect U-boats, greatly lessening the effectiveness of the submarine. [[Ernest Rutherford]], in England, led pioneer research in hydrophones using piezoelectric devices. His only patent was for a hydrophone device.
+
+From late in World War One until the introduction of active [[sonar]], hydrophones were the sole method for submarines to detect targets while submerged, and remain useful today.
+
+==Directional hydrophones==
+A small single cylindrical ceramic [[transducer]] can achieve near perfect omnidirectional reception.  Directional hydrophones increase sensitivity from one direction using two basic techniques:
+
+===Focused Transducers===
+This device uses a single [[transducer]] element with a dish or conical-shaped sound reflector to focus the signals, in a similar manner to a reflecting telescope.  This type of hydrophone can be produced from a low-cost omnidirectional type, but must be used while stationary, as the reflector impedes its movement through water.
+
+===Arrays===
+Multiple hydrophones can be arranged in an [[array]] so that it will add the signals from the desired direction while subtracting signals from other directions.  The array may be steered using a beamformer.  Most commonly, hydrophones are arranged in a "line array" but may be in two or three dimensional arrangements.
+
+
+
+==References==
+* Pike, John (1999). SOSUS Retrieved Jan. 28, 2005.
+* Watlington, Frank (1979). ''How to build & use low-cost hydrophones.'' (ISBN 0830610790) 
+* Unknown. [http://www.ob-ultrasound.net/hydrophone.html hydrophone] Retrieved Jan. 28, 2005.
+* Unknown. (2005) [http://www.glossary.oilfield.slb.com/Display.cfm?Term=hydrophone Schlumberger Oilfield Glossary: Term 'hydrophone'] Retrieved Jan. 28, 2005.
+
+==Links==
+* [http://dosits.org/science/measurng/1.htm DOSITS ] Hydrophone introduction at Discovery of Sound in the Sea
+* [http://orcasound.net?07enohpordyhikiw10 orcasound.net ] Live hydrophone streams from killer whale habitat
+* [http://pamguard.org Passive Acoustic Monitoring ] Using hydrophones to monitor underwater sounds
+* [http://sonar-fs.lboro.ac.uk/uag/products/products_hydrophone.html Build your own hydrophone ] (free instructions)
+* [http://freesound.iua.upf.edu/forum/viewtopic.php?p=13253 Build your own hydrophone #2] Online tutorial at the freesound project.
+* [http://freesound.iua.upf.edu/packsViewSingle.php?id=2885 Hydrophone recordings] at the freesound project.
+* [http://acoustics.co.uk/  Precision Acoustics] useful resource on hydrophones
