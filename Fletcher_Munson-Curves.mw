@@ -1,0 +1,31 @@
+[[Image:Lindos4.png|400px|right]]
+
+The '''Fletcher–Munson curves''' are one of many sets of [[equal-loudness contours]] for the human ear, determined experimentally by [[Harvey Fletcher]] and W A Munson, and reported in a paper entitled "Loudness, its definition, measurement and calculation" in J.Acoust. Soc Am.5, 82-108 (1933).
+
+== Background ==
+
+Until recently, it was common to see the term 'Fletcher–Munson' used to refer to equal-loudness contours generally, even though a re-determination was carried out by Robinson and Dadson in 1956
+, which became the basis for an ISO 226 standard.
+
+It is now better to use the term '[[Equal-loudness contours]]' as the generic term, especially as a recent survey by ISO redefined the curves in a new ISO 226 :2003 [http://www.nedo.go.jp/itd/grant-e/report/00pdf/is-01e.pdf].
+
+According to the ISO report, the Robinson–Dadson results were the odd one out, differing more from the current standard than did the Fletcher Munson curves! It comments that it is fortunate that the 40-[[phon]] Fletcher–Munson curve on which the [[A-weighting]] standard was based turns out to have been in good agreement with modern determinations.
+
+The article also comments on the large differences apparent in the low-frequency region, which remain unexplained. Possible explanations are:
+
+* The equipment used was not properly calibrated.
+* The criteria used for judging equal loudness at different frequencies (which is tricky) had differed.
+* Subjects were not properly rested for days in advance, or were exposed to loud noise in travelling to the tests which tensed the tensor timpani and stapaedius muscles controlling low-frequency mechanical coupling.
+
+== References ==
+* Harvey Fletcher and W A Munson, "Loudness, its definition, measurement and calculation" ''J.Acoust. Soc Am.''5, 82–108 (1933).
+
+
+
+== External links ==
+*[http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=34222&scopelist=ALL ISO Standard]
+*[http://www.nedo.go.jp/itd/grant-e/report/00pdf/is-01e.pdf Interesting comparisons of ISO with R-D and Fletcher Munson - pdf]
+*[http://www.sengpielaudio.com/Fletcher-MunsonIsNotRobinson-Dadson.pdf Fletcher-Munson is not Robinson-Dadson - pdf]
+*[http://www.aist.go.jp/aist_e/latest_research/2003/20031114/20031114.html Full Revision of International Standards for Equal-Loudness Level Contours (ISO 226)]
+*[http://www.phys.unsw.edu.au/~jw/hearing.html Hearing curves and on-line hearing test]
+*[http://www.lindos.co.uk/cgi-bin/FlexiData.cgi?SOURCE=Articles&VIEW=full&id=17 Equal-loudness contours by Fletcher and Munson]
