@@ -1,0 +1,53 @@
+The hertz (symbol: Hz) is a measure of frequency, informally defined as the number of cycles occurring per second. It is the basic unit of frequency in the International System of Units (SI), and is used worldwide in both general-purpose and scientific contexts. Hertz can be used to measure any periodic event; the most common uses for hertz are to describe radio and audio frequencies, more or less sinusoidal contexts in which case a frequency of 1 Hz is equal to one cycle per second.
+
+The unit hertz is defined by the International System of Units (SI) such that the hyperfine splitting in the ground state of the caesium 133 atom is exactly 9 192 631 770 hertz, ν (hfs Cs) = 9 192 631 770 Hz.[1] Equivalently, 1 Hz = 1⁄9,192,631,770 ν (hfs Cs). This definition is derived from the SI definition of the second. Hertz are inverse seconds, s-1. In practice, the hertz simply replaced the older cycle per second.
+
+In English, hertz is used as both singular and plural. As any SI unit, Hz can be prefixed; commonly used multiples are kHz (kilohertz, 103 Hz), MHz (megahertz, 106 Hz), GHz (gigahertz, 109 Hz) and THz (terahertz, 1012 Hz). One hertz simply means "one cycle per second" (typically that which is being counted is a complete cycle); 100 Hz means "one hundred cycles per second", and so on. The unit may be applied to any periodic event—for example, a clock might be said to tick at 1 Hz, or a human heart might be said to beat at 1.2 Hz. Neither the cycle per second nor the hertz, however, are regularly used in nonsinusoidal contexts. The "frequency" (activity) of aperiodic or stochastic events, especially radioactive decay, is expressed in becquerels.
+
+To avoid confusion, periodically varying angles are typically not expressed in hertz, but rather in an appropriate angular unit such as radians per second. A disc rotating at 60 revolutions per minute (RPM) can thus be said to be rotating at ≈6.283 rad/s or 1 Hz, where the latter reflects the number of complete revolutions per second. The conversion between a frequency f measured in hertz and an angular frequency ω measured in radians/s are:
+
+[[image:conversion between a frequency f measured in hertz and an angular frequency.png]]
+
+
+
+
+==History==
+The hertz is named after the German physicist Heinrich Hertz, who made important scientific contributions to electromagnetism. The name was established by the International Electrotechnical Commission (IEC) in 1930.[2] It was adopted by the General Conference on Weights and Measures (CGPM) (Conférence générale des poids et mesures) in 1960, replacing the previous name for the unit, cycles per second (cps), along with its related multiples, primarily kilocycles per second (kc/s) and megacycles per second (Mc/s), and occasionally kilomegacycles per second (kMc/s). The term cycles per second was largely replaced by hertz by the 1970s.
+
+The term "gigahertz", most commonly used in computer processor speed and radio frequency (RF) applications, can be pronounced either /ˈgigaˌhɝts/, with a hard /g/ sound or /ˈʒɪgaˌhɝts/ or /ˈdʒɪgaˌhɝts/, with a soft /ʒ/ sound at the beginning of the word. The prefix "giga-" is derived directly from the Greek "γιγας" and hence the preferred pronunciation is /ˈgɪga/. Some electrical engineers use /ˈdʒɪga/, by analogy with "gigantic".
+
+==Applications==
+=== Vibration ===
+[[Sound]] is a traveling wave which is an oscillation of [[pressure]]. Humans perceive frequency of sound waves as [[Pitch (music)|pitch]].  Each musical [[note]] corresponds to a particular frequency which can be measured in hertz. An infant's ear is able to perceive frequencies ranging from 16&nbsp;Hz to 20,000&nbsp;Hz; the average human can hear sounds between 20&nbsp;Hz and 16,000&nbsp;Hz.<ref>[http://www.mmk.e-technik.tu-muenchen.de/persons/ter/top/dominant.html Dominant spectral region]</ref> The range of [[ultrasound]], [[infrasound]] and other physical vibrations such as [[molecular vibration]]s extends into the megahertz range and well beyond.
+
+===Electromagnetic radiation===
+[[Electromagnetic radiation]] is often described by its frequency—the number of [[oscillation]]s of the perpendicular electric and magnetic fields per second—expressed in hertz.
+
+Radio frequency radiation is usually measured in kilohertz, megahertz, or gigahertz; this is why radio dials are commonly labeled with kHz, MHz, and GHz. [[Light]] is electromagnetic radiation that is even higher in frequency, and has frequencies in the range of tens ([[infrared]]) to thousands ([[ultraviolet]]) of terahertz. Electromagnetic radiation with frequencies in the low terahertz range, (intermediate between those of the highest normally-usable radio frequencies and long-wave infrared light), is often called [[terahertz radiation]]. Even higher frequencies exist, such as that of [[gamma ray]]s, which can be measured in exahertz. (For historical reasons, the frequencies of light and higher frequency electromagnetic radiation are more commonly specified in terms of their [[wavelength]]s or [[photon]] [[Energy|energies]]: for a more detailed treatment of this and the above frequency ranges, see [[electromagnetic spectrum]].)
+
+===Computing===
+In computing, most [[central processing unit]]s (CPU) are labeled in terms of their clock speed expressed in megahertz or gigahertz (10<sup>9</sup> hertz). This number refers to the frequency of the CPU's [[Clock signal|master clock signal]] ("[[Clock rate|clock speed]]"). This signal is simply an electrical voltage which changes from low to high and back again at regular intervals. Hertz has become the primary unit of measurement used by the general populace to determine the speed of a CPU, but many experts have criticized this approach, which they claim is an easily manipulable benchmark.<ref>[http://www.wired.com/news/business/0,1367,62851,00.html Good Riddance, Gigahertz]</ref> For home-based personal computers, the CPU has ranged from approximately 1 megahertz in the late 1970s (Atari, Commodore, Apple computers) to nearly 4 GHz in the present. This can be increased even further by [[overclocking|increasing the frequency of the CPU]] (overclocking) in the BIOS or other software. (Likewise, speed can also be decreased, or underclocked.)
+
+Various [[Bus (computing)|computer bus]]es, such as the [[front-side bus]] connecting the CPU and [[northbridge (computing)|northbridge]], also operate at different frequencies in the megahertz range (for modern products).
+
+==SI multiples==
+
+
+[[image:SI multiples for Hz.png]]
+
+
+===Frequencies not expressed in hertz===
+Even higher frequencies are believed to occur naturally, in the frequencies of the quantum-mechanical [[wave function]]s of high-energy (or, equivalently, massive) particles, although these are not directly observable, and must be inferred from their interactions with other phenomena. For practical reasons, these are typically not expressed in hertz, but in terms of the equivalent quantum energy, which is proportional to the frequency by the factor of [[Plank constant|Plank's constant]].
+
+==References==
+{{reflist|2}}
+
+
+
+==External links==
+*[http://www.bipm.org/en/si/si_brochure/chapter2/2-1/second.html BIPM Cesium ion f<sub>Cs</sub> definition]
+*[http://inms-ienm.nrc-cnrc.gc.ca/research/frequency_time_projects_e.html#gen National Research Council of Canada: ''Generation of the Hz'']
+*[http://inms-ienm.nrc-cnrc.gc.ca/research/cesium_clock_e.html National Research Council of Canada: ''Cesium fountain clock'']
+*[http://www.npl.co.uk/server.php?show=ConWebDoc.1086 National Physical Laboratory: ''Trapped ion optical frequency standards'' ]
+*[http://inms-ienm.nrc-cnrc.gc.ca/research/optical_frequency_projects_e.html#optical National Research Council of Canada: ''Optical frequency standard based on a single trapped ion'']
+*[http://inms-ienm.nrc-cnrc.gc.ca/research/optical_frequency_projects_e.html#femtosecond National Research Council of Canada: ''Optical frequency comb'']
