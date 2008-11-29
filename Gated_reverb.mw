@@ -1,0 +1,57 @@
+'''Gated reverb''' is an audio processing technique that is applied to recordings of drums (or live sound reinforcement of drums in a [[PA system]]) to make the drums sound powerful and "punchy," while keeping the overall mix clean and transparent-sounding. The gated reverb effect, which was most popular in the 1980s, is made using a combination of strong [[reverberation|reverb]] and a [[noise gate]].
+
+Unlike most [[reverberation]] or [[delay (audio effect)|delay]] effects, the gated reverb effect does not try to emulate any kind of reverb that occurs in nature. 
+
+== History ==
+The first known use of this technique was by recording engineer Rudy Van Gelder on the 1976 album Velvet Darkness by jazz/rock guitarist Allan Holdsworth. The drummer on this recording was Narada Michael Walden.
+
+The most copied first use of this technique was on the 1977 David Bowie album, Low.
+
+The gated reverb effect began being used in popular music during the 1980s. Producer Mutt Lange was a pioneer at drenching the recorded drum sound in gated reverb. An early and prominent use of gated reverb was in Peter Gabriel, Phil Collins and Hugh Padgham's production of thethird Peter Gabriel solo 
+album].<ref> [[http://mixonline.com/mag/audio_phil_collins_air/index.html Robyn Flans. Mix Magazine. May 1, 2005. Classic Tracks: Phil Collins' "In the Air Tonight"]] </ref>
+
+== Methods of creation ==
+
+{| style="border: 0"
+| style="vertical-align: top; padding-right: 1.3em" width="50%" |
+=== "Classic" analogue method ===
+
+The oldest, most "natural" technique can be done with minimal electronic processing. The steps for processing are as following:
+
+# At least 2 microphones are set up: ''close mic(s)'' (usually [[Microphone#Dynamic microphones|dynamic]], to pick up the hit itself) and ''ambience mic(s)'' (usually [[Microphone#Capacitor or condenser microphones|condenser]], to pick up ambient sound). Usually, there are 2 ambience mics in stereo pair to capture overhead stereo image.
+# The whole drumset and all mics are placed in a very ''live room'' (i.e., one with huge amounts of reverberation and particularly early reflections from its walls, ceiling and floor).
+# High-gain [[Audio level compression|compression]] is applied to ambience mic(s) to capture rich reverb sound.
+# ''Ambience mic(s)'' are fed through a [[noise gate]] with separate external key input.
+# ''Close mic(s)'' are used as an external key for the noise gate.
+# Hold time of noise gate is set to half a second or so (this would be a real duration of hit sound), followed by a fast release time. This causes the gate to allow only the first half second of reverb to pass though after each drum hit, before closing again.
+# Optionally, ''close mic'' sound can be mixed in final result in some proportion to make a hit sound more "solid".
+
+This results in a very live sounding drum that is rapidly cut off with none of the overpowering secondary reflections associated with reverb. Note that this process is generally used in studio recording environment only: it's hard to reproduce such effect when playing live, though both Phil Collins and Genesis were able to incorporate it into most of their live performances.
+| style="vertical-align: top; padding-left: 1.3em" width="50%" |
+
+=== Modern digital method ===
+
+When using digital reverb unit, it is possible to replicate classic scheme in much simpler steps:
+
+# Only 1 microphone is set up: ''close mic''. No real room for ambience is needed, all reverberation is done at [[effects unit]] processor.
+# ''Close mic'' sound is fed to reverberation unit, then to compressor, then to noise gate signal input.
+# Same sound of ''close mic'' is fed to noise gate key input.
+# Optionally, just as in above method, original ("dry") sound can be mixed in some proportion to gated ouptut ("wet") sound.
+
+Each channel needs its own "reverb+noise gate" unit. Applying the effect on already mixed drums won't work properly. Most modern digital reverb units contain several "Gated reverb" presets, thus removing the need for a separate noise gate, compessor and commutation, effectively making it possible to get gated reverb sound from just single normal close mic or [[drum trigger]]. Also note that such setup does not require "live room" with huge reverberation ambience for the drumset and can be reproduced without major difficulties at [[concert|live gigs]].
+|}
+
+== Usage patterns ==
+
+Most common usage of gated reverb is empowering drum sounds, particularly [[snare drum]] and [[bass drum]]. The technique became so popular and "gated reverb" sound is so recognizable, that many [[drum machine]]s and [[sampler (musical instrument)|samplers]] include some sort of "gated drums". These sounds are usually referred to as '''"gated snare"''' and '''"gated kick"''', thus omitting the "reverb" word from original naming.
+
+While [[General MIDI]] hasn't specified particular sound characteristics for its drum kits, however, it already included 2 distinct snare sounds, sometimes referred to as '''acoustic snare''' (38) and '''electric snare''' (40), later usually sounding as "gated snare". Later MIDI standards, such as [[Roland GS|GS]] and [[XG (midi)|XG]] include drum kits that specify gated drum sounds: most usually, that is patch #16 (GS #17, with shifted numbering) named "Power drumkit", "Rock drumkit" or patch #24 (GS #25) named "Electronic drumkit". Thus, for example, for snare drum, distinct sounds may be referred to as '''power snare''' or '''rock snare'''.
+
+== Notable records ==
+Gated reverb as an effect was used on countless drum tracks during the 1980s, to the point that such a sound became a defining characteristic of that decade's popular music. One prominent example is the Phil Collins single In the Air Tonight (specifically at the point when the live drums enter into the arrangement). However, Collins continued to utilise this technique on several of his hits released after the recording of Peter Gabriel's song Intruder (from Gabriel's third solo album). Prime examples include Against All Odds (Take a Look at Me Now) and the Genesis track Mama.
+
+== References ==
+
+<references/>
+
+* [http://www.harmony-central.com/Effects/Articles/Reverb/ Reverb article] on Harmony Central includes information on gated reverb.
