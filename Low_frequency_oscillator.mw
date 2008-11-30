@@ -1,0 +1,24 @@
+[[Image:LFOsection.png|300px|thumb|right|LFO section of a modern synthesizer]]
+The term '''''low-frequency oscillation'' (LFO)''' is an audio signal usually below 20&nbsp;Hz which creates a pulsating rhythm rather than an audible tone. LFO predominantly refers to an [[audio effect|audio technique]] specifically used in the production of [[electronic music]]. The abbreviation is also very often used to refer to '''low-frequency oscillators''' themselves, which produce the effects explored in this article.
+
+==History==
+
+Low-frequency oscillation as a concept was first introduced in the [[modular synthesizer|modular synth]]s of the 1960s and 70s. Often the LFO effect was accidental; so myriad were the number of configurations that could be 'patched' by the synth operator. LFOs have since appeared in some form on almost every synthesizer. More recently other [[electronic instrument]]s, such as [[sampler (musical instrument)|sampler]]s and [[software synthesizer]]s, have included LFOs to augment their sound alteration capabilities.
+
+==Overview==
+
+The primary [[Electronic oscillator|oscillator]] circuits of a [[synthesizer]] are used to create the [[sound|audio]] signals. An LFO is a secondary oscillator that operates at a significantly lower [[frequency]] (hence its name), typically around or below the threshold of human hearing (which is approximately 20&nbsp;Hz). This lower frequency or control signal is used to [[modulation|modulate]] the audio signal, changing it without introducing another sound-signal source. Like a standard oscillator, this usually takes the form of a periodic waveform, such as a [[sine wave|sine]], [[sawtooth wave|sawtooth]], [[triangle wave|triangle]] or [[square wave]]. Also like a standard oscillator, LFOs can incorporate any number of waveform types, including user-defined [[wavetable]]s, [[rectifier|rectified wave]]s and [[random number generator|random]] signals.
+
+Using a low-frequency oscillation signal as a means of modulating another signal introduces complexities into the resulting sound, such that a variety of effects can be achieved. The specifics vary greatly depending on the type of modulation, the relative frequencies of the LFO signal and the signal being modulated, et cetera.
+
+==Uses==
+
+An LFO can be routed to control, for example, the frequency of the audio oscillator, its [[phase (waves)|phase]], stereo panning, [[audio filter|filter]] frequency, or amplification. When routed to control pitch, an LFO creates [[vibrato]]. When an LFO modulates [[amplitude]] (volume), it creates [[tremolo]]. On most synthesizers and sound modules, LFOs feature several controllable parameters, which often include a variety of different [[waveform]]s, a [[frequency|rate]] control, routing options (as described above), a [[tempo]] [[synchronization|sync]] feature, and an option to control how much the LFO will modulate the audio signal.
+
+Electronic musicians use LFO for a variety of applications. They may be used to add simple vibrato or tremolo to a melody, or for more complex applications such as triggering [[noise gate|gate]] [[ADSR|envelope]]s, or controlling the rate of [[arpeggio|arpeggiation]]. 
+
+Differences between LFO rates also account for a number of commonly heard effects in modern music. A very low rate can be used to modulate a [[electronic filter|filter]]'s cutoff frequency, thereby providing the characteristic gradual sensation of the sound becoming clearer or closer to the listener. Alternatively, a high rate can be used for bizarre 'rippling' sound effects (indeed, another important use of LFO would be for various [[sound effect]]s used in films). Such effects are difficult to describe, and are more understandable when heard.
+
+==Other notes==
+
+The British electronic music group [[LFO (band)|LFO]] take their name directly from the concept of low-frequency oscillation. Its properties have been influential in their music production.
