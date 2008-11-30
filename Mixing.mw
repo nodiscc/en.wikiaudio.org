@@ -1,0 +1,66 @@
+
+'''Audio mixing''' is the process by which a multitude of sound sources are combined into one or more channels. The source signals might be live or recorded and could be different musical instruments, vocals, orchestra sections, announcers or crowd noise. In the process, the source signals' level, frequency content, dynamics and panoramic position are commonly being manipulated and effects such as reverb might be added. This practical, aesthetic or otherwise creative treatment is done in order to produce a final product that appeals to listeners and incorporates effects and abilities that can't be accomplished with live recording.
+
+A device used for mixing audio is known as an ''audio mixer'', ''sound board'', or ''[[mixing console]]''.
+
+==Theory==
+
+A simple passive mixer simply regulates the amplitude of two or more incoming signals, usually with a[[potentiometer]] and a fixed [[resistor]] for each signal, then sends them out through the output channel otherwise unmodified as a sum of the two input signals. An active mixer uses an [[amplifier stage]] to increase [[signal gain]], since the resistor network in a passive mixer attenuates the signal by design.
+
+== Industries ==
+
+=== Music production ===
+
+Audio mixing is done in studios as part of an album or single making. The mixing stage follows the multitrack recording stage and the final mixes are normally submitted to a mastering engineer. The process is generally carried out by a mixing engineer (a mixer), though sometimes it is the musical producer who mixes the recorded material. 
+
+A mixer working on a commercial release would normally spend 1-3 days mixing a single track, although times might vary greatly depending on budget, quality of the recordings and the complexity of the production.
+
+
+
+Audio mixing on a personal computer is also gaining momentum. More and more independent artists are starting to use their personal computers for digital recording and mixing their work. Audio editing on the computer is also easy and generally preferred.
+
+=== Post-production ===
+
+During the post-production stage of a film or a television program, audio mixing takes place in a studio (or a theater) once the final cut is produced. Normally the engineer will mix 4 main elements:
+* Speech (dialogue, [[Dubbing_(filmmaking)#Automated_dialogue_replacement_.2F_post-sync|ADR]], Voice-Overs, etc.)
+* Ambiance (or atmosphere) 
+* Sound FX
+* Music
+
+A 20 minute television program might be mixed in around 16 hours. A full-featured film might spend more than half a year in the mixing theater.
+
+=== Public performance ===
+
+Sometimes audio mixing is done live by a sound engineer or recording engineer, for example at rock concerts and other musical performances where a public address system (PA) is used. A big concert might involve two mixers, one located in the audience to mix the front of house (FOH) speakers heard by the audience, and the other located at the side of the stage, mixing for the monitor speakers positioned directly in front of the performers so that they can hear one another.
+
+== Equipment ==
+
+=== Mixers ===
+
+A mixer, or [[mixing console]], or mixing desk, or mixing board, or software mixer is the operational heart of the mixing process. Mixers offer a multitude of inputs, each is fed by a track from a multitrack recorder; mixers would normally have 2 main outputs (in the case of two-channel stereo mixing) or 8 (in the case of surround).
+
+Mixers offer three main functionalities:
+
+* '''Mixing''' - summing signals together, which is normally done by a dedicated summing amplifier or in the case of digital by a simple algorithm.
+* '''Routing''' - allows the routing of source signals to internal buses or external processing units and effects.
+* '''Processing''' - many mixer also offer on-board processors, like equalizers and compressors.
+
+A mixer has numerous rotating controls ([[potentiometer]]s) and sliding controls faders which are also [[potentiometer]]s) that facilitate the manipulation of levels, the addition of effects such as reverb, and frequency content ([[equalization]]) of audio signals.  On most consoles, all the controls that apply to a single channel of audio are arranged in a vertical column called a ''channel strip''.  Larger and more complex consoles such as those used in film and television production can contain hundreds of channel strips.  Many consoles today, regardless of cost, have automation capabilities so the movement of their controls can be recorded, and then played back automatically, like a player piano.  A recent trend is to use a "control surface" connected to a computer.  This eliminates much of the electronics in a conventional console as the actual automation work is done digitally by the computer.
+
+=== Outboard gear and plugins ===
+
+Outboard gear (analog) and software plugins (digital) can be inserted to the signal path in order to extend processing possibilities. Outboard gear and plugins fall into two main categories.
+
+* '''Processors''' - these devices are normally connected in series to the signal path, so the input signal is replaced with the processed signal (e.g. equalizers).
+* '''Effects''' - while an effect can be considered as any unit that affects the signal, the term is mostly used to describe units that are connected in parallel to the signal path and therefore they add to the existing sounds, but do not replace them. Examples would be reverbs and delays.
+
+Common classes:
+* '''Processors''':
+** '''Faders''' - used to attenuate or boost the level of signals.
+** '''Pan pots''' - used to pan signal to the left or right and in surround also back and front.
+** '''Equalizers''' - used to manipulate the frequency content of signals.
+** '''Compressors''' - used to manipulate the dynamic content of signals. Among many applications they can even the level fluctuations of a singer, or reshape dynamic envelopes of percussive instruments (e.g. adding attack to a snare).
+** '''Gates''' - used mainly to attenuate low-level signals, for example, the kick spill on a snare recording.
+* '''Effects''':
+** '''Reverbs''' - used to simulate the boundary reflection created in a real room, but that adding a sense of space to otherwise 'dry' recordings.
+** '''Delays''' - most commonly used to add distinct echoes as a creative effect.
