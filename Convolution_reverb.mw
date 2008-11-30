@@ -1,0 +1,24 @@
+In audio signal processing, '''convolution reverb''' is a process for digitally simulating the [[reverberation]] of a physical or virtual space.  It is based on the mathematical [[convolution]] operation, and uses a pre-recorded audio sample of the [[impulse response]] of the space being modelled. To apply the reverberation effect, the impulse-response recording is first stored in a [[digital signal processor|digital signal-processing]] system.  This is then [[convolution|convolved]] with the incoming audio signal to be processed.
+
+== Creation of Impulse Responses ==
+
+An [[impulse response]] is a recording of the reverberation that is caused by an acoustic space when an ideal [[Dirac delta function|impulse]] is played.  However, an ideal impulse is a mathematical construct, and cannot exist in reality, as it would have to be infinitesimally narrow in time.  Therefore, approximations have to be used: the sound of an electric spark or a starter pistol shot, for instance. A recording of this approximated ideal impulse may be used directly as an impulse response.
+
+Alternatively, one can excite a space with a longer sound (typically a [[sine sweep]]), then perform a [[deconvolution]] to produce an impulse response. This approach has the advantage that such sounds are less susceptible to distortion; however, it requires more sophisticated processing to produce a usable impulse response.
+
+A third approach involves using Maximum length sequence|maximum-length sequences, but this is difficult in practice because such sequences are highly susceptible to distortion.
+
+== Applications ==
+
+=== Real space simulation ===
+
+The primary goal of a convolution reverb is to sample real spaces, in order to simulate the acoustics of the sampled space. A straight forward and simple [[Monaural|mono]] example of capturing an impulse response would be to set up a [[microphone]] in a concert hall and to place the microphone in the centre of the auditorium. Next, produce a very brief pulse (often an electric spark) of sound, and record everything that the microphone picks up, which includes both the original sound and the response of the room to it. The recorded take would then be cleanly edited and then loaded into the convolution processor. This convolution can be applied as part of a signal processing chain.
+
+=== Machine simulation ===
+
+It is also possible to sample the impulse response of a reverberation unit, instead of sampling a real space. Thus, it is possible to use a convolution reverb in place of a hardware machine. The techniques used to sample a reverberation unit are the same as the ones used to sample real spaces.
+
+==External links==
+*[http://lac.zkm.de/2006/papers/lac2006_fons_adriaensen_01.pdf Acoustical Impulse Response Measurement with ALIKI]: Includes comparison of methods for creating impulse responses
+*[http://www.xs4all.nl/~fokkie/IR.htm Examples of sampled impulse responses to be used in convolution reverbs (Fokke Van Saane)]
+*[http://1-1-1-1.net/pages/impulses/index.htm#lorenz195225 Examples of impulse responses synthesized from oscillator spectra, to be used in convolution reverbs (Emmanuel Deruty)]
