@@ -1,0 +1,9 @@
+The '''Core Audio Format''' is a file format for storing audio, developed by Apple Computer. It is compatible with Mac OS 10.4, and Mac OS 10.3 with QuickTime 7.
+
+Core Audio Format is designed to overcome limitations of older digital audio formats, including [[AIFF]] and [[WAV]]. Similar to the QuickTime .mov file format, .caf can contain many different audio formats, metadata tracks, and more. Not limited to 4 GB file size, a single .caf file can theoretically hold hundreds of years of audio.
+
+[[Soundtrack Pro]] uses the .caf format extensively for its loop and sound effects library, particularly for surround-sound audio compressed with the Apple Lossless codec.
+
+== External links ==
+
+* [http://developer.apple.com/documentation/MusicAudio/Reference/CAFSpec/CAF_intro/chapter_1_section_1.html#//apple_ref/doc/uid/TP40001862-CH203-DontLinkElementID_60 Introduction to Apple Core Audio Format Specification 1.0]
