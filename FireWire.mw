@@ -1,0 +1,8 @@
+The IEEE 1394 interface is a serial bus interface standard for high-speed communications and isochronous real-time data transfer, frequently used by personal computers, as well as in digital audio, digital video, automotive, and aeronautics applications. The interface is also known by the brand names of FireWire (Apple Inc.), i.LINK (Sony), and Lynx (Texas Instruments). IEEE 1394 has replaced parallel SCSI in many applications, due to lower implementation costs and a simplified, more adaptable cabling system. The 1394 standard also defines a backplane interface, though this is not as widely used.
+
+IEEE 1394 has been adopted as the High Definition Audio-Video Network Alliance (HANA) standard connection interface for A/V (audio/visual) component communication and control[1]. FireWire is also available in wireless, fiber optic, and coaxial versions using the isochronous protocols.
+
+Since the mid 1990s, consumer grade camcorders had included a four-circuit 1394 interface, though, except for premium models, this is becoming less common. It remains the primary transfer mechanism for almost all high end professional audio and video equipment. Since 2003 many computers intended for home or professional audio/video use have built-in FireWire/i.LINK ports, especially prevalent with Sony and Apple's computers and the older iPods. The legacy (alpha) 1394 port is also available on premium retail motherboards.
+
+
+{{stub}}
