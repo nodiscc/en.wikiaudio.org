@@ -1,0 +1,28 @@
+'''Rijke's tube''' turns heat into sound, by creating a self-amplifying standing wave. It is an entertaining phenomenon in acoustics and is an excellent example of resonance.
+
+[[Image:Rijkeconstr.gif|thumb|right|A simple construction of the Rijke tube, with a wire mesh in the lower half of a vertical metal pipe.  The tube is suspended over a [[bunsen burner]].]]
+==Discovery==
+P. L. Rijke was a professor of physics at the University of Leyden in the Netherlands when, in 1859, he discovered a way of using heat to sustain a sound in a cylindrical tube open at both ends.<ref> Pieter L. Rijke (1859) “On the vibration of the air in a tube open at both ends,” ''Philosophical Magazine'',  vol. 17, pages 419-422; also published as:  “Notiz über eine neue Art, die Luft in einer an beiden Enden offenen Röhre in Schwingungen zu versetzen,” ''Annalen der Physik'', vol. 107, pages 339-343 (1859).</ref>  He used a glass tube, about 0.8 m long and 3.5 cm in diameter. Inside it, about 20 cm from one end, he placed a disc of wire gauze as shown in the figure below. Friction with the walls of the tube is sufficient to keep the gauze in position. With the tube vertical and the gauze in the lower half, he heated the gauze with a flame until it was glowing red hot. Upon removing the flame, he obtained a loud sound from the tube which lasted until the gauze cooled down (about 10 s). It is safer in modern reproductions of this experiment to use a Pyrex tube or, better still, one made of metal.
+
+
+Instead of heating the gauze with a flame, Rijke also tried electrical heating. Making the gauze with electrical resistance wire causes it to glow red when a sufficiently large current is passed. With the heat being continuously supplied, the sound is also continuous and rather loud. Rijke seems to have received complaints from his university colleagues because he reports that the sound could be easily heard three rooms away from his laboratory. The electrical power required to achieve this is about 1 kW.
+
+
+
+Lord Rayleigh, who wrote the definitive textbook on sound in 1878, recommends this as a very effective lecture demonstration. He used a cast iron pipe 1.5 m long and 12 cm diameter with two layers of gauze made from iron wire inserted about quarter of the way up the tube. The extra gauze is to retain more heat, which makes the sound longer lasting.<ref>John Wm. Strutt (Lord Rayleigh) (1879) “Acoustical observations,” ''Philosophical Magazine'',  5th series, vol. 7, pages 149-162.</ref>
+
+==Mechanism==
+The sound comes from a [[standing wave]] whose [[wavelength]] is about twice the length of the tube, giving the [[fundamental frequency]].  Lord Rayleigh, in his book, gave the correct explanation of how the sound is stimulated.<ref>John Wm. Strutt (Lord Rayleigh) (18 July 1878) “The explanation of certain acoustical phenomena,” ''Nature'', vol. 18, pages 319-321.  See also: John Wm. Strutt (Baron Rayleigh), ''The Theory of Sound'', 2nd ed. (London:  Macmillan, 1896), vol. 2, pages 231-234.</ref>  The flow of air past the gauze is a combination of two motions. There is a uniform upwards motion of the air due to a convection current resulting from the gauze heating up the air. Superimposed on this is the motion due to the sound wave. For half the vibration cycle, the air flows into the tube from both ends until the pressure reaches a maximum. During the other half cycle, the flow of air is outwards until the minimum pressure is reached. All air flowing past the gauze is heated to the temperature of the gauze and any transfer of heat to the air will increase its pressure according to the gas law.
+
+As the air flows upwards past the gauze most of it will already be hot because it has just come downwards past the gauze during the previous half cycle. However, just before the pressure maximum, a small quantity of cool air comes into contact with the gauze and its pressure is suddenly increased. This increases the pressure maximum, so reinforcing the vibration. During the other half cycle, when the pressure is decreasing, the air above the gauze is forced downwards past the gauze again. Since it is already hot, no pressure change due to the gauze takes place, since there is no transfer of heat. The sound wave is therefore reinforced once every vibration cycle and it quickly builds up to a very large amplitude.
+
+This explains why there is no sound when the flame is heating the gauze. All air flowing through the tube is heated by the flame, so when it reaches the gauze, it is already hot and no pressure increase takes place.
+
+When the gauze is in the upper half of the tube, there is no sound. In this case, the cool air brought in from the bottom by the convection current reaches the gauze towards the end of the outward vibration movement. This is immediately before the pressure minimum, so a sudden increase in pressure due to the heat transfer tends to cancel out the sound wave instead of reinforcing it.
+
+The position of the gauze in the tube is not critical as long as it is in the lower half. To work out its best position, there are two things to consider. Most heat will be transferred to the air where the displacement of the wave is a maximum, i.e. at the end of the tube. However, the effect of increasing the pressure is greatest where there is the greatest pressure variation, i.e. in the middle of the tube. There is therefore no perfect position for the gauze. A good compromise is obtained by placing the gauze midway between these two positions, i.e. one quarter of the way in from the bottom end.
+
+The Rijke tube is considered to be a standing wave form of thermoacoustic devices known as "heat engines" or "prime movers".
+
+==References==
+<references/>
