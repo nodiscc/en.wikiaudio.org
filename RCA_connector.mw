@@ -1,0 +1,122 @@
+[[Image:RCA Connector (photo).jpg|thumb|RCA Plugs for [[composite video]] and stereo audio]]
+
+An '''RCA jack''', also referred to as a '''phono connector''' or '''CINCH/AV connector''', is a type of electrical connector that is commonly used in the audio/video market. The name "RCA" derives from the Radio Corporation of America, which introduced the design by the early 1940s to allow mono phonograph players to be connected to amplifiers.
+
+For many other applications it began to replace the older jack plugs used in the audio world when component high fidelity started becoming popular in the 1950s. 
+The corresponding plug is called an '''RCA plug''' or a '''phono plug'''. The latter is often confused with a '''phone plug''' which refers to a jack plug or [[TRS connector]]. 
+
+==Uses==
+In the most normal usage, cables have a standard '''plug''' on each end, consisting of a central [[Gender of connectors and fasteners|male connector]], surrounded by a ring. The ring is often segmented for flexibility. Devices mount the '''jack''', consisting of a central hole with a ring of metal around it. The ring is slightly smaller in diameter and longer than the ring on the plug, allowing the plug's ring to fit tightly over it. The jack has a small area between the outer and inner rings which is filled with an insulator, typically plastic (very early versions, or those made for use as [[RF connector]]s used ceramic).
+
+[[Image:High-quality-RCA-connectors-VDH.jpg|thumb|left|High-quality audio grade RCA connectors.]]
+
+As with many other connectors, the RCA has been adopted for other uses than originally intended, including as a [[power connector]], an [[RF connector]], and as a connector for [[loudspeaker]] cables. Its use as a connector for composite video signals is extremely common, but provides poor [[impedance matching]]. RCA connectors and cable are also commonly used to carry [[SPDIF]]-formatted [[digital audio]], with plugs colored [[orange (color)|orange]] to differentiate them from other typical connections.
+
+Connections are made by pushing the cable's plug into the female jack on the device. The signal-carrying pin protrudes from the plug, and often comes into contact with the socket before the grounded rings meet, resulting in loud hum or buzz if the audio components are powered while making connections. Continuous noise can occur if the plug partially falls out of the jack, breaking ground connection but not the signal. Some variants of the plug, especially cheaper versions, also give very poor grip and contact between the ground sheaths due to their lack of flexibility.
+
+They are often color coded, yellow for composite video, red for the right channel and white or black for the left channel of stereo audio. This trio (or pair) of jacks can be found on the back of almost all audio and video equipment. At least one set is usually found on the front panel of modern TV sets, to facilitate connection of camcorders (through 3.5mm Jack to 3 RCA, also called Mini RCA plug), digital cameras, and video gaming consoles. Although nearly all audio-visual connectors, including audio, composite and component video, and S/PDIF audio can use identical 75 Ω cables, sales of special-purpose cables for each use have proliferated. Varying cable quality means that a cheap line-level audio cable might not successfully transfer component video or digital audio signals due to impedance mismatch and poor shielding quality (causing SNR ratio to be too low). Cables should meet the S/PDIF specification as defined by the international standard IEC 60958-3 for assured performance.
+
+The male plug has a center pin which is 3.70 mm in diameter, and is surrounded by an outer shell which is 8.25 mm in diameter 
+
+==Disadvantages==
+[[Image:High-quality-RCA-bullet-plug-Eichmann.jpg|thumb|right|"Bullet plug" variation. Notice the hollow center conductor and the single pin point for the return signal.]]
+One problem with the RCA jack system is that each signal requires its own plug. Even the simple case of attaching a cassette deck may need four of them, two for stereo input, two for stereo output. In any common setup this quickly leads to a mess of cables, which is made worse if one considers more complex signals like component video (a total of three for video and two for analog audio or one for digital coaxial audio).
+
+There have been numerous attempts to introduce combined audio/video connectors for direct signals, but in the analog realm none of these have ever become universal, except in Europe where the SCART connector is very successful. For a time the 5-pin DIN plug was popular for bi-directional stereo connection between A/V equipment, but it has been entirely displaced on modern consumer devices. Though RF modulators inherently transmit combined A/V signals in video applications, they depend on broadcast television systems and RF connectors which are not universal worldwide; RF signals are also generally inferior to direct signals due to protocol conversion and the RF limitations of the three major analog TV systems (NTSC, PAL and SECAM).
+
+Nearly all modern TV sets, VCRs, and DVD players sold in Europe have SCART connectors, though sometimes supplemented by RCA and/or RF connectors. Outside Europe, separate RCA connectors are the norm, supplemented by RF connectors for backward compatibility and simplicity; though mini-DIN connectors are sometimes used for S-Video connections, composite video, component video, and analog audio (mono or stereo) all use RCA connectors unless RF is used. In the digital realm, however, combined A/V connectors are gaining ground; HDMI is commonly being used today, and DisplayPort is a potential competitor to HDMI.
+
+For audio signals, an RCA connection is called unbalanced, and a true balanced connection is generally preferred in certain applications because it allows for the use of long cables while reducing susceptibility to external noise.
+
+==Origin==
+The word ''phono'' is an abbreviation of the word ''phonograph'', because this connector was originally created to allow the connection of a phonograph turntable to a radio receiver, utilizing the radio as an amplifier. This setup was present in most radios manufactured in the 1930s onward by the Radio Corporation of America (RCA), who later marketed a special turntable for 45 RPM records.
+
+==Color coding in consumer equipment==
+Plugs and sockets on consumer equipment are conventionally color-coded to aid correct connections. The standard<ref>[http://www.ce.org/Standards/browseByCommittee_2626.asp Consumer Electronics Association standard CEA-863-A] "Connection Color Codes for Home Theater Systems"</ref> colors for the various signals are shown below.
+
+In stereo audio applications there are combinations of either Black+Red or White+Red RCA connectors; in both cases, Red denotes Right. White or Purple may also be substituted by Black.
+
+While these are the standard colours found on commercially made products, same-coloured cables may also be used.  For example, a red cable may be used instead of a yellow one, as there is no other significant difference between them.
+
+{|class="wikitable" align="center" style="text-align: center;"
+|-
+|align="right"|Composite video|Composite analog video
+|Composite
+|Yellow
+|style="background:#fde910; "|&nbsp;&nbsp;
+|-
+|align="right" rowspan=8|Analog audio
+|Left/Mono
+|White
+|style="background:#ffffff; "|&nbsp;&nbsp;
+|-
+|Right
+|Red
+|style="background:#fd1b14; "|&nbsp;&nbsp;
+|-
+|Center
+|Green
+|style="background:#66cc33; "|&nbsp;&nbsp;
+|-
+|Left Surround sound|surround
+|Blue
+|style="background:#0088ce; "|&nbsp;&nbsp;
+|-
+|Right surround
+|Gray
+|style="background:#9d9d9d; "|&nbsp;&nbsp;
+|-
+|Left back surround
+|Brown
+|style="background:#964b00; "|&nbsp;&nbsp;
+|-
+|Right back surround
+|Tan
+|style="background:#d2b48c; "|&nbsp;&nbsp;
+|-
+|Subwoofer
+|Purple
+|style="background:#800080; "|&nbsp;&nbsp;
+|-
+|align="right"|Digital audio
+|S/PDIF
+|Orange
+|style="background:#ffa000; "|&nbsp;&nbsp;
+|-
+|align="right" rowspan=3|Component analog video (YPbPr)
+|Y
+|Green
+|style="background:#66cc33; "|&nbsp;&nbsp;
+|-
+|P<sub>B</sub>
+|Blue
+|style="background:#0088ce; "|&nbsp;&nbsp;
+|-
+|P<sub>R</sub>
+|Red
+|style="background:#fd1b14; "|&nbsp;&nbsp;
+|-
+|align="right" rowspan=5|Component analog video/VGA (RGB/HV)
+|R
+|Red
+|style="background:#fd1b14; "|&nbsp;&nbsp;
+|-
+|G
+|Green
+|style="background:#66cc33; "|&nbsp;&nbsp;
+|-
+|B
+|Blue
+|style="background:#0088ce; "|&nbsp;&nbsp;
+|-
+|H/Horizontal sync
+|Yellow
+|style="background:#fde910; "|&nbsp;&nbsp;
+|-
+|V/Vertical sync
+|White
+|style="background:#ffffff; "|&nbsp;&nbsp;
+|}
+
+==References==
+<references />
