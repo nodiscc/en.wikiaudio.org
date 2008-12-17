@@ -1,0 +1,114 @@
+= Wireless microphone =
+
+
+
+A '''wireless microphone''', as the name implies, is a [[microphone]] without a physical cable connecting it directly to the sound recording or amplifying equipment with which it is associated.
+
+Various individuals and organizations claim to be the inventors of the '''Wireless Microphone'''. 
+
+Reg Moores developed a radio microphone that was first used in "Alladin on Ice" in 1949.
+
+John F. Stephens developed an FM '''wireless microphone''' for a Navy musical show in 1951 on the Memphis Naval base.  Each of the principal players/singers had their own microphone/transmitter.   Subsequently, the Secret Service had Stephens modify his invention to be used in government "bugging" operations.  In the '60s, Stephens marketed his more famous capstanless multitrack recorder/reproducers.
+
+[[Shure]] Incorporated claims that its "Vagabond" system from 1953 was the first.
+
+In 1957 German audio equipment manufacturer [[Sennheiser]], at that time called Lab W, working with the German broadcaster [[Norddeutscher Rundfunk]] (NDR) exhibited a '''wireless microphone''' system. From 1958 the system was marketed through Telefunken under the name of Mikroport.
+
+Raymond A. Litke, an American electrical engineer with Educational Media Resources and [[San José State University|San Jose State College]], invented the wireless [[lavalier microphone]] in 1957 to meet the multimedia needs for classroom instruction. He patented the first practical wireless microphone in May 1961, using the lavalier cable as an antenna.<ref>US patent|3134074|Litke's wireless microphone patent</ref> Litke coined the term “lavalier microphone”, including the word in his patent application. The main transmitter module was a cigar-sized device which weighed seven ounces. The [[Federal Communications Commission]] (FCC) granted Litke 12 frequencies at his approval hearing.
+
+Also called the Vega-Mike after Vega Electronics Corporation which first manufactured it in 1960, the midget device was used by the broadcast media at the 1960 Democratic and Republican conventions. It allowed reporters to roam the floor of the convention to interview participants where Presidential candidates Kennedy and Nixon were the first celebrities to use the wireless microphone. The [[American Broadcasting Corporation]] (ABC) completed testing in 1959 and 1960, prior to the convention. Television anchor John Daly was exuberant with his praises for Litke's invention. The wireless microphone was also tested at the Olympic trials held at Stanford University in 1959.
+
+Litke attributes the inspiration of his invention to the winged communication of the bee.<ref>Litke interviews appeared in both the San Jose News of Sept. 10, 1960, and The Alma Signal-Enterprise (KS) dated Nov. 10, 1969 and Feb. 26, 1981.</ref>
+
+Another German equipment manufacturer, Beyerdynamic, claim that first '''wireless microphone''', was invented by [[Hung C. Lin]]. Called the "transistophone", it went into production in 1962.  It is claimed that the first time a wireless microphone was used to record sound during filming of a motion picture was on [[Rex Harrison]] in the 1964 film [[My Fair Lady (film)|My Fair Lady]]. However, Litke's microphone was the first used for public broadcasting by ABC at the Democratic and Republican National Conventions in 1960 where Presidential candidates Kennedy and Nixon were the first celebrities to use the wireless microphone. Furthermore, Vega Electronics Corporation was manufacturing Litke's hand-held wireless in 1960. That was the beginning of a workable and dependable wireless microphone.
+
+Modern wireless microphone technology, which for the first time offered performance with audio and dynamic range equivalent to a cord, originated with the introduction of the first compander wireless microphone offered by [[Nady Systems, Inc]] in 1976 according to company claims.  [[Nady systems, Inc]] was honored with an Emmy award for this breakthrough technical achievement in 1996.
+
+More commonly known as a Radio Microphone, there are many different standards, frequencies and transmission technologies used to replace the microphone's cable connection and make it into a wireless [[microphone]].
+They can transmit, for example, in radio waves using [[Ultra high frequency|UHF]] or [[Very high frequency|VHF]] frequencies, [[Frequency modulation|FM]], [[Amplitude modulation|AM]], or various digital modulation schemes. Some low cost models use [[infrared#Communications|infrared]] light. Infrared microphones require a direct line of sight between the microphone and the receiver, while costlier radio frequency models do not.
+
+Some models operate on a single fixed frequency, but the more advanced models operate on a user selectable frequency to avoid interference, and allow the use of several microphones at the same time.
+
+==Advantages and disadvantages==
+
+The '''advantages''' are:
+*Greater freedom of movement for the artist or speaker.
+*Avoidance of cabling problems common with wired microphones, caused by constant moving and stressing the cables.
+*Reduction of cable "trip hazards" in the performance space
+
+The '''disadvantages''' are:
+*Sometimes limited range (a wired balanced XLR [[microphone]] can run up to 300 ft or 100 meters). Some wireless systems have a shorter range, while more expensive models can exceed that distance.
+*Increased latency at longer distances
+*Possible interference with or, more often, from other radio equipment or other radio microphones, though models with many frequency-synthesized switch-selectable channels are now plentiful and cost effective.
+*Limited operation time due to battery life.
+*Noise or dead spots (places where it doesn't work, especially in non-diversity systems)
+*Limited number of operating microphones at the same time and place, due to the limited number of radio channels (frequencies).
+
+==Techniques==
+The professional models transmit in VHF or UHF radio frequency and have 'true' [[diversity reception]] (two separate receiver modules each with its own antenna), which eliminates dead spots (caused by phase cancellation) and the effects caused by the reflection of the radio waves on walls and surfaces in general. (See [[antenna diversity]]).
+
+Another technique used to improve the sound quality (actually, to improve the dynamic range), is [[companding]].  [[Nady Systems, Inc]] was the first to offer this technology in wireless microphones in 1976, which was based on the patent obtained by company founder John Nady.
+
+Some models have adjustable [[gain]] on the microphone itself, to be able to accommodate different level sources, such as loud instruments or quiet voices. Adjustable gain helps to avoid [[clipping (audio)|clipping]].
+
+Some models have adjustable [[squelch]], which silences the output when the receiver does not get a strong or quality signal from the microphone, instead of reproducing noise. When squelch is adjusted, the threshold of the signal quality or level is adjusted.
+
+==Products==
+[[Electro-Voice]], [[Shure]], [[Nady Systems, Inc]], [[Audio Ltd]], [[Sennheiser]], [[Lectrosonics, Inc.|Lectrosonics]], [[Samson Technologies]], [[AKG Acoustics]] [[MIPRO]] and [[Audio-Technica]] are all major manufacturers of wireless microphone systems.  They have made significant advances in dealing with many of the disadvantages listed above.  For example, while there is a limited band in which the microphones may operate, the new UHF-R series from Shure can have up to 108 different microphones operating simultaneously.  However, allowing more microphones to operate at the same time increases the cost.  That is one reason for such large price differences between different series of wireless systems.  
+
+Generally there are two wireless microphone types: '''handheld''' and '''bodypack''':
+*'''Handheld''' is like a normal microphone, but it has a bigger body to accommodate the [[transmitter]] and battery pack.
+*'''Bodypack''' is a small box housing the transmitter and battery pack, but not the microphone itself. It is attachable to belt or elsewhere and has a wire going to headset, lavalier microphone or a guitar. 
+
+Several manufacturers including Sennheiser, AKG, Nady Systems, Lectrosonics and Zaxcom offer a plug-on transmitter for existing wired microphones, which plugs into the XLR output of the microphone and transmits to the manufacturer's standard receiver.  This offers many of the benefits of an integrated system, and also allows microphone types (of which there may be no wireless equivalent) to be used without a cable. For example a television, or film, sound production engineer may use a plug-on transmitter to enable wireless transmission of a highly directional rifle (or "shotgun") microphone, removing the safety hazard of a cable connection and permitting the production engineer greater freedom to follow the action. Plug-in transmitters also allow the conversion of vintage microphone types to cordless operation. This is useful where a vintage microphone is needed for visual or other artistic reasons, and the absence of cables allows for rapid scene changes and reducing trip hazards. In some cases these plug-on transmitters can also provide 48 volt [[phantom power]] allowing the use of [[condenser microphone]] types. [[DC-DC converter]] circuitry within the transmitter is used to multiply the battery supply, which may be three volts or less, up to the required 48 volts. 
+
+There are three main types of receiver, available in two main types of housing.
+True Diversity receivers have two radio modules and two antennas.
+Diversity receivers have one radio module and two antennas.
+Non-diversity modules have one antenna.
+
+Receivers are commonly housed in a half-rack configuration, so that two can be mounted together in a rack system. For large complex multi channel radio microphone systems, as used in broadcast television studios and musical theater productions, modular receiver systems with several (commonly eight) true diversity receivers slotting into a rack mounted mainframe housing are available. Several mainframes may be used together in a rack to supply the number of receivers required. In some musical theater productions, systems with forty or more radio microphones are not unusual.
+
+Receivers specifically for use with video cameras are often mounted in a bodypack configuration, typically with a hotshoe mount to be fitted onto the hotshoe of the camcorder. Small true diversity receivers which slot in to a special housing on many professional broadcast standard video cameras are produced by manufacturers including Sennheiser and [[Sony]]. For less demanding or more budget conscious video applications small non-diversity receivers are common. When used at relatively short operating distances from the transmitter this arrangement gives adequate and reliable performance.
+
+==Bandwidth and Spectrum==
+Almost all wireless microphone systems use wideband [[FM]] modulation, requiring approximately 200 kHz of bandwidth.  Because of the relatively large bandwidth requirements, wireless microphone use is effectively restricted to VHF and above.
+
+Many older wireless microphone systems operate in the [[VHF]] part of the electromagnetic spectrum.  Systems operating in this range are often crystal-controlled, and therefore operate on a single frequency.  However, if this frequency is chosen properly, the system will be able to operate for years without any problems.
+
+Most modern wireless microphone products operate in the [[UHF]] television band, however.  In the United States, this band extends from 470 MHz to 806 MHz.  Other countries have similar band limits; for example, Great Britain's UHF TV band extends from 470 MHz to 854 MHz.  Typically, wireless microphones operate on unused TV channels, with room for one to two microphones per MHz of spectrum available.
+
+Intermodulation (IM) is a major problem when operating multiple systems in one location.  IM occurs when two or more RF signals mix in a non-linear circuit, such as an oscillator or mixer.  When this occurs, predictable combinations of these frequencies can occur.  For example, the combinations 2A-B, 2B-A, and A+B-C might occur, where A, B, and C are the frequencies in operation.  If one of these combinations is close to the operating frequency of another system (or one of the original frequencies A, B, or C), then interference will result on that channel.  The solution to this problem is to manually calculate all of the possible products, or use a computer program that does this calculation automatically.
+
+===Digital===
+There are two commonly-used digital transmission schemes in use today:  Digital Hybrid and Pure Digital.
+
+Digital Hybrid systems use an analog [[FM]] audio signal in combination with [[Digital signal processing|digital signal processing (DSP)]] to enhance the system's audio.  Using DSP, it is easier to achieve a flat frequency response in the audio spectrum and to reduce noise and other undesirable effects. Since the audio is transmitted via [[FM]], these systems use 200-500 kHz of bandwidth.
+
+Pure digital systems may take various forms, but many systems use [[frequency-hopping spread spectrum]] technology, similar to that used for cordless phones. As this requires more bandwidth than an FM signal, these microphones operate in the 900 MHz or 2.4 GHz unlicensed bands. Unfortunately, this results in interference to and from wireless computer networks, Bluetooth devices, cordless phones, amateur radio operators, and many other things.
+
+Some of the digital wireless microphone systems use [[encryption]] technology to prevent eavesdropping.<ref>[http://www.telex.com/wirelessmicrophones/Product.aspx?MarketID=14&CategoryID=59&ProductID=141 Telex SAFE-1000 wireless microphone]</ref><ref>[http://www.lectrosonics.com/wireless/700/udr700.htm Lectrosonics UDR700 Encrypted wireless receiver]</ref>
+
+Manufacturers that offer digital wireless microphone systems include Audio-Technica, Lectrosonics, MIPRO,  Sony, and Zaxcom.
+
+==Licensing==
+In the UK, use of wireless microphone systems requires a license, except for the license free bands of 173.8 MHz - 175.0 MHz and 863 MHz - 865 MHz (N.B. This is emphatically '''NOT''' TV Channel 69. Channel 69 is from 854 - 862 MHz. In the UK Channel 69 frequencies '''do''' require a license from JFMG Ltd.: [http://www.jfmg.co.uk] ).
+
+The UK communications regulator, [[Ofcom]], has said it will auction part of the spectrum currently reserved for wireless microphones, to which objections have been raised by [[Andrew Lloyd Webber]]. [http://www.thisislondon.co.uk/theatre/article-23380406-details/Auction+of+airwaves+'will+end+musicals'/article.do] [http://www.theregister.co.uk/2007/01/04/luvies_disconnected/]
+
+Licenses are required to use wireless microphones on vacant TV channels in the United States as they are a part of the Broadcast Auxiliary Service (BAS).  However, this requirement is often overlooked and rarely enforced by the FCC.  However, the FCC has issued a Notice of Proposed Rulemaking stating that they will no longer allow Broadcast Auxiliary Service (BAS) devices to operate in the 698 - 806 MHz portion of the spectrum due to their auction of the 700 MHz band.  This change is unrelated to, but commonly confused with, the White Space device debate that is currently taking place in the US.
+
+There are currently some wireless microphone manufacturers that are marketing wireless microphones for use in the United States that operate in the 944 - 952 MHz Studio-Transmitter Link (STL) band.  These microphone have the potential to interfere with very fragile studio links, and their use must be coordinated by the [[SBE]].  Additionally, a license is required here and broadcasters are likely to report unauthorized use in this band due to the high potential for interference.
+
+In many other countries wireless microphone use requires a license. Some governments regard all radio frequencies as military assets and the use of unlicensed radio transmitters, even wireless microphones, may be severely punished.
+
+==White Space Devices (United States)==
+There is currently a movement to allow the operation of personal unlicensed, wideband digital devices in the UHF television spectrum in the United States.  These devices are backed by firms which seek to develop and deploy these devices as quickly as possible.  These '[[White space (telecommunications)|white space]]' devices will be required to have spectrum-sensing technology and/or [[Global Positioning System|GPS]] and access to a location database to avoid interfering with other users of the band.  Initial tests performed by the FCC have shown that in some cases, prototypes of these devices are unable to correctly identify frequencies that are in use, and may therefore accidentally transmit on top of these users.  Broadcasters, theaters, and wireless microphone manufacturers are firmly against these types of devices ostensibly for this reason.
+
+Later tests by the FCC [http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-08-2243A3.pdf] indicate that the devices can safely be used. This has not reduced the opposition by broadcasters who may also be concerned by the possibility of entertainment delivery competition from high-speed mobile Internet access delivered in the white spaces. 
+A decision on whether and under what rules to allow these devices is on the [http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-286427A1.pdf docket] for the November 4, 2008 meeting of the FCC.
+
+
+
+==References==
+<references/>
