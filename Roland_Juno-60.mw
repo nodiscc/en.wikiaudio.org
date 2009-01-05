@@ -1,0 +1,66 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  '''Roland Juno-60''' 
+This entry needs an image. Please add one
+|-
+| style="background:#cecece;" | 
+
+'''Specifications'''
+*Synthesis type: 	Analog Subtractive
+*Polyphony: 	6
+*Timbrality: 	Monotimbral
+*Oscillators: 	1 DCO per voice
+*(pulse, saw,square)
+*Filter: 	Analog 24dB/oct resonant
+*low-pass, non-resonant high-pass
+*Attenuator: 	1 ADSR envelope generator
+*LFO: 	triangle
+*Velocity sensitive: 	No
+*Aftertouch: 	No
+*External control: 	DCB
+*Memory: 	56 patches
+*Onboard effects: 	Chorus
+*Produced: 	1982-1984
+|}
+
+
+The '''Roland Juno-60''' is a popular analogue 61-key polyphonic synthesizer produced by Roland Corporation in the early 1980s and a successor to the slightly earlier Juno-6. Like its predecessor, the Juno-60 has some digital enhancements, used only for clocking the oscillators and for saving/loading patches. This instrument was succeeded by the Roland Juno-106 in 1984.
+
+Roland was losing market share with the Juno-6 in competition against the Korg Polysix. Related in features and price-class, the Polysix featured external control and patch memory, which the Juno-6 lacked in order to compete. These features were quickly added to the Juno-6's design, which sonically and architecturally did not change notably between the two versions, and then released as the Juno-60.
+
+
+== Features and synthesis architecture ==
+
+
+=== Tone generation ===
+The Juno-60 synthesizer is a six-voice polyphonic synthesizer. The single digitally-controlled oscillator (or DCO for short) gave the Juno-60 a high degree of stability in maintaining tune; most analogue voltage-controlled oscillators (VCOs) of the time would tend to drift in pitch and require re-tuning of the oscillator. The DCO provides sawtooth and square/pulse waveforms as a sound source, in addition to white noise and a square-wave suboscillator pitched one octave beneath the key played. Both of these additional sources can be mixed in with dedicated sliders.
+
+The filters and envelope on the Juno-60 rely on control voltages sent by depressing the keys on the keyboard and were thus analogue. The Juno-60 features a rather distinctive-sounding 24 dB/octave lowpass filter with resonance. Unlike some synthesizer lowpass filters of the day, the Juno-60's is capable of self-resonance and thus could be used to some degree as a tone generator in and of itself. The filter section also features controls for envelope amount and polarity, LFO modulation, and keyboard tracking. In addition, a three-position non-resonant highpass filter is provided to thin out lower frequencies.
+
+The signal is then sent through a voltage-controlled amplifier (or VCA) and a simple four-stage ADSR filter envelope.
+
+The Juno-60 provides limited options for modulating the audio signal. A single triangle-wave variable-rate LFO is provided as a modulation source; this can be mixed into the DCO to create vibrato or into the lowpass filter to generate a tremolo effect. The LFO can either be triggered manually by the left hand using a large button above the pitch bend lever or set to engage automatically whenever a key was pressed.
+
+
+== Other features ==
+
+The Juno-60, like the other Juno synthesizers, carries an on-board stereo chorus effect which, while noticeably noisy, adds a rather distinctive character to the sound of the instrument.
+
+In addition, the Juno-60 features an on-board up/down/up-down arpeggiator capable of spanning three octaves. The arpeggio speed can be controlled by either using a slider or an external trigger source.
+
+The Juno-60 also contains 56 memory slots to retain and instantly recall patch settings. Interestingly, the Juno-60's memory can be dumped to (or loaded from) a magnetic cassette tape simply by plugging a tape recorder into the appropriate jack in the instrument's rear. Patch information is being transmitted as an audio signal similar in quality to that produced by a computer modem.
+
+The Juno-60 is controllable with sequencers using proprietary DCB protocol, similar to MIDI, but different. Roland produced several DCB-enabled sequencers, or, alternatively, MIDI-to-DCB converters can be used to drive DCB-enabled synths. In the Juno-106, DCB support was dropped in favor of MIDI.
+
+Finally, there is the test mode (only explained in the service manual):
+
+To access the test mode, power up the Juno with the KEY-TRANSPOSE button pressed. You have three different key-assign modes while in test mode. You can select a key-assign mode with the arpeggio mode-switch (the switch has to be in the preferred position before powering up the Juno in test mode). Arpeggio mode-switch:
+
+UP - All 6 voices are assigned to the last key pressed. This puts the Juno in unison mode (also transforming it into a monosynth).
+
+UP/DOWN - The first key pressed might use voice 1, the next key pressed will use the next voice in the number order, and so on. If you keep 4 keys pressed and then release 3 of them, the next key will be assigned to voice 5. The available voices are always assigned in number order to the next key pressed, but the first key pressed doesn't necessarily assign voice 1.
+
+DOWN - The first key pressed will use voice 1, the next key will use voice 2 and so on. However, if you keep 4 keys pressed and then release 3 of them in this mode, the next key will be assigned to voice 1 (except when it's unavailable). The available voice with the smallest number will always be assigned to the next key pressed.
+
+==External Links==
+[http://www.juno60.htmlplanet.com Roland Juno-60 Patches]
