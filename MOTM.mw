@@ -1,0 +1,62 @@
+'''MOTM''' is the name of a modular synthesizer system manufactured by Synthesis Technologies.
+
+
+
+== History ==
+
+The MOTM system was created in 1998, and production continues
+
+
+== Specifications ==
+It uses a +-15 volt power supply for most modules, with a +5 volt power supply also required for some digital modules. The audio signals are the standard +-5 volts, peak to peak. Al of the modules use 1/4" jacks for audio/CV signals. The modules are all "5U" (1U being 1.75") high, and multiples of 1U wide. MOTM modules can be mounted in a standard 19" rack with MOTM rails, or can be mounted in custom cabinets, etc.
+
+
+== Frac Rack ==
+In early 2006, The "Frac Rack" series of modules were released, using 3.5mm jacks and a smaller overall form factor to fit in with PAiA Electronics and Blacet modular systems.
+
+
+== Modules ==
+The Modules are divided into categories, based on their function.
+*100 Series - VCA, Noise, etc
+**MOTM-100 Noise Generator/Sample & Hold (replaced by MOTM-101)
+**MOTM-101 Noise Generator/Sample & Hold
+**MOTM-110 VCA/Ring Modulator (replaced by MOTM-190)
+**MOTM-120 Sub Octave Multiplexer
+**MOTM-190 Micro-VCA
+*300 Series - Oscillators
+**MOTM-300 Ultra-VCO
+**MOTM-310 Micro-VCO
+**MOTM-320 VC-LFO
+**MOTM-380 Quad LFO
+**MOTM-390 Micro-LFO
+*400 Series - Filters
+**MOTM-410 Triple Resonant VCF
+**MOTM-420 MS-20 VCF
+**MOTM-440 Discrete OTA Voltage-Controlled Lowpass Filter with VC Resonance
+**MOTM-480 CS-80 VCF
+**MOTM-485 GX-1 VCF
+**MOTM-490 Transistor Ladder VCF
+*500 - Various 'Unusual' Modules
+**MOTM-510 Wavewarper (X*(Y/Z)^m analog function)
+*600 - Digital Source/Utility
+**MOTM-600 Sequencer (never released)
+**MOTM-650 MIDI to CV converter
+*700 - Analog Logic modules
+**MOTM-700 VC Router
+*800 - Utility modules
+**MOTM-800 ADSR Envelope Generator
+**MOTM-820 VC Lag Processor
+**MOTM-830 Dual-mode Mixer
+**MOTM-850 Pedal Interface
+**MOTM-890 Micro Mixer
+*900 - Power Supplies, Interconnects
+**MOTM-900 Standard +/- 15 Volt Power Supply
+**MOTM-910 Cascade Multiple
+**MOTM-940 Patch Panel
+**MOTM-950 +/-15, +5 Triple Power Supply
+
+== External links ==
+* [http://www.synthtech.com Synthesis Technologies], home of MOTM
+
+
+[[category:synths]]
