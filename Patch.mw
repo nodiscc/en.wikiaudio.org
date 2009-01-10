@@ -1,0 +1,8 @@
+'''Patch''' may refer to:
+
+'''1.''' An instrument sound, program or voice on a synthesizer or sampler.With MIDI capable devices it specifically refers to the sound(s) assigned to one or more of the 16 MIDI channels. This term comes from the roots of hardware synthesis, where physical cables where used to connect and route signals in a matrix to create a unique sound.
+
+Modern synthesizers can import or export patches via MIDI SYSEX commands. When a synthesizer patch is uploaded to a personal computer which has patch editing software installed, the user can alter the parameters of the patch and download it back to the synthesizer. In many cases the patch editing software on the computer has a better user interface than what is available using the synthesizer's controls alone.Because there is no standard patch language, it is rare that a patch generated on one synthesizer can be used on a different model synthesizer. However sometimes manufactures will design a family of synthesizers to be compatible. For instance, patches created on the Alesis ION can be used on the Alesis Micron.
+
+
+'''2.''' Cabled connection on a physical patch bay.
