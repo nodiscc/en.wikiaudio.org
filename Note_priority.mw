@@ -1,0 +1,9 @@
+On a synthesizer, '''note priority''' determines how the instrument's [[polyphony]] will be divided among incoming notes when there are more notes being played than the synthesizer has voices. There are four kinds of note priorities that are commonly used: last note, first note, highest note, and lowest note.
+
+With last note priority, notes are prioritized based on the order they are played in. When new notes are triggered while all voices are playing, the synthesizer frees up polyphony by ending the notes played least recently. This is the default mode on most synthesizers.
+
+With first note priority, earlier notes are not cut off to make room for later ones, and once maximum polyphony has been reached, the person playing the instrument must stop playing one or more notes in order to trigger new ones.
+
+In highest note priority, new notes that are higher in pitch than ones being already played replace currently playing notes from the lowest on up.
+
+Lowest note priority works in the same way, but cutting notes from the highest down.
