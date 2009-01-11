@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  '''Roland JD-990''' [[image:Roland_JD-990.png‎|thumb]]
+
+|-
+| style="background:#cecece;" | 
+
+'''Specifications'''
+
+*  Polyphony - 24 voices
+* Oscillators - 6MB of ROM waveform data (expandable to 16MB), 4 osc. per patch
+* Memory - 3 banks x 64 patches (expandable), 3 drum kits with 61 sounds
+* LFO - 2 per patch
+* Filter - TVF: Lowpass/bandpass/highpass-filters with resonance and envelopes
+* VCA - TVA envelopes and pitch envelopes
+* Effects - Delay, Reverb, Phaser, Distortion, Chorus, EQ
+* Keyboard - None
+* Arpeg/Seq - None
+* Control - MIDI (6-part + rhythm part multitimbral)
+* Date Produced - 1993
+* Est. Value - $750
+
+|}
+
+The '''Roland JD-990''' is a module version of Roland JD-800 synthesizer with expanded capabilities. JD-990 is a multitimbral synthesizer utilizing wave-table synthesis technology. It is equipped with 6 Mb of ROM containing wave-table, four sets of stereo outputs that are assignable to individual, internal, instruments, and standard MIDI in/out/through ports. JD-990 has a large LCD display and programming takes place through a keypad on the front panel of the unit. The unit can generate multitimbral sounds reminiscent of the vintage analog synthesizers but is also capable of generation of modern digital textures. There are several expansion boards available for JD-990 that can be installed in the provided expansion slot in the chassis of the unit.
+
+The JD-990, also known as Super-JD, had the following features which were not available on the JD-800:
+# Expanded wave ROM (6 MB vs. 4 MB)
+# Ability to use a 8 MB expansion board
+# 4 additional outputs
+# True stereo engine
+# Oscillator sync
+# Cross-modulation (FXM)
+# Oscillator structures that allow ring modulation and serial dual filters
+# Additional LFO waveforms
+# MIDI CC control of parameters
+# Tempo-sync delay
+# Polyphonic portamento
+# Performance memories
+# Additional multitimbral slots
+# One patch can keep full effects in multi mode
