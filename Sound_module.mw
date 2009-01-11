@@ -1,0 +1,21 @@
+[[image:Triton_rack.jpg‎|thumb| Korg Triton sound module]]
+
+A '''sound module''' (sometimes referred to as tone generator) is an electronic musical instrument without a human-playable interface such as a keyboard, for example. Sound modules have to be "played" using an externally connected device. The external device may be a controller, which is a device that provides the human-playable interface and may or may not produce sounds of its own, or a sequencer, which is computer hardware or software designed to play electronic musical instruments. Connections between sound modules, controllers, and sequencers are generally made with MIDI (Musical Instrument Digital Interface), which is a standardized protocol designed for this purpose.
+
+Sound modules may use any number of technologies to produce their sounds. A sound module may be a synthesizer, a sampler, a digital piano, or a rompler.
+
+Drum modules are sound modules which specialize in percussion sounds. Drum modules may be triggered by external trigger pads or pickups as well as through MIDI. Drum modules are distinguished from drum machines through their lack of dedicated on-board triggers and lack of an integrated sequencer.
+
+Sound modules are often rack-mountable, but might also have a table-top form factor.
+
+A sound module has the same advantages over a fully-integrated instrument as does any system with a modularized design:
+
+* Cost — a sound module is cheaper than a comparable instrument equipped with a controller
+* Space — a sound module takes up less room than an instrument equipped with a controller
+* Obsolescence cycles — when it becomes obsolete, a sound module can be replaced without changing a favorite controller, or vice versa.
+
+Because most electronic instruments are designed in a modularized way, manufacturers often release a sound module version of their fully-integrated instruments. A sound module may have all the other features of the controller-equipped version, but it often has a smaller display or limited programming controls. In this case, sounds can be loaded through MIDI or external media. In some cases, sound modules have expanded capacity for sounds in comparison to the controller-equipped version.
+
+Hardware sound modules have in recent years been replaced to a large extent with software equivalents.
+
+[[category:synths]]
