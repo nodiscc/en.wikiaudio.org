@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  '''Applied Acoustics Tassman 4''' 
+This entry needs an image.Please add one here.
+|-
+| style="background:#cecece;" | 
+
+'''Specifications'''
+
+*Polyphony - Up to 32 voices
+*Oscillators - Unlimited; Physically modeled sounds of vintage, electronic and acoustic sounds (Generators and resonators include acoustical objects - flute, mallets, organ, plectrum, beams, marimbas, membranes, plates, strings and tubes). Audio bit-depth and sample rates up to 24bit/192kHz.
+*Effects - Distortion, Delay, Flanger, Vocoder
+*Filter - Unlimited; Comb Filter, Lowpass1 (-6dB/oct); Lowpass2 (-12dB/oct); Bandpass2 (-6dB/oct), Highpass1 (-6dB/oct)
+*VCA - Unlimited; VCA, ADSR, Envelope
+*Memory - Unlimited; Huge synth and effect library - more than 50 synths and 1000 presets. Modules library for customizing or creating synths - effects, envelopes, filters, generators, inputs, outputs, MIDI, logic, mixers, resonators, selectors and sequencers. User expandable module library - reuse, organize and simplify patch building.
+*Macintosh - Mac OS 10.2 and higher - G4 733MHz - 128MB RAM - CoreAudio - VST, AU, RTAS
+*Windows/PC - Windows 98, ME, 2000, XP - Pentium III 1GHz - 64MB RAM - ASIO, MME - VST, DXi
+*Date Produced - 2004
+|}
+
+
+'''Tassman''' is a software synth studio based on Applied Acoustics Systems' physical modeling technology
+
+{{stub}}
+
+
+
+[[category:Applied Acoustics|Lounge Lizard]]
+[[category:synths]]
+[[category:Software instruments]]
