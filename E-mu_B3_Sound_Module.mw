@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  '''E-mu B3 Sound Module''' 
+This entry needs an image.Please add one here.
+|-
+| style="background:#cecece;" | 
+
+'''Specifications'''
+
+*Polyphony: 64 voice
+*MIDI: MIDI In, MIDI Out, MIDI Thru 
+*MIDI Channels: 16 
+*Presets: 512 user presets. (The number of ROM 
+*presets is determined by the sound SIMMs 
+*installed.) 
+*Filters: 2nd to 12th Order (50 different types) 
+*Audio Outputs: 2 polyphonic analog outputs 
+*Max. Output Level: +4 dB 
+*Output Impedance: 1000 Ohms 
+*Sound Memory: 32 MB (expandable to 64 MB) 
+*Data Encoding: 16-bit linear data, 20-bit ∆∑ 
+*Effects Engine: 24-bit internal processing 
+*Sample Playback Rate: 44.1 kHz 
+*Signal to Noise: >92 dB 
+*Dynamic Range: >90 dB 
+*Frequency Response: 20 Hz - 20 kHz (+2/-1 dB) 
+*THD + Noise: < 0.02%  (1kHz sine wave, A-weighting) 
+*IMD < 0.05% 
+*Stereo Phase Phase Coherent +/- 1º at 1 kHz 
+*Power Consumption: 15 Watts 
+*Voltage Input: 90VAC-260VAC at 50Hz-60Hz 
+*Dimensions H: 1.75 inches 
+*W: 19 inches 
+*L: 8.5 inches 
+*Weight 6 lb., 14 oz. (3.1 Kg)
+
+|}
+
+The Emu B3 is a rack mount sound module that attempts to emulate the sound and characteristics of the Hammond B3 organ.
+
+{{stub}}
+
+
+[[Category:E-mu Systems|B3 Sound Module]]
+[[category:synths]]
