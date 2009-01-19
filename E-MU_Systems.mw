@@ -1,0 +1,45 @@
+{{Unreferenced|date=April 2007}}
+
+'''E-mu Systems''' is a [[synthesizer]] maker and pioneer in the manufacture of low-cost digital sampling music workstations. 
+
+==History==
+Founded in 1971 by Scott Wedge and Dave Rossum, E-mu began making modular synthesizers. During this time they also created the digital scanning keyboard (1973) and with Solid State Microtechnologies developed several synthesizer module IC chips, that were used by both E-mu and many other synthesizer companies. In 1979 E-mu released the Audity, their first non-modular synthesizer. With a price of $69,200 (over $200,000 when adjusted for inflation) only one machine was ever produced. In this same year, Wedge and Rossum saw the Fairlight CMI at a convention and set about making a less expensive sampler. The Emulator debuted in 1981 at a list price of $7,900, less than the $30,000 Fairlight.
+
+Following the Emulator II and III, the company also began producing a line of rackmount modules called the E-mu Proteus, containing pre-recorded samples in ROM. At its introduction, the Proteus had a relatively large library of high-quality samples priced much lower than the competition. In 1988, E-mu's SP-1200 drum sampler offered an "all-in-one" box for sequencing not only drum sounds, but looping samples, and it quickly became the instrument of choice for hip-hop producers. In 1993 E-mu was acquired by Creative Technology (the Singaporean parent company of Creative Labs) and began working on PC soundcard synthesis. Throughout the 1990s E-mu made many different rackmount keyboard-less synthesizers. In 1998, E-mu was combined with Ensoniq, another Creative Technology acquisition. In 2001 the Proteus line of modules was repackaged in the form of a line of tabletop units, the XL7 and MP7 Command Stations, which featured 128-voice polyphony, advanced synthesis features, and a versatile multitrack sequencer. A complementary line of keyboard synthesizers was also released using the same technology. Subsequent products from E-mu were exclusively in software form. In 2004 E-mu released the Emulator X, a PC-based version of its hardware samplers with extended synthesis capabilities. While a PCI card is used for audio input and output, the algorithms no longer run on dedicated hardware but in software on the PC. Proteus X, a software-based sample player was released in 2005.
+
+==Non-Creative sound cards==
+During 2003-2005, E-mu designed and published a series of high-fidelity "Digital Audio Systems" (computer sound cards), intended for semi-professional / computer audio enthusiast use. They were released under the name E-mu, however bearing a "Creative Professional" label. The card names are number-coded: 0404, 1212m, 1616, 1616m, 1820 and 1820m, where 1616 is a CardBus version and the rest for PCI, while "m" denotes extra high - quality analogue outputs and inputs. The 1820m is touted as the series' flagship product. All of the cards have drivers for Microsoft Windows 2000 and up (32- and 64-bit). Apple Macintosh support appeared to be pending, but may have been affected by Apple's migration towards Intel.
+
+While the core DSP of the cards is the same as used in Creative's Sound Blaster Audigy2 cards (and hence capable of 24-bit 192 kHz PCM sound), official press releases for the E-mu sound cards have emphasized Creative's lack of input on the design, and the in-house development of the cards and drivers — that is, they wanted to distinguish their "own" series from Creative's signature Sound Blasters. Notably, the cards and drivers entirely omit internal wavetable MIDI synthesis, Creative's proprietary EAX sound routines and basically anything commonly associated with the parent company. Although the cards were rushed into market and originally came bundled with fairly raw drivers (which have subsequently received periodical major improvements and even additions beyond the advertised specifications), they have generally met with rather favourable reviews.
+
+== Timeline of major products ==
+*  1979 - Audity
+* 1981 - Emulator
+* 1983 - Drumulator
+* 1984 - Emulator II
+* 1985 - E-mu SP12 Drum Sampler
+* 1986 - Emax
+* 1987 - Emulator III
+* 1988 - E-mu SP-1200 Drum Sampler
+* 1989 - Proteus 1
+* 1993 - Morpheus
+* 1994 - Emulator IV / e 64
+* 1998 - Proteus2000
+* 1998 - E-mu APS (Audio Production Studio)
+* 1999 - E4 Ultra Samplers
+* 2001- XL7/MP7 Command Stations
+* 2003 - PCI Digital Audio Systems
+* 2004 - Emulator X
+* 2005 - CardBus Digital Audio Systems
+* 2006 - Emulator X2
+* 2006 - E-mu Xboard 25, 49, 61
+* 2006 - E-mu Proteus X
+* 2007 - DigitalSoundFactory acquires Proteus and Emulator sound library licenses
+* 2007 - DigitalSoundFactory remasters original Proteus and Emulator sound libraries
+
+==See also==
+* [[Sampler (musical instrument)|Sampler]]
+* [[sequencer]]
+
+==External links==
+*[http://www.emu.com/ E-MU Systems]
