@@ -1,0 +1,68 @@
+'''Csound''' is a computer programming language for dealing with sound, also known as a sound compiler or an audio programming language. It is called Csound because it is written in the C programming language, as opposed to some of its predecessors. Csound was originally written at MIT by Barry Vercoe, based on his earlier system called Music 11, which in its turn followed the MUSIC-N model initiated by Max Mathews at the Bell Labs. It is free software, available under the LGPL. Its development continued throughout the 1990s and 2000s, led by John ffitch at the University of Bath. The first documented version 5 release is version 5.01 on 2006.03.18. Many developers have contributed to it, most notably Istvan Varga, Gabriel Maldonado (who developed a variant of the system, CsoundAV, which includes image and graphics processing extras), Robin Whittle, Richard Karpen, Michael Gogins, Matt Ingalls, Steven Yi and Victor Lazzarini.
+
+Developed over many years, it currently has a vast number of opcodes/unit generators (modules) (over 1200), probably the largest number in any such system. One of its greatest strengths is that it is completely modular and expandable by the user. Csound is closely related to the underlying language for the Structured Audio extensions to MPEG-4, SAOL.
+
+
+
+
+== Csound Code ==
+
+
+Csound takes two specially formatted text files as input. The orchestra describes the nature of the instruments and the score describes notes and other parameters along a timeline. Csound processes the instructions in these files and renders an audio file or real-time audio stream as output.
+
+The orchestra and score files may be unified into a single structured file using markup language tags (a CSD file). Here is a very simple example of a unified Csound data file which produces a wave file containing a one second sine wave tone of 1 kHz at a sample rate of 44.1 kHz:
+
+
+
+  <CsoundSynthesizer>;
+ 
+  <CsOptions>
+    csound -W -d -o tone.wav 
+  </CsOptions>
+ 
+  <CsInstruments>
+    sr     = 44100           ; Sample rate.
+    kr     = 4410            ; Control signal rate.
+    ksmps  = 10              ; Samples pr. control signal.
+    nchnls = 1               ; Number of output channels.
+ 
+    instr 1 
+    a1     oscil p4, p5, 1   ; Simple oscillator. 
+           out a1            ; Output.
+    endin
+  </CsInstruments>
+ 
+  <CsScore>
+    f1 0 8192 10 1           ; Table containing a sine wave.
+    i1 0 1 20000 1000        ; Play one second of one kHz tone.
+    e
+  </CsScore>
+ 
+  </CsoundSynthesizer>
+
+
+
+As with many other programming languages, writing long programs in Csound can be eased by using an integrated environment for editing, previewing, testing, and debugging.
+
+
+
+
+
+==External links==
+* [http://www.csounds.com/ Official website] contains FAQs, manuals, programming examples, other front end programs, and misc other goodies. The mailing list archive is also a good place to find detailed information.
+* [http://sourceforge.net/projects/csound Project site] at Sourceforge
+* [http://csounds.com/manual/html/indexframes.html The Csound Manual] 
+* [http://www.csounds.com/matt/MacCsound/ MacCsound] is an integrated Csound programming environment for Macintosh.  
+* [http://www.anthonykozar.net/csound-macos/ Csound for MacOS Classic]
+* [http://gomba.sourceforge.net/flavio/csound-editor.html Csound Editor] is an integrated programming environment for Csound [Windows]. 
+* [http://www.ibiart.it/winxound WinXoundPro] another IDE for Csound.
+* [https://sourceforge.net/projects/dex-tracker Dex Tracker] Dex Tracker a tracker style front end for csound Including a grid editor and code generation tools, and the ability to save your favorite sounds and rhythms as presets
+* [http://www.csounds.com/stevenyi/blue blue] A music composition environment for Csound.
+* [http://bolprocessor.sourceforge.net/ Bol Processor] A music composition environment for Csound and MIDI
+* [http://www.robertinventor.com/software/tunesmithy/csound.htm Automated CSound Orchestra] Automated Csound orchestra building from individual instruments in csd format, convert midi to CSound, and record to Csound in real time (windows program)
+* [http://kymatica.com/algoscore AlgoScore] An algorithmic composition environment where one works in a graphical score, for Csound and MIDI.
+* [http://wiki.laptop.org/go/Csound Csound-OLPC] The Csound page in the OLPC wiki, with extra tutorials and XO-specific information and [http://wiki.laptop.org/go/Csound_TOOTS Dr.B's TOOTs]
+* [http://mitpress.mit.edu/e-books/csound/frontpage.html The Csound Book] edited by R Boulanger and the 3500+-instrument [http://csounds.com/shop/csound-catalog  Csound Catalog]
+* [http://www.csounds.com/cecilia Cecilia] a production frontend for Csound.
+* [http://www.ear.ie/Lettuce.htm Lettuce] a Windows frontend/editor for Csound5.
+* [http://linux-sound.org/cshelp.html Csound Helpers] A list of links to Csound helper applications, mostly for Linux.
