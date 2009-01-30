@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  <big>'''Native Instruments Absynth''' </big>
+This entry needs and image.Please add one here
+|-
+| style="background:#cecece;" | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Limit depends on CPU power
+*Oscillators - 3 oscillators (Preset Waveforms); Subtractive, FM, AM synthesis including 3 Ring Modulators and a WaveShaper; Freely drawable waveforms for oscillators
+*Filter - 4 filters per voice; Lowpass 6/12/24 dB/oct, Highpass 6/12/24 dB/oct, Bandpass, Notch, Comb
+*Envelopes - Many graphical envelopes with up to 68 breakpoints each
+*LFO - 3 LFOs; Freely drawable waveforms for LFOs
+*Keyboard - Virtual 86-note keyboard
+*Effects - Delay Effects, can be modulated by the 3 LFOs and MIDI controllers
+*Interfaces - Runs stand-alone and as a plug-in on Macintosh or PC; Supports VST 2.0, AudioUnits, DXi, ASIO, Soundmanager, CoreAudio, CoreMIDI, OMS
+*Macintosh - Mac OS 9.1 or higher, G3 400 MHz, 256 MB RAM; Mac OSX 10.2 or higher, G4 400 MHz, 256 MB RAM
+*Windows/PC - Windows XP, Pentium 500 MHz, 256 MB RAM
+*Date Produced - 2000 - By Rhizomatic Software
+Spring 2001 - Native Instruments
+
+|}
+
+
+
+'''ABSYNTH''' is a software synthesizer created by Native Instruments
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|Absynth]]
+
+[[category:software instruments]]
