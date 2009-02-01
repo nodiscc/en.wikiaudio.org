@@ -1,0 +1,64 @@
+In '''digital recording''', the analog sound signal is converted into a stream of discrete numbers, representing the changes in air pressure or chroma and luminance values through time; thus making an abstract template for the original sound.
+
+
+== History ==
+
+* In 1937, the British scientist Alec Reeves files the first patent describing Pulse-code modulation.
+* In 1943, Bell Telephone Laboratories developed the first digital scrambled speech transmission system, SIGSALY.
+* In 1957, Max Mathews of Bell developed the process to digitally record sound via computer.
+* In 1967, the first digital tape recorder was invented. A 12-bit 30 kHz stereo device using a compander (similar to DBX Noise Reduction) to extend the dynamic range.
+* In the 1970s, Thomas Stockham makes the first digital audio recordings using standard computer equipment, as well as developing a digital audio recorder of his own design, the first of its kind to be offered commercially (through Stockham's Soundstream company).
+* In 1972, Denon invented the first 8-track reel to reel digital recorder.
+* In 1979, the first digital Compact Disc prototype was created as a compromise between sound quality and size of the medium.
+* In 1979 the first digitally recorded album of popular music Bop 'Til You Drop by guitarist Ry Cooder was released by Warner Bros. Records. The album was recorded in Los Angeles on a 32-track digital machine built by 3M Corporation.
+* The first digital compact discs marketed in 1982.
+* In 1982, New England Digital offers the Sample-to-Disk option on the Synclavier — the first commercial hard disk recording system
+* In 1990, digital radio begins in Canada, using the L-Band.
+* DVD players begin selling in Japan in 1996.
+* In 1998, the first HDTV set went on sale, August 6, for $5,499
+* On January 5, 2004, the first HD car radio was sold in Cedar Rapids, Iowa.
+
+
+== Process ==
+'''Recording'''
+#The analog signal is transmitted from the input device to an analog to digital converter (ADC).
+#The ADC converts this signal to a series of binary numbers. The quantity of numbers produced per second is called the sample rate.
+#A bundle of wires transmits these numbers into storage onto recording media such as magnetic tape or hard drive or optical drive.
+
+'''Playback'''
+#The sequence of numbers is transmitted from storage into a digital to analog converter (DAC), which converts the numbers back to an analog signal.
+#this signal amplified and transmitted to the loudspeakers
+
+== Getting the bits recorded ==
+
+
+Even after getting the signal converted to bits, it is still difficult to record: the hardest part is finding a scheme that can record the bits fast enough to keep up with the signal. For example, to record two channels of audio at 44.1 kHz sample rate with a 16 bit word size, the recording software has to handle 1,411,200 bits per second.
+
+
+
+== Techniques to record to commercial media ==
+
+
+For digital cassettes, the read/write head moves as well as the tape in order to maintain a high enough speed to keep the bits at a manageable size.
+
+For CDs or DVDs, a laser is used to burn microscopic holes into the dye layer of the medium. A weaker laser is used to read these signals. This works because the metallic substrate of the disc is reflective, and the unburned dye prevents reflection while the holes in the dye permit it, allowing digital data to be represented.
+
+== Concerns with digital audio recording ==
+
+===Word Size===
+
+The number of bits used to represent a single audio wave (the word size) directly affects the distortion of a signal. Increasing a sample's word length by one bit doubles its possible values, likewise increasing the potential accuracy of each sample and the fidelity of the recording to the original. 24-bit recording is generally considered a current practical limit as this word length allows a signal-to-noise ratio exceeding that of most analog circuitry, which by necessity must be used in at least two points in the recording/playback chain.
+
+
+
+=== Sample rate ===
+
+
+The sample rate is even more important a consideration than the word size. If the sample rate is too low, the sampled signal cannot be reconstructed to the original sound signal. Hence the output will be different from the input. The process of under sampling results in aliasing whereby the high frequency components of the sound wave are represented as being lower than they should be. This causes the output wave shape to be severely altered.
+
+To overcome aliasing, the sound signal (or other signal) must be sampled at a rate at least twice that of the highest frequency component in the signal. This is known as the Nyquist-Shannon sampling theorem.
+
+
+== Error Rectification ==
+
+One of the advantages of digital recording over analog recording is its resistance to errors.
