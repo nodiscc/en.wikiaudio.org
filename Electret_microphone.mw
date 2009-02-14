@@ -1,0 +1,41 @@
+[[Image:Electret condenser microphone capsules.jpg|thumb|Electret condenser microphone capsules]]
+
+[[Image:Electret condenser microphone schematic.png|thumb|A typical electret microphone preamp circuit uses an Field effect transistor in a common source configuration.  The two-terminal electret capsule contains an FET which must be externally powered by supply voltage V<sub>+</sub>.  The resistor sets the gain and output impedance.  The audio signal appears at the output, after a DC-blocking capacitor.]]
+
+An electret microphone is a type of condenser microphone, which eliminates the need for a power supply by using a permanently-charged material.
+
+An electret is a stable dielectric material with a permanently-embedded static electric charge (which, due to the high resistance of the material, will not decay for hundreds of years). The name comes from electrostatic and magnet; drawing analogy to the formation of a magnet by alignment of magnetic domains in a piece of iron. Electrets are commonly made by first melting a suitable dielectric material such as a plastic or wax that contains polar molecules, and then allowing it to re-solidify in a powerful electrostatic field. The polar molecules of the dielectric align themselves to the direction of the electrostatic field, producing a permanent electrostatic "bias".
+
+
+
+== History ==
+
+
+Electret materials have been known since the 1920s, and were proposed as condenser microphone elements several times, but were considered impractical until the foil electret type was invented at Bell Laboratories in 1962 by Gerhard Sessler and Jim West, using a thin metallized Teflon foil. <ref>Juang, Lynn. "Foil Electret Microphone: Sessler & West (1960)". Bell Labs, Multimedia Communications Research Laboratory. http://www.bell-labs.com/org/1133/Heritage/Foil/. Retrieved on 19 January 2009.</ref> This became the most common type, used in many applications from high-quality recording and lavalier use to built-in microphones in small sound recording devices and telephones.
+
+Though electret mics were once considered low cost and low quality, the best ones can now rival capacitor mics in every respect apart from low noise and can even have the long-term stability and ultra-flat response needed for a measuring microphone. Few electret microphones rival the best DC-polarized units in terms of noise level, but this is not due to any inherent limitation of the electret. Rather, mass production techniques needed to produce electrets cheaply do not lend themselves to the precision needed to produce the highest quality microphones.
+
+
+
+
+== Types ==
+
+
+There are three major types of electret microphone, differing in the way the electret material is used:
+
+*'''Foil-type or diaphragm-type''' 
+A film of electret material is used as the diaphragm itself. This is the most common type, but also the lowest quality, since the electret material does not make a particularly good diaphragm.
+*'''Back electret''' 
+An electret film is applied to the back plate of the microphone capsule and the diaphragm is made of an uncharged material which may be mechanically more suitable for the transducer design being realized.
+*'''Front electret''' 
+In this newer type, the back plate is eliminated from the design, and the condenser is formed by the diaphragm and the inside surface of the capsule. The electret film is adhered to the inside front cover and the metalized diaphragm is connected to the input of the FET. It is equivalent to the back electret in that any conductive film may be used for the diaphragm.
+
+Unlike other condenser microphones electret types require no polarizing voltage, but they normally contain an integrated preamplifier which does require a small amount of power (often incorrectly called polarizing power or bias). This preamp is frequently phantom powered in sound reinforcement and studio applications. Other types simply include a 1.5V battery in the microphone housing, which is often left permanently connected as the current drain is usually very small.
+
+==notes==
+
+<references/>
+
+==References==
+
+Sessler, G.M.; West, J.E. (1962). "Self-biased condenser microphone with high capacitance". Journal of the Acoustical Society of America '''34''': 1787-1788.
