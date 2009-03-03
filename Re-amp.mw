@@ -1,0 +1,73 @@
+'''Reamping''' is a process often used in multitrack recording in which a recorded signal is routed back out of the editing environment and run through external processing or reverb chamber. Originally, the technique was used mostly for guitars: it facilitates a separation of guitar playing from guitar amplifier processing — a previously recorded audio program is played back and re-recorded at a later time for the purpose of adding effects, ambience, or modified tonality. The technique has since evolved to include many other applications. Re-amping can also be applied to other instruments and program, such as recorded drums, synthesizers, and virtual instruments.
+
+Examples of common re-amping objectives include musically useful amplifier distortion, room tone, compression, EQ/filters, envelopes, resonance, and gating. Re-amping is often used to "warm up" dry tracks, which often means adding complex, musically interesting compression, distortion, filtering, ambience, and other pleasing effects. By playing a dry signal through a studio's main monitors and then using room mics to capture the ambience, engineers are able to create realistic reverbs and blend the wet signal with the original dry recording to achieve the desired amount of depth. 
+
+The technique is especially useful for softening stereo drum tracks. By pointing the monitors away from each other and miking each speaker individually, the stereo image can be well-preserved and a new depth can be added to the track. It should be noted that it is very important to check that the microphones being used are in phase to avoid problems with the mix.
+
+== Example of re-amping ==
+A guitarist records a dry, un-processed, un-effected track in a recording studio. This is often achieved by connecting the guitar into a DI (direct inject) buffer box fed to a recording console or, alternatively, bypassing the console by using an outboard preamplifier. Often, the guitarist's signal is sent to both recorder and guitar amp simultaneously, providing the guitarist with a proper amplifier "feel" while also tracking a dry signal.
+
+At a later time, the dry, direct, un-processed guitar recording is fed to a bridging device (Reamp, reverse DI box, etc. – see Electronic Interfacing, below) to "re-record" the guitarist's unprocessed performance through a dedicated guitar amplifier and/or external effects box(es). The guitar amplifier is placed in the live room or isolation booth of the recording studio and is adjusted for desired tonal quality (distortion, room reverberation, etc.). A microphone is placed near the guitar speaker and a new track is recorded, producing the re-amplified, processed track. External effects (stomp boxes, pedals, virtual guitar processors, etc.) can also be added into the re-amping process.
+
+== Advantages of re-amping ==
+
+Re-amping allows guitarists and other electronic musicians to record their tracks and go home, leaving the engineer and producer to spend more time dialing in "just right" settings and effects on pre-recorded tracks. When re-amping electric guitar tracks, the guitarist need not be present for the engineer to experiment long hours with a range of effects, mic positions, speaker cabinets, amplifiers, effects pedals, and overall tonality – continuously replaying the pre-recorded tracks while experimenting with new settings and tones. When a desired tone is finally achieved, the guitarist's dry performance is re-recorded, or "re-amped," with all added effects.
+
+Manufacturers of instrument processing gear such as guitar effects, or equipment reviewers, can gather a library of dry performance tracks, performed and edited well, and then run these ideal tracks through the processing gear to demonstrate the sounds that the processing gear can produce.  An unlimited number of performance playback passes, including looping, enables trying out many combinations of settings quickly, including microphone techniques.
+
+When guitar amp or amp simulator designers try various circuit component values or settings, they can use the dry tracks as prepared, always-available input test signals, and consistent reference signals.
+
+== Electronic interfacing ==
+
+''Direct inject'' (DI) is a device or technique for connecting an unbalanced, high-impedance, low-level signal (commonly a guitar pickup) into audio equipment designed for a low-impedance balanced signal (such as a [[DAW]]). ''Reverse-DI'' means running this same device or technique in reverse – connecting a high-level (typically balanced, low-impedance) signal into audio equipment that was designed for low-level, unbalanced, high-impedance signals, such as a guitar amplifier.
+
+Playing back a signal from recording studio equipment directly into a guitar amplifier can cause unwanted side-effects such as input-stage distortion, treble loss or overemphasis, and ground-loop hum; thus there is sometimes a need for impedance conversion, level-matching, and ground alteration. Like running a guitar signal through a guitar effects pedal that is set to Bypass, re-amping introduces some degree of sonic degradation compared to playing a guitar live directly into a guitar amp rig.
+
+A re-amping device commonly employs a reversed Direct Inject (DI) transformer with some resistors added for level and impedance shift. Level and impedance adjustment can be achieved by adding a potentiometer or adjustable resistor. A proper re-amping device converts a balanced signal to an unbalanced signal, reduces a high studio-level (line-level) signal down to a low guitar-level signal, and shifts the output to a high instrument-level impedance (typically a guitar pickup impedance).
+
+In conventional re-amplification, a dry recorded signal is sent into a balanced XLR input. An unbalanced ¼" (Tip-Sleeve) phone connector is typically used for the output, which is connected to the guitar amp rig. Some re-amping devices offer a pad (attenuator) switch to reduce a too-hot output level.
+
+Sometimes a [[guitar effects|guitar volume pedal]] or buffered [[effects pedal]] can work adequately for re-amping, depending on grounding, levels, and impedance. Another approach to simulating the high impedance of a guitar pickup is to use a passive DI and add a 10 K-ohm resistor in series with the signal connection inside a 1/4" plug.
+
+== Terminology ==
+
+While "reverse DI" re-recording techniques have been used for decades, the process was popularized in part by the introduction of the Reamp device in 1993. The registered trademark "Reamp" describes a patented invention <ref> US patent|6005950 </ref> filed in 1994 by audio engineer John Cuniberti, perhaps best known for his lifelong engineering work with guitarist [[Joe Satriani]]. The Reamp inductively couples balanced line-level sources into unbalanced guitar-level destinations (e.g., DAW output to guitar amp input) and includes a potentiometer which alters both signal level and source impedance. Derivations of the Reamp trademark, such as "reamping" and "re-amplification," have become common terminology in professional audio to describe the process of amplified re-recording – much like the word "Band-aid" is often used to describe adhesive bandages
+
+== History ==
+
+The process of re-recording has been used throughout the history of recording studios. [[Pierre Schaeffer]] in the 1930s and 1940s used recorded sounds, such as trains, and played them back with ambient alteration, re-recording the net result. [[Karlheinze Stockhausen]] and [[Edgard Varèse]] later used similar techniques.<ref>Dilberto, John. [http://emusician.com/em_spotlight/Pioneers_Sampling/ Pierre Schaeffer & Pierre Henry: Pioneers in Sampling]. Electronic Musician Magazine, June 2005</ref>
+
+[[Les Paul]] and [[Mary Ford]] recorded layered vocal harmonies and guitar parts, modifying prior tracks with effects such as ambient reverb while recording the net result together on a new track. Les placed a loudspeaker at one end of a tunnel and a microphone at the other end. The loudspeaker played back previously recorded material - the microphone recorded the resulting altered sound.
+
+[[Roger Nichols (recording engineer)|Roger Nichols]] claims to have used a guitar re-recording process (not reverse DI) in 1968, partly to spread the stress on cranked tube amps across multiple amps, one at a time. A sound would be dialed-in for several hours on one cranked guitar amplifier, and if this stress audibly wore down the amplifier components, another amplifier would be used to record the remaining work.
+
+It's been noted that [[Phil Spector]], re-mixing the original Beatles’ ''Let It Be'' master tapes in 1970, may have re-recorded dry electric guitar program through a guitar amplifier.
+
+Film sound re-recording is a time-honored practice. Sound designer [[Walter Murch]] is known for a technique called "worldizing" in which "real world" ambience is added, via re-recording, to dry recorded program. Sound designer [[Nick Peck]] describes the worldizing process: "Place a speaker in a room or location with the desired aural fingerprint and position a microphone some distance from the speaker. Next, play back your original sounds through the speaker and re-record them on another recorder, capturing the sound with all the reverberant characteristics of the space. This requires much time and effort, but when only the most authentic reproduction will do, worldizing can get you there."<ref>Peck, Nick. [Worldizing http://www.filmsound.org/terminology/worldizing.htm]  Filmsound.org (date unknown)</ref>
+
+== Legal ==
+
+Radial and Millennia Media products use the Reamp patent, or a variant of the patent, under license. The Reamp Company acknowledges that words such as "reamping" have become generic/colloquial audio expressions, but asserts that the word ''Reamp'' remains their legally registered trademark.
+
+== See also ==
+
+* [[Recording studio]]
+* [[Isolation cabinet (guitar)]]
+* [[Distortion (guitar)]]
+* [[Guitar amplifier]]
+* [[Guitar speaker]]
+
+
+== Tutorials ==
+[[Snare drum: re-amping]]
+
+== External links ==
+* [http://reamp.com Reamp]
+* [http://www.mil-media.com/docs/products/td1.shtml Millennia TD-1]
+* [http://www.littlelabs.com/redeye.html Little Labs Red Eye]
+* [http://www.radialeng.com/di-xamp.htm Radial X-Amp]
+* [http://www.amptone.com/reamp.htm Re-amping a library of dry-guitar files]
+
+== References ==
+
+<references/>
