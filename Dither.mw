@@ -1,0 +1,3 @@
+'''Dither''' is an intentionally applied form of noise, used to randomize quantization error, thereby preventing large-scale patterns such as contouring that are more objectionable than uncorrelated noise. It is specifically used when converting digital audio data files from a higher bit depth to a lower bit depth.
+
+{{stub}}
