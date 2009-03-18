@@ -1,0 +1,117 @@
+For this tutorial we will focus on three main sections of the '''E4XT'''
+They are:
+*'''Multi''' 
+
+*'''Preset'''
+
+*'''Sample'''
+
+Additionally,the '''Master''' and '''Disk/Browse''' sections will be discussed as well.
+
+
+== Loading sounds ==
+
+
+For basic operation of the E4XT the first thing you need to do is load or sample sounds so you have something to work with.
+
+
+
+
+*To load sounds push the '''Disk/Browse''' button.
+
+This should take you to a menu that displays the internal hard drive or any external drives you might have connected.
+
+*Choose whatever drive that has the sound banks you wish to load by selecting the respective drive and then pushing  '''enter'''.
+
+You should see a list of folders. Choose a folder and push '''enter''' to view the contents of that folder.
+
+You should now be looking at banks of sounds.
+
+*Choose the bank you want and then choose the '''load''' option from the screen menu (Push F4).
+
+'''*''' If you wish to load individual presets and samples contained within a bank but not the entire bank itself choose a bank from the Disk/Browse menu and push '''enter'''. You will then be shown a list of '''presets''' ''contained within that bank''. If you choose a preset and then hit '''enter''' again, you will see a list of '''samples''' ''displayed within that preset''. If you wish '''you can use this hierarchy to load individual presets and samples''' by simply clicking on them and pushing the '''Load''' function (F4)
+
+== Sampling sounds ==
+
+The Sample function is divided into two sections.
+
+'''Manage''' and '''Edit'''.
+
+
+===To record a new sample=== 
+
+
+*Push '''Sample Manage'''
+*Push the button that corresponds to the "'''New'''" tab in the display menu ('''F3''').
+*Choose the inputs you will be sampling from. You do this by toggling the "'''Source'''" menu option to analog or digital. For analog recording if you want, you can change the gain of the signal by changing the value that says '''ADC Gain'''.
+*Select the amount of time the sampling will take place for. This is called "'''Length'''" in the display menu.
+
+
+Once you have proper levels you can sample in one of two ways, either '''Arm sampling''' or '''Force sampling'''.
+
+====Arm Sampling====
+
+Arm sampling is done by placing the Threshold ( listed as "'''Thresh'''" in the display) to a certain level.Push the "Arm" tab (F5) to begin Arm sampling.As soon as the signal breaks the threshold the E4XT will begin recording the input signal.
+Once it begins sampling hit the "Stop" tab (F1) when you want to stop.
+
+
+
+====Force Sampling====
+
+When the "Force" sampling tab is pushed (F6) the E4XT will begin sampling immediately.
+
+
+
+
+== Key mapping your samples ==
+
+When you are done sampling you will be promoted to [[keymap]] your sample in a preset.
+
+===Keymap directly after sampling===
+
+The easiest way to do this is to select the "range" function and choose "whitekey*vce" and then
+select the '''Low''', '''Orig''', and '''High''' note values to reflect where you would like this sample to be placed on the keyboard.
+
+===Keymap samples===
+
+To keymap samples push the '''Preset manage''' button. This should take you to a display menu that says '''Voices-Main'''. Choose a preset with the scroll wheel that you would like to keymap your samples in.
+
+Push the '''Preset Edit''' button.
+
+Choose a voice by selecting the respective V# using the up and down arrow keys (The voices are displayed with a V and then a designated number I.E. V1, V2, V3 etc..).
+
+You can create a new voice by pushing the "'''Utils'''" tab which is '''F1''' and then '''New''' which is F1 again.
+After you choose or create a new voice you can assign a sample to it by moving the cursor directly to the right of the voice, and then using the scroll wheel to choose a different sample.
+
+
+After you do this you can now keymap the sample.
+
+*First choose the key you would like the original sample pitch to play on but moving the cursor to the "orig" column and then using the scroll wheel to choose the respective note.
+
+*Push the '''Page Next''' button and then use the left / right arrow buttons to select the "low" column and choose a '''low''' key, then do the exact same thing for the '''high''' key. The display to the right of these options will show a visual representation of where the span of the sample will land on they keyboard.
+
+Once you're done doing this hit the exit button to take you back to the home screen.
+
+== Multi Mode (Assigning presets to channels) ==
+
+
+Once you have a bank or preset loaded you can then use the Multi mode feature to assign the presets to individual MIDI channels and play them (If you decided to  load individual samples instead or a bank or preset they must first be assigned to a preset in order to play them via Multi mode ).
+
+The way you assign presets to channels is:
+
+*First make sure you're in Multi Mode, you do this by pushing "mode" on the main page (if your not sure if you are on the main page simply push the "'''exit'''" button until nothing happens. This means you're on the main page.)
+
+
+*Push the button assigned to the '''Mode''' tab (F6).
+
+*Push the button assigned to the '''Multi''' tab (F6)
+
+You're now in Multi mode.
+
+
+To assign presets to channels simply pick a channel (the channels are displayed as Ch1,Ch2,Ch3 ....etc) , and then select the preset already assigned to it which will be directly to the right. You can now use the scroll wheel to choose a different preset for that channel.
+
+
+[[category:tutorials]]
+
+[[category:E-mu Systems]]
