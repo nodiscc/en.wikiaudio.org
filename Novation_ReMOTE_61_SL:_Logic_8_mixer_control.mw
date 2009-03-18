@@ -1,0 +1,13 @@
+To use the Novation ReMOTE 61 SL to control Logic 8's Mixer first make sure the Novation ReMOTE is connected to your computer via USB and is recognized by the Audio MIDI Setup.You also need to make sure the "Mixer automap" template is installed on the Novation ReMOTE SL (read below)
+
+#Open Logic and go to '''Logic Pro / Preferences / Control Surfaces / Setup'''.Click '''New''' from the top of the opening window, and choose '''scan all models'''. Logic should find the Novation ReMOTE  & should display an icon in the window to signify this.
+#On the Remote 61 SL push the "Template" button.
+#On the far upper left of the ReMOTE you should see two Arrow keys, one pointing up and one pointing down, ''push the one pointing up''.You should then see a window which says "Template" with a number designated to it. Change the Template name and number until you see the one titled "'''Mixer Automap'''". You can do this by twisting the knob below the word "'''template'''".
+#Push the '''Play''' button on the Novation ReMOTE
+
+
+You should now be able to control Logic 8's mixer using the parameters on the Novation.Open the mixer ,add a few audio tracks and move the Novation ReMOTE's faders to test it out.
+
+
+[[category:tutorials]]
+[[category:Logic]]
