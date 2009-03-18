@@ -1,0 +1,11 @@
+[[image:Soundtrack_Pro_time_selection.png‎|thumb| Time Stretch Selection]]
+#If you are in the main tracks view window double click the region you wish to edit so that it is viewable in the waveform editing window.
+#On the tool bar [[image:SoundTrack_Pro_ToolBar_.png‎]] click the Audio Stretching Tool [[image:Soundtrack_Pro_time_stretch_tool.png‎]] 
+#In the waveform display make a selection of the part you want to time stretch 
+#Move the pointer over the right edge of the selection. The pointer will change to become a ''stretch pointer''.
+#Drag the right edge of the selection left to shorten the selected area, or drag it right to lengthen the selected area.
+
+[[category:tutorials]]
+
+
+[[category:Soundtrack Pro|Time stretching]]
