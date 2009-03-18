@@ -1,0 +1,41 @@
+This tutorial is designed to give the reader a quick and simple overview on how to access the 16 MIDI channels of the '''MOTIF ES''' and how to assign different patches to them. For more in-depth information on how to customize the internal sounds see the owners manual.
+
+
+'''Multimode'''
+
+Multimode on the Yamaha Mofit ES is a multitimbral mode that is a saved snapshot of all patches assigned to all 16 MIDI channels as well as other channel related parameters.
+In other words when you are in multi mode the preset displayed on the front screen encompasses a snapshot of all 16 midi channels with their respective patch (voices) assignments as well as other settings.
+To access and edit the parameters stored ''inside'' the Multi Mode preset do the following.
+
+*Make sure the '''Multi''' button is pushed and is lit up orange.
+*Select a preset you wish to edit by selecting it using the scroll wheel.
+*Press the '''Multi'''  button until it is red.
+
+This takes you "inside" the preset you were just looking at.
+
+Move the '''< page >''' buttons to access 
+The different menus.
+
+once you're in a menu push the following buttons to navigate:
+
+*'''< page >'''
+*(hold down) '''Shift''' push: ''' <part>'''
+* The up and down arrows to the far left next to the scroll wheel.
+After you push the '''< Page >''' buttons you will see the menu names listed in the '''upper right''' of each respective menu.
+They are 
+*'''Voice'''
+This menu is where you choose which patch (voice) gets assigned to which channel.
+*'''Output''' 
+This is where you change the volume and pan of each channel
+*'''Effect'''
+This is where you add effects and change effect settings for each channel.
+
+
+== Storing ==
+
+
+After you change your settings you need to "store" them .
+To do this:
+Hold down '''Shift''' and push '''Store'''
+You will then be prompted to push '''Enter''' Twice
+[[category:tutorials]]
