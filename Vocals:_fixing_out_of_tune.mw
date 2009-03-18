@@ -1,0 +1,62 @@
+==When are Vocals Out of Tune?==
+
+Depending on the style of music and on the purpose of the recording, there are different criteria for judging whether a vocal track is out of tune.
+
+Here are some suggested criteria for different genres:
+
+===Singer Songwriters===
+
+Singer Songwriters tend to do a lot of sliding and slightly out of tune singing.  This is generally not a problem and in fact, the music wouldn't sound right if everything were "perfectly" in tune.  The loose feel that can come with slightly inaccurate pitch is part of what makes this genre so personal.
+
+*Recommendation:  Only use pitch correction if the note is wrong by a full half step or more (and bypass it for the rest of the track).
+
+===Harmonies===
+
+Pitch can be more of a problem when the same singer does multiple vocal harmonies or when recording backup singers.  More precise pitch for the background vocals can be very important.
+
+*Recommendation:  Use pitch correction lightly to make sure the background harmony is close to perfectly in tune.  The lead vocal can be a little loose, but correct it if it is close to a full half step out of tune.
+
+===A Cappella (Voice Without Accompaniment) Vocals===
+
+Often singers will change keys during a cappella performances and not notice.  This is generally not a problem as long as they stay relatively in tune with themselves.  However, for things like making operatic demos, which are often used as audition pieces, it is important that the singer stay in the same key.
+
+*Recommendations:  If the purpose requires the singer stay in the same key, use pitch correction software to detect problems areas and have the singer rerecord those sections.  Using the pitch correction software will cause artifacts that are not as noticeable when a singer is not singled out, but when played solo they can become a big problem.
+
+==Software Options==
+
+===Antares AutoTune===
+
+Antares AutoTune is widely used to correct pitch problems.  It is pricey, but can save a recording in a pinch.  Depending on how heavily it is used, it will leave artifacts in the track which will tip off listener that AutoTune was used.  In the worst cases, it will also make the track sound robotic or otherwise odd. But if excessive use is done intentional this excessive use of autotune can be heard in some electronic music and is a vocal sound unto itself.
+
+===Digital Performer===
+
+MOTU's [[Digital Performer]] has built in pitch correction.  It allows you to change the pitch of any properly isolated track and analyze pitch problems in an intuitive visual manner.  However, using it heavily, just like AutoTune, will cause artifacts and distortion of the sound.
+
+===Melodyne===
+Melodyne is not realtime and has to be set and then placed into place, but does have advantages over some of the other pitch correction tools. It treats vibrato and pitch differently allowing you to control one without the other and can account for "swoops" up to a note.
+
+
+
+==Online Option==
+
+In 2007, the world's first online vocal tuning service, VocalTuning.com, was set-up. The sote offers an alternative way to get vocals tuned professionally without having to learn software. Clients send their vocal files to the web site and have them returned as tuned vocals.
+
+==Tips==
+
+*For pitch correction to work properly, it is best to isolate the track.  That means there must be no [[bleed]] from other instruments.  For instance, when recording a singer songwriter playing the guitar, often the guitar sound will bleed into the vocal track.  When attempting to do pitch correction, the guitar will muddle the pitch analysis and be altered if any pitch correction is attempted.  The result is an in tune vocal but an out of tune and strange sounding guitar.
+
+*When using autotune, automate the bypass switch, then only turn it on only when you hear it is needed, that way it isn't correcting where natural tonal inflections in the vocal are happening. 
+
+*The cheapest form of DIY autotune available is to duplicate the track twice, and then pitch the two new tracks up and down a half step, then slowly mix the two in and see if it corrects some of the pitch problems. you can even mix in one or the more strongly in certain sections to pull it up or down. 
+
+*Sometimes putting a short delay on the vocal can also work to smooth out tonal problems. (less than 30ms)  also adjusting the EQ and level of reverb can sometimes effect pitch.
+
+[[category:tutorials]]
+
+
+==See also==
+[[Melodyne 3.2.2: Note correction (basic)]]
+
+== References ==
+
+[http://www.wikirecording.org/Fixing_Out_of_Tune_Vocals Wikirecording]
