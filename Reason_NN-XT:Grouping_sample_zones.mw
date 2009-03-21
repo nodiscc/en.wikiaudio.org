@@ -1,0 +1,36 @@
+'''1.'''Select the zones you want to group together in the remote editor panel.
+You can do this by holding shift and selecting the different zones. The zones don't have to be contiguous. 
+
+[[image:Zones selected NN-XT.png]]
+
+
+
+
+
+
+'''2.'''Select “'''Group Selected Zones'''” from the Edit menu.
+
+
+
+[[image:Edit group menu Reason .png]]
+
+
+
+
+
+
+The zones are now grouped and will behave accordingly when edited (in the image below the notes have been moved)
+
+The image below shows the  bar to the left of the zones shaded (we highlighted in red for clarity) which signifies these zones have been grouped. Contrast that with the image above where the shading spans all zones which shows that no groups have been created. 
+
+
+
+
+
+[[image:NN-XT group created.png]]
+
+
+
+[[category:tutorials]]
+
+[[category:reason|NN-XT]]
