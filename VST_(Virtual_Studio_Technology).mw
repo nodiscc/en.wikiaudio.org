@@ -1,0 +1,12 @@
+'''Steinberg's Virtual Studio Technology (VST)''' is an interface for integrating software audio synthesizer and effect plugins with audio editors and hard-disk recording systems. VST and similar technologies use Digital Signal Processing to simulate traditional recording studio hardware with software. Thousands of plugins exist, both commercial and freeware, and VST is supported by a large number of audio applications. The technology can be licensed from its creator, Steinberg.
+
+
+
+== Overview ==
+VST plugins are generally run within a Digital Audio Workstation, providing the host application with additional functionality. Most VST plugins can be classified as either instruments (VSTi) or effects, although other categories exist. VST plugins generally provide a custom GUI, displaying controls similar to the physical switches and knobs on audio hardware. Some (often older) plugins rely on the host application for their UI.
+
+VST instruments include software emulations of well-known hardware synthesizer devices and samplers, emulating the look of the original equipment and its sonic characteristics. This enables VSTi users to use virtual versions of devices that may be otherwise difficult to obtain.
+
+VST instruments require notes to be sent via MIDI in order to output audio, while effect plugins process audio data (some rare effect plugins do require a MIDI input too though, for example they might use MIDI sync to sweep the effect in sync with the tempo). MIDI messages can often also be used to control parameters of both instrument and effect plugins. Most host applications allow the audio output from one VST to be routed to the audio input of another VST (known as chaining). For example, output of a VST synthesizer can be sent to a VST reverb effect for further processing.
+
+Appropriate hardware and drivers, such as a sound card that supports ASIO, VST plugins can be used in real-time. ASIO bypasses Windows' slower audio engine, offering much lower latency.
