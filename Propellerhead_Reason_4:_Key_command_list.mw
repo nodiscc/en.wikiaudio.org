@@ -1,0 +1,428 @@
+
+This is the '''Key commands''' list for Propellerhead Reason 4. The action is listed first and the commands are directly below them.
+
+=General Keyboard Shortcuts=
+
+
+== Toggle Rack front/rear==
+Tab
+
+
+== Maximize/restore Rack ==
+[Command]/[Ctrl]+[1]
+
+== Maximize/restore Sequencer ==
+[Command]/[Ctrl]+[2]
+
+== Create new Song ==
+[Command]/[Ctrl]+[N]
+
+== Open Song ==
+[Command]/[Ctrl]+[O]
+
+== Save Song ==
+[Command]/[Ctrl]+[S]
+
+== Save Song As ==
+[Shift]-[Command]/[Shift]- [Ctrl]+[S]
+
+== Close Song ==
+[Command]/[Ctrl]+[W] 
+
+== Quit ==
+[Command]/[Ctrl]+[Q]
+
+== Undo ==
+[Command]/[Ctrl]+[Z]
+
+== Redo ==
+[Command]/[Ctrl]+[Y]
+
+== Delete Devices and Tracks (without warning). ==
+[Command]/[Ctrl]+[Del] or [Command]/[Ctrl]+[Backspace] 
+
+== Delete Devices and Tracks ==
+[Del] / [Backspace]
+
+== Select All ==
+[Command]/[Ctrl]+[A]
+
+== Create Instrument ==
+[Command]/[Ctrl]+[I] 
+
+== Create Effect ==
+[Command]/[Ctrl]+[F]
+
+== Browse Patches for selected device. ==
+[Command]/[Ctrl]+[B]
+
+== Select rack when rack and sequencer are sepa-rated. ==
+[Command]/[Ctrl]+[1]
+ 
+== Select sequencer when rack and sequencer are separated. ==
+[Command]/[Ctrl]+[2]
+
+== Show/Hide cables ==
+[L] 
+
+== Follow Song on/off ==
+[F] 
+
+== Show/hide Tool window ==
+[F8] 
+
+== Insert Instrument (Windows only) ==
+[Insert] 
+
+== Hide Reason (Mac OS only) ==
+[Command]-[H] 
+
+== Minimize Reason (Mac OS only) ==
+[Command]-[M] 
+
+== Open Preferences (Mac OS only) ==
+[Command]-[,] 
+
+== Cut Track & Device (device or track selected), Cut Clip or Event (depending on current selection). ==
+[Command]/[Ctrl]+[X]
+
+== Copy Track & Device (device or track selected), Copy Clip or Event (dependng on current selec-tion).==
+[Command]/[Ctrl]+[C]
+   
+== Paste Track & Device, Paste Clip or Event. ==
+[Command]/[Ctrl]+[V]
+
+
+
+
+= General modifier keys = 
+
+
+
+
+== Disable autorouting of device. ==
+[Shift]+Create device
+
+== Fold/unfold all devices. ==
+[Option]/[Alt]+Fold/un-fold device 
+
+== Fold/unfold all tracks. ==
+[Option]/[Alt]+Fold/un-fold track 
+
+== Select multiple devices/events/clips/tracks. ==
+[Shift]+Select
+
+== Increase precision when making settings. ==
+[Shift]+Move fader/knob
+[Command]/[Ctrl]+Click 
+fader/knob 
+[Option]/[Alt]+Create de-
+vice 
+
+== Reset parameter to default value. ==
+[Command]/[Ctrl]+Click fader/knob 
+
+== Prevent creation of Sequencer-track for devices that normally will get a track. Create Sequencer-track for devices that normally will not get a track. ==
+[Option]/[Alt]+Create de-vice
+
+
+
+
+=Sequencer Keyboard short-cuts=
+
+
+
+
+
+
+== Toggle Arrange/Edit view. ==
+[Shift]+[Tab] or 
+[Command]/[Ctrl]+[E] 
+
+==Toggle Arrow/Pencil tool, Eraser/Pencil tool. Toggle Magnifying Glass/Hand tool. ==
+[Command]/[Alt] 
+
+==Select Arrow tool. ==
+[Q] 
+
+==Select Pencil tool.== 
+[W] 
+
+==Select Eraser tool.== 
+[E] 
+
+==Select Razor tool.==
+[R] 
+
+==Select Magnifying Glass tool. ==
+[T] 
+ 
+==Select Hand tool. ==
+[Y] 
+
+==Quantize notes.==
+[Command]/[Ctrl]+[K] 
+
+==Duplicate Track & Device (device or track selected). Join Clips.==
+[Command]/[Ctrl]+[D] 
+
+==Merge Note Lanes om Tracks.== 
+[Command]/[Ctrl]+[J] 
+ 
+==Mute/Unmute Clips. ==
+[Command]/[Ctrl]+[R] 
+
+==Snap on/off.== 
+[M] 
+
+==Toggle Pencil/Line tool (velocity edit lane only).==
+[S] 
+
+==New Alt== 
+[Option]/[Ctrl] Numberpad [6] or [.] 
+
+==New Dub== 
+Numberpad [3]  or [,] 
+
+==Vertical zoom in== 
+[Shift]-[Command]/[Shift]
+[Ctrl]+[+] 
+
+==Vertical zoom out== 
+[Shift]-[Command]/[Shift]
+[Ctrl]+[–]
+
+
+=Sequencer modifier keys=
+
+== Create automation lane for parameter. If device has  no track, a track will also be created. ==
+[Option]/[Alt]+Click knob/fader/button
+
+== Restrict movement direction to either horizontal or vertical. ==
+[Shift]+Move events/clips
+
+== Copy data instead of moving it.==
+[Option]/[Ctrl]+Move data
+
+== Set Left Locator in ruler. ==
+[Option]/[Ctrl]+Click 
+
+== Set Right Locator in ruler. ==
+[Command]/[Alt]+Click 
+
+== Set End Marker in ruler. ==
+[Shift]+Click 
+
+== Switch to zoom out with the Magnifying Glass tool in-stead of zoom in (with either the Magnifying Glass-or the Hand tool selected). ==
+[Option]/[Ctrl]+Click 
+
+== Limits movement to one direction only. Horizontal or vertical. ==
+[Shift]+Drag with Hand 
+tool or Eraser tool 
+
+== Disables vertical zooming. Horizontal zoom only. ==
+[Shift]+Zoom with 
+Magnifying Glass tool
+
+
+
+=Arrow keys=
+
+
+==Select next device up or down (rack selected), select next track up or down (track list selected), select clip on next/previous lane (Arrange view selected).== 
+Arrow  up/down keys
+
+==Select next/previous clip on lane (Arrange view se-lected), select next/previous value field (Position dis- plays).== 
+Arrow  left/right keys 
+
+==Nudge selection one Snap unit back/forward.== 
+[Command]/[Ctrl]+Arr left/right keys
+
+==Nudge selection one Beat back/forward.== 
+[Shift]-[Command]/[Shift] [Ctrl]+Arrow left/right 
+keys 
+
+==Nudge selection one Tick back/forward.== 
+[Option]-[Command]/[Alt]-[Ctrl]+Arrow left/right keys
+
+
+
+=Transport keyboard short-cuts= 
+
+
+==Stop, Go to start position, Go to start of Song.== 
+Numberpad [0]
+
+==Play== 
+Numberpad [Enter] 
+
+==Record== 
+Numberpad [*]
+
+==Rewind==
+Numberpad [Num Lock] 
+
+==Go to Loop Start==
+Numberpad [1] 
+
+==Go to Loop End==
+Numberpad [2] 
+
+==Go to Next Bar/Fast Forward==
+Numberpad [8] 
+   
+==Go to Previous Bar/Rewind==
+Numberpad [7] 
+
+==Tempo Up==
+Numberpad [+] 
+  
+==Tempo Down==
+Numberpad [-] 
+
+==Stop/Play==
+[Spacebar] 
+
+==Toggle Metronome click on/off==
+[C] or Numberpad [9] 
+ 
+==Loop on/off== 
+Numberpad [/]
+
+
+
+=Matrix keyboard short-cuts= 
+
+
+==Cut Pattern.== 
+[Command]/[Ctrl]+[X]
+
+==Copy Pattern.==
+[Command]/[Ctrl]+[C] 
+
+==Paste Pattern.== 
+[Command]/[Ctrl]+[V] 
+
+==Shift Pattern Left.==
+[Command]/[Ctrl]+[J] 
+
+==Shift Pattern Right.== 
+[Command]/[Ctrl]+[K] 
+
+==Shift Pattern Up.==
+[Shift]-[Command]/[Shift]-[Ctrl]+[U] 
+   
+==Shift Pattern Down.== 
+[Shift]-[Command]/[Shift]-[Ctrl]+[D] 
+
+==Randomize Pattern.==
+[Command]/[Ctrl]+[R] 
+
+==Alter Pattern.== 
+[Command]/[Ctrl]+[T]
+
+
+=Matrix modifier keys= 
+
+==Allows you to draw lines and ramps.==
+[Shift]+Draw Key/Curve values 
+
+==Temporarily toggles Tie mode on/off.== 
+[Shift]+Draw Gate
+
+
+
+=Redrum keyboard short-cuts= 
+
+
+==Cut Pattern.==
+[Command]/[Ctrl]+[X] 
+
+==Copy Pattern.==
+[Command]/[Ctrl]+[C] 
+ 
+==Paste pattern.==
+[Command]/[Ctrl]+[V] 
+  
+==Shift Pattern Left.==
+[Command]/[Ctrl]+[J] 
+ 
+==Shift Pattern Right.==
+[Command]/[Ctrl]+[K] 
+
+==Randomize Pattern.==
+[Command]/[Ctrl]+[R] 
+ 
+==Alter Pattern.==
+[Command]/[Ctrl]+[T]
+
+
+
+
+
+=Redrum modifier keys= 
+
+==Enter Hard note when programming Pattern.== 
+[Shift]+Click Pattern Step button 
+
+
+==Enter Soft note when programming Pattern.== 
+[Option]/[Alt]+Click Pattern Step button
+
+
+=Dr. Rex modifier keys=
+
+==Audition slice.== 
+[Option]/[Alt]+Click slice in overview 
+
+=NN-19 modifier keys= 
+
+==Audition sample.==
+[Option]/[Alt]+Click in keyboard display 
+
+=NN-XT keyboard short-cuts=
+
+==Remove zone(s) from key map.== 
+[Delete] or [Backspace]  
+ 
+
+=NN-XT modifier keys= 
+
+
+==Audition sample. In sample column, at root pitch and unprocessed. In keyboard column, at corresponding pitch and with processing applied.==
+[Option]/[Alt]+Click in sample column or keyboard column 
+
+
+==Set root note of sample with edit focus.==
+[Command]/[Ctrl]+Click in keyboard column
+
+
+=Save dialog keyboard short-cuts= 
+''These key commands can be used in the save dialog that appears if you close a 
+song document that contains unsaved changes:''
+
+==Mac OS keys==
+===Cancel.===
+[Command]+[.]
+
+===Yes (save song).===
+[Command]+[S] 
+ 
+===No (do not save song).===
+[Command]+[D]
+
+==Windows keys==
+
+===Cancel.=== 
+[Esc] or [C] 
+
+===Yes (save song)===
+[Y] 
+
+===No (do not save song).===
+[N]
+
+
+[[category:reason]]
+
+[[category:key commands]]
