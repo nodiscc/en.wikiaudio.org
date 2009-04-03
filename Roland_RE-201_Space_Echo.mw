@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''Roland RE-201 Space Echo''' </big>
+[[Image:Roland RE201 Face.JPG|thumb|left]]
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 4 inputs, 1 output, 1 phones
+*Oscillators - None (Continuous Tape Loop)
+*LFO - n/a
+*Filter - n/a
+*VCA - n/a
+*Memory - None
+*Keyboard - n/a
+*Control - None
+*Date Produced - 1973 - 1988
+|}
+
+The '''Roland RE-201''', commonly known as the Space Echo, is an audio analog delay effects unit.
+
+
+
+
+==Operation==
+
+A tape echo device records incoming audio to a [[loop]] of [[magnetic tape]], then replays the audio over a series of several playback heads before it is erased again by new incoming audio. The tape used in the RE-201 is the standard 1/4" tape of the open-reel variety, but made as one, continuous loop. In the Roland 'RE' range there are no reels of any kind, the tape is transported via a capstan drive. The tape loop is contained in a loose, constantly moving jumble in the tape chamber (also known as the tape tank) under a plastic panel which protects the tape and keeps it from getting tangled. The replacement tapes were known as Roland RT-1L replacement tape loops and sold by Roland.<ref>Page 4, Roland RE-501 Owners Manual</ref>
+
+There are several control dials on the device that alter such aspects as tape speed, repeat pattern (an 11-position rotary switch), one instrument and two microphone inputs, a single analog backlit VU meter for all three inputs, wet/dry mix for both echo and reverb, and intensity (number of repeats; in a sense, it actually reduces how much the erase/record head erases the tape), that can be adjusted to a user's liking; and bass/treble controls to EQ the sound of the repeats (not the dry signal), as well as dry and effected "Echo" output jacks with a switch for output setting (-10, -20, -35db levels.)
+
+Used as a delay/echo, the Roland RE-201 is said to produce an unpredictable delay that is warm and gritty sounding. It is also capable of producing a large variety of its own sound effects, even without an input signal (by turning the intensity control to maximum and allowing the unit to self-regenerate, or self-oscillate, while manipulating the tape speed and other controls).
+
+
+==References==
+<references/>
+
+
+[[category:outboard processors]]
+[[category:Roland|RE-201 Space Echo]]
