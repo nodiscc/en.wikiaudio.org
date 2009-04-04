@@ -1,0 +1,36 @@
+
+=Reason 4: Adding an effects send & return=
+
+'''1.''' Open up an empty Reason session and select the mixer. 
+
+
+
+
+[[Image:Reason mixer selected.png|600px]]
+
+
+
+
+
+'''2.''' Go to the create menu and select an effect such as a reverb or distortion module.
+
+
+
+[[Image:Reason reverb select.png|600px]]
+
+
+
+
+
+
+This should automatically connect the effects module as an aux send/return to the mixer. You can look at the connections by hitting the '''TAB''' button
+
+
+
+
+[[Image:Reason reverb module connections.png|600px]]
+
+
+[[category:reason|effects]]
+
+[[category:tutorials]]
