@@ -1,0 +1,18 @@
+'''1.''' Select a region 
+
+'''2.''' Select the scissor tool  (you can do this via key command '''ESC''')
+
+'''3.''' Hold down '''Option''' and make a cut to the region. The region should be cut consecutively. The cuts are based on the current quantization value. If the procedure doesn't seem to work, or works at a grid value other than what you want, choose a quantization value that corresponds to the cut you are trying to make.
+
+
+The end result should look similar to the image below
+
+
+[[Image:Logic consecutive cuts.png]]
+
+
+
+[[category:logic|Making consecutive cuts to a region]]
+
+
+[[category:tutorials]]
