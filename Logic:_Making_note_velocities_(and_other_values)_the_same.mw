@@ -1,0 +1,21 @@
+'''1.'''  Select the notes you wish to affect and make sure they are selected in the '''Event List''' editor. You can do this conveniently by selecting them in the piano roll editor and then opening the '''Event List''' editor ( '''Windows/Event List''') and the same notes will be selected.
+
+
+
+'''2.'''  Hold '''option/shift''' and then in the '''Event List''' editor click, hold and scroll the values of the notes you wish to turn to similar values (such as velocity, length, note number etc) 
+
+
+
+This will make the values the same.
+
+
+
+
+
+
+
+[[Image:Logic Piano Roll and Event list.png]]
+
+[[category:tutorials]]
+
+[[category:logic|N]]
