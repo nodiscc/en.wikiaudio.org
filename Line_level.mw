@@ -1,0 +1,35 @@
+
+
+'''Line level''' is a term used to denote the strength of an audio signal used to transmit [[analog (signal)|analog]] sound information between audio components such as [[compact disc|CD]] and [[DVD]] players, TVs, [[audio amplifier]]s, and [[mixing console]]s, and sometimes [[MP3 player]]s. 
+
+In contrast to line level, there are weaker audio signals, such as those from [[microphone]]s and [[Pickup (music)|instrument pickups]], and stronger signals, such as those used to drive [[headphones]] and [[loudspeaker]]s. The strength of the various signals does not necessarily correlate with the output voltage of a device; it also depends on the source's [[output impedance]], or the amount of current available to drive different [[electrical load|loads]].
+
+== Nominal levels ==
+A line level describes a line's [[nominal level|nominal signal level]] as a ratio, expressed in [[decibel]]s, against a standard reference voltage.  The nominal level and the reference voltage against which it is expressed depend on the line level being used.  While the nominal levels themselves vary, only two reference voltages are common: [[Decibel#Voltage|Decibel volts]]&nbsp;(dBV) for consumer applications, and [[decibel#Electronics|decibels unloaded]]&nbsp;(dBu) for professional applications.
+
+The reference voltage for the decibel volt (0&nbsp;dBV) is 1&nbsp;V<sub>RMS</sub>, which is the voltage required to produce 1&nbsp;[[watt|milliwatt]]&nbsp;(mW) of power across a 1&nbsp;[[ohm|kilohm]]&nbsp;(kΩ) load<ref>[http://www.tangible-technology.com/audiobasics/levels/level.html#SIDEBAR__calculating_dB_and_Power Tangible Tech Audio Basics]</ref>.  The reference voltage for the decibel unloaded (0&nbsp;dBu) is the voltage required to produce 1&nbsp;mW of power across a 600&nbsp;Ω load (approximately 0.7746&nbsp;V<sub>RMS</sub>)<ref>  Handbook for Sound Engineers: The New Audio Cyclopedia, Second Edition, Glenn M. Ballou year 1998, Focal Press, ISBN 0-240-80331-0,page 761 </ref>.
+
+The most common nominal level for consumer audio equipment is &minus;10&nbsp;dBV, and the most common nominal level for professional equipment is 4&nbsp;dBu.  By convention, nominal levels are always written with an explicit sign symbol.  Thus 4&nbsp;dBu is written as +4&nbsp;dBu.
+
+Expressed in absolute terms, a signal at &minus;10&nbsp;dBV is equivalent to a [[sine wave]] signal with an amplitude of approximately 0.447 volts, or any general signal at 0.316 volts [[root mean square]] (V<sub>RMS</sub>).  A signal at +4&nbsp;dBu is equivalent to a sine wave signal with an amplitude of approximately 1.736 volts, or any general signal at approximately 1.228&nbsp;V<sub>RMS</sub>.
+
+
+[[image:Line levels and their  nominal volatage level.png]]
+
+== Line level in traditional signal paths ==
+[[Acoustics|Acoustic]] sounds (such as [[register (music)|voice]]s or [[musical instrument]]s) are often recorded with [[transducer]]s ([[microphone]]s and [[pickup (music)|pickup]]s) that produce weak electrical signals. These signals must be amplified to line level, where they are more easily manipulated by other devices such as mixing consoles and tape recorders.  Such amplification is performed by a device known as a [[preamplifier]] or "preamp". After manipulation at line level, signals are then typically sent to a device known as a power amplifier, where they are amplified to levels that can drive [[headphone]]s or [[loudspeaker]]s, which convert the signals back into sounds that can be heard through the air.
+
+Most [[phonograph]]s also have a low output level and require a preamp; typically, a home stereo amplifier will have a special [[phono input]] with a built-in preamp, which is much more sensitive than a standard, line-level input. The built-in phono preamp also accounts for the [[RIAA equalization]] curve resident to phonograph recordings.
+
+== See also ==
+*[[Nominal level]]
+*[[Alignment level]]
+
+== References ==
+<references/>
+
+== External links ==
+*[http://www.sengpielaudio.com/calculator-db-volt.htm Conversion of dBu to volts, dBV to volts, and volts to dBu, and dBV]
+*[http://www.sengpielaudio.com/calculator-volt.htm Conversion of voltage V to dB, dBu, dBV, and dBm]
+*[http://www.mmproductions.co.uk/faqgen5.html Units dBV in consumer equipment, dBu in professional equipment]
+*[http://www.sizes.com/units/decibel.htm The Decibel]
