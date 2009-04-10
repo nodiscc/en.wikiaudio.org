@@ -1,0 +1,91 @@
+
+[[Image:Spectrogram of violin.png|thumb|300px|A spectrogram of [[media:Violin for spectrogram.ogg|violin playing]] with linear frequency on the vertical axis and time on the horizontal axis.  The bright lines show how the spectral components change over time.  The intensity coloring is logarithmic (black is &minus;120 [[dBFS]]).]]
+
+The '''spectrogram''' is the result of calculating the [[frequency spectrum]] of [[windowed frame]]s of a compound [[signal (information theory)|signal]].  It is a three-dimensional plot of the energy of the frequency content of a signal as it changes over time. 
+
+Spectrograms are used to identify [[phonetics|phonetic]] sounds, to analyse the cries of animals, and in the fields of [[music]], [[sonar]]/[[radar]], [[speech processing]], etc.  A spectrogram can also be called a '''spectral waterfall''', '''sonogram''', '''voiceprint''', or '''voicegram'''.  The instrument that generates a spectrogram is called a '''sonograph'''.
+
+== Format ==
+
+[[Image:VariableFrequency.jpg|thumb|300px|A spectrogram of an FM signal.]]
+
+In the most usual format, the horizontal axis represents [[time]], the vertical axis is [[frequency]], and the [[intensity (disambiguation)|intensity]] of each point in the image represents amplitude of a particular frequency at a particular time.  Often the diagram is reduced to two dimensions by indicating the intensity with thicker lines, more intense colors or grey values.  
+
+There are many variations of format.  Sometimes the vertical and horizontal axes are switched, so time runs up and down.  Sometimes the amplitude is represented as the height of a 3D surface instead of color or intensity.  The frequency and amplitude axes can be either [[linear]] or [[logarithm]]ic, depending on what the graph is being used for.  For instance, audio would usually be represented with a logarithmic amplitude axis (probably in [[Bel (acoustics)|dB]]), and frequency would be linear to emphasize harmonic relationships, or logarithmic to emphasize musical, tonal relationships.
+
+== Generation ==
+
+[[Image:Praat-spectrogram-tatata.png|thumb|right|Spectrogram of a male voice saying "tatata"]]
+[[Image:Minato spectrogram.png|thumb|right|Spectrogram of a Japanese woman saying "minato"]]
+
+Spectrograms are usually created in one of two ways; either with a series of [[bandpass filter]]s, or calculated from the time signal using the [[short-time Fourier transform]] (STFT).
+
+The filter method is usually used in the [[analog (signal)|analog]], continuous version of measurement.  Such methods were the only way to obtain a spectrogram before the advent of modern digital signal processing and would record the spectrogram as an image on paper such as is shown at the right. The frequency range of the signal (an audio signal, for instance, would have frequencies in the range of 20 Hz - 20 kHz) is divided into equal sections, either linearly (0-100, 100-200, 200-300, ...), or logarithmically (10-100, 100-1000, 1000-10000, ...).  The signal is input to a corresponding [[audio filter|filter]], which removes most of the signal that does not fall within its frequency band (imperfect [[window function]]s and limited frequency resolution will cause some "bleeding" between adjacent frequency bands).  The magnitudes of each filter's output are recorded as functions of time.  Each recording then corresponds to a horizontal line in the image; a measurement of magnitude versus time for a specific frequency band.
+
+To calculate the spectrogram using the magnitude of the STFT is usually a [[digital (signal)|digital]] process.  Digitally [[sample (signal)|sample]]d data, in the time domain, is broken up into chunks, which usually overlap, and Fourier transformed to calculate the magnitude of the frequency spectrum for each chunk.  Each chunk then corresponds to a vertical line in the image; a measurement of magnitude versus frequency for a specific moment in time.
+
+The spectrums or time plots are then "laid side by side" to form the image or a three-dimensional surface.
+
+The spectrogram is given by the squared [[Magnitude (mathematics)|magnitude]] of the STFT of the function:
+
+[[image:Spectrogram_formula_the_squared_magnitude_of_the_STFT_of_the_function.png‎]]
+
+==Applications==
+* Early analog spectrograms were applied to the study of bird calls, with current research continuing using modern equipment<ref>[http://www.birdsongs.it/index.asp Bird Songs and Spectrograms of Southern Tuscany]</ref>.
+
+* Spectrograms are useful in assisting the overcoming of speech defects and in speech training for that portion of the population that is profoundly [[Hearing impairment|deaf]]<ref>[http://www.springerlink.com/content/uv377604u5617x01/ A wearable tactile sensory aid for profoundly deaf children]</ref>
+
+== Creating sound from a spectrogram ==
+
+The above process can be reversed; some [[computer program|programs]] are available that turn a digital image into sound:
+* [http://www.uisoftware.com/PAGES/acceuil_meta.html MetaSynth] for [[Apple Macintosh|Macintosh]];
+* [http://hem.passagen.se/rasmuse/Coagula.htm Coagula] for [[Microsoft Windows|Windows]];
+* [http://www.coppercloudmusic.com/enscribe/ Enscribe] for Linux;
+* [http://arss.sourceforge.net/ ARSS, The Analysis & Resynthesis Sound Spectrograph], [[Cross-platform|multi-platform]];
+* [http://www.seeingwithsound.com/javoice.htm The vOICe Java Applet], a [[Java (programming language)|Java]] applet.
+** [http://faculty.washington.edu/dillon/PhonResources/javoice/vowjavoice2.html vOICe examples.]
+* [[FL Studio]]'s "BeepMap" additive synthesizer.
+* [http://www.visualizationsoftware.com/ Spectrogram v14.6 (c) Visualization Software] for [[Microsoft Windows|Windows]].
+
+This technique allows [[electronic music]] artists to "hide" images in their music.  Examples include:
+
+* [[Aphex Twin]] hid an image of himself in a spectrogram. The image can be found on Track 2 of the ''[[Windowlicker]]'' EP as a nine-second sweeping section right at the end. (It is recognizable in an [[MP3]], but the compression changes the spectrogram and it is not as clear as from the CD.) Aphex Twin also hid the image of a spiral shape in his first track from the "[[Windowlicker]]" EP. [http://www.bastwood.com/aphex.php] 
+* The song "Look" from [[Venetian Snares]]' album ''[[Songs About My Cats]]'', contains several images of his cats.
+* The song "3recurring" from [[Plaid]] on their album ''[[Rest Proof Clockwork]]'' contains the recurring 3s represented as a logo on the cover of the "Not for Threes" album.
+* [[Nine Inch Nails]] has employed this technique on a few occasions as part of an ongoing [[Alternate Reality Game]] for their album ''[[Year Zero (album)|Year Zero]]''.
+** The MP3 version of "My Violent Heart" (deliberately leaked before ''[[Year Zero (album)|Year Zero]]'' was released) contains a few brief moments of static at the end.  When analyzed in a spectrogram, it reveals the image of a hand reaching down from the sky.  This image echoes [[Characters_and_organizations_in_the_Year_Zero_alternate_reality_game#The_Presence|a similar theme]] seen throughout the [[alternate reality game]] [[viral marketing]] campaign launched for the album.  On the official version of the album, the sound appears at the end of the song "The Warning."
+** Another new Nine Inch Nails track from ''[[Year Zero (album)|Year Zero]]'' was also found on a flash drive in a bathroom stall on their current European tour. This time it was "Me, I'm Not." Along with the song, was an MP3 of "cricket chirping", which when put through a spectrogram revealed the number: 216.333.1810.
+** Using this method again to deliver clues as part of the ''[[Year Zero (album)|Year Zero]]'' [[Alternate Reality Game|ARG]], there were two extra audio files included in the [[Garageband]] Multitrack files for the song Capital G.  The images in the sounds are of various avatars of user at the [[Nine Inch Nails]] oriented forum Echoing the Sound.  The user names are used to form the title of a new site that is part of the ARG.
+* An untitled audio track by [[Treetops McPhoenix]] to accompany a video for the Stephen Moles Coma [[ARG]] on [[Facebook]] is made entirely from images of the [[Mona Lisa]].
+
+On spectrograms of the records of [[Mike Oldfield]]'s song "[[Tubular Bells]]" signals from the [[Rugby VLF transmitter]] are found[http://www.stormloader.com/gkircher/vlfcd].
+
+Some modern music is also created using spectrograms as an intermediate medium; changing the intensity of different frequencies over time, or even creating new ones, by drawing them and then inverse transforming.  See [[Audio timescale-pitch modification]] and [[Phase vocoder]].
+
+{| class="wikitable"
+|-
+| [[Image:Spectrogram - Aphex Twin - Windowlicker.png|thumb|Spectrograph of [[Aphex Twin]]'s "mathematical equation" track from [[Windowlicker]]]]
+| [[Image:Spectrogram - Nine Inch Nails - My Violent Heart.png|thumb|A spectrograph of the white noise at the end of the leaked version of "My Violent Heart," from [[Nine Inch Nails]]' ''[[Year Zero (album)|Year Zero]]'']]
+| [[Image:Mona lisa spectrogram.jpg|thumb|A spectrograph of a song made entirely from images of the Mona Lisa, by [[Treetops McPhoenix]]]]
+| [[Image:Britney-2003-.gif|thumb|High quality image produced with "The_Voice" displayed using "Sonic Visualizer" from this Wave File (unfortunately converted to Ogg Vorbis before uploading, causing slight loss of quality) [http://en.wikipedia.org/wiki/Image:Britney-2003-jpg.ogg] ]]
+|}
+
+== VLF-reception with the PC ==
+
+Using spectrograms generated by audio-band FFT-software is a very convenient way to receive frequencies below 24 kHz. This technique allows wide-range reception of the [[Very low frequency|VLF]]-range.
+
+
+
+==References==
+<references/>
+
+== External links ==
+
+* [http://cslu.cse.ogi.edu/tutordemos/SpectrogramReading/spectrogram_reading.html Spectrogram Reading]
+* [http://www.christoph-lauer.de Sonogram Visible Sound is a Sonogram generation Software written in Java. It can directely be started via Java WebStart from the WebPage]
+* [http://www.bastwood.com/aphex.php Several spectrogram examples, including the one by Aphex Twin]
+* [http://tfd.sourceforge.net/ DiscreteTFDs - software for computing spectrograms and other time-frequency distributions]
+* [http://www.fon.hum.uva.nl/praat/ Praat - doing phonetics by computer]
+* [http://www.speech.kth.se/wavesurfer/ WaveSurfer - KTH Speech, Music and Hearing]
+* [http://www.baudline.com baudline signal analyzer - FFT spectrogram]
+* [http://www.xeno-canto.org Spectrograms of vocalisations of over 3100 bird species]
