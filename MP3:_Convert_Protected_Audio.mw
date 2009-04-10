@@ -1,0 +1,129 @@
+== Beginner's Method ==
+
+
+This has an additional step. That makes it work in any version of iTunes and adds some advantages.
+
+'''Burn your purchased protected songs onto disc.
+'''
+#Get iTunes free for PC or Mac from the Apple web site.
+#Install.
+#Set your iTunes import Preference to MP3, or whatever you want.
+#Set your burn Preference to Audio CD.
+
+'''Make a playlist of your iTune purchases. About 75 minutes, 15-25 songs, fills a 700-meg Audio CD.
+'''
+#From the File menu select New Playlist.
+#Drag songs from the Music Library into this playlist.
+
+'''Burn these to the CD that you set to Audio disc in the Preferences.
+'''
+#Menu select File/Burn Playlist to Disc.
+#Insert CD when prompted.
+
+Your protected songs become AIFFs on the Audio CD. This Audio disc is playable on most any CD player, including the PS3 [Xbox??]
+
+Why this next additional step? Click on the CD icon under Library. You'll see that the AIFFs have the iTunes store ID tags [song, album art, performer, etc.] instead of just Track 1, Track 2, etc. This information got onto your computer because you paid to download the music. But the ID tag of each AIFF track on the Audio CD is stored on your computer, not in the AIFF file. However, an MP3 carries its ID data with it. And a data CD disc of MP3s, not an audio one, will store the ID tag info carried by each MP3 file.
+
+'''To make the AIFFs into MP3s and preserve this ID info, rip the songs back into iTunes like this:'''
+
+#Click the CD icon under Library.
+#Select all songs [Either CNTRL+A or CMND+A].
+#Drag your AIFFs into the Music Library. You may play them while they convert.
+#Sort the Music Library by Date Added to collect your new MP3s.
+
+Now you have MP3 versions of the purchased songs in the Library. Plug your MP3 into the computer and when its icon comes up in iTunes, drag the MP3s onto it. Or you can transfer MP3s over WIFI to your PS3 or Xbox. Or transfer them using a second disc that's storing them as Data.
+
+'''To Store your MP3s and their tag data:'''
+
+#Set your burn Preference to Data CD. The data CD can hold several hundred MP3s.
+#Drag your converted MP3s from the library into a New playlist.
+#Menu select File/Burn Playlist to Disc.
+#Insert another blank CD when prompted.
+
+You can play music from a Data disc on some CD players and most computers, including the PS3 [Xbox??]
+
+NOTE: Keep your original Audio CD of purchased songs for high-quality listening. The MP3s lose a lot in getting so small but are fine for listening on the go.
+
+
+
+== Using Replay Music Software (Windows) ==
+
+
+Play songs from iTunes (or whatever player you are using), then use an audio recorder program and finally tag the MP3 files manually. Replay Music is one program that does everything automatically. It records audio as MP3, splits songs into individual tracks, and then automatically tags the MP3 files with artist, title and album info using a fingerprinting algorithm. It's slick, and it really works!
+
+
+
+== Direct Way with Virtual CD-RW Software ==
+
+
+There is a software named "NoteBurner" from http://www.noteburner.com which can process the above two steps directly and in a straightforward manner.
+
+The only thing you need to do is to select the default CD burner to "NoteBurn Virtual_CD-RW". The software will do the rest of the work for you automatically. Compared to methods described below, this method does all the work automatically within one software. Refer to http://www.noteburner.com/howto.html on how to use it. NoteBurner is only for Windows XP/Vista*. If you need the Mac version, please refer to http://www.noteburner.com/mac-audio-converter.html. Note that the trial version of NoteBurner is limited to tracks with a length of less than 03:01 minutes.
+
+*NOTE: NoteBurner is currently incompatible with Windows Vista 64-bit systems.
+
+
+
+== Image Burning Method ==
+
+
+This method doesn't need a CD-R to burn on and might be a little faster. Another advantage is that you can probably burn more than 80 minutes of music at once (I never tested it, but I think it'll work). Many CD recording programs allow you to burn on a "virtual recorder", creating a CD Image file on your hard disk.
+
+#In Nero, do this by clicking "Recorder" > "Choose Recorder..." > "Image Recorder" and then creating a new CD as usual.
+#After clicking on "burn", you're asked where you want the file to be saved. Select a drive that has enough free space to save all the contents of the CD.
+#When Nero has finished, you need a virtual drive. Microsoft provides a free Virtual CD-ROM driver for Windows 2000 & XP at Microsoft.com
+#A (simpler) alternative to a virtual drive is to use a good unzipping program such as Izarc (free download from http://www.izarc.org) which will "unzip" the "ISO" or image file into regular audio files.
+#Right-click on your virtual drive and select "open image file..." or something similar - depending on which software you use. Then open the image file you created.
+#After loading your image file, rip the CD in the virtual drive as you would do with a normal CD.
+
+
+
+== Advanced Method Using Audacity for All Protected Audio ==
+
+
+#Open your recording program. It should be one that can save as an MP3. If you don't have a recording program you can download Audacity, which is cool and free, but if you already have another good recording program you can use that instead. (If you download Audacity, don't forget to grab the LAME encoder.)
+#Switch your sound-recording mode. Go to your system tray (in the lower-right corner of your screen, next to the clock) and double-click on Volume Control. Pull down the Options menu and click Properties. In the "Adjust volume for" box, press Recording, check all the boxes, and click OK. Your computer is probably set to record from the microphone; check the box under "Stereo Mix". You should only need to do this once.
+#Set up your recorder. Switch back to your music-recording program and create a new file. Make sure it's in the format you want; Audacity defaults to Mono mode, so if you're using that you'll need to go to Edit -> Preferences and change the Channels drop-down box to "2 (Stereo)".
+#Do it. Once your recorder is ready, press Record. Then switch to your audio source (whether it be iTunes, Windows Media Player, or another program) and press Play. Listen to the rapturous sound of your music being freed from DRM . When the song ends, press Stop, then switch back to your recording program and press Stop there.
+#Clean up. If you're going to be using a microphone with your computer, go back to Recording Control and switch the recording mode back to Microphone. Delete any unwanted sound or silence on either end of the waveform. Amplify if necessary. Save the project (in Audacity you'll want File -> Export as MP3) and close. You're done!
+
+
+
+== Very Advanced Digital-Only Lossless Method ==
+
+
+#Purchase and install Virtual Audio Cable (the demo adds "trial" clips to your sounds, so you'll need to purchase).
+#Set the playback device in your player software to the Virtual Audio Cable driver's input, and the recording device in your recording software to the Virtual Audio Cable driver's output.
+#Record using the Advanced Method above. The audio you play back and record through the Virtual Audio Cable will be a perfect digital signal, since it will never be converted to and from analog on your sound card. NoteCable Audio Converter is an example of Virtual Audio Cable.
+#If you have a Mac you can use Audiohijack (it's fully functional demo but before purchase, noise is overlaid on all hijackings longer than 10 minutes) to record any audio going through your computer. You would follow the using the Advanced Method above.
+
+
+
+== Method Using Hymn for Songs Bought on iTunes ==
+
+
+*Use Hymn an open source application for converting protected iTunes songs to unprotected MP3 files under fair use. Download and run it according to the directions provided on the site.
+
+*Remove DRM form WMA/WMV files, Daniusoft WMA MP3 Converter could help you to convert DRM protected WMA/WMV files to MP3 and other audio.
+
+
+
+== Tips ==
+
+
+* If you don't need MP3 specifically (say you have a player that won't take anything else), consider ripping to OGG instead, as it gives better sound at the same filesize and is completely free of any patents. Most rippers as well as the Audacity tip above can handle this, and many players work with it too nowadays.
+* This technique works for ripping music from any source. Music and dialogue from DVDs, streaming radio, game sound effects--absolutely anything your computer can play, you can record. If you've got a favorite song from one of your DVDs, try turning its audio into an MP3 and dropping it in your playlist!
+* This technique can only be used to transcode songs in real-time. The alternative is to simply burn all your protected songs to a CD and then rip them back onto the computer in the format of your choice. That only works if you have extra CD-R's, though. Of course if you use a CD-RW you can keep it specifically to convert protected audio and rip to MP3.
+* You'll need to make sure that your computer is silent during the transcoding process except for the music playing. If an IM or email notification pops up, for example, and makes a noise, that will go into the recording. If you're good, you can go back in afterwards and clean that sort of thing out, but it's simpler just to turn off all your noisemakers before you start transcoding.
+* Obviously you need to be able to play the file for this to work. If someone sends you a DRM-protected file that you can't open, this process won't help you. You can send the link for this page to your friend, though, and have him or her de-DRM it for you!
+* If you are using iTunes version 6 or later, Hymn will not be able to remove the DRM on purchased songs. The development team is currently trying to find a way around the DRM, but Hymn will only run on iTunes verions 5 or earlier. In addition, you cannot switch to an earlier version of iTunes, because once you authorize your account with iTunes 6, you can't use anything but iTunes 6.
+
+
+
+== References ==
+http://www.wikihow.com/Convert-Protected-Audio-Into-a-Plain-MP3
+
+
+{{Template:CC SA 2.5}}
+
+[[category:tutorials|Mp3]]
