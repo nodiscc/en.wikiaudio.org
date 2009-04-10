@@ -1,0 +1,33 @@
+'''Latency''' refers to a short period of delay (usually measured in milliseconds) required for the Analog-to-digital converter|conversion between analog and digital representations of the sound data. Devices such as computers can only process digital data. Thus, the analog data it receives on [[microphone]] or line-in inputs must be converted to digital data. After processing of data, the processed data must be converted back to an analog signal before it can be output to speakers and played back.
+
+This conversion between analog and digital takes a short amount of time, which is known as '''latency'''. Although this process consumes a very small interval, it can have a cumulative effect if the data is handed off by several layers of software.
+
+One example of latency is a [[Musical keyboard|musical keyboard]] connected to a computer. When the user hits a key, an [[audio signal]], which is analog, is transferred along the connecting wire in the form of electrical current. The computer would then convert the signal to a digital format and process it according to any settings input by the user. After the processing is complete, the processed digital signal is converted to an analog sound wave (represented by current in the wire), which is then sent to the speaker.
+
+==Latency in Computer Audio==
+Latency can be a particular problem in current [[Microsoft Windows]] audio platforms, but is much less so in Apple's Mac OS X and most Linux operating systems. A popular workaround is Steinberg's [[Audio_Stream_Input/Output|ASIO]], which bypasses these layers and connects audio signals directly to the sound card's hardware. Most professional and semi-professional audio applications utilize the ASIO driver, allowing Windows users to work with audio in real time, i.e. digital multitrack recording.<ref>[http://www.digitalprosound.com/Htm/Articles/April/Audio_Latency.htm JD Mars. ''Better Latent Than Never: A long overdue discussion of audio latency issues'']</ref>
+
+==Latency in Broadcast==
+Audio latency can also be experienced in broadcast systems where someone is contributing to a [[Live television|live broadcast]] over a [[satellite]] or similar link with high delay, where the person in the main studio has to wait for the contributor at the other end of the link to react to questions. Latency in this context could be between several hundred [[milliseconds]] and a few seconds. Dealing with audio latencies as high as this takes special training in order to make the resulting combined audio output reasonably acceptable to the listeners. Wherever practical, it is important to try to keep live production audio latency low throughout the production system in order to keep the reactions and interchange of participants as natural as possible. A latency of 10 milliseconds or better is the target for audio circuits within professional production structures, local circuits should ideally have a latency of 1 millisecond or better.
+
+==Audio latency in live performance==
+Professional [[digital audio]] equipment has latency associated with two general processs: conversion from one format to another, and [[digital signal processing]] (DSP) tasks such as equalization, compression and routing. Analog audio equipment has no appreciable latency.
+
+Digital conversion processes include [[analog-to-digital converter]]s (ADC), [[digital-to-analog converter]]s (DAC), and various changes from one digital format to another, such as [[AES3]] which carries low-voltage electrical signals to [[ADAT]], an optical transport. Any such process takes a small amount of time to accomplish; typical latencies are in the range of 0.2 to 1.5 milliseconds, depending on sampling rate, bit depth, software design and hardware architecture.<ref>[http://www.aes.org/e-lib/browse.cfm?elib=13190 AES E-Library: ''Latency Issues in Audio Networking'' by Fonseca, Nuno; Monteiro, Edmundo]</ref>
+
+DSP can take several forms; for instance, [[Finite impulse response]] (FIR) and [[Infinite impulse response]] (IIR) filters take two different mathematical approaches to the same end and can have different latencies, depending on the lowest audio frequency that is being processed as well as on software and hardware implementations. Typical latencies range from 0.5 to ten milliseconds with some designs having as much as 30 milliseconds.<ref>[http://www.prosoundweb.com/studyhall/net/transport/audio.php ProSoundWeb. David McNell. ''Networked Audio Transport: Looking at the methods and factors'']</ref>
+
+Individual digital audio devices can be designed with a fixed overall latency from input to output or they can have a total latency that fluctuates with changes to internal processing architecture. In the latter design, engaging additional functions adds latency.
+
+Latency in digital audio equipment is most noticeable when a singer's voice is transmitted through their microphone, through digital audio mixing, processing and routing paths, and then sent to their own ears via [[in ear monitors]] or headphones. In this case, the singer's vocal sound is conducted to their own ear through the bones of the head and then 1-5 milliseconds later through the digital pathway to their ears. This combination of [[bone conduction]] and digital latency is unsettling to some singers. Latency times under 2 ms and over 15-20 ms can reduce the annoyance.
+
+Latency for other musical activity such as playing a guitar doesn't have the same critical concern. Ten milliseconds of latency isn't as noticeable to a listener who isn't hearing his or her own voice.<ref>[http://www.whirlwindusa.com/wwlatart.html Whirlwind. ''Opening Pandora's Box? The "L" word - latency and digital audio systems'']</ref>
+
+
+
+==References==
+<references/>
+
+== External links ==
+* [http://www.practicalpc.co.uk/computing/sound/latency1.htm Fixing Audio Latency]
+* [http://askasoundguy.com/home/2009/02/11/qa-io-buffer-size-and-latency/ I/O Buffer Size and Latency]
