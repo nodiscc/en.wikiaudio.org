@@ -1,0 +1,239 @@
+=Logic 8 desktop key commands=
+
+
+
+
+
+
+
+
+
+==Universal commands==
+
+===Save===
+Command S
+===Undo===
+Command Z
+===Redo===
+Shift Command Z
+
+
+
+
+
+
+==Transport Controls==
+
+
+===Play/stop===
+Spacebar
+===Play===
+Enter
+===Move playhead to start of selected region or event and begin playback===
+Shift-Enter
+===Stop (or return to beginning when stopped)===
+0
+===Stop recording or playback and go to beginning===
+0 (push twice)
+===Stop recording or playback and go to last play position===
+Control-O
+===Move playhead to beginning of project===
+Return
+===Move playhead to start of first selected region or event in active window===
+Shift-Return
+===Open Go To Position dialog===
+/ (on main keypad)
+===Play from left window edge===
+Control-Enter
+===Pause playback===
+. (decimal point on numeric keypad)
+===Rewind===
+< (left angle bracket)
+===Forward===
+> (Right angle bracket)
+===Fast Rewind===
+Shift <
+===Fast Forward===
+Shift >
+===Record===
+<nowiki>* (on numeric keypad)</nowiki>
+===Toggle record (for punching in on the fly)===
+Shift* (on numeric keypad)
+===Capture a recording===
+Control* (on numeric keypad)
+==Zooming==
+===Zoom in vertically ===
+Control-Down Arrow 
+===Zoom out vertically ===
+Control-Up Arrow 
+===Zoom in horizontally ===
+Control-Right Arrow 
+===Zoom out horizontally ===
+Control-Left Arrow 
+===Zoom to fit selection vertically and horizontally, and store navigation snapshot ===
+Control-Option-Z 
+===Navigation: Back (zoom out) ===
+Control-Z 
+===Use Zoom tool===
+Control-Option-drag
+
+==Tools==
+
+===Open Tool menu at pointer position ===
+ESC
+===Opens shortcut menu ===
+Control-click 
+===Turn current tool into Zoom tool ===
+Control-Option-any tool 
+===Copy===
+Option-drag Pointer tool
+===Adjust the crossfade curve ===
+Control-Shift--drag Crossfade tool 
+===Delete crossfade ===
+Option-click Crossfade tool 
+===Import audio file at clicked location ===
+Shift-Pencil tool-clic`k audio track
+===Time stretch region when resizing ===
+Option-resize 
+===Adjusts parameter to same value ===
+Shift-Option-drag
+==Region editing and operations==
+===Loop on/off of selected region===
+L
+===Turn Loops to Real copies===
+Control L
+===Toggle solo on/off for selected regions===
+S
+===Mute/Unmute selected regions and/or folders===
+M
+===Repeat regions===
+Command R
+===Crop Region outside of marque selection===
+Control C
+===Pack selected regions into folder===
+Command F
+===Unpack regions from folder===
+Command U
+===Set locators by selected region===
+Control =
+===Conform tempo to region using cycle===
+Command T
+
+==Track & Mixer operations==
+
+===Mute selected track===
+Control M
+===Mute/unmute all tracks===
+Command - Click track mute button
+===Reset knob or fader to default value===
+Option ( then click thte fader,knob or parameter)
+===Bypass plug-in or send===
+Option (then click the insert or send part of the channel strip)
+===Toggle group bypass (group clutch)===
+Command G
+===Load previous channel strip===
+Shift [
+===Load next channel strip===
+Shift ]
+===Assign name of selected track to it's regions===
+Shift-option-N
+
+==Audio Bin==
+===Select unused files===
+Shift-U
+
+==Sample editor==
+===Save selection as new audio file===
+Option-Command-S
+
+==Open and close various windows and views==
+
+===Event list open/close===
+E
+===Audio bin open/close===
+B
+===Global tracks open/close===
+G
+===Inspector open/close===
+I
+===Mixer open/close===
+X
+===Hyper editor open/close===
+Y
+===Plug-in window open/close===
+V
+===Piano Roll Editor open/close===
+P
+===Auto track zoom===
+Z
+===Default editor open/close===
+Double click MIDI region in arrange window
+===Open color palette===
+Option C
+===Open controller assignment window===
+Command K
+===Open configure global tracks settings window===
+Option G
+===Open key commands window===
+Option K
+===Open audio project settings===
+Option P
+===Open video project settings===
+Option V
+===Open synchronization project settings===
+Option Y
+===Open undo history window===
+Option Z
+===Open recording project settings===
+Option *
+===Open Quicktime movie===
+Option-Command-O
+===Close active project===
+Option Command W
+===Open Mixer===
+Command 2
+===Open arrange window===
+Command 1
+===Open score editor===
+Command 3
+===Open transform window===
+Command 4
+===Open hyper editor===
+Command 5
+===Open Piano Roll editor===
+Command 6
+===Open Environment window===
+Command 8
+===Cycle key focus forward through arrange window areas===
+TAB
+===Cycle key focus backward through arrange wndow area===
+Shift TAB
+===Unhide (remove from Hide) all tracks===
+Shift Control H
+===Hide current track and select next track===
+Control H
+===Open Strip silence window===
+Control X
+===Lock/unlock current screenset===
+Shift L
+===Track automation show/hide===
+A
+===Open automation preferences===
+Option A
+===Use computer keyboard as virtual MIDI keyboard===
+Caps Lock
+===Toggle automation quick access===
+Control Option Command A
+===Turn Automation mode off for all tracks===
+Shift Control Command T
+===Set LATCH as Automation mode for all tracks===
+Shift Control Command L
+===Delete visible automation data of current track===
+Control Command Backspace
+===Delete all automation data of current track===
+Shift Control Command Backspace
+
+
+[[Category:logic|Key commands]]
+
+[[category:Key commands]]
