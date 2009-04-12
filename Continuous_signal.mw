@@ -1,0 +1,36 @@
+{{Template:Unreferenced}}
+{| border=10px solid #606060; cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''[[Image:P cartesian graph.png|65px|left]]<b>Signal processing article.</b>'''</big> <small>This article pertains to [[signal processing]] </small> 
+|}
+A '''continuous signal''' or a '''continuous-time signal''' is a varying quantity signal that is expressed as a function of a real-valued domain, usually time.  The function of time need not be continuous.
+
+The signal is defined over a domain, which may or may not be finite, and there is a functional mapping from the domain to the value of the signal. The continuity of the time variable, in connection with the law of density of real numbers, means that the signal value can be found at any arbitrary point in time.
+
+A typical example of an infinite duration signal is:
+
+<math>f(t) = \sin(t), \quad t \in \mathbb{R}</math>
+
+A finite duration counterpart of the above signal could be:
+
+<math>f(t) = \sin(t), \quad t \in [-\pi,\pi]</math> and <math>f(t) = 0</math> otherwise.
+
+
+
+The value of a finite (or infinite) duration signal may or may not be finite. For example,
+
+<math>f(t) = \frac{1}{t}, \quad t \in [0,1]</math> and <math>f(t) = 0</math> otherwise,
+
+is a finite duration signal but it takes an infinite value for <math>t = 0\,</math>.
+
+
+In many disciplines, the convention is that a continuous signal must always have a finite value, which makes more sense in the case of physical signals.
+
+For some purposes, infinite singularities are acceptable as long as the signal is integrable over any finite interval (for example, the <math>t^{-1}</math> signal is not integrable, but <math>t^{-2}</math> is).
+
+Any analogue signal is continuous by nature.Discrete signals, used in [[digital signal processing]], can be obtained by sampling and quantization of continuous signals.
+
+Continuous signal may also be defined over an independent variable other than time. Another very common independent variable is space and is particularly useful in image processing, where two  space dimensions are used.
+
+
+[[category:signal processing]]
