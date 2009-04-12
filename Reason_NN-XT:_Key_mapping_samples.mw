@@ -1,0 +1,30 @@
+==Adding Pitch instruments==
+
+This type of key mapping assumes that the samples you load are a multisampled pitched 
+instrument (like guitar, piano, flute etc.). 
+
+#Load the samples. 
+#Click “Select All” on the Edit menu - this will select all the loaded samples.
+#Click “Set Root Notes from Pitch Detection” to automatically set up the root notes (pitches) for the samples. 
+#Select “Automap Zones” from the Edit menu.
+
+
+==Keymap editing==
+
+In the remote editor panel you can see a representation of how the samples fall on the keyboard. The horizontal bars represent a sample and where it is placed. You can click and drag the left and right edges of this bar and move it , hence moving where the sample is placed on the keyboard.
+
+[[Image:NN XT Keymap note.png]]
+
+
+
+
+
+
+You can also keymap the sample(s) by selecting them in the remote editor panel and then moving the ''root'' , ''low key'' and ''high key'' knobs
+
+[[Image:NN XT Keymap 2.png]]
+
+
+[[category:tutorials]]
+
+[[category:reason|NN-XT]]
