@@ -1,0 +1,20 @@
+Create a new aux track.
+
+'''Options/Create New Auxiliary Channel Strips'''
+
+[[Image:Logic Aux track.png]]
+
+
+
+Set the bus output and the aux input to correspond to one another.
+
+If you then turn up the bus send the aux should now receive signal from it.
+
+
+[[Image:Logic aux send and return .png]]
+
+
+
+[[category:tutorials]]
+
+[[category:logic|Aux]]
