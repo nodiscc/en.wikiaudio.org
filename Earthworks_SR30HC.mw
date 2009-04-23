@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''Earthworks SR30HC''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+'''Specifications'''
+*Type: Condenser
+*Frequency Response: 30Hz-30kHz +/-15dB
+*Polar Pattern: Hypercardioid
+*Sensitivity: 10mV/Pa (-40dBV/Pa)
+*Power Requirements: 48V Phantom, 10mA
+*Max acoustic input: 145 dB SPL
+*Peak output voltage: 10V
+*Output: XLR intended to drive a balanced input (Pin 2+)
+*Min output load: 600 ohms between pin 2 and pin 3
+*Noise: 22dB SPL equivalent (A weighted)
+*Dimensions (L x D): 215mm x 22mm; 8.5" x .86"
+*Weight: 225 g; .5lb
+|}
+
+
+The '''SR30HC''' is a hypercardioid condenser microphone  
+
+
+{{stub}}
+
+
+
+[[category:microphones]]
+[[category:Earthworks|SR30HC]]
