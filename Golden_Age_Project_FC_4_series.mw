@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''Golden Age Project GA FC 4''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: True condenser pressure gradient.  
+*Polar pattern: Cardioid. 
+*Polar pattern '''FC 4 MC''': Cardioid, HyperCardioid and Omni 
+*Frequency response: 20Hz - 20kHz 
+*Sensitivity:14,5 mV / -37dB (0dB=1V/Pa) @1kHz. 
+*Equivalent Noise Level (A-weighted per IEC  268-4): < 17 dB typical. 
+*Maximum SPL (<1% THD @1kHz): 140 dB. 
+*Output impedance: 250 ohm. 
+*Recommended load impedance:  1000 Ohm or more. 
+*Current consumption: < 3mA. 
+*Dimensions: 50x190 mm. Weight: 470 g. 
+*Operating voltage: 48V phantom power. 
+*'''FC 4 ST''' stereomatching: Within 1 dB. 
+
+|}
+
+The '''FC4, FC4 MC and FC4 ST''' are pressure gradient condenser microphones.
+
+{{stub}}
+[[category:microphones]]
+
+[[category:Golden Age Project|FC4]]
