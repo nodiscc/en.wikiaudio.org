@@ -1,0 +1,43 @@
+[[Image:Roland_JV-1080_front.png|thumb]]
+In order to operate the JV1080 with a MIDI sequencer you should understand how to assign sound patches to channels. This tutorial demonstrates how to do this.
+The JV1080 has three main modes.
+They are: '''Performance''', '''Voice''' and '''Rhythm'''. Each one of these modes has a button that can be pushed to access them on the right hand side of the device.
+For this tutorial we are only going to focus on the '''Performance''' mode.
+==Assigning patches to parts==
+In order to assign patches to channels on the JV1080 you must first understand how the hierarchy of operations work.
+So make sure you understand this hierarchy.
+'''Patches''' get assigned to '''parts'''  /  '''parts''' then get assigned to '''channels'''  /  these settings then get <u> saved</u> as a '''"performance"'''.
+To assign patches to channels on the JV1080 you have to go through an intermediary process of assigning patches to sections called "parts" as mentioned above. These "parts" then get assigned to channels.
+To assign patches to parts do the following: 
+#Make sure the performance button is lit, if not; then push it - this puts the JV1080 into "performance mode".
+#Push the parameter button.
+#Push the button that says "part" in blue lettering.
+#Push the palette button (if it's not already on)
+#Push the button that has the word "Part" in blue lettering underneath it.
+Now simply use the up,down,left,right menu buttons and scroll wheel to explore.
+The top menu ( accessible by pushing the up arrow button) is the part group/bank.
+The bottom menu is the patch itself.
+The Patch Groups (banks) are titled:
+*'''USER'''
+*'''PR-A'''
+*'''PR-B'''
+*'''PR-C'''
+*'''GM'''
+Each of these 5 patch "groups" (which in conventional MIDI-speak are really ''banks'' but the JV1080 calls them '''patch groups''') hold 128 patches. <u>128 patches x 5 patch groups = 640'' patches.</u>
+While you're scrolling to the left and right you should see the part number in which each patch or patch group is assigned.
+Change these according to the patches you like.
+
+== Assigning parts to channels ==
+To assign parts to channels you need to ''stay'' in '''performance mode''' and push the button that says "MIDI" in blue lettering below it.
+The fist thing you need to do is make sure the "parts" are turned on. You do this by staying in the MIDI menu and pushing the up/down arrow buttons and scrolling until you see the "Receive switch" menu. Make sure every part is set to the "on" value.
+Use the "up" arrow button to scroll to the top of the menu. You should see a menu that says '''MIDI Channel''' to the left and has a list of numbers to the right of it.
+The top of the display menu should list the part name and number, and the bottom of the display should list a row of numbers.This botton row of numbers are the channels that each part is assigned to.
+You can then assign which parts get assigned to which channels. After you do this when you trigger that channel from a MIDI sequencer or controller you should hear that respective part <u>and</u> the patch assigned to it.
+If you decide to assign multiple parts to the same MIDI channel then the JV1080 will not respond to patch changes correctly, so we suggest you only assign 1 part per channel as well as keep the channels sequential. Example: '''part 1,part 2, part 3''' etc....
+
+==Saving your work==
+After you're content with your settings you can save it as a performance by pushing the '''utility''' button , selecting '''write''', <u> choose the '''performance''' you would like to overwrite</u>, push '''enter''' and then push '''utility again''' to save
+[[Category:tutorials]]
+
+
+[[category:Roland|JV-1080 Simplified operation tutorial]]
