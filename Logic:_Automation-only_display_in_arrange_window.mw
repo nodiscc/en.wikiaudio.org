@@ -1,0 +1,35 @@
+===Logic 8: Arrange window display of ''only'' automation ===
+
+
+Use the following key command:
+
+'''Control/Command/E'''
+
+Then immediately open up a new arrange window:  
+
+'''Windows/Arrange.'''
+
+
+Below is an image contrast of a regular arrange window and the automation-only display window.
+Keep in mind the latter doesn't display the tracks in the same order.
+
+
+'''Before'''
+
+
+
+[[Image:Logic 2 tracks with automation diplayed.png]]
+
+
+
+'''After'''
+
+
+
+[[Image:Logic automation -only view .png]]
+
+
+
+
+[[category:logic|Automation-only display in arrange window]]
+[[category:tutorials]]
