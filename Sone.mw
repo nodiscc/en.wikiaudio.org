@@ -1,0 +1,51 @@
+The '''sone''' was proposed as a [[physical unit|unit]] of [[perception|perceived]] [[loudness]] by [[Stevens' power law|S. Smith Stevens]] in 1936. In [[acoustics]], loudness is the [[Subjectivity|subjective]] perception of [[sound pressure]]. Although defined by Stevens as a unit, it is not one of the [[SI]] units. Such units meet the stringent criteria of [[metrology]], which include being realizable in a highly precise and reproducible manner, and so transferable for scientific and industrial purposes in a range of contexts.
+
+According to Stevens' definition, the sone is equivalent to 40 [[phon]]s, which is defined as the loudness level ''N''<sub>L</sub> of a 1 [[kilohertz|kHz]] tone at 40 [[decibel|dB]] [[sound pressure level|SPL]]. The number of sones to a phon was chosen so that a doubling of the number of sones sounds to the [[human ear]] like a doubling of the [[loudness]],which also corresponds to increasing the [[sound pressure level]] by approximately 10 dB, or increasing the mean square sound [[pressure (physics)|pressure]] by a factor 10 (since due to the major property of logarithms for any given sound pressure level L=10*log<sub>10</sub>(p<sup>2</sup>/p0<sup>2</sup>) dB the following holds: L + 10 dB = L + 10*1 dB = L + 10*log<sub>10</sub>(10) dB = 10*log<sub>10</sub>(p<sup>2</sup>/p0<sup>2</sup>) dB + 10*log<sub>10</sub>(10) dB = 10*log<sub>10</sub>((p<sup>2</sup>/p0<sup>2</sup>) * 10) dB). At frequencies other than 1 kHz, the measurement in sones must be calibrated according to the frequency response of human [[hearing (sense)|hearing]], which is a subjective process. The study of apparent loudness is included in the topic of [[psychoacoustics]] and employs methods of psychophysics.
+
+To be fully precise, a measurement in sones must be specified in terms of the optional suffix G, which means that the loudness value is calculated from frequency groups, and by one of the two suffixes D (for direct field or free field) or R (for room field or diffuse field).
+
+===Examples of sound pressure, sound pressure levels, and loudness in sone===
+----
+:{| class="wikitable"
+! Source of sound  !! sound pressure !! sound pressure level !! loudness
+|-
+! &#160; !!  align="center" | pascal !!  align="center" |  dB re 20 µPa !! align="center" | sone
+|-
+|threshold of pain || align="right" | 100 || align="right" | 134 ||align="right" | '''~ 676''' 
+|-
+|hearing damage during short-term effect || align="right" | 20 || align="right" | approx. 120 || align="right" | '''~ 250''' 
+|-
+|jet, 100 m distant || align="right" | 6 - 200 || align="right" | 110 - 140 || align="right" | '''~ 125 - 1024''' 
+|-
+|jack hammer, 1 m distant / discotheque || align="right" | 2 || align="right" | approx. 100 || align="right" | '''~ 60''' 
+|-
+|hearing damage during long-term effect || align="right" | 6×10<sup>−1</sup> || align="right" | approx. 90 || align="right" | '''~ 32'''
+|-
+|major road, 10 m distant || align="right" | 2×10<sup>−1</sup> - 6×10<sup>−1</sup> || align="right" | 80 - 90 || align="right" | '''~ 16 - 32''' 
+|-
+|automobile|passenger car]], 10 m distant || align="right" | 2×10<sup>−2</sup> - 2×10<sup>−1</sup> || align="right" | 60 - 80 || align="right" | '''~ 4 - 16''' 
+|-
+|TV set at home level, 1 m distant || align="right" | 2×10<sup>−2</sup> || align="right" | ca. 60 || align="right" | '''~ 4'''
+|-
+|normal talking, 1 m distant || align="right" | 2×10<sup>−3</sup> - 2×10<sup>−2</sup> || align="right" | 40 - 60 || align="right" | '''~ 1 - 4'''
+|-
+|very calm room || align="right" | 2×10<sup>−4</sup> - 6×10<sup>−4</sup> || align="right" | 20 - 30 || align="right" | '''~ 0.15 - 0.4''' 
+|-
+|leaves' noise, calm breathing || align="right" | 6×10<sup>−5</sup> || align="right" | 10 ||align="right" | '''~ 0.02''' 
+|-
+|auditory threshold at 2 kHz || align="right" | 2×10<sup>−5</sup> || align="right" | 0 ||align="right" | '''0''' 
+|}
+
+:{| class="wikitable"
+|-
+! ''sone''
+| 1 || 2 || 4 || 8 || 16 || 32 || 64
+|-
+! ''phon''
+| 40 || 50 || 60 || 70 || 80 || 90 || 100
+|}
+
+
+
+==External links==
+*[http://www.sengpielaudio.com/calculatorSonephon.htm Conversion: Loudness ''N'' (sones) to loudness level ''L'' (phons) and loudness level ''L'' (phons) to loudness ''N'' (sones)]
