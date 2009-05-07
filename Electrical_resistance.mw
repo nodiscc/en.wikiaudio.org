@@ -1,0 +1,28 @@
+The '''electrical resistance''' of an object is a measure of its opposition to the passage of a steady electrical current. An object of uniform cross section will have a resistance proportional to its length and inversely proportional to its cross-sectional area, and proportional to the resistivity of the material.
+
+Discovered by Georg Ohm in the late 1820s,<ref>[http://www.sciencetimeline.net/1651.htm Ohm discovers resistance during 1825–30]</ref> electrical resistance shares some conceptual parallels with the mechanical notion of friction. The SI unit of electrical resistance is the ohm, symbol Ω. Resistance's reciprocal quantity is electrical conductance measured in siemens, symbol S.
+
+The resistance of a resistive object determines the amount of current through the object for a given potential difference across the object, in accordance with Ohm's law:
+
+<math>I = {V \over R}</math>
+
+where
+
+R is the resistance of the object, measured in ohms, equivalent to J·s/C<sup>2</sup>
+V is the potential difference across the object, measured in volts
+I is the current through the object, measured in amperes 
+
+For a wide variety of materials and conditions, the electrical resistance does not depend on the amount of current through or the amount of voltage across the object, meaning that the resistance R is constant for the given temperature. Therefore, the resistance of an object can be defined as the ratio of voltage to current:
+
+<math>R = {V \over I}</math>
+
+
+R = {V \over I}
+
+In the case of nonlinear objects (not purely resistive, or not obeying Ohm's law), this ratio can change as current or voltage changes; the ratio taken at any particular point, the inverse slope of a chord to an I–V curve, is sometimes referred to as a "chordal resistance" or "static resistance"<ref>Forbes T. Brown (2006). Engineering System Dynamics. CRC Press. p. 43. ISBN 9780849396489. </ref> <ref> Kenneth L. Kaiser (2004). Electromagnetic Compatibility Handbook. CRC Press. p. 13-52. ISBN 9780849320873. </ref>
+
+
+
+==References==
+
+<references/>
