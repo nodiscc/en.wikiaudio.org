@@ -1,0 +1,6 @@
+'''Delay''' is an audio effect which records an input signal to an audio storage medium, and then plays it back after a period of time. The delayed signal may either be played back multiple times, or played back into the recording again, to create the sound of a repeating, decaying echo.
+
+
+{{stub}}
+
+[[category:effects]]
