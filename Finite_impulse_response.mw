@@ -1,0 +1,7 @@
+A '''finite impulse response''' (FIR) filter is a type of a digital filter. The impulse response, the filter's response to a Kronecker delta input, is 'finite' because it settles to zero in a finite number of sample intervals. This is in contrast to infinite impulse response (IIR) filters which have internal feedback and may continue to respond indefinitely. The impulse response of an Nth order FIR filter lasts for N+1 samples, and then dies to zero.
+
+{{stub}}
+
+[[category:filters]]
+
+[[category:digital signal processing]]
