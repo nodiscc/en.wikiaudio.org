@@ -1,0 +1,6 @@
+'''Sound pressure''' is the local pressure deviation from the ambient (average, or equilibrium) pressure caused by a sound wave. Sound pressure can be measured using a microphone in air and a hydrophone in water. The SI unit for sound pressure is the pascal (symbol: Pa). The instantaneous sound pressure is the deviation from the local ambient pressure p0 caused by a sound wave at a given location and given instant in time. The effective sound pressure is the root mean square of the instantaneous sound pressure over a given interval of time (or space). In a sound wave, the complementary variable to sound pressure is the acoustic particle velocity. For small amplitudes, sound pressure and particle velocity are linearly related and their ratio is the acoustic impedance. The acoustic impedance depends on both the characteristics of the wave and the medium. The local instantaneous sound intensity is the product of the sound pressure and the acoustic particle velocity and is, therefore, a vector quantity.
+
+
+{{stub}}
+
+[[category:acoustics]]
