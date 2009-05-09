@@ -1,0 +1,23 @@
+[[image:Sine_and_Cosine.png|thumb|400px|right|The graphs of the sine and Trigonometric functions Cosine]]
+The '''sine wave''' or sinusoid is a function that occurs often in mathematics, music, physics, signal processing, audition, electrical engineering, and many other fields. Its most basic form is:
+
+:<math>y(t) = A \cdot \sin(\omega t + \theta)</math>
+
+which describes a wavelike function of time (''t'') with''':'''
+
+*peak deviation from center  = A (aka amplitude)
+*angular frequency ω, (radians per second)
+*phase = ''θ''
+**When the phase is non-zero, the entire waveform appears to be shifted in time by the amount θ/ω seconds. A negative value represents a delay, and a positive value represents a "head-start".
+
+[[image:ComplexSinInATimeAxe.gif|thumb|Illustrating the sine wave's fundamental relationship to the circle.]]
+
+The sine wave is important in physics because it retains its waveshape when added to another sine wave of the same frequency and arbitrary phase. It is the only periodic waveform that has this property. This property leads to its importance in Fourier analysis and makes it acoustically unique
+
+
+==Fourier series==
+In 1822, Joseph Fourier, a French mathematician, discovered that sinusoidal waves can be used as simple building blocks to describe and approximate any periodic waveform including square waves or even the irregular sound waves made by human speech. The process is named Fourier analysis. Fourier used it as an analytical tool in the study of waves and heat flow. It is frequently used in signal processing and the statistical analysis of time series. It has found applications in many other scientific fields, including probability (in particular, the proof of the central limit theorem relies upon Fourier analysis), the geometry of numbers, the isoperimetric problem, Heisenberg's inequality, recurrence of random walks, and proofs of quadratic reciprocity. Also see Fourier series and Fourier transform.
+
+
+[[category:wave mechanics]]
+[[category:waves]]
