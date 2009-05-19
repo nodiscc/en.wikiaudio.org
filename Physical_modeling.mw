@@ -1,0 +1,66 @@
+== Physical modeling==
+
+
+In sound synthesis, '''physical modeling''' synthesis refers to methods in which the waveform of the sound to be generated is computed by using a mathematical model, being a set of equations and algorithms to simulate a physical source of sound, usually a musical instrument. Such a model consists of (possibly simplified) laws of physics that govern the sound production, and will typically have several parameters, some of which are constants that describe the physical materials and dimensions of the instrument, while others are time-dependent functions that describe the player's interaction with it, such as plucking a string, or covering toneholes.
+
+For example, to model the sound of a drum, there would be a formula for how striking the drumhead injects energy into a two dimensional membrane. Thereafter the properties of the membrane (mass density, stiffness, etc.), its coupling with the resonance of the cylindrical body of the drum, and the conditions at its boundaries (a rigid termination to the drum's body) would describe its movement over time and thus its generation of sound.
+
+Similar stages to be modelled can be found in instruments such as a violin, though the energy excitation in this case is provided by the slip-stick behavior of the bow against the string, the width of the bow, the resonance and damping behavior of the strings, the transfer of string vibrations through the bridge, and finally, the resonance of the soundboard in response to those vibrations.
+
+Although physical modelling was not a new concept in acoustics and synthesis, having been implemented using finite difference approximations of the wave equation by Hiller and Ruiz in 1971, it was not until the development of the Karplus-Strong algorithm, the subsequent refinement and generalization of the algorithm into the extremely efficient digital waveguide synthesis by Julius O. Smith III and others, and the increase in DSP power in the late 1980s that commercial implementations became feasible.
+
+Yamaha signed a contract with Stanford University in 1989 to jointly develop digital waveguide synthesis, and as such most patents related to the technology are owned by Stanford or Yamaha.
+
+The first commercially available physical modelling synthesizer made using waveguide synthesis was the Yamaha VL1 in 1994.
+
+While the efficiency of digital waveguide synthesis made physical modelling feasible on common DSP hardware and native processors, the convincing emulation of physical instruments often requires the introduction of non-linear elements, scattering junctions, etc. In these cases, digital waveguides are often combined with FDTD, finite element or wave digital filter methods, increasing the computational demands of the model..
+
+''Examples of physical modelling synthesis:''
+* [[Karplus-Strong string synthesis]]
+* [[Digital waveguide synthesis]]
+* [[Formant synthesis]]
+
+==Virtual instruments==
+* Modartt [http://www.pianoteq.com/ Pianoteq] - Pianos
+* AAS [http://www.applied-acoustics.com/stringstudio.php String Studio] - Guitars, basses, harps, clavinets, bowed instruments, percussion
+* Arturia [http://www.arturia.com/evolution/en/products/brass/ BRASS] - Trumpet, trombone and saxophone
+* Sculpture (part of [[Logic Studio]]) - Strings
+* Yamaha S-YXG100 plus VL and S-YXG1000 plus PolyVL (the latter released in Japan only). These were basically software-only equivalents to the hardware (and hardware-assisted software) MIDI synth capabilities of the DS-XG cards / YMF chipsets mentioned in the next section. The PolyVL had eight voice polyphony for the physical modeling, whereas the VL and all of the hardware Yamaha VL synths only had one voice, or two for the original VL-1. Like the DS-XG .VxD drivers required for VL support of the DX-XG chipsets, these would work only on pre-NT kernel versions of Windows (9# and ME), and not on NT, 2000, XP, etc. Yamaha quietly discontinued these years ago.
+
+==Hardware synthesizers==
+* STR-1 (part of [[Korg OASYS]]) - Plucked string
+* Korg Prophecy
+* Korg Z1
+* Korg Karma (with MOSS chip installed)
+* Yamaha VL1 and VL7
+* Yamaha VL70m, PLG-100VL and 150VL (VL70m in the form of a plug-in card that can be installed into any of several Yamaha keyboards, tone modules, and the SW1000XG high-end PC midi sound card)
+* Clavia Nord Modular G2
+* Alesis Fusion
+* Pianoid
+
+While not purely a hardware synth, the DS-XG sound cards based on the Yamaha YMF-7#4 family of audio chipsets (including 724, 744, 754, and 764), including the Yamaha WaveForce 192 (SW192XG) as well as many from other manufacturers and even some PC motherboards with such an audio chipset, included hardware-assisted software VL physical modeling (like a VL70m or PLG-VL, and compatible with same) along with the Yamaha XG, wave audio, and 3D gaming sound capabilities of the chipset. Unfortunately, only the VxD (Virtual Device Drivers) drivers for pre-NT kernel versions of Windows (3.x, 9#, and ME) support the physical modeling feature. Neither the .WDM (Windows Device Model) drivers for Windows 98, 98SE, nor ME, nor any driver for any NT-kernel version of Windows (NT, 2000, XP, Vista, Windows 2003 Server, Windows 7, Windows 2008 Server, nor likely any future OSes) support this, nor can they for technical reasons. Those OSes do support the other features of the card, though.
+
+In their prime, the DS-XG sound cards were easily the most affordable way of obtaining genuine VL technology for anyone who already had a Windows 3.x, 9#, or ME PC. Such cards could be had brand new for as low as $12 USD (YMF-724 versions). But since they were not fully compatible with the AC-97 and later AC-98 standards which came later, these chipsets faded from the market and have not been manufactured by Yamaha in nearly a decade.
+
+==References==
+* Hiller, L.; Ruiz, P. (1971). "Synthesizing Musical Sounds by Solving the Wave Equation for Vibrating Objects". Journal of the Audio Engineering Society. 
+
+* Karplus, K.; Strong, A. (1983). "Digital synthesis of plucked string and drum timbres". Computer Music Journal 7: 43. doi:10.2307/3680062. 
+
+* Julius O. Smith III (December 2005). "Physical Audio Signal Processing". Draft.
+
+
+==External links==
+
+* [http://ccrma.stanford.edu/~jos/swgt/swgt.html Julius. O Smith III's ''A Basic Introduction to Digital Waveguide Synthesis'']
+* [http://www.stanford.edu/dept/news/pr/94/940607Arc4222.html '' Music synthesis approaches sound quality of real instruments'' — Stanford University's 1994 news release]
+* [http://www.audities.org/audities/collection/yamaha_vl1_1.html Audities Foundation Yamaha VL-1]
+* [http://swsoft.nsu.ru/~iivanov/index.html SoundSynthesis project]
+*[http://www.michaelschreiner.eu/violin_en.shtml Virtual Violin using finite elements by Christian Geiger und Michael Schreiner (including sound samples)] 
+*[http://www-acroe.imag.fr/mediatheque/sonotheque/sonotheque_en.html ACROE Physical modelling Sound Library] 
+*[http://www.electro-music.com/pm_tutorial Physical Modeling on the Nord Modular G2]
+*[http://nusofting.liqihsynth.com NUSofting] - Innovative physical modeling VST/AU instruments for computer musicians
+*[http://www.pianoid.com Pianoid] - Pianoid, a piano emulating synthesizer
+
+
+[[category:synthesis]]
