@@ -1,0 +1,11 @@
+[[Image:NOS-Stereo..png‎ |right|300px]]
+The '''NOS stereo microphone system''' is a very useful device to capture a stereo sound.
+
+The '''Nederlandse Omroep Stichting NOS''' = Holland Radio found by a number of practical attempts a stereo main [[microphone]] system, which results in a quite even distribution of the phantom sources (hearing event direction) on the stereo loudspeaker base, with two small cardioid characteristic microphones, and a recording angle of the microphone system of ±40.5° = 81°. This system got empirical an axle angle of ''α'' = ±45° = 90° and a microphone distance (microphone basis) of ''a'' = 30 cm.
+
+Here are frequency-independent level differences effective and time of arrival differences working together in the same direction as interchannel signals (interchannel loudspeaker signals). This technique leads to a realistic stereo effect and has a reasonable mono-compatibility. These interchannel differences have nothing to do with interaural differences which come only from artificial head recordings. Even the spacing of ''a'' = 30 cm has nothing to do with human ear distance, because a useful microphone system for a set of stereo loudspeakers should be developed and not for ear phones. This recording technology is called mixed stereo or equivalence stereo. Usually this special microphone system must be built up from two single small diaphragm microphones. One should not use double diaphragm microphones because of the produced unbalanced directional characteristics and the larger phase responses. It appears advisable to experiment with the two parameters the axle angle ''α'' and the microphone basis ''a'' to which there are practical microphone mounting devices.
+
+A similar technique is known as '''[[ORTF stereo technique]] ([[ORTF]] microphone system)'''. ORTF = Office de Radiodiffusion Télévision Française = Radio France . The angle between the microphone axes is ''α'' = ± 55° = 110° and the distance between the microphones (microphone basis) is in this case ''a'' = 17 cm and gives a total recording angle of 96°. The choice between one and the other depends on the recording angle of the microphone system and not on the distance to and the width of the sound source, the orchestra angle.
+
+
+[[category:recording techniques]]
