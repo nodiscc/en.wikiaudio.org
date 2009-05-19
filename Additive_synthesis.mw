@@ -1,0 +1,7 @@
+'''Additive synthesis''' is a technique of audio synthesis which creates musical timbre.
+
+The timbre of an instrument is composed of multiple harmonics or partials, in different quantities, that change over time. Additive synthesis emulates such timbres by combining numerous waveforms pitched to different harmonics, with a different amplitude envelope on each, along with inharmonic artifacts. Usually, this involves a bank of oscillators tuned to multiples of the base frequency. Often, each oscillator has its own customizable volume envelope, creating a realistic, dynamic sound that changes over time.
+
+{{stub}}
+
+[[category:synthesis]]
