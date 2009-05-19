@@ -1,0 +1,9 @@
+'''Karplus-Strong string synthesis''' is a method of [[physical modeling]] that loops a short waveform through a filtered delay line to simulate the sound of a hammered or plucked [[string instrument|string]] or some types of [[Percussion_instrument|percussion]].
+Although it is useful to view this as a [[subtractive synthesis]] technique based on a [[feedback loop]] similar to that of a [[comb filter]] for [[z-transform]] analysis, it is better viewed as the simplest of a class of [[wavetable]]-modification algorithms now known as [[digital waveguide synthesis]], as the delay line acts to store one period of the signal.
+
+Alexander Strong invented the algorithm, and [[Kevin Karplus]] did the first analysis of how it worked.  Together they developed software and hardware implementations of the algorithm, including a custom VLSI chip. They named the algorithm "Digitar" synthesis, as an abbreviation for "digital guitar".
+
+
+{{stub}}
+
+[[Category:Synthesis]]
