@@ -1,0 +1,6 @@
+'''Banded Waveguides Synthesis''' is a physical modeling synthesis method to simulate sounds of dispersive sounding objects, or objects with strongly inharmonic resonant frequencies efficiently. It can be used to model the sound of instruments based on elastic solids such as vibraphone and marimba bars, singing bowls and bells. It can also be used for other instruments with inharmonic partials, such as membranes or plates. For example simulations of tabla drums and cymbals have been implemented using this method. Because banded waveguides retain the dynamics of the system, complex non-linear excitations can be implemented. The method was originally invented in 1999 by Georg Essl and Perry Cook to synthesize the sound of bowed vibraphone bars (Essl Cook 1999).
+
+{{stub}}
+
+
+[[category:synthesis]]
