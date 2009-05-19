@@ -1,0 +1,36 @@
+[[Image:Dummyhead.jpg|thumb|300px|right|Dummy head being used for binaural recording; the second microphone is obscured.]]
+In [[acoustics]], '''dummy head recording''' (also known as ''artificial head'' or ''Kunstkopf'') is a method used to make [[binaural recording]]s, that allow a listener wearing [[headphones]] to perceive the directionality and the room [[acoustics]] of single or multiple sources.
+
+Human perception of the direction of a sound source is complex, and consists of:
+#Simple "left-right" information can be gained from relative level differences and time of arrival differences of the sound in each ear.
+#For percussive sounds, the impact of a shockwave can register perceptibly on the skin (typically the upper torso), with the earliest and strongest sensory stimulus coming from the region(s) of skin aligned perpendicular to the direction of the sound-source.
+#The human head imprints frequency-dependent distortions of [[phase (waves)|phase]] and [[amplitude]] on sound reaching the eardrums, that are frequency-dependent level differences  and these distortion effects vary with the direction of the sound source (being caused by the geometry and sound-transmitting characteristics of the [[Paranasal sinus|sinus]] and throat cavities, [[eustachian tube]]s, inner ear, external ears, and other hard and soft tissues in the head and upper body (see: [[head-related transfer function]], "HRTF").
+
+Conventional stereo recording only makes use of effect [1].  Dummy head recording uses both [1] and [3].  
+
+==Methods==
+There are three main ways of making a recording that uses this last effect to encode directionality information:
+# '''dummy head recording''' uses an artificial model of a human head, built from selected acoustic materials to emulate the sound-transmitting characteristics of a real human head, with two microphone inserts embedded at the "eardrum" locations,  
+# '''simulated dummy head recording''' processes a signal electronically to imprint the HRTF information associated with a specified direction, and 
+# finally, a pair of '''specially-designed microphones''' can be worn by a volunteer, fitted inside their ears, to make use of actual intra-cranial acoustics.
+
+==History==
+Historically, dummy head recordings have been associated with the use of a real synthetic head, the "Kunstkopf". The "head" could be placed in a concert hall to make a live orchestral recording, or actors could stand around the head when recording their dialogue. The head could also be used to imprint positional information on prerecorded sound effects by playing sounds through a loudspeaker placed in a suitable position by the head, and rerecording the result (for instance, it might be desirable for birdsong or thunder to seem to be coming from above the listener; this would not be achievable using conventional methods).
+
+In the 1990's, electronic devices were made commercially available that used [[DSP]] processing power to reproduce an HRTF digitally. These devices allowed the operator to use dials to adjust the apparent direction of sounds in real time. They were unusual and expensive, but allowed an operator to "position" pre-recorded special effects quickly and conveniently, and also to move sound sources dynamically. By manipulating the dials, the sound engineer could take a monophonic recording of a passing car and make it sound to the listener as if it were passing behind them in a particular direction. With a "physical" dummy head, this would have also required a rerecording booth, and either a single moving loudspeaker or an array of speakers and some sort of multiple panning or switching device.
+
+As portable digital recorders (using [[Digital Audio Tape|DAT]] and [[minidisc]] formats) became more popular, a market also arose for miniature "in-ear" microphones such as the ''[[Sound Professionals]] SP-TFB-2'' that could be "worn" by the operator inside their own ears to make "dummy head" recordings. Since these devices look like personal stereo "earbuds", they can be worn unobtrusively and are especially useful for making "audience" recordings of concerts and other live events, or for recording "ambient" sounds (such as birdsong, or traffic noises, or crowd sounds) with a realistic three-dimensional soundfield, which can later be mixed in together with more conventional recordings. A convincing radio play scene with two characters talking in a railway station could then be created by recording the actors in the studio, using in-ear microphones to record ambient "railway station" noises, and then mixing the two together. The disadvantage of the "in-ear" method for recording important events is that the wearer cannot wear earphones to monitor the recording, cannot receive audible instructions (without these being recorded), and cannot turn or dip their head without affecting the recording. They also have to be careful not to cough or clear their throat while recording.
+ 
+Another problem with "in-ear" recording is that the effectiveness of the effect depends partly on the degree of correspondence between the properties of the recordist's head and the head of the listener - although the recordings may sound compelling to the person who made them, there is currently no easy way to rate a particular person's head characteristics to assess their suitability as a "dummy head" recordist.
+
+==References==
+<references/>
+
+
+*  Sony Virtualphones Technology ; 5.1 ch & 7.1ch > to >{convert}> (2ch Holophonic) headphone, [http://www.ecat.sony.co.jp/avacc/headphone/cate01.cfm?B2=92&B3=403 (Sony Virtualphones)] hardware.
+
+{{Unreferenced|date=January 2007}}
+
+[[category:recording techniques]]
+
+[[category:stereo microphone techniques]]
