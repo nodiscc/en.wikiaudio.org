@@ -1,0 +1,10 @@
+An '''anti aliasing filter''' is a low pass filter used by  any device that converts an analog audio signal into a digitally "sampled" representation. This is used to prevent audio frequencies greater than half the sampling frequency from being sampled. This prevents "aliasing.
+
+
+{{stub}}
+
+[[category:circuitry]]
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Anti-aliasing_filter
