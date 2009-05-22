@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |''This entry needs an image.Please add one here''  <big>'''{{PAGENAME}}''' </big>
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 VCO (w/ sawtooth, square, narrow pulse and modulated-width pulse waveforms and Pink Noise generator)
+*LFO - 1 LFO with adjustable speed, depth and delay controls
+*Filter - 4-pole (24dB/oct) low pass filter with cutoff and resonance controls
+*VCA - 1 ADSR envelope
+*Keyboard - 37 keys
+*Arpeg/Seq - None
+*Control - None
+*Memory - None
+*Effects - repeat, delayed vibrato, bender, portamento, and pitchbend
+*Date Produced - 1974 -1978
+
+|}
+
+The '''Explorer''' is a programmable analog synthesizer manufactured by ARP.
+
+{{stub}}
+
+[[category:ARP|Explorer I]]
+[[category:synths]]
