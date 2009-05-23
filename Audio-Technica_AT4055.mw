@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Condenser
+*Polar Pattern Cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	5mV/Pa
+*Max SPL  	147dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	200Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4mA	
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	300g (10.56oz)
+*Length 	177mm (6.96")
+*Min Diameter/Width 	22mm (0.86")
+*Max Diameter/Width 	49.5mm (1.94")
+
+
+'''Accessories'''
+*Included 	AT8406 stand clamp, protective case	
+
+|}
+
+The '''Audio-Technica AT4055''' is a cardioid condenser microphone created for live-sound environments
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AT4055]]
