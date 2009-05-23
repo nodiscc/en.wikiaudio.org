@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' </big>[[image:Arp solina string synthesizer.jpg|thumb]] 
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Synthesis type: 	Analog Subtractive
+*Polyphony: 	16
+*Oscillators: 	1
+*Filter: 	yes
+*Attenuator: 	ADSR
+*LFO: 	1
+*Keyboard: 	49-key
+*External control: 	CV/Gate
+*Memory: 	none
+*Produced: 	1975
+|}
+
+The '''Solina String Synthesizer''' is a hybrid model which combined both the Solina String Ensemble and the ARP Explorer monophonic synthesizer. It was built in Bodegraven, Netherlands. Supposedly only about 100 were ever produced. The addition of the ARP Explorer to the Solina string sounds made for a very powerful combination.
+
+This synth had four keyboard modes:
+
+* Strings Only
+* Strings through the Explorer low-pass filter
+* Explorer voice combined with the lower Solina keyboard (contrabass and cello)
+* Explorer voice combined with the upper Solina keyboard (viola, violin, trumpet, horn)
+
+
+[[category:ARP|Solina String Synthesizer]]
+
+[[category:synths]]
+
+
+{{stub}}
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/ARP_String_Synthesizer
