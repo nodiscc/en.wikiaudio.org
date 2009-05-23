@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	30-20,000 Hz
+*OPEN CIRCUIT SENSITIVITY 	PHANTOM: -44 dB (6.3 mV) re 1V at 1 Pa
+*BATTERY: -45 dB (5.6 mV) re 1V at 1 Pa
+*IMPEDANCE 	PHANTOM: 200 ohms
+*BATTERY: 270 ohms
+*MAXIMUM INPUT SOUND LEVEL 	PHANTOM: 137 dB SPL, 1 kHz at 1% T.H.D.
+*BATTERY: 123 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	PHANTOM: 113 dB, 1 kHz at Max SPL
+*BATTERY: 99 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	70 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	9-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 1200 hours typical
+*WEIGHT 	5.3 oz (150 g)
+*DIMENSIONS 	7.65" (194.2 mm) long, 1.02" (26.0 mm) maximum diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; AT8136 windscreen; battery; soft protective pouch
+*AUDIO-TECHNICA CASE STYLE 	S4
+|}
+
+
+The '''Audio-Technica ATM33a''' is a cardioid condenser microphone
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|ATM33a]]
