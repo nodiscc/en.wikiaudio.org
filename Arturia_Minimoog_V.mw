@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono / polyphonic (up to 32 voices per instrument with unison possibilities)
+*Oscillators - 3 voltage-controlled oscillators (with 5 waveforms: Triangular, Sawtooth, Square, Wide Rectangular, Narrow Rectangular) + 1 noise generator (white or pink) 1 external audio input, 1 external oscillator and filter modulation input ,1 Mixer section with Level and On/Off controls for all 5 sound sources.No aliasing from 0.1 Hz to 20 kHz, 64-bit floating point precision, Sampling rate: up to 96 kHz,
+*Modulation - 1 LFO (sine, saw up, saw down, square, noise, random, sample-and-hold) with rate and MIDI Sync controls.1 modulation matrix offering up to 6 different connections (12 source options, 32 destinations)
+*Filter - 24 dB/oct lowpass filter with Cutoff, Emphasis, Amount as well as Attack, Decay, Sustain Envelope controls.
+*VCA/Envelopes - 1 VCA with Attack, Decay, Sustain Envelope controls
+*Arpeg/Seq - 1 arpeggiator - Patterns: UP, DOWN, RANDOM, BACKWARDS, NOTES PLAYED. Octave Range: 1 to 5.Repeats: 1 to 5. MIDI Sync On/Off switch, Chord Memory function, and adjustable Speed control.
+*Keyboard - 44-key virtual keyboard - Playable via any MIDI keyboard
+*Effects - 1 stereo delay with Delay Time, Feedback Amount, Wet/Dry and MIDI Sync control.1 three-mode chorus with rate, depth and wet/dry controls.
+*Memory - More than 500 presets, made by talented sound designers and artists (Basses, Arpeggios, EFX, Keyboards, Leads, Pads, Percussion, Horns, Synthesizers, and Templates).
+*Interfaces - Runs stand-alone with ASIO, DirectX, Sound Manager and Core Audio, or as a plug-in using VST-2.0, Audio Units, RTAS, HTDM, MAS, and DXi.
+*Macintosh - G3 500 MHz, 128 MB of RAM, MacOS 9.2.2 or higher, Mac OS X 10.2 or higher
+*Windows/PC - Pentium II 500 MHz, 128 MB of RAM, Windows 9x/2000/ME/XP
+*Date Produced - 2004
+
+|}
+
+The '''Arturia Minimoog V''' is a software instrument that attempts to emulate the sound and feel of the original hardware Minimoog synthesizer
+
+{{stub}}
+
+[[category:arturia|Minimoog V]]
+[[category:software instruments]]
+
+[[category:synths]]
