@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 64 Voices (with dynamic voice allocation)
+*Oscillators - QS Composite Synthesis (16 Bit Linear 48kHz Sample ROM): 16 MB, expandable to 32 MB via PCMCIA Expansion Card Slots
+*LFO - 3 LFO's
+*Filter - 64: 1 Sweepable Lowpass Filter per voice
+*Effects - QuadraSynth 2 four-Bus Parallel Matrix Effects: reverb, chorus, distortion, EQ, delay, rotary speaker simulation and more.
+*Keyboard - 88 hammer action weighted keys (velocity, release velocity, aftertouch sensitive)
+*Memory - Programs: 512 preset, 128 user; Mix Mode: 400 preset, 100 user.Expandable using QCards or RAM Cards via 2 PCMCIA expansion card slots for the QS8.1. The QS8.2 only has one expansion slot.
+*Control - MIDI IN, OUT, THRU (64 Part multitimbral across 16 MIDI channels); RS422 and RS232 serial protocols, Mac and PC compatible
+*Date Produced - 1999
+
+|}
+
+
+
+[[category:synths]] 
+
+[[category:alesis| QS8.1 / QS8.2]] 
+
+'''QS8.1''' is a 64 Voice Expandable Synthesizer.The '''QS8.2''' is virtually identical to the QS8.1 except that it has only one expansion slot.
+
+{{stub}}
