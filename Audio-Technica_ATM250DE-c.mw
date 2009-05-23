@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	3.5mV/Pa
+*Max SPL  	138dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	26dB-A
+*Output Impedance 	50Ω	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	3.5mA
+	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	Roll-off
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Weight 	320g (11.26oz)
+*Length 	143.6mm (5.65") 	
+*Max Diameter/Width 	55mm (2.16")
+	
+
+'''Accessories'''
+*Included 	AT8471 isolation clamp
+	
+|}
+
+The '''Audio-Technica ATM250DE-c''' is a A kick-drum microphone with a dual element - a dynamic hypercardioid and an electret condenser cardioid.It has a frequency range of 40Hz-20kHz
+
+{{stub}}
+
+
+[[category:microphones]]
+
+
+[[category:Audio-Technica|ATM250DE-c]]
