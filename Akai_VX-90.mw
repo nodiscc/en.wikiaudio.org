@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 Voice
+*Oscillators - 6 VCOs (1 VCO per voice with saw, tri, pulse, saw+tri and noise)
+*LFO - Standard LFO
+*Filter - 1 24dB/oct resonant 4-pole filter with highpass
+*VCA - ADSR envelope generators
+*Keyboard - None
+*Memory - 100 patches
+*Control - MIDI
+*Date Produced - 1986
+
+|}
+
+The''' VX-90''' is a 6 voice analog synth manufactured by Akai in 1986.
+
+{{stub}}
+
+[[category:akai|VX-90]]
+[[category:synths]]
