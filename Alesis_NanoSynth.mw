@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Sound Generation Method: 16 Bit Linear 48kHz Sample ROM
+* Synthesis: QS Composite Synthesis ™
+* Voices: 64, each with sweepable lowpass filter, 3 envelope generators, 3 LFOs, programmable effects send and QS Modulation Matrix, dynamic voice allocation
+* Available Waveform Memory: 8 MB
+* Program Memory: 512 Preset, 128 User
+* Effects: QS Parallel Matrix Effects™ (4 independent stereo multieffect processing busses)
+* Multitimbral Mode: QS Mix Mode (64 Part multitimbral across 16 MIDI channels)
+* MIDI Connections: MIDI In, MIDI Out/Thru
+* Audio Outputs: Stereo L and R outputs
+* Power: 9VAC External Transformer, UL and CSA Approved
+* Dimensions: (WxHxD) 5.5" x 1.75" x 4.5" (140mm x 39mm x 115 mm)
+* Weight: 1.25 lbs. (0.6kg) 
+
+
+|}
+
+The '''Alesis NanoSynth''' is a 64 voice rack mount synth module.
+{{stub}}
+
+[[category:alesis]]
+[[category:synths]]
