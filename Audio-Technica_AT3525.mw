@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Condenser
+*Polar Pattern Cardioid
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	3.9mV/Pa
+*Max SPL  	146dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	24dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4mA
+
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	80Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Grey
+*Weight 	231g (8.13oz)
+*Length 	119.5mm (4.70")
+*Min Diameter/Width 	21mm (0.82")
+*Max Diameter/Width 	48mm (1.88")
+ 	
+|}
+
+
+The '''Audio-Technica AT3525''' is a cardioid condenser microphone with a frequency response of 30Hz-20KHz
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Audio-Technica|AT3525]]
