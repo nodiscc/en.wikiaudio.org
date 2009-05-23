@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Externally polarized (DC bias) condenser
+*POLAR PATTERN 	Omnidirectional
+*FREQUENCY RESPONSE 	20-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	-33 dB (22.4 mV) re 1V at 1 Pa
+*IMPEDANCE 	100 ohms
+*MAXIMUM INPUT SOUND LEVEL 	146 dB SPL, 1 kHz at 1% T.H.D.
+*NOISE 	19 dB SPL
+*DYNAMIC RANGE (typical) 	127 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	75 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	48V DC, 3.2 mA typical
+*SWITCH 	Flat, roll-off
+*WEIGHT 	4.2 oz (120 g)
+*DIMENSIONS 	6.10" (155.0 mm) long,0.83" (21.0 mm) body diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*OPTIONAL INTERCHANGEABLE ELEMENTS 	AT4051a-EL (cardioid);
+*AT4053a-EL (hypercardioid)
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; AT8159 windscreen; protective carrying case
+*AUDIO-TECHNICA CASE STYLE 	S1
+
+
+|}
+
+The '''Audio-Technica AT4049a''' is an omnidirectional cardioid microphone. 
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AT4049a]]
