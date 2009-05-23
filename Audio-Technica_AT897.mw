@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Line + gradient
+*FREQUENCY RESPONSE 	20-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	Phantom: -40 dB (10.0 mV) re 1V at 1 Pa Battery: -41 dB (8.9 mV) re 1V at 1 Pa
+*IMPEDANCE 	Phantom: 200 ohms Battery: 300 ohms
+*MAXIMUM INPUT SOUND LEVEL 	Phantom: 129 dB SPL, 1 kHz at 1% T.H.D. Battery: 115 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	Phantom: 112 dB, 1 kHz at Max SPL Battery: 98 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	77 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 1200 hours typical (alkaline)
+*SWITCH 	Flat, roll-off (recessed)
+*WEIGHT 	5.1 oz (145 g)
+*DIMENSIONS 	10.98" (279.0 mm) long, 0.83" (21.0 mm) diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; AT8134 windscreen; battery; 5/8"-27 to 3/8"-16 threaded adapter; protective carrying case
+*AUDIO-TECHNICA CASE STYLE 	SG2
+|}
+
+The '''Audio-Technica AT897''' is a line + gradient (shotgun) condenser microphone.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|AT897]]
