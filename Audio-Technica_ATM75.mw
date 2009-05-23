@@ -1,0 +1,46 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	100-13,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 18 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	PHANTOM: -51 dB (2.8 mV) re 1V at 1 Pa
+*BATTERY: -53 dB (2.2 mV) re 1V at 1 Pa
+*IMPEDANCE 	PHANTOM: 200 ohms
+*BATTERY: 270 ohms
+*MAXIMUM INPUT SOUND LEVEL 	PHANTOM: 132 dB SPL, 1 kHz at 1% T.H.D.
+*BATTERY: 121 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	PHANTOM: 96 dB, 1 kHz at Max SPL
+*BATTERY: 85 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	58 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 2000 hours typical (alkaline)
+*SWITCH 	Off, on-flat, on-roll-off
+*WEIGHT (MICROPHONE) 	2.1 oz (60 g)
+*WEIGHT (POWER MODULE) 	4.9 oz (139 g)
+*DIMENSIONS (MICROPHONE) 	0.80" (20.4 mm) diameter
+*DIMENSIONS (POWER MODULE) 	3.31" (84.0 mm) H x 2.48" (63.0 mm) W x 0.87" (22.0 mm) D
+DIMENSIONS (HEADSET) 	4.72" (120.0 mm) nominal at widest point, 3.17" (80.5 mm) flexible boom
+*OUTPUT CONNECTOR (POWER MODULE) 	Integral 3-pin XLRM-type
+*CABLE 	4.6' (1.4 m) long (permanently attached to microphone), 0.11" (2.8 mm) diameter, 2-conductor shielded cable with TA3F-type connector
+*ACCESSORIES FURNISHED 	AT8531 power module; AT8439 clothing clip; AT8139L large windscreen; AT8139S small windscreen; battery
+*AUDIO-TECHNICA CASE STYLE 	M19
+|}
+
+The '''Audio-Technica ATM75''' is a cardioid condenser head worn microphone. 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|ATM75]]
