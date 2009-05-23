@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	15.9mV/Pa
+*Max SPL  	132dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	29dB-A
+*Output Impedance 	100Ω
+*Powering 	Phantom 12-48
+
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	150Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	143g (5.03oz)
+*Length 	160mm (6.29")
+*Min Diameter/Width 	20mm (0.78")
+*Max Diameter/Width 	23mm (0.90")
+	
+
+'''Accessories'''
+*Included 	D-clip, WS-81C foam windscreen
+*Optional 	APS-2 phantom PSU
+
+|}
+
+
+The '''Audix ADX-51''' is a cardioid condenser microphone
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audix|ADX-51]]
