@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>[[Image:Mpc2000xl.png|thumb| A customized MPC 2000XL]] 
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Sampling System: 16 bit linear
+*Built-in floppy disk and SCSI interface; Supports sample data from S1000 and S3000 series samplers, the E-mu EIIIx library, Roland S750/S760 libraries, .WAV files samples.
+* Sampling Rate: 44.1 kHz (frequency response: 20-20kHz)
+* Sampling Capacity: 2MB standard (21.9 sec. mono or 10.9 sec. stereo), expandable to 32MB
+* Standard Memory: 2MB
+* Memory expansion slot: 2 x 72-pin SIMM (70ns)
+* Polyphony: 32 voices
+* Dynamic filtering: -12dB/octave dynamic resonant lowpass filter per voice
+* Record input (L and R): 1/4" stereo phone x 2, balanced -40dBu, input imp. 39k ohms; Max. input level +10dBu
+* Digital sampling input: RCA-pin x 1, S/PDIF (optional)
+* Digital master output: RCA-pin x 1, S/PDIF (optional)
+* Stereo output: 1/4" phone x 2, unbalanced +11dBu, output imp.  100 ohms; Max. output level +17dBu
+* 8 individual outputs: 1/4" phone x 8, unbalanced +11dBu, output imp. 100 ohms (optional); Max. output level +17dBu
+* Headphone output: 1/4" stereo phone x 1, 200mW / 32 ohms
+* MIDI inputs: 5-pin DIN x 2 (mergeable)
+* MIDI outputs: 5-pin DIN x 2 (independent)
+*Keyboard: 16 soft pads with velocity
+* SCSI port: high-density 50-pin connector x 1
+* Dimensions: 405(W) x 106 (H) x 331 (D) mm
+* Weight: 5.5kg
+* Accessories: AC power cable, operators manual, CD-ROM sound library x 1 
+|}
+
+The '''Akai MPC2000''' is a Drum machine, MIDI sequencer and sampler. 
+
+{{stub}}
+
+[[category:Akai|MMPC2000XL MIDI Production Center]]
