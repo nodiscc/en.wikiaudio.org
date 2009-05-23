@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Externally-polarized (DC bias) condenser
+*POLAR PATTERNS 	Cardioid, Omnidirectional, Figure-of-Eight
+*FREQUENCY RESPONSE 	20-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	–42 dB (7.9 mV) re 1V at 1 Pa
+*IMPEDANCE 	120 ohms
+*MAXIMUM INPUT SOUND LEVEL 	149 dB SPL, 1 kHz at 1% T.H.D.; 159 dB SPL, with 10 dB pad (nominal)
+*NOISE 	17 dB SPL
+*DYNAMIC RANGE (typical) 	132 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	77 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 4.7 mA typical
+*SWITCHES 	Polar selection; Flat, roll-off; 10 dB pad (nominal)
+*WEIGHT 	412 g (14.5 oz)
+*DIMENSIONS 	170.0 mm (6.69") long, 52.0 mm (2.05") maximum body diameter
+*OUTPUT CONNECTORS 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8458 shock mount for 5/8"-27 threaded stands; 5/8"-27 to 3/8"-16 threaded adapter; soft protective pouch
+*AUDIO-TECHNICA CASE STYLE 	R5
+
+
+|}
+
+
+The '''AT2050''' is multi-pattern condenser microphone with a frequency response of 20-20,000 Hz
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Audio-Technica|AT2050]]
