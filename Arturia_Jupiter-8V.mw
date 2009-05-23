@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Up to 32 voices of polyphony, and a Unison mode
+*Oscillators - 2 VCOs per voice (saw, ramp, pulse-width, square)
+*Modulation - 2 LFOs (sine, saw, square, random waveforms)
+*Filter - Highpass with cutoff Lowpass 12 or 24dB/oct with cutoff, resonance, ENV mod, kybd follow
+*VCA/Envelopes - 2 ADSR envelopes
+*Arpeg/Seq - Arpeg: Up, Down, Up/Down, Random Step Sequencer: 32 step with glide & accent, multiple destinations
+*Keyboard - Virtual 61-note keyboard with Dual, split and layer modes
+*Effects - Two Voice Effects: Chorus, Distortion, Param EQ, Phaser, RIng Mod, Two Patch Effects: Chorus/Flanger, Delay, Dual Phaser, Reverb.
+*Memory - Ships with over 400 presets. Unlimited patch memory.
+*Interfaces - Stand-Alone: ASIO, Core Audio.
+*Plug-In: VST, RTAS, Audio Units.
+*Macintosh - OS X 10.3.9 or higher, 1.5 GHz, 512MB RAM
+*Windows/PC - Windows 2000/XP, 1.5 GHz, 512MB RAM
+*Date Produced - 2007
+
+|}
+
+The '''Arturia Jupiter-8V''' is a software instrument recreation of the Roland Jupiter-8 analog synthesizer
+
+{{stub}}
+
+[[category:Arturia|Jupiter-8V]]
+[[category:software instruments]]
+
+[[category:synths]]
