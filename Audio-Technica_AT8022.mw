@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate permanently polarized condenser
+*POLAR PATTERN 	X/Y Stereo
+*FREQUENCY RESPONSE 	20-15,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	Phantom: –38 dB (12.5 mV) re 1V at 1 Pa Battery: –38 dB (12.5 mV) re 1V at 1 Pa
+*CHANNEL BALANCE 	<2.5 dB
+*IMPEDANCE 	Phantom: 250 ohms Battery: 300 ohms
+*MAXIMUM INPUT SOUND LEVEL 	Phantom: 128 dB SPL, 1 kHz at 1% T.H.D. Battery: 120 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	Phantom: 109 dB, 1 kHz at Max SPL Battery: 101 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	75 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 2 mA typical (each channel)
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.7 mA / 700 hours typical (alkaline)
+*SWITCH 	Battery On/Off; Flat, roll-off
+*WEIGHT 	247 g (8.7 oz)
+*DIMENSIONS 	186.0 mm (7.32") long, 47.6 mm (1.87") head diameter 21.0 mm (0.83") maximum body diameter
+*OUTPUT CONNECTOR 	Integral 5-pin XLRM-type
+*CABLES 	Balanced: 2.0 m (6.5') long, 8 conductor, shielded, vinyl-jacketed stereo cable with 5-pin XLRF-type connector at microphone end and two 3-pin XLRM-type connectors at output end; Unbalanced: 0.6 m (2.0') long stereo cable with 5-pin XLRF-type connector at microphone end and 3.5 mm TRS connector at output end
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; windscreen; battery; soft protective pouch
+*AUDIO-TECHNICA CASE STYLE 	S12
+|}
+
+The '''Audio-Technica AT8022''' is an X/Y stereo condenser microphone. 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|AT8022]]
