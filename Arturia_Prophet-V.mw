@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - From 2 to 32 voices of polyphony, and a Unison mode
+*Oscillators - 2 VCOs per voice (saw, tri, square, noise) for Prophet 5,4 Wavetable oscillators (with 96 waveforms) for ProphetVS.
+*Modulation - 3 LFOs with MIDI sync
+*Filter - 1 resonating lowpass filter for Prophet 5,1 multimode resonant filter for ProphetVS (Highpass,Lowpass, Bandpass, Band reject)
+*VCA/Envelopes - 2 ADSR envelopes and 3 five point envelopes
+*Arpeg/Seq - Arpeggiation capability
+*Keyboard - Virtual 61-note keyboard
+*Effects - Chorus, Stereo Delay with MIDI Sync
+*Memory - Ships with over 500 presets. Unlimited patch memory.
+*Interfaces - Stand-Alone: ASIO, Core Audio.
+*Plug-In: VST, DXi, RTAS, Audio Units.
+*Macintosh - OS X 10.2 or higher, 1.5 GHz, 512MB RAM
+*Windows/PC - Windows 98 SE/2000/XP, 1.5 GHz, 512MB RAM
+*Date Produced - 2006
+
+|}
+
+The '''Arturia Prophet-V''' is a software instrument that attempts to emulate Sequential Circuits Prophet 5 and Prophet VS model synthesizers
+
+{{stub}}
+
+[[category:arturia|Arturia Prophet-V]]
+[[category:software instruments]]
+
+[[category:synths]]
