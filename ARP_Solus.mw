@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+
+*Polyphony - Monophonic
+*Oscillators - 2 VCO's (w/ sawtooth and pulse waveforms)
+*LFO - 1 LFO can modulate filter, envelope or pulse width
+*Filter - 4-pole low pass filter with cutoff, resonance & modulation by LFO, ADSR or keyboard
+*VCA - 1 ADSR envelope
+*Keyboard - 37 keys
+*Arpeg/Seq - None
+*Control - CV/GATE OUT
+*Memory - None
+*Effects - None
+*Date Produced - 1980 - 1981
+|}
+
+The '''ARP Solus''' is a 37 key monophonic synthesizer
+
+{{stub}}
+
+[[category:ARP|Solus]]
+[[category:synths]]
