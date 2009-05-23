@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: polarized condenser
+*Polar pattern: Cardioid.
+*Frequency Response	20Hz - 17kHz
+*Output Sensitivity 	2.8mV/Pa
+*Max SPL  	148dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	100Ω
+*Powering 	Phantom 12-48
+*SupplyCurrent 	3mA
+	
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	80Hz, 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Weight 	390g (13.73oz)
+*Length 	165mm (6.49") 	
+*Max Diameter/Width 	55mm (2.16")
+
+'''Accessories'''
+*Included 	AT8471 isolation clamp, pouch, cable
+
+
+|}
+
+The '''Audio-Technica AE2500-c''' is a dual-element design with dynamic and back-electret condenser elements fitted into a single housing. Designed for kick drum miking.
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AE2500-c]]
