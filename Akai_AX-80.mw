@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 2 per voice + Sub Osc. (sawtooth or variable pulse width)
+*Filter - 8 VCFs (1 per voice)
+*VCA - 8 ADSRs (1 per voice)
+*LFO - 3 LFOs controlling OSC 1, OSC 2, VCF
+*Keyboard - 61 keys (velocity sensitive)
+*Memory - 96 patches (64 user, 32 preset)
+*Control - MIDI
+*Date Produced - 1984
+
+|}
+
+The '''Akai AX-80''' is an 8 voice analog synth
+
+{{stub}}
+
+
+
+
+
+
+[[category:akai|AX-80]]
+[[category:synths]]
