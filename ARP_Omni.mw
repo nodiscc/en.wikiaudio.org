@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |''This entry needs an image.Please add one here''  <big>'''{{PAGENAME}}''' </big>
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Divide-down architecture
+*Waveforms - 4 preset sounds: Violin (polyphonic), Viola (polyphonic), Cello (monophonic), Bass (monophonic)
+*LFO - One variable speed LFO for string section with Sine wave shape
+*Filter - Model 4075 4-pole, 24db lowpass with its own ADSR & Omni 2 added LFO control to VCF
+*VCA - Omni 1: AR only; Omni 2: ADSR
+*Keyboard - 49 keys
+*Arpeg/Seq - None
+*Control - CV/Gate
+*Date Produced -
+(Mark 1) - 1975 - 1977
+(Mark 2) - 1977 - 1981
+|}
+
+The '''ARP Omni''' is an analog synthesizer keyboard with Orchestral string sounds.
+
+{{stub}}
+
+[[category:ARP|OMNI]]
+[[category:synths]]
