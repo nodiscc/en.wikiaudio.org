@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Externally polarized (DC bias) condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	20-20,000 Hz
+*OPEN CIRCUIT SENSITIVITY 	-34 dB (19.9 mV) re 1V at 1 Pa
+*IMPEDANCE 	200 ohms
+*MAXIMUM INPUT SOUND LEVEL 	150 dB SPL, 1 kHz at 1% T.H.D.;149 dB SPL, 1 kHz at 0.5% T.H.D.
+*NOISE 	19 dB SPL
+*DYNAMIC RANGE (typical) 	131 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	75 dB, 1 kHz at 1 Pa
+*POWER REQUIREMENTS 	AT8560 power supply (120V/230V AC)
+*WEIGHT (MICROPHONE) 	22.6 oz (640 g)
+*WEIGHT (POWER SUPPLY) 	4.19 lbs (1.9 kg)
+*DIMENSIONS 	MICROPHONE: 8.27" (210.0 mm) long,2.10" (53.4 mm) maximum body diameter
+
+*POWER SUPPLY: 8.27" (210.0 mm) W x8.86" (225.0 mm) D x 1.73" (44.0 mm) H
+*OUTPUT CONNECTOR 	XLRM-type (on power supply)
+*CABLES 	32.8' (10 m) cable with 6 pin XLR-type connectors for use between microphone and power supply; AC power supply cable
+*ACCESSORIES FURNISHED 	AT8560 power supply; AT8447 shock mount for 5/8"-27 threaded stands; rack-mount adapters for power supply; protective mic carrying case
+
+
+|}
+
+
+The '''Audio-Technica AT4060''' is a cardioid condenser tube microphone with a frequency response of 20Hz-20KHz
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AT4060]]
