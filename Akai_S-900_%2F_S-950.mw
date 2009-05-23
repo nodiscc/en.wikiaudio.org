@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Sampler - 12-bit linear, 7.5 - 40kHz sampling rates (63 seconds). Up to 48kHz in S-950.
+*Memory - 750 kB RAM in S-900 (not expandable). 750 kB (standard) to 2.25 mB RAM in S 950.
+*VCA - ADSR
+*Effects - None
+*Arpeg/Seq - None
+*Keyboard - None
+*Storage - 750K internal RAM. Up to 2.25MB in S-950
+*Control - MIDI plus optional 8 trigger-inputs via ME35T-board
+*Date Produced - S-900: 1986 S-950: 1988
+
+|}
+
+The '''S-900''' is a 12 bit 8 voice polyphonic sampler created by Akai in 1986 and followed by the S-950 released in 1988.
+
+{{stub}}
+
+
+
+
+
+[[category:akai|S-900]]
+[[category:synths]]
+[[category:samplers]]
