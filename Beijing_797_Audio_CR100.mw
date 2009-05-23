@@ -1,0 +1,35 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type pressure gradient transducer
+*Directional pattern	cardioid
+*Frequency rang	20 ~ 20 kHz
+*Sensitivity at 1KHz into 1Kohm	16mV/Pa ( -36dBV , re. 0dB=1V/Pa)
+*Rated Impedance	200 Ohm
+*Recommended load impedance	1000 Ohm
+*MAX. SPL for 1% THD @1000Hz	124 dB
+*Equivalent SPL DIN/IEC 651	18 dB-A
+*S/N ratio DIN/IEC 651	76 dB-A
+*Supply voltage	Special phantom power DJ-8
+*Matching connector	7-pin XLR (gold plated)
+*Net weight	480 g
+*Diameter	50 mm
+*Length	172 mm
+
+|}
+
+The '''Beijing 797 Audio CR100''' is pressure gradient transducer tube microphone intended for vocal applications
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Beijing 797 Audio|CR100]]
