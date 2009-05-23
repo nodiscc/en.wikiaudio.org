@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Line + gradient
+*FREQUENCY RESPONSE 	40-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	180 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	Phantom: -38 dB (12.5 mV) re 1V at 1 Pa Battery: -39 dB (11.2 mV) re 1V at 1 Pa
+*IMPEDANCE 	Phantom: 500 ohms Battery: 600 ohms
+*MAXIMUM INPUT SOUND LEVEL 	Phantom: 130 dB SPL, 1 kHz at 1% T.H.D. Battery: 115 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	Phantom: 106 dB, 1 kHz at Max SPL Battery: 91 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	70 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	9-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 1200 hours typical
+*SWITCH 	Flat, roll-off (recessed)
+*WEIGHT 	5.3 oz (150 g)
+*DIMENSIONS (MICROPHONE) 	14.53" (369.0 mm) long, 0.83" (21.0 mm) diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; AT8132 windscreen; battery; protective carrying case
+*AUDIO-TECHNICA CASE STYLE 	SG1
+|}
+
+The '''Audio-Technica AT835b''' is a Line + Gradient Condenser Microphone designed for video production and "boom mic" use.
+
+
+{{stub}}
+
+
+[[category:microphones]]
+
+
+[[category:Audio-Technica|AT835b]]
