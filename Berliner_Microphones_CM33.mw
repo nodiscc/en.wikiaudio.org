@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: Pressure gradient transducer (Condenser) 
+*Directional Pattern: 	Cardioid
+*Active Electronics: 	Transformerless FET
+*Frequency Response: 	20Hz - 20 kHz
+*Sensitivity: 	-40dB (9mv/Pa 0dB=1V/Pa at 1 KHz)
+*Level Attenuation: 	10dB (switchable)
+*Low-Cut filter: 	3dB/Oct. at 120Hz (switchable)
+*Rated Impedance: 	50 ohms
+*Maximum SPL: 	141dB (@1kHz, 0.5% THD) 151 dB SPL with -10dB pad
+*Equivalent Noise: 	22dB-A
+*S/N Ratio: 	76.3dB
+*Power Requirement: 	48 +/- 4V, 3mA
+*Circuit: 	FET driven, discrete balanced output
+*Connection: 	gold-plated balanced 3 pin XLR
+
+
+|}
+
+The '''CM33''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Berliner|CM33]]
