@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Condenser
+*POLAR PATTERNS 	"Normal": Cardioid "Tele": Supercardioid
+*FREQUENCY RESPONSE 	70 - 18,000 Hz
+*OPEN CIRCUIT SENSITIVITY 	"Normal": -56 dBm, 1 kHz at 1 Pa "Tele": -45 dBm, 1 kHz at 1 Pa
+*IMPEDANCE 	"Normal": 1000 ohms +/- 30% "Tele": 2200 ohms +/- 30%
+*WEIGHT 	4 oz (113 g)
+*CABLE 	3' (1 m)
+|}
+
+The '''Audio-Technica ATR55''' is a cardioid condenser shotgun microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|ATR55]]
