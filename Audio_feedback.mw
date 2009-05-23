@@ -1,0 +1,4 @@
+'''Audio feedback''' (also known as the Larsen effect after the Danish scientist, Søren Larsen, who first discovered its principles) is a special kind of feedback which occurs when a sound loop exists between an audio input (for example, a microphone or guitar pickup) and an audio output (for example, a loudspeaker). In this example, a signal received by the microphone is amplified and passed out of the loudspeaker. The sound from the loudspeaker can then be received by the microphone again, amplified further, and then passed out through the loudspeaker again. This is a good example of positive feedback. The frequency of the resulting sound is determined by resonant frequencies in the microphone, amplifier, and loudspeaker, the acoustics of the room, the directional pick-up and emission patterns of the microphone and loudspeaker, and the distance between them.{{Template:Unreferenced}} {{stub}}
+
+
+[[category:circuitry|Feedback]]
