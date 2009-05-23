@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	30-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 18 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	PHANTOM: -44 dB (6.3 mV) re 1V at 1 Pa
+*BATTERY: -45 dB (5.6 mV) re 1V at 1 Pa
+*IMPEDANCE 	PHANTOM: 200 ohms
+*BATTERY: 270 ohms
+*MAXIMUM INPUT SOUND LEVEL 	PHANTOM: 135 dB SPL, 1 kHz at 1% T.H.D.
+*BATTERY: 121 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	PHANTOM: 108 dB, 1 kHz at Max SPL
+*BATTERY: 94 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	67 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	9-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 1200 hours typical (alkaline)
+*SWITCH 	Off, on-flat, on-roll-off
+*WEIGHT (MICROPHONE) 	4.2 oz (120 g)
+*WEIGHT (POWER MODULE) 	5.2 oz (147 g)
+*DIMENSIONS (MICROPHONE) 	2.52" (64.0 mm) maximum width,3.60" (91.5 mm) maximum length,0.63" (16.0 mm) height
+*DIMENSIONS (POWER MODULE) 	3.27" (83.0 mm) H x2.48" (63.0 mm) W x0.87" (22.0 mm) D
+*OUTPUT CONNECTOR (POWER MODULE) 	Integral 3-pin XLRM-type
+*CABLE 	25' (7.6 m) long, 0.13" (3.2 mm) diameter, 2-conductor, shielded, with TA3F connectors
+*ACCESSORIES FURNISHED 	AT8531 power module; battery; soft protective pouch
+
+|}
+
+The '''Audio-Technica AT851a''' is a cardioid condenser boundary microphone 
+
+
+{{stub}}
+[[category:microphones]]
+
+
+[[category:Audio-Technica|AT851a]]
