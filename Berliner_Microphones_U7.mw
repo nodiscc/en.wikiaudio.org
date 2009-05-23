@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: 	Pressure gradiant tube condenser
+*Polar pattern: 	Cardioid
+*Sensitivity: 	20mV/Pa = -34dBV (0dB = 1v/Pa)
+*Frequency Response: 	20Hz to 20kHz
+*Impedance: 	<250 Ohm
+*Recommended load impedance: 	>1000 Ohm MAX. SPL for 1% THD @ 1kHz: 	132 dB
+*S/N Ratio: 	78dB
+*Power requirement: 	Dedicated N7 power unit
+*Connector: 	Tuchel 7-pin XLR
+*Mic cable: 	7-pin Gotham GAC-7
+*Valve (Vacuum tube) fitted: 	GE 6072 NOS
+*Length: 	165.1mm (6.5
+*Net weight: 	420g (30.5oz) 
+
+|}
+
+The '''Berliner U7''' is a cardioid tube microphone
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Berliner|U7]]
