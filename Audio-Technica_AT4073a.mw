@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Externally polarized (DC bias) condenser
+*POLAR PATTERN 	Line + gradient (shotgun)
+*FREQUENCY RESPONSE 	30-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	150 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	-23 dB (70.8 mV) re 1V at 1 Pa
+*IMPEDANCE 	100 ohms
+*MAXIMUM INPUT SOUND LEVEL 	126 dB SPL, 1 kHz at 1% T.H.D.
+*NOISE 	14 dB SPL
+*DYNAMIC RANGE (typical) 	112 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	80 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 3.2 mA typical
+*SWITCH 	Flat, roll-off
+*WEIGHT 	4.0 oz (114 g)
+*DIMENSIONS 	9.13" (232.0 mm) long, 0.83" (21.0 mm) diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; AT8134 windscreen; protective carrying case
+*AUDIO-TECHNICA CASE STYLE 	SG2
+
+|}
+
+The '''Audio-Technica AT4073a''' is a shotgun condenser microphone
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AT4073a]]
