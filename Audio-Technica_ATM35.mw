@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	40-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	–49 dB (3.5 mV) re 1V at 1 Pa
+*IMPEDANCE 	50 ohms
+*MAXIMUM INPUT SOUND LEVEL 	149 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	122 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	67 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 3.5 mA typical
+*SWITCH 	Flat, roll-off
+*WEIGHT (MICROPHONE) 	14.5 g (0.5 oz)
+*WEIGHT (POWER MODULE) 	81.2 g (2.9 oz)
+*DIMENSIONS (MICROPHONE) 	37.8 mm (1.49") long, 12.2 mm (0.48") diameter
+*DIMENSIONS (POWER MODULE) 	92.9 mm (3.66") long, 18.9 mm (0.74") diameter
+*OUTPUT CONNECTOR (POWER MODULE) 	Integral 3-pin XLRM-type
+*CABLE 	4.0 m (13.1') long (permanently attached to microphone), 3.2 mm (0.13") diameter, 2-conductor shielded cable with TA3F-type connector
+*ACCESSORIES FURNISHED 	AT8542 power module; AT8418 UniMount® microphone instrument mount; AT8468 violin mount; soft protective pouch
+*AUDIO-TECHNICA CASE STYLE 	M36
+|}
+
+The '''Audio-Technica ATM35''' is a cardioid condenser clip on microphone
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|ATM35]]
