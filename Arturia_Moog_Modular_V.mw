@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono / polyphonic (up to 64 voices per instrument)
+*Oscillators - 9 oscillators (simultaneously available sine, triangle, sawtooth, and pulse waves) plus white/pink noise generators. Based on original Moog 921a Oscillator Driver and 921b Oscillator modules. No aliasing from 0.1 Hz to 16 kHz, 64-bit floating point precision, Sampling rate: up to 96 kHz
+*Modulation - 2 LFOs with 5 simultaneously available waveforms (sine, sawttoh, triangle, square, random, and trigger output) also with fade-in, delay, tempo sync, and PWM and FM inputs.
+*Filter - 3 filter slots with lowpass (24dB/oct lowpass), highpass, Filter Coupler (based on Moog 904 module), and resonant multimode. Additional filter bank (14 bandwidths available) based on Moog 914 filterbank module.
+*VCA/Envelopes - 2 VCAs, 6 ADSR envelopes, 16 auxiliary VCAs with modulation inputs
+*Arpeg/Seq - 24-step sequencer based on Moog 960 step sequencer
+*Keyboard - 61-key virtual keyboard
+*Effects - 1 stereo delay, 1 chorus
+*Memory - More than 400 presets, made by professionals
+*Interfaces - Runs stand-alone with ASIO, DirectX, Sound Manager and Core Audio, or as a plug-in using VST-2.0, Audio Units, RTAS, HTDM, MAS, and DXi.
+*Macintosh - G3 500 MHz, 128 MB of RAM, MacOS 9.x, Mac OS X 10.2
+*Windows/PC - Pentium II 500 MHz, 128 MB of RAM, Windows 9x/2000/ME/XP
+*Date Produced - 2003
+
+|}
+
+The '''Arturia Moog Modular V''' is a software instrument that attempts to emulate the sound of the original Moog Modular hardware synthesizer.
+
+{{stub}}
+
+[[category:arturia|Moog Modular V]]
+[[category:software instruments]]
+
+[[category:synths]]
