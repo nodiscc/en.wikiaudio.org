@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Sampling System: 16 bit linear
+*Sampling Rates: 44.1kHz (20Hz~20kHz range); 22.05 kHz (20Hz~10kHz range)
+*Sampling Times: 
+**22.28 seconds (mono/44.1kHz), 11.14 seconds (stereo/44.1kHz), 
+**44.56 seconds (mono/22.05kHz), 22.28 seconds (stereo/22.05kHz)
+*Standard Memory: 2MB
+*Polyphony: 32 voices
+*Maximum Sample Number: 255
+*Maximum Program Number: 254
+*Filter: Digital dynamic low-pass filter (-12dB/octave with resonance)
+*Envelope Generators: 2 (1 multi-stage)
+*LFOs: 2
+*APM Functions: Provided
+*Display: Back lit 16 characters x 2 lines LCD
+*Internal Storage Device: 3.5" 2HD/2DD Floppy Disk
+*Connectors: Standard Inputs: 1/4" phone jack (balanced) x 2, Standard Outputs: 1/4" phone jack (unbalanced) x 2, Assignable Independent Outputs: 1'4" phone jack (unbalanced) x 8 (IB-208 optional), Digital Input: RCA input x 1 (IB-208P optional), Digital Output: RCA input x 1 (IB-208P optional), Headphone: 1/4" stereo phone jack x 1, MIDI: DIN 5P In x 1, Out x 1, Thru x 1, SCSI Interface: Provided
+*Dimensions: 483mm W x 88.1mm H x432mm D (2 rack space)
+*Weight: 7.7kg
+* Accessories: AC power cable, operators manual, O/S disk x 1, MESA disk x 1, Demo Sequence disk x 1, Sound disk x 1 
+|}
+
+
+The '''S2000 Sampler''' is a rack mount sampler made by Akai
+
+{{stub}}
+[[category:Akai|S]]
