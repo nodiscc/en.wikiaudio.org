@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Sampling System: 16 bit linear
+* Sampling Rate: 44.1kHz / 48kHz
+* Standard Memory: 8MB (expandable to 255MB using standard SIMMs)
+* Memory expansion slot: 4 x 72-pin SIMM
+* Polyphony: 64 voices (expandable to 128 with optional VOX64)
+* Analog Audio Inputs: Front Panel: Left(Mono)/Right - 1/4" balanced jacks Rear Panel: Left(Mono)/Right - balanced XLRs (S6000 only)
+* Analog Audio Outputs: Front Panel: Stereo headphone - 1/4" stereo phone jack (with level control) Rear Panel: 1/4" unbalanced jacks x 8 (expandable to 16 with optional IB-S508P)
+* Digital Audio Inputs: Rear Panel: 1/4" phone jack x 1; Optical x 1
+* Digital Audio Outputs: Rear Panel: 1/4" phone jack x 1; Optical x 1
+* MIDI : IN x 2, OUT x 2, THRU x 2
+* SCSI: Half pitch 50-pin x 2
+* Wordclock: BNC x 1
+* Filters: 26 Digital dynamic filter types with resonance
+* Envelope Generators: 2 x ADSR with preset templates, 1 Multi-stage EG with preset templates
+* LFOs: 2 x Multi-wave LFOs
+* Digital EQ: 3-band digital EQ with variable gain, frequency, Q per band
+* Dimensions: S5000: 482.6 W x 132.6 (134.6) H x 410 (444.4) D mm - EIA 3U, S6000: 482.6 W x 177 (179) H x 410 (466.7) D mm - EIA 4U
+* Weight: S5000: 8.9kg / 19.6 lbs., S6000: 11.2kg / 24.6 lbs.
+* Accessories: AC power cord; sound libray disk; operator's manual 
+|}
+
+The '''S5000'''/'''S6000''' was a digital sampler manufactured by Akai.
+The 'S5000' model came standard with with 64-voices and 8 outputs. The '''S5000 Studio''' model was fitted with the VOX64 and IB-S508P 8-Output Expansion Board. In The U.S., the ''''S6000 Studio'''' was fitted with the VOX64 and SampleVerb II, while the ''''S6000'''' was not
+
+
+{{stub}}
+
+
+[[category:Akai|S]]
