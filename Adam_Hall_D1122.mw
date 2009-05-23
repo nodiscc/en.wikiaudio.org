@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:Condenser
+*Polar patterns: Cardioid
+*Frequency Response	25Hz - 20kHz
+*Output Sensitivity 	14mV/Pa
+*Max SPL  	125dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	19dB-A
+*Output Impedance 	200Ω
+*Powering 	Phantom 48 only
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	Lo-cut
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	300g (10.56oz)
+
+|}
+
+The '''Adam Hall D1122''' is a condenser microphone with a cardioid polar pattern. It has a frequency response of 25Hz-20Khz
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Adam Hall|D1122]]
