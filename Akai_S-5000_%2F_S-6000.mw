@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 voices (expandable to 128 with the VOX64 Voice Expansion Board)
+*Sampler - 18-bit A-D converters with 64 x oversampling 5th order Delta Sigma.
+*Memory - Up to 256MB of RAM using standard off-the-shelf SIMMs. Reads Akai S1000 and S3000 series sound library.
+*Filter - Extensive filtering functions offer 26 types of resonant 4-pole and 2- pole lowpass, bandpass and highpass filters and many more.
+*Effects - 3-band digital off-line EQ with variable gain. SampleVerbII (EB20) 20-bit 4-Channel Multi-effects Processor (available as an upgrade)
+*Keyboard - None
+*Control - MIDI
+*Date Produced - 1998/99
+
+|}
+
+
+The '''S-5000 & S-6000''' are rack mount samplers manufactured by Akai in 1998-99
+
+{{stub}}
+
+[[category:synths]]
+[[category:akai|S-5000]]
+[[category:samplers]]
