@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENTS 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERNS 	Line-cardioid, Figure-of-eight
+*FREQUENCY RESPONSE 	30-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	Mid: -30 dB (31.6 mV) re 1V at 1 Pa; Side: -34 dB (19.9 mV) re 1V at 1 Pa;LR Stereo: -36 dB (15.8 mV) re 1V at 1 Pa
+*IMPEDANCE 	200 ohms
+*MAXIMUM INPUT SOUND LEVEL 	Mid: 123 dB SPL, 1 kHz at 1% T.H.D.; Side: 127 dB SPL, 1 kHz at 1% T.H.D.;LR Stereo: 126 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	Mid: 101 dB, 1 kHz at Max SPL; Side: 101 dB, 1 kHz at Max SPL; LR Stereo: 102 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	Mid: 72 dB SPL, 1 kHz at 1 Pa; Side: 68 dB SPL, 1 kHz at 1 Pa; LR Stereo: 70 dB SPL, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 4 mA typical at 48V, each channel 
+*SWITCHES 	M-S, LR Stereo-Wide (LR-W); LR Stereo-Narrow (LR-N); Flat, roll-off
+*WEIGHT 	5.0 oz (142 g)
+*DIMENSIONS 	14.96" (380.0 mm) long, 0.83" (21.0 mm) diameter
+*OUTPUT CONNECTOR 	Integral XLR5M-type
+*CABLE 	Dual 24" (0.61 m) shielded two-conductor, terminated in two XLR3M-type connectors
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8"-27 threaded stands; AT8135 windscreen; protective carrying case
+*AUDIO-TECHNICA CASE STYLE 	SG3
+|}
+
+
+The '''Audio-Technica AT815ST''' is a stereo shotgun microphone 
+
+{{stub}}
+
+
+[[category:microphones]]
+
+
+[[category:Audio-Technica|AT815ST]]
