@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Polyphonic (8 voices)
+*Oscillators - 2 oscillators plus 1 sub-oscillator (for vibrato) 
+*"TAE" - No aliasing from 0.1 Hz to 16 kHz, 64-bit floating point precision, Sampling rate: up to 96 kHz
+*Modulation - 2 LFOs plus Modulation matrix: a choice of 12 sources and 38 destinations
+*Filter - 4 filters: 1 Highpass + 1 Lowpass in series per Signal Path, each with Frequency Cutoff and Resonance controls. 12 or 24 dB/oct modes for each Signal Path. Attack, Decay, Sustain controls for each Signal Path.
+*VCA/Envelopes - 2 VCAs (one for each Signal Path): Attack, Decay, Sustain, Release, VCA, and VCF level controls.
+*Arpeg/Seq - 1 arpeggiator with Up, Down, Up/Down, Random, Notes played patterns; 1-4 Octave range; 1-4 repeats; MIDI Sync On/Off.
+*Keyboard - 61-key virtual keyboard with Ribbon controller, Polyphonic after touch and Expression and sustain pedals
+*Effects - 1 stereo delay (with MIDI sync), 1 chorus, 1 tremolo, 1 ring modulator
+*Memory - More than 400 presets, made by professionals (Bass, EFX, Leads, Pads, Horns, Ambient, Sequences, Percussion, Keyboards, Guitars, Organs, Strings, and more)
+*Interfaces - Runs stand-alone with ASIO, DirectX, Sound Manager and Core Audio, or as a plug-in using VST-2.0, Audio Units, RTAS, HTDM, MAS, and DXi.
+*Macintosh - G3 500 MHz, 128 MB of RAM, MacOS 9.x, Mac OS X 10.2
+*Windows/PC - Pentium II 500 MHz, 128 MB of RAM, Windows 9x/2000/ME/XP
+*Date Produced - 2003
+|}
+
+The '''Arturia CS-80V''' is a virtual instrument recreation of the Yamaha CS-80 analog synthesizer
+
+{{stub}}
+
+[[category:Arturia|CS-80V]]
+[[category:software instruments]]
+
+[[category:synths]]
