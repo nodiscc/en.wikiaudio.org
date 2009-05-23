@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Frequency Response	20Hz - 18kHz
+*Output Sensitivity 	4.1mV/Pa
+*Max SPL  	130dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	29dB-A
+*Output Impedance 	250Ω	
+*Powering 	Phantom 12-48
+ 	
+
+'''Physical Characteristics'''
+*Connector 	TA3F
+*Connector Notes 	miniature XLR	
+*Weight 	110g (3.87oz)
+|}
+
+
+ 	
+
+The '''Audix ADX 40''' is an omnidirectional cardioid microphone
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audix|ADX 40]]
