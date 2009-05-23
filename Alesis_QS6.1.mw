@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Sound Generation Method: 16 Bit Linear 48kHz Sample ROM
+* Synthesis: QS Composite Synthesis ™
+* Voices: 64, each with sweepable lowpass filter, 3 envelope generators, 3 LFOs, programmable effects send and QS Modulation Matrix, dynamic voice allocation
+* Keyboard Section: 61 semi-weighted keys (velocity, release velocity, aftertouch sensitive)
+* Available Waveform Memory: 16 MB, expandable to 32 MB via PCMCIA Expansion Card Slots
+* Program Memory: 512 Preset, 128 User Mix Mode (400 Preset, 100 User)
+* Effects: QS Parallel Matrix Effects™ (4 independent stereo multieffect processing busses)
+* Multitimbral Mode: QS Mix Mode (64 Part multitimbral across 16 MIDI channels)
+* Controllers: 4 Control Sliders, Programmable Pitch and Modulation wheels, Aftertouch
+* Expansion Slots: PCMCIA card slots, QCard and Sound Bridge compatible
+* User Interface: Backlit custom LCD display
+* Pedal Jacks: Assignable Aux pedal jack, Sustain pedal jack
+* MIDI Connections: MIDI In, MIDI Out/Thru
+* Serial Jack: High Speed computer interface switchable between RS 422 and RS 232 protocols, Mac and PC compatible
+* Audio Outputs: Stereo L and R outputs
+* Power: Internal transformer, configurable for 110/220 vAC
+* Dimensions: (WxHxD) 36"x3.5"x11.5"
+* Weight: 19 lbs. 
+
+|}
+
+[[category:alesis]]
+[[category:synths]]
+
+The '''Alesis QS6.1''' is a 64 Voice Synthesizer and an improved version of the QS6
+
+{{stub}}
