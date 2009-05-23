@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 32 voice
+*Sampler - 16 Bit, 44.1 or 22.05 kHz, 8MB to 32MB, capacity up to 255 samples
+*LFO - (2) LFOs
+*Filter - Digital moving low-pass filter (-12 dB/octave with resonance); Optional upgrade to Digital moving hi-/band-/low-pass filter (-12 dB/octave with resonance) for 3200 models.
+*VCA - (2) Digital Envelope Generators
+*Effects - 50 effects (Echo, Delay, Chorus, Pitch Shift, Reverb); Optional EB-16 Multi Effector board for S3000XL: (SampleVerb in North America) 4-channel, studio-quality, multi-effects board.
+*Storage - 
+**S3000: 3.5-inch 2HD/2DD floppy disk; Hard Disk Recording (optional via) IB-304F 2nd LSI board; 3.5-inch hard disk (optional) internally mountable; SCSI (optional via) IB-301S SCSI board.
+**S3000XL: 3.5-inch 2HD/2DD floppy disk; Hard Disk Recording Provided; 3.5-inch hard disk (optional) internally mountable; SCSI provided.
+**S3200: 3.5-inch 2HD/2DD floppy disk; Hard Disk Recording Provided; 3.5-inch hard disk (optional) internally mountable; 3.5-inch MO disk drive (optional) internally mountable; SCSI provided. 
+**S3200XL: 3.5-inch 2HD/2DD floppy disk; Hard Disk Recording Provided; 3.5-inch hard disk (optional) internally mountable; 3.5-inch MO disk drive (optional) internally mountable; SCSI provided.
+*Control - 
+**S3000: MIDI; Optional IB-302D AES/EBU Digital In/Out interface; Optional IB-303T SMPTE Reader/Generator board.
+**S3000XL: MIDI; S/PDIF Digital In/Out provided; SMPTE Reader/Generator Not available.
+**S3200: MIDI; AES/EBU Digital In/Out provided; SMPTE Reader/Generator provided.
+**S3200XL: MIDI; S/PDIF Digital In/Out provided; SMPTE Reader/Generator provided.
+*Date Produced - 1996
+|}
+
+The '''S-series''' samplers from Akai consist of the S-3000,S-3000XL and S-3200.
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:akai|S-3000]]
+[[category:samplers]]
