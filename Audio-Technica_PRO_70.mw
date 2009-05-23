@@ -1,0 +1,42 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	100-14,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 8 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	Phantom: -45 dB (5.6 mV) re 1V at 1 Pa Battery: -45 dB (5.6 mV) re 1V at 1 Pa
+*IMPEDANCE 	Phantom: 200 ohms Battery: 200 ohms
+*MAXIMUM INPUT SOUND LEVEL 	Phantom: 123 dB SPL, 1 kHz at 1% T.H.D. Battery: 123 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	Phantom: 96 dB, 1 kHz at Max SPL Battery: 96 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	67 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 1200 hours typical (alkaline)
+*SWITCH 	Off, on-flat, on-roll-off
+*WEIGHT (MICROPHONE) 	0.3 oz (8 g)
+*WEIGHT (POWER MODULE) 	4.7 oz (134 g)
+*DIMENSIONS (MICROPHONE) 	0.98" (25.0 mm) long, 0.40" (10.2 mm) diameter
+*DIMENSIONS (POWER MODULE) 	3.27" (83.0 mm) H x 2.48" (63.0 mm) W x 0.87" (22.0 mm) D
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*CABLE 	Integral 6' (1.8 m), permanently attached between microphone and power module
+*ACCESSORIES FURNISHED 	AT8411 clothing clip; AT8444 instrument adapter; power module; windscreen; battery; soft protective pouch
+*AUDIO-TECHNICA CASE STYLE 	M1
+
+
+|}
+
+The '''Audio-Technica PRO 70''' is a cardioid condenser lavalier/instrument microphone
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|PRO 70]]
