@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 12 osc. (2 per voice)
+*LFO - 2 LFOs per voice (various waveforms, speed, delay, depth)
+*Filter - Lowpass / Highpass filter w/ cutoff, resonance, pitch follow
+*VCA - FM: depth, destination & vca: level
+*Keyboard - 37 keys (velocity and aftertouch)
+*Memory - 50 sound library patches, 20 code memories, 40 programs, 10 packets + external memory cards available
+*Control - MIDI (6-parts)
+*Date Produced - 1988
+
+|}
+
+The '''VX600''' is a 6 voice 37 key synthesizer created by Akai in 1988
+
+{{stub}}
+
+[[category:Akai|VX600]]
+[[category:synths]]
