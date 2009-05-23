@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 32 voices
+*Sampler - 44.1 kHz sample rate; 16-bit linear WAV; 16MB standard (136 sec mono), upgradable to 128MB (24m28sec mono) with EXM128 option.
+*LFO - 2 LFOs
+*Filter - 2 x 2-pole filters per voice (Low pass, band pass, high pass)
+*Effects - 2 general effects: Chorus, Flanger, 4-band EQ, Bit-Grunger, Compressor, Phaser, Tremolo, Auto Pan, Reverb. One Master effect: 4 band EQ, Compressor
+*Keyboard - 16 velocity and pressure sensitive pads
+*Sequencer - 64 tracks per sequence, 99 Sequences, 100,000 note capacity, 20 songs, 250 steps per song, 96 ppqn resolution, 32 Midi channels, Supports both linear and pattern-style (looped) recording, Step Edit mode, MIDI Clock Sync: Master/Slave.
+*Control - MIDI (32 channels): 2 x MIDI In and 2 x MIDI Out; USB: Device connector x 1
+*Date Produced - 2003
+
+|}
+
+The MPC 1000 is a 32 voice sampling drum machine from Akai
+
+
+{{stub}}
+
+
+
+[[category:akai|Mpc 1000]]
+[[category:synths]]
+[[category:drum machines]]
+[[category:samplers]]
