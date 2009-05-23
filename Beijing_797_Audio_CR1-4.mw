@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type small diaphragm condenser microphone
+* Polar pattern:cardioid/Omni-directional 
+*Frequency Response:20~20000Hz 
+*Sensitivity:-38dB(13mV/Pa)+/-2dB 
+*Output impedance: 200 ohms SPL(1KHz,distortion<1%): 127dB 
+*Equivalent noise level to IEC 268-4(A Weighted): 20dB-A S/N ration re 1Pa: 74dB 
+*Power requirement: 48v phantom power 
+*Diameter :22mm Length :130mm
+
+|}
+
+The  '''Beijing 797 Audio CR1-4''' is a small diaphragm condenser microphone with cardioid and omni-directional polar patterns
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Beijing 797 Audio|CR1-4]]
