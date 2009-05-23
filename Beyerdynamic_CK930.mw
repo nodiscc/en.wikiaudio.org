@@ -1,0 +1,58 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Transducer type	True condenser
+*Working principle	Pressure gradient
+*Frequency response	40 - 20,000 Hz
+*Polar pattern	Cardioid
+*Open circuit voltagel at 1 kHz	30 mV/Pa
+*Nominal impedance	≤ 180 Ω
+*Load impedance	≥ 1 kΩ
+*Max. SPL at 1 kHz	125 dB without pre-attenuation 140 dB with pre-attenuation -15 dB
+*Signal-to-noise ratio rel. to 1 Pa	71 dB 
+*A-weighted equivalent SPL	16 dB
+*Power supply	11 - 52 V phantom power
+*Current consumption	4.6 mA
+*Connection	4-pin mini-XLR male
+**Pin 1 = 0 V
+**Pin 2 = +50 V Input
+**Pin 3 = AF-Output
+**Pin 4 = +8 V Input
+'''Dimensions'''	
+**Diameter 21 mm
+**Length 43 mm
+*Weight	46 g
+	
+'''Pre-amplifier CV 900''' 	
+*Connection Input	
+**5-pin mini-XLR male
+**Pin 1 = 0 V
+**Pin 2 = +50 V „static“ Output
+**Pin 3 = AF-Input / Pin 4 = +8 V
+**Pin 5 = free
+'''Connection Output	'''
+**3-pin XLR male, balanced
+**Pin 1 = Ground
+**Pin 2 = +
+**Pin 3 = -
+'''Bass roll-off filter'''	
+*Swichtable, 6 dB/octave at 250 Hz
+
+
+
+|}
+
+The '''Beyerdynamic CK930''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Beyerdynamic|CK930]]
