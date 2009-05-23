@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	29mV/Pa
+*Max SPL  	135dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	200Ω
+*Powering 	Phantom 12-48
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	170g (5.98oz)
+*Length 	148mm (5.82")
+*Min Diameter/Width 	21mm (0.82")
+*Max Diameter/Width 	51mm (2.00")
+
+'''Accessories'''
+*Included 	CC5 case, MC1 mic clip, P1 pouch
+*Optional 	APS2 phantom supply, D-flex piano mount
+
+
+|}
+
+The '''Audix SCX-25''' is a cardioid condenser microphone
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audix|SCX-25]]
