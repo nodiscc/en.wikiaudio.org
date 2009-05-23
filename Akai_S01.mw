@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Sampler - 16 bit, 32 kHz linear
+*Memory - 1mb (15.625 seconds), expandable to 2mb with EXM01 (32.25 seconds)
+*LFO - None
+*VCF - None
+*VCA - level and release are controllable
+*Effects - None
+*Arpeg/Seq - None
+*Keyboard - None
+*Control - Midi (16-channels, 2x IN, 1x OUT, 1x THRU)
+*Date Produced - 1993
+|}
+
+The '''S01''' is an 8 voice polyphonic sampler created by Akai in 1993
+
+{{stub}}
+
+[[category:synths]]
+[[category:akai|S01]]
