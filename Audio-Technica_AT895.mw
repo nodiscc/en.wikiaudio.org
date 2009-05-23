@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENTS 	(5) Fixed-charge back plate, permanently polarized condenser
+*PICKUP PATTERN MODES 	Full-field adaptive, Planar adaptive, Line + Gradient
+*FREQUENCY RESPONSE 	60-12,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 18 dB/octave
+*BAND-PASS FILTER 	300-5,500 Hz, 6 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	-23 dBV (70 mV) at 1 Pa, 1 kHz
+*OUTPUT IMPEDANCE 	450 ohms
+*MAXIMUM INPUT SOUND LEVEL 	117 dB SPL, 1 kHz at 1% T.H.D.
+*NOISE 	24 dB
+*DYNAMIC RANGE (typical) 	93 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	70 dB, 1 kHz at 1 Pa
+*POWER REQUIREMENTS 	External -- 9-15V DC, 250 mA typical
+*BATTERY TYPE 	AT895BH -- Three 9V (NEDA type 1604), not included Typical Life: Alkaline, 4-6 hours; Lithium, 10-12 hours
+*WEIGHT 	AT895 Microphone (less cable): 16.7 oz (473 g)
+*AT895CP Control Pack: 10.0 oz (284 g)
+*AT895BH Battery Holder (with typical batteries): 7.6 oz (215 g))
+*AT895PG Pistol Grip: 10.0 oz (284 g)
+*AT895Z Zeppelin Windscreen: 5.0 oz (142 g)
+*DIMENSIONS 	AT895 Microphone: 14.00" (355.6 mm) long, 2.75" (69.9 mm) max. diameter, 1.18" (30.0 mm) handle diameter
+
+*AT895CP Control Pack: 4.16" (105.7 mm) long, 3.34" (84.8 mm) wide, 0.98" (24.9 mm) high 
+
+*AT895BH Battery Holder: 4.13" (104.9 mm) long, 3.28" (83.3 mm) wide, 1.27" (32.3 mm) high
+*OUTPUT CONNECTOR 	Control Pack: Integral 3-pin XLRM-type
+*CABLE 	6 conductor shielded cable with XLR7F-type connectors 
+**AT895/RK: 10' (3.0 m) long
+**AT895/MK: 25' (7.6 m) long
+
+|}
+
+The '''Audio-Technica AT895''' is an "Adaptive-array Microphone System". 
+
+
+{{stub}}
+
+
+[[category:microphones]]
+
+
+[[category:Audio-Technica|AT895]]
