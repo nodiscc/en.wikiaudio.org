@@ -1,0 +1,44 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar Pattern Unidirectional
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	15.8mV/Pa
+*Max SPL  	151dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	28dB-A
+*Output Impedance 	100Ω	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	4mA
+	
+*Filter/EQ 	80Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	135g (4.75oz)
+*Length 	91.3mm (3.59")	
+*Max Diameter/Width 	73mm (2.87")
+
+'''Accessories'''
+*Included 	Cable, protective pouch
+
+
+|}
+
+The '''Audio-Technica ATM87R''' is a unidirectional condenser boundary microphone. 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|ATM87R]]
