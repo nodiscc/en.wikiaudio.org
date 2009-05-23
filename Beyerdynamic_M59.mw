@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Dynamic
+*Operating principle	Pressure gradient
+*Frequency response (distant miking)	50 - 16,000 Hz
+*Polar pattern	Hypercardioid
+*Side attenuation	> 25 dB at 120°
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	3.0 mV/Pa ± 1.5 dB ≡ -50 dBV
+*Magnetic field suspension	>20 dB at 50 Hz
+*Nominal impedance	280 Ω
+*Diaphragm	Macrolon®
+*Case/finish	Aluminium
+*Connector	3-pin XLR
+*Length	205 mm
+*Shaft diameter	24/32 mm
+*Head diameter	50.5 mm
+*Weight without cable	227 g
+
+
+|}
+
+The '''Beyerdynamic M59''' is a dynamic hypercardioid microphone.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Beyerdynamic|M59]]
