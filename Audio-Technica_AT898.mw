@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	200-15,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	Phantom: -43 dB (7.0 mV) re 1V at 1 Pa Battery: -46 dB (5.0 mV) re 1V at 1 Pa
+*IMPEDANCE 	Phantom: 200 ohms
+*Battery: 250 ohms
+*MAXIMUM INPUT SOUND LEVEL 	Phantom: 131 dB SPL, 1 kHz at 1% T.H.D. Battery: 115 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	Phantom: 100 dB, 1 kHz at Max SPL Battery: 84 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	63 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 2 mA typical
+*BATTERY TYPE 	1.5V AA/UM3
+*BATTERY CURRENT / LIFE 	0.4 mA / 1200 hours typical (alkaline)
+*SWITCH 	Flat, roll-off (recessed)
+*WEIGHT (MICROPHONE) 	0.03 oz (0.9 g)
+*WEIGHT (POWER MODULE) 	3.6 oz (102 g)
+*DIMENSIONS (MICROPHONE) 	0.91" (23.0 mm) long, 0.21" (5.3 mm) diameter
+*DIMENSIONS (POWER MODULE) 	5.71" (145.0 mm) long, 0.83" (21.0 mm) diameter
+*OUTPUT CONNECTOR (POWER MODULE) 	Integral 3-pin XLRM-type
+*CABLE 	9.8' (3.0 m) long (permanently attached to microphone), 0.08" (2.0 mm) diameter, 2-conductor, shielded cable with TA3F output connector that mates with TB3M jack on power module
+*ACCESSORIES FURNISHED 	AT8537 power module; AT8439 cable clip; clothing clip base; viper clip base; magnet clip base and plate with lanyard; three single mic holders; two double mic holders; two windscreens; battery; protective carrying case
+*AUDIO-TECHNICA CASE STYLE M30
+
+
+|}
+
+
+The '''Audio-Technica AT898''' is a subminiature cardioid condenser lavalier microphone 
+
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Audio-Technica|AT898]]
