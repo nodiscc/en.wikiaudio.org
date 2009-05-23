@@ -1,0 +1,74 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Power supply : AC 120V 60Hz (US, Canada), 220–240V 50Hz (Europe) 30W 
+*Operating temperature : 10 – 35 C˚ 
+*Operating Humidity : 10% – 60% (without condensation) 
+*Dimensions (mm) : 515 (W) x 127.5 (H) x 358.5 (D) (with LCD tilted down) 
+*Weight : 6.4kg (without drive) 
+*Display : 320 x 240 dot FSTN graphical LCD with back light 
+*Recording media : Internal IDE/external SCSI Harddisk 
+*Sampling rate : 96kH, 48kHz, 44.1kHz, 32kHz 
+*Recording time : With a 10Gbyte Harddisk (total recording time) 
+FS = 96kHz Approx. 15 hours (8 track x 1 hour 52 minutes) 
+FS = 48kHz Approx. 30 hours (16 track x 1 hour 52 minutes) 
+FS = 44.1kHz Approx. 32 hours 40 minutes (16 track x 2 hours 
+2 minutes) 
+FS = 32kHz Approx. 45 hours (16 track x 2 hours 48 minutes) 
+*Simultaneous recording track : Up to 10 (8 at 96kHz) 
+*Frequency response : FS = 96kHz 10Hz – 44kHz +/–2.0dB 
+FS = 48kHz 10Hz – 22kHz +/–2.0dB 
+FS = 44.1kHz 10Hz – 20kHz +/–2.0dB 
+FS = 32kHz 10Hz – 15kHz +/–2.0dB 
+*Quantization bit : 24bit/16bit linear 
+ADC : 24bit 128-times oversampling, enhanced dual bit delta/sigma 
+modulation 
+DAC : 24bit 128-times oversampling, advanced multi-bit delta/sigma 
+modulation 
+*Dynamic range : 100dB or more (100 ohms terminated) 
+*Distortion ratio : 0.003% or less (1kHz, FS = 44.1kHz) 
+*Channel crosstalk : 75dB or more (10kHz referenced, 100 ohms terminated) 
+*Wow & flutter : Below measurable limit 
+*Analog audio input : 1 – 2ch: 6.3mm Stereo phone/XLR combo jack 
+Phantom power provided (switchable) for XLR connection 
+3 – 8ch: 6.3mm Stereo phone jack (balance/unbalance) 
+*Input level :  –46dBu to +4dBu (max. +19dBu, 1kHz) 
+*Impedance : 1 – 7ch : 10k ohms 
+8ch : 10k/470k ohms (normal/guitar) 
+*Analog audio output : MASTER OUT : RCA - unbalanced 
+MONITOR OUT : RCA - unbalanced 
+AUX SEND 1 – 4 :6.3mm Stereo phone jack - unbalanced
+*Output level : MASTER OUT : –10dBu (max. +5dBu, load impedance: 47k ohms) 
+MONITOR OUT : –10dBu (max. +5dBu, load impedance: 47k ohms) 
+AUX SEND 1 – 4 :–10dBu (max. +5dBu, load impedance: 47k ohms) 
+*Impedance : MASTER OUT :  1k ohms 
+MONITOR OUT :  1k ohms 
+AUX SEND 1 – 4 : 1k ohms 
+*Stereo phone output : x 1, 6.3mm Stereo phone jack 
+Maximum output : 125mW (load impedance : 32 ohms) 
+*Digital audio input : x 1, Coaxial (SPDIF) - 2 channels assignable 
+*Digital audio output : x 1, Coaxial (SPDIF) - MASTER OUT 
+*Footswitch jack : x 1, 6.3mm Phone jack 
+*MIDI : x 2, 5-pin DIN for MIDI IN, MIDI OUT/THRU 
+*SCSI : x 1, High-pitch 50-pin for external Harddisk connection 
+*Accessories : 3-prong power cable 
+Internal Disk Mounting kit 
+Operator’s Manual 
+*Options : EB4M Effects board 
+* *0dBu = 0.775Vrms
+|}
+
+
+The '''Akai DPS16''' is a multitrack digital recorder.
+
+{{stub}}
+
+[[category:Akai|D]]
