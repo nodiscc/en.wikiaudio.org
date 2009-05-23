@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>[[File:Akai S20.png|thumb]]
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Sampling System: 16 bit linear
+* Sampling Rate: 32 kHz, 16 kHz, 8 kHz
+* Sampling Capacity: 1MB standard s/m(32 kHz: 7 sec.,14 sec.16 kHz: 
+14 sec., 28 sec. 8 kHz: 28 sec., 56 sec.)
+* Standard Memory: 1MB (expandable to 5MB or 17MB using standard SIMMs)
+* Memory expansion slot: 2 x 72-pin SIMM (70ns)
+* Polyphony: 8 voices
+* ADC: 4th order delta/sigma 64 times oversampling
+* DAC: 4th order delta/sigma 64 times oversampling,8 times interpolation filter
+* Data storage device: 3.5-inch 2DD/2HD floppy disk drive
+* Input: 2 x RCA pin jack/47k-ohms
+* Output: 2 x RCA pin jack/270 ohms;
+* MIDI: 2 x 5-pin DIN (In,Out/Thru);
+* Phones: 1 x 1/4" stereo phone jack/100 ohms
+* Power source: 120 VAC 60 Hz 18 W
+* Dimensions: 300 x 86.9 (108 max.) x 323.9 (329.5 max.)mm (W x H x D)
+* Weight: 6kg
+* Accessories: AC adapter; 4 sound disks; operator's manual 
+
+|}
+
+The Akai S20 16bit Stereo Phrase Sampler is a stereo sampler designed specifically for phrase sampling and live performance.
+
+
+
+{{stub}}
+
+
+
+
+
+
+[[category:synths]]
+[[category:akai|S20]]
+[[category:samplers]]
