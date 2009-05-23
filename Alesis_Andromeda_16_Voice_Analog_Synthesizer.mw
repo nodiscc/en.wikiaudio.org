@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Polyphony: 16-voice, 16-channel multitimbral
+* Synthesis Method: Real analog subtractive
+* Oscillators: 2 oscillators (with subs) per voice, 5 waveforms available (sine, triangle, square, up saw, down saw)
+* Filters: 32 total – 2-pole multimode resonating filter per voice, 4-pole lowpass resonating filter per voice
+* Program Memory: 256 preset and 128 user-defined
+* Mix Memory: 128 user-defined
+* Audio Outputs:
+**16 mono outputs, one for each of 16 voices (eight 1/4" TRS jacks)
+**Stereo main outputs (two 1/4" jacks)
+**2 mono aux outputs (two 1/4" jacks)
+**Stereo headphone output (1/4" TRS jack) 
+* Audio Inputs: Two 1/4" jacks
+* External Audio Filter Inputs: Three 1/4" jacks – one each for Voices 1-16, Voice 15, and Voice 16
+* Pedal Jacks: Pedal/CV, Switch and Sustain – each with dedicated 1/4" jack
+* MIDI Connections: MIDI In, Out, Thru
+* Memory Card Slot: PCMCIA-format
+* Power: 100-230 VAC, 50/60 Hz 30W
+* Dimensions (WxHxD): 40.1" x 4.8" x 16.1" (1019mm x 122mm x 409mm)
+* Weight: 47lbs. (21 kg)
+
+|}
+
+The Andromeda 16 Voice Synthesizer is an analog synth formerly manufactured by Alesis.
+
+{{stub}}
+
+
+
+[[category:synths]]
+[[category:Alesis|Andromeda]]
