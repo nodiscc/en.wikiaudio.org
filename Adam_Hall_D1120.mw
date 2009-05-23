@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: Large Diaphragm Tube
+*Directional characteristics: omni-directional, cardioid, figure-8, and six intermediate patterns selectable at the power supply
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	12.5mV/Pa
+*Max SPL  	128dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	17dB-A
+*Output Impedance  200Ω
+*Powering: Proprietary unit
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	8-pin on microphone body 	
+*Length 	205mm (8.07")
+
+'''Accessories'''
+*Included 	Power supply, cables, shockmount
+
+|}
+
+
+The '''Adam Hall D1120''' is a large diaphragm tube microphone with a frequency range of 20hz to 20Khz and multiple polar patterns. 
+
+{{stub}}
+[[category:microphones]]
+[[category:Adam Hall|D1120]]
