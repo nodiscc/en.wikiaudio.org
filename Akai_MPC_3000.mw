@@ -1,0 +1,59 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Display: 320 character (240 x 64 dot graphic) LCD
+*Disk drive: 3.5" 2HD/2DD
+*CPU: V53 16 MHz
+*Dimensions: 440 (W) x 121 (H) x 405 (D) mm
+*Weight: 9kg
+*Power requirements: 120VAC (60Hz)/40W; 220VAC (50Hz)/30W; 240VAC (50Hz)/30W
+*Sampler
+*Sampling rate: 44.1 kHz (20-20kHz)
+*Sampling time: 21.9 seconds (2 mbytes), expandable to 188 seconds (16 Mbytes)
+*Data formal: 16 bit linear
+*Voice filtering: -12dB/Oct dynamic resonant lowpass filter per voice
+*Maximum sounds in memory: 128
+*Number of sound programs: 24
+*Number of sound assignments per program: 64
+*Maximum simultaneous voices: 32
+*Sequencer
+*Maximum notes: approximately 75,000
+*Timing resolution: 96 divisions per 1/4 note
+*Number of sequences: 99
+*Number of tracks per sequence: 99
+*MIDI output channels: 64 (16 channels x 4 output ports)
+*Song mode: 20 songs, 256 steps per song
+*Drum pads: 16 (velocity and pressure sensitive)
+*Sync modes: SMPTE, MIDI Time Code, MIDI clock, FSK 24, 1/4 note clicks
+*Rear Panel I/O
+*Record input sensitivity (both L and R): (Hi gain) +/- 58dBm, 45kohm; (Mid gain) +/- 38dBm, 45; (Lo) gain) +/- 18dBm, 45, Digital In (RCA pin)
+*Stereo output level: 6 dBm, 600
+*Level of 8 individual outputs: 6dBm, 600
+*Sync/Trigger input level: 0.5V p-p level (with input control at maximum)
+*Sync output level: 2.5V PP, impedance 600 ohms
+*MIDI inputs: 2 (mergeable)
+*MIDI outputs: 4 (independent)
+*SCSI: 1 (25 pin D-sub)
+*Headphone output: 1
+*Footswitch inputs: 2 (independently assignable) 
+
+|}
+
+The '''Akai MPC 3000''' is a Drum machine, Sampler and MIDI sequencer
+
+{{stub}}
+
+
+
+
+[[category:Akai|MPC 3000]]
+[[category:Drum machines]]
+[[category:samplers]]
+[[category:synths]]
