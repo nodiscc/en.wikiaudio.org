@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Tube
+*Polar pattern omni,cardioid
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	12mV/Pa
+*Max SPL  	124dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	26dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	100Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-7M
+*Connector Notes 	
+*Available Colours 	
+*Weight 	500g (17.60oz)
+
+
+|}
+
+The '''BPM Studiotechnik CR-76''' is a tube microphone with two available polar patterns, omnidirectional and cardioid.
+
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:BPM Studiotechnik|CR-76]]
