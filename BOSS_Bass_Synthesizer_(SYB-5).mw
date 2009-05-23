@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - Analog Modeled DSP with 1 Osc. (saw, square, PWM)
+*LFO - 1 (rate knob)
+*VCA - None
+*Filter - Lowpass with resonance, cutoff and decay controls
+*Effects - 2 wave shape (normal / reverse) for external sound
+*Keyboard - stomp-box
+*Memory - None
+*Control - EXP Input to control filter cutoff and LFO rate via EV-5 Expression Pedal (sold separately)
+*Date Produced - 2004
+|}
+
+The '''SYB-5''' is an analog modeling bass synth and (guitar) pedal
+
+
+{{stub}}
+
+[[category:Boss]]
+[[category:Guitar pedals]]
+[[category:synths]]
