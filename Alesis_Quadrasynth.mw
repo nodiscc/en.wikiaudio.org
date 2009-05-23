@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*  Polyphony - 64 voices
+* Oscillators - 48kHz Linear samples
+**QS: 16MB, expandable to 24MB using PCMCIA ROM and RAM cards
+**QS Plus: 24MB, expandable to 32MB using PCMCIA ROM and RAM cards
+* Multitimbral - 16 parts
+* Effects - 4 On-board effects, based on the Alesis QuadraVerb 2 FX processor
+* Arpeg/Seq - None
+* Keyboard - 76 velocity and aftertouch sensitive, semi-weighted, synth-action
+* Memory - QS: 128 preset 128 user programs, 100 preset, 100 user mixes
+**QS Plus: 512 preset 128 user programs, 400 preset, 100 user mixes
+* Control - MIDI IN/OUT/THRU (16-channels)
+* Date Produced - 1993 (QuadraSynth)
+**1995 (QuadraSynth Plus)
+
+|}
+
+
+The '''Alesis Quadrasynth''' is a digital synthesizer first introduced in 1993. It was Alesis's first major foray into synthesizers. The Quadrasynth is a 76-key, 64-note polyphonic PCM sample-based digital subtractive synthesizer. The original Quadrasynth and all subsequent spinoff products (such as the latter QS series) did not feature an onboard sequencer, the only feature that would have denoted it a workstation status.
+
+
+== Function ==
+
+
+In the Quadrasynth's composite synthesis system, up to four "tones" are used to create a single "patch" or synthesizer sound. These individual "tones" are created by using 16-bit digital single-cycle waveforms or digital samples as oscillator sources, and are then processed via a digital non-resonant filter, various LFOs and envelope generators, and so on - in the usual manner. The Quadrasynth contained 16MB of ROM containing PCM-based waveforms and samples, with the option of expanding the sample base via PCMCIA expansion cards which plug into the back of the synthesizer.
+
+A "patch" on the Quadrasynth can contain 1, 2, 3 or 4 of these tones. However, polyphony decreases as you use up more tones. For example, a 1-tone patch would have 64-note polyphony, a 2-tone patch would have 32-note polyphony.... and a 4-tone patch would only have 16-note polyphony. Patches can only be stored in the User bank. All other banks are factory presets which cannot be overwritten. The Quadrasynth was typical of synthesizers of the early 90s, featuring a digital, menu-based editing system. Editing user patches could be tedious if the user is unfamiliar with its complex editing structure or hasn't read the manual.
+
+A multitimbral "mix" (or "performance") can contain up to 16 parts (patches). Each part can respond to the full range of the keyboard or to a configured subrange, which allows for layering and splitting. Each patch in a mix corresponds to a different MIDI channel, so that the Quadrasynth can become a multitimbral playback device for external sequencers or MIDI file players. The Quadrasynth also had a 4-bus multi effects processor, which is based on Alesis' own Quadraverb 2 stand-alone effects processor.
+
+
+
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Alesis_Quadrasynth
+
+[[category:alesis|Quarasynth]]
+[[category:synths]]
