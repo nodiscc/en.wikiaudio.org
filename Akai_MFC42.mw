@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Filter Modes - Lowpass, Highpass, Bandpass, Notch
+*Filter Slopes - Mono Analog filter: 2-, 4-, and 8-pole slopes 
+*Stereo Analog filter: 2- and 4-pole slopes
+*Envelopes - ADSR Envelope
+*LFO - MIDI-syncable with sawtooth, square, triangle, random waveforms. Can modulate filter cutoff and/or resonance.
+*Effects - Distortion, stereo analog phase shifter, EQ
+*Keyboard - None
+*Memory - None
+*Control - MIDI IN/OUT/THRU (send/receive on 1 channel only)
+*Date Produced - 2001
+
+|}
+
+
+The '''MFC42''' is an analog filter module designed for the Akai MPC series of drum samplers but can be used to process any sound source.
+
+
+{{stub}}
+
+
+
+[[category:akai|MFC42]]
+[[category:synths]]
