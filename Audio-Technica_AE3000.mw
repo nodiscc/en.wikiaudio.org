@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	20-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	-43 dB (7.0 mV) re 1V at 1 Pa
+*IMPEDANCE 	100 ohms
+*MAXIMUM INPUT SOUND LEVEL 	148 dB SPL, 1 kHz at 1% T.H.D.;158 dB SPL, with 10 dB pad (nominal)
+*NOISE 	11 dB SPL
+*DYNAMIC RANGE (typical) 	137 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	83 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 3 mA typical
+*SWITCHES 	High-pass filter;10 dB pad (nominal)
+*WEIGHT 	6.0 oz (170 g)
+*DIMENSIONS 	4.55" (115.5 mm) long,81.89" (48.0 mm) maximum diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8471 isolation clamp for 5/8"-27 threaded stands; 5/8"-27 to 3/8"-16 threaded adapter; soft protective pouch
+*AUDIO-TECHNICA CASE STYLE 	R6
+
+
+|}
+
+The '''Audio-Technica AE3000''' is a Fixed-charge back plate, permanently polarized condenser microphone designed for applications involving high SPL such as miking guitar cabinets, toms, snare, timpani, horns and as overheads.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AE3000]]
