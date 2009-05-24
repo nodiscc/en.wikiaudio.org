@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Acoustical Operating Principle: Pressure gradient transducer
+*Directional Pattern: Omnidirectional, cardioid, figure-8 plus
+*Frequency range: 20 Hz-20 kHz
+*Sensitivity at 1 kHz into 1 kohm: 20/28/22 mV/Pa*
+*Rated impedance: 200 ohms
+*Rated load impedance: 1000 ohms
+*Equivalent SPL CCIR 468-3: 26/23/25 dB*
+*Equivalent SPL DIN/IEC 651: 15/12/14 dB-A*
+*S/N ratio CCIR 468-3: 68/71/69 dB*
+*S/N ratio DIN/IEC 651: 79/82/80 dB*
+*Maximum SPL for THD 0.5%: 117 dB (cardioid)
+*Maximum SPL for THD 0.5% with preattenuation: 127 dB
+*Maximum output voltage: 390 mV
+*Dynamic range of the microphone amplifier cardioid DIN/IEC 651: 105 dB
+*Supply voltage: 48 V ? 4 V
+*Current consumption: 0.8 mA
+*Matching connectors: XLR3F
+*Weight: 500 g
+*Diameter: 56 mm
+*Length: 200 mm
+|}
+
+
+The '''Neumann U87Ai''' is a condenser microphone with 3 polar patterns. According to the manufacturers website "''the letter A in the name indicates a more recent generation, as compared to the U 87 i microphones that were built from 1967 to 1986. Modifications apply to the electronic components of the microphone only; the capsule remained unchanged."''
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:neumann|U]]
