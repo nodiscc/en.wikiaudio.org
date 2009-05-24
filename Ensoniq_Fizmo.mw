@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 48 voices
+*Oscillators - 4 MB of 16-bit internal wave ROM, featuring Transwaves (created through digital synthesis and resynthesis technologies); 2 osc for each of 4 presets - total of 8 simultaneous - 58 waveforms
+*LFO - 8 LFO's (7 waveform choices, can sync to Arpeggiator or external MIDI clock)
+*Filter - Resonant LP & BP 4 pole filters. Non-Resonant 2LP+2HP, 3LP+1HP, 2LP+2LP, 3LP+1HP filters.
+*Effects - 41 digital VLSI 24-bit effects (8 Global Reverbs, Chorus, Flanger, DDL, Distortion, Tunable Speaker, Chatter Box, Vocal Morph, Auto-Wah, Vocoder); Processes incoming audio
+*Keyboard - 61 semi-weighted keys (velocity and channel pressure sensitive, 4 programmable key ranges, 4 possible zones)
+*Memory - 128 ROM sounds, Up to 128 RAM, 64 Presets
+*Control - MIDI (up to 4 polyphonic channels)
+*Date Produced - 1998
+
+|}
+
+The '''Fizmo''' is a 48 voice synthesizer produced by Ensoniq
+
+{{stub}}
+
+
+[[category:Ensoniq|Fizmo]]
+[[category:synths]]
