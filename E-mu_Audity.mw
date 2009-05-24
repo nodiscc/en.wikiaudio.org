@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices
+*Oscillators - 2 SSM Chips with multi-waveforms, Noise Source per voice
+*LFO - Yes
+*Filter - SSM Filter Chips: High-Pass Filter, Low-Pass Filter. Separate resonant Filter also available.
+*Envelopes - Envelopes gens for VCOss, VCFss, and VCA's
+*Memory - Multi Patch Storage
+*Keyboard - 61 keys
+*Date Produced - 1979/80
+|}
+
+
+The '''Audity''' is an analog synthesizer that was produced by Emu-systems between 1979 and 1980. Only one Audity was ever manufactured.
+
+{{stub}}
+
+[[category:E-mu Systems|Audity]]
+[[category:synths]]
