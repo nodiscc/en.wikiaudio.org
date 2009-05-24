@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Two voices
+*Oscillators - 2 osc, 1 Noise Gen. Waveforms: triangle, saw, square, pulse 1 and pulse 2.
+*LFO - LFO speed and modulation (triangle, saw, square, random waveforms)
+*Filter - VCF: ADSR knobs, ADSR mode, cutoff, resonance, BPF/LPF mode, filter LFO level, envelope level.
+*VCA - ADSR knobs, ADSR mode, mod level, keyb memory.
+*Effects - Glissando
+*Keyboard - 49 note duophonic
+*Memory - None
+*Control - CV / Gate
+*Date Produced - 1982
+|}
+
+
+The '''Polivoks''' is a two voice Russian analog synthesizer made in 1982
+
+{{stub}}
+
+[[category:synths]]
+[[category:Formanta|Polivoks]]
