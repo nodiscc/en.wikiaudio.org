@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 8 DCOs; 1 per voice; 3 waveforms
+*LFO - 1 LFO with 3 waveforms + reverse mode
+*Filter - VCF Lowpass filter with ADSR; HiPass filter
+*VCA - 1 VCA with ADSR
+*Effects - Stereo Ensemble (Chorus)
+*Keyboard - 61 keys
+*Memory - 32 patches (Cassette interface for dumping/loading patches)
+*Control - None
+*Date Produced - 1983
+
+|}
+
+The '''Kawai SX-210''' is an 8 voice 61 note keyboard synthesizer produced in 1983
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Kawai|SX-210]]
