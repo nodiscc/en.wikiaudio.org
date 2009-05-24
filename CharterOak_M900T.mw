@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type vacuum tube condenser 
+*Acoustical Operating Principle  	Pressure Gradient
+*Diaphragm 	20mm
+*Frequency Response 	25Hz-20kHz
+*Sensitivity 	-34dB (0dB=1V/Pa)
+*Polar Pattern 	Interchangeable via modified S-5, S-6, and S-7 capsules.
+*Impedance 	< 200 Ohms
+*Recommended Load 	> 200 Ohms
+*Equivalent Input Noise 	13.5dB (A Weighted)
+*Maximum Sound Pressure Level 	138dB (1kHz at 138dB causes 0.5% Total Harmonic Distortion)
+*Power Requirements 	Proprietary Power Supply
+*Power Supply Requirements 	115-230VAC
+
+
+|}
+
+The '''M900T''' is a vacuum tube version of the [[CharterOak M900]]
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:CharterOak|M900T]]
