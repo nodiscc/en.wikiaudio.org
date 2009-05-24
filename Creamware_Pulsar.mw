@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Up to 20 voices depending on structure
+*Sampler - 16 stereo-voices per module (up to 64 stereo-voices)
+*Synthesizer - 100+ different modules
+*Mixer - 32-channel digital mixer; EQs, Dynamics; 20 channels In, 20 channels Out, 2 x ADAT, S/PDIF + analog, 96kHz support, 24-bit resolution
+*Effects - delays, reverbs, limiting, compression, distortions, modular effect capabilities
+*Keyboard - None (virtual synth)
+*Memory - 14 finished patches (complete synths!) made by professional sound designers
+*Control - Midi. Built-in Midi Interface. MME- and ASIO-drivers
+*Date Produced - 1999
+
+|}
+
+'''Pulsar''' is a Software / Hardware DSP-based music production environment for the PC that was produced in 1999
+
+{{stub}}
+
+[[category:synths]]
+[[category:creamware|pulsar]]
+[[category:software instruments]]
