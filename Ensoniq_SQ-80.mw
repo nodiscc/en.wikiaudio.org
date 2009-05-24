@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 24 osc.
+*LFO - Up to 3 per voice - can route to pitch, amp, filter, pan
+*Filter - 1 4-pole analog filter per voice w/sweepable resonance
+*VCA - 1 digital amp per oscillator + 1 global amp per voice
+*Keyboard - 61 keys with velocity & aftertouch
+*Memory - 40 patches onboard + 80 with EEPROM cartridge, floppy drive
+*Control - MIDI (8-part), switch pedal, CV pedal, wheel, breath, mono/poly aftertouch, kybd mapping
+*Date Produced - 1988 - 1989
+
+|}
+
+The '''SQ-80''' is an 8 voice 61 key synthesizer manufactured by Ensoniq in 1988-89
+
+{{stub}}
+
+[[category:Ensoniq|SQ-80]]
+[[category:synths]]
