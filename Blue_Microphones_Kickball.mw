@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer Type:  	Active Dynamic
+*Polar Pattern: 	Cardioid
+*Frequency Response: 	35 Hz – 16 kHz
+*Sensitivity: 	3.0 mV/Pa at 1 kHz (1Pa = 94 dB SPL)
+*Output Impedance: 	50Ω
+*Rated Load Impedance: 	Not less than 2kΩ
+*Maximum SPL: 	162 dB SPL (2kΩ, 1.0% THD)
+*S/N Ratio: 	76 dB-A (IEC 651)
+*Noise Level: 	18 dB-A (IEC 651)
+*Dynamic Range: 	144 dB (@ 2.0kΩ)
+*Power Requirement: 	+48V DC Phantom Power (IEC 268-15)
+*Weight: 	440g
+*Dimensions: 	325mm (circumference)
+
+
+|}
+
+
+The '''Blue Kickball''' is an active dynamic microphone intended for kick drum applications
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:‎Blue Microphones|Kickball]]
