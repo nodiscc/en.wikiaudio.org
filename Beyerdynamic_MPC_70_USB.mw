@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern boundary (half-cardioid)
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	
+*Max SPL  	112dB for
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 		
+*Powering 	Other
+*SupplyCurrent 	27mA
+*Alternative Powering 	(from USB port)
+
+'''Switchable Options'''
+*Pad 	-10dB, +10dB
+*Filter/EQ 	150Hz roll-off
+
+'''Physical Characteristics'''
+*Connector 	USB-B	
+*Weight 	140g (4.92oz)
+*Length 	125mm (4.92") 	
+*Max Diameter/Width 	76mm (2.99")
+*Depth 	25mm (0.98")
+
+|}
+
+The '''Beyerdynamic MPC 70 USB''' is a boundary-layer microphone intended for interviews and other discussion applications. The output connection is USB for direct to digital recording.
+
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|MPC 70 USB]]
