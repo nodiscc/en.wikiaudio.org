@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 2 DCOs per voice (triangle, sawtooth, pulse waveforms, noise)
+*LFO - 2 LFO's (triangle, ramp and square waveforms)
+*Filter - 1 VCF Resonant filter with ADSR per voice
+*VCA - 1 VCA ADSR envelope per voice
+*Keyboard - 61 keys (with velocity)
+*Memory - 63 user patches
+*Control - MIDI
+*Date Produced - 1984 - 86
+
+|}
+
+The Bit One is a 6 voice programmable polyphonic analog synthesizer.
+
+{{stub}}
+
+[[category:crumar|Bit One]]
+[[category:synths]]
