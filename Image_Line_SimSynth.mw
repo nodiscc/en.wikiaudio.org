@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic. SimSynth Live - unlimited / CPU dependent
+*Oscillators - 3 oscillators (which can be doubled effectively giving six)
+*Effects - Built in delay effects; VSTi version has reverb, phasor, and delay
+*Arpeg/Seq - None
+*LFO - 1 - saw, triangle, square, and random (like sample-n-hold)
+*Filter - 1 LP or simultaneous HP and BP with resonance (Overdrive features including soft clipping)
+*VCA - 1 Multi-stage graphic envelopes (drawable with mouse)
+*Memory - Unlimited
+*Control - MIDI (1-part)
+*Windows/PC - Pentium 133 MHz processor, Windows 95 or 98, Soundboard, DirectX, 32 MB Ram
+*Date Produced - 1994 - present
+
+|}
+
+'''SimSynth 2.7''' is a monophonic analog software synthesizer that attempts to emulate sounds similar to the Minimoogs and Oberheim synthesizers.
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:image Line|SimSynth]]
+[[category:software instruments]]
