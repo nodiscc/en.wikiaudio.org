@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 notes
+*Controls - Samples: Octave, FrontCut, Semitone, Reverse, Loop, Attack, Release, Velocity Modulation
+*LFO - 2: ramp, saw, tri, sqr, sine, random; Rate, Env
+*Filter - 2-Pole, 4-Pole, 2+2-Pole, Comb, Comb2; cutoff, key, res, separation;
+*Memory - Unlimited
+*Keyboard - None
+*Arpeg/Seq - Arpeggiator (Tempo, Pattern1, Pattern2, Rhythm, Range, Sustain
+*Control - MIDI
+*Date Produced - 1998
+|}
+
+
+The '''Stella 9000''' is a software sample player and synthesizer for the MAC OS.
+{{stub}}
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Koblo|Stella 9000]]
