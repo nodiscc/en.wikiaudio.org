@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer Type:  	Condenser, Pressure Gradient
+*Polar Pattern: 	Cardioid
+*Frequency Response: 	20Hz - 20kHz
+*Sensitivity: 	20.0 mV/Pa at 1kHz (1 Pa = 94 dB SPL)
+*Output Impedance: 	150Ω
+*Rated Load Impedance: 	Not less than 1kΩ
+*Maximum SPL: 	140 dB SPL (2.5kΩ, 0.5% THD)
+*S/N Ratio: 	86 dB-A (IEC 651)
+*Noise Level: 	9.0 dB-A (IEC 651)
+*Dynamic Range: 	131 dB (@ 2.5kΩ)
+*Power Requirement: 	+48V DC Phantom Power (IEC 268-15)
+*Weight: 	520g
+*Dimensions: 	235mm x 50mm x 30mm
+|}
+
+The '''Blue Microphones Blueberry''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Blue Microphones|Blueberry]]
