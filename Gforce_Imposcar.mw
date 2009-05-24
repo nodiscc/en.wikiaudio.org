@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Polyphony - Mono, Duo, 4-, 8-, and 16-voice polyphonic modes
+* Oscillators - 2 Oscillators with 13 waveforms (sawtooth, triangle, square, Pulse, PWM, Full Organ, Harpsichord, Strong Lead, Double Pulse, Gritty, User Wave 1, User Wave 2) plus Noise.
+* LFO - 1 LFO with 12 waveforms (square, triangle, sawtooth, patterns, random, etc.) with multiple sync options
+* Filter - Two 12dB/oct analog filters which can be linked in series for 24dB/oct configuration. 9 filter types (2 Lowpass, 2 bandpass, 2 highpass, LP/BP, LP/HP, and BP/HP modes) with Drive, Cutoff, Q and Separation and dedicated ADSR envelope.
+* VCA - 1 ADSR envelope for Amp plus multiple triggering options with tempo and gate time controls
+* Keyboard - 54 Keys (switchable over 5-octave range) and retractable. 5 Keyboard Triggering modes. Programmable Velocity Response (Attack, Release, Drive, Env 2 Peak).
+* Macintosh - VSTi for MacOS X / 9, Audio Unit for Mac OS X. Power Mac G4 64Mb of RAM (128Mb from Mac OS 9) Mac OS 8.6 or higher VST Instrument-compatible application such as Logic Audio or Cubase SX.
+* Windows/PC - VSTi for Windows compatible. Pentium III or better. 64Mb of RAM. All current Windows versions VST Instrument-compatible application such as Steinberg Cubase SX.
+* Date Produced - 2003
+
+|}
+
+The '''Gforce imposcar''' is a virtual software synthesizer that emulates the [[OSC Oscar]] hardware synth
+
+
+{{stub}}
+
+[[category:synths]]
