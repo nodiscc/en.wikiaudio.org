@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Power  	Dedicated Power Supply (100 ~ 120V/200 ~ 240V, 50/60 Hz)
+*Acoustic Principle 	Pressure gradient
+*Directional Pattern 	Cardioid
+*Frequency range 	20 Hz - 20 kHz
+*Output impedance 	200Ω
+*Signal noise ratio 	>82 dB (A - weighted per IEC651)
+*Equivalent noise 	12 dBA SPL (A - weighted per IEC651)
+*Maximum SPL 	> 158dB SPL (@ 1kHz, 5% THD into 1KΩ load)
+*Maximum output voltage 	+29dBu (@ 1kHz, 5% THD into 1KΩ load)
+*Sensitivity 	-38dB re 1V/Pa (12mV @ 94dB SPL) +/-1dB @ 1kHz
+*Weight 	760gm
+*Dimensions 	208mmH x 55mmW x 55mmD
+|}
+
+The '''Rode NTK''' is a condenser tube microphone
+
+{{stub}}
+
+[[category:microphones]]
+[[category:rode|NT]]
