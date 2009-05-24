@@ -1,0 +1,49 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*'''Discription''' tetrahedral, single-point Ambisonics surround sound 
+*'''Polar pattern:''' omni, sub-cardioid, cardioid, super-cardioid, hyper-cardioid, figure-8 and multiple combinations in between.
+'''Capsule information:'''
+*Medium-sized diaphragm: ~12 mm
+*Pattern: cardioid
+*Type: electret condensor 
+*Frequency Response	30Hz - 18.5kHz
+*Output Sensitivity 	7mV/Pa
+*Max SPL  	135dB for
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	19dB-A	
+*Powering 	Phantom 48 only
+*Alternative Powering 	4.5 - 6V DC
+	
+
+'''Physical Characteristics'''
+*Connector 	Mini XLR
+*Connector Notes 	6-pin on mic, TA3M or XLR3M on adapters	
+*Length 	108mm (4.25")
+*Min Diameter/Width 	13mm (0.51")
+*Max Diameter/Width 	35mm (1.37")
+*Depth 	0mm (0")
+
+'''Power'''
+* 4.5 to 6 VDC into breakout cable's 3-Pin mini-XLR plugs
+* 48 Volt Phantom Power with optional PPA (Phantom Power Adapter, compatible with Audio Technica AT8531 Power Module and many others)
+* approximately 15 mA @ 48 VDC total (3.5 mA per capsule) when using PPA
+
+
+
+|}
+
+The '''Core sound TetraMic''' is a tetrahedral microphone array intended for soundfield recording
+
+{{Stub}}
+
+
+[[category:microphones]]
+
+[[category:Core sound|TetraMic]]
