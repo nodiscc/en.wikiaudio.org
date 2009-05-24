@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	50Hz - 18kHz
+*Output Sensitivity 	4.75mV/Pa
+*Max SPL  	125dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	30dB-A
+*Output Impedance 	1800Ω	
+*Powering 	Phantom 12-48
+*Alternative Powering 	1.5 - 9V DC through series resistor
+
+'''Switchable Options''' 
+*Pad 	10dB
+*Filter/EQ 	400Hz 4dB/oct to 100Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	(on PPA)
+*Available Colours 	Satin black	
+*Length 	57mm (2.24")
+*Max Diameter/Width 	12mm (0.47")
+
+
+|}
+
+
+The '''Clockaudio C3H''' is a cardioid condenser microphone
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Clockaudio|C3H]]
