@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer Type:  	Vacuum Tube Condenser
+*Polar Patterns: 	Various (Capsule-dependent)
+*Frequency Response: 	20Hz - 20kHz
+*Sensitivity: 	20.0 mV/Pa at 1kHz (1 Pa = 94 dB SPL) w/B6 Capsule
+*Output Impedence: 	200Ω
+*Rated Load Impedence: 	Not less than 1kΩ
+*Maximum SPL: 	134 dB SPL (2.5kΩ, 0.5% THD) w/B6 Capsule
+*S/N Ratio: 	86.5 dB-A (IEC 651) w/B6 Capsule
+*Noise Level: 	7.5 dB-A (IEC 651) w/B6 Capsule
+*Dynamic Range: 	126.5 dB (@ 2.5kΩ) w/B6 Capsule
+*Power Requirement: 	Bottle Power Supply Unit 115/230 VAC, 50/60 Hz
+*Weight: 	1700g
+*Dimensions: 	390mm x 90mm
+
+|}
+
+The '''Blue Microphones Bottle''' is a vacuum tube condenser microphone with a capsule dependent polar pattern. 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Blue Microphones|Bottle]]
