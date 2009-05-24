@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:  	Condenser (back electret)
+*Polar Pattern: 	Hypercardioid
+*Frequency Response: 	50 Hz - 18 KHz
+*Sensitivity: 	-47dB +/- 3dB @ 1 KHz (0dB = 1 V/Pa)
+*Impedance: 	
+**C801E - 200 Ohms
+**C801 - 1.8 K Ohms
+*S/N Radio: 	64dB(A)
+*Maximum SPL: 	125dB 1% THD
+*Power Requirements: 	
+**C801E 9 - 48 Volts Phantom Power
+**C801 1.5 - 9 Volts max. through series resistor
+*Switchable Bass Filter: 	
+**C801E - 4dB per octave at 400 Hz to - 6dB per octave at 100 Hz
+*Switchable Pad: 	
+**C801E - 10dB
+*Cable: 	
+**C801 - 2 metres (6'6")
+*Termination: 	
+**C801E - PPA Adaptor
+*Base Mounting: 	
+**C801 - Open Ended
+*M10 x 1 Thread with shakeproof washer and nut
+*Dimensions: 	
+**C801- 12mm (0.5") dia. 150mm (6") overall length. With W8 windshield - 172mm (6.9")
+**C801E - 12mm (0.5") dia. 262mm (10.5") overall length. With W8 windshield - 285mm (11.4")
+*Finish: 	Satin Black
+|}
+
+
+The '''Clockaudio C801 & C801E''' are hypercardioid condenser microphones
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Clockaudio|C801 & C801E]]
