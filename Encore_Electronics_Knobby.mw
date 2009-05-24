@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Knobs - 8 with a scribble strip below
+*Buttons - Four group buttons. Allow selection of 15 groups of 8 knobs (120 programmable controls).
+*Software - 55 byte programmable sysex messages; Instrument channel remapping; Drag and drop knob definitions; Library manager; Simulated LEDs reflect status of hardware; Online help system
+*Windows/PC - Windows 95, 98, NT
+*Macintosh - The Encore MacKnobby application is currently in alpha stage, but it is downloadable from Encore's site. It requires OMS 2.0 or greater.
+*Keyboard - None
+*Memory - Non-volatile, stored in EEPROM inside the Knobby so no batteries!
+*Control - MIDI
+*Date Produced - 2000
+|}
+
+
+
+The '''Knobby''' is a 8 knob 15 bank programmable MIDI controller.
+
+{{stub}}
+
+[[category:synths]]
+[[category:MIDI controllers]]
+[[category:Encore Electronics|Knobby]]
