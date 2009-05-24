@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[image:Korg_kaossilator.jpg‎|thumb]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Keyboard: 	none - XY-pad
+*Velocity sensitive: 	no
+*Aftertouch: 	no
+*External control: 	none
+*Memory: 	none
+*Onboard effects: 	none
+*Produced: 	2007 -
+*Original price: 	~$200
+|}
+
+The '''Korg Kaossilator''' KO-1 is a portable Dynamic Phrase Synthesizer manufactured by Korg. It is capable of producing a wide range of sounds and can be tuned to various keys and scales. Being related to the Korg Kaoss Pads, the Kaossilator is a synth that is played touching a pad that is not unlike a trackpad on laptop computers. It is truly portable, running off of 4 AA batteries with the dimensions as follows: 106 mm (W) x 129 mm (D) x 29 mm (H) / 4.17" (W) x 5.08" (D) x 1.14" (H). It weighs 154 g / 5.43 oz. (without batteries). There are spots to affix lanyards. Outputs consist of a pair of female RCA-style plugs and a stereo mini-phone 1/8th-inch jack. It is nearly the same shape as the Korg mini-KP, differing only where the mini-KP has a pair of RCA-style input jacks.
+
+The Kaossilator features 100 synthesized sounds including acoustic (Guitar, Trumpet and Piano), percussion, and electronic sounds. Most instruments can be locked into various keys and scales. The Kaossilator supports 31 different Scale Patterns including Chromatic, Blues and Diatonic scales - as well as more 'exotic' scales such as Japanese and Egyptian.
+
+The Kaossilator also has a gate arpeggiator and a loop function that allows the layering of instruments to produce loops. The loop recording function is somewhat limited, as the maximum length is two bars in 4/4 time.
+
+
+It is possible to overcome the 2 bar limit as the KO1 records audio to memory. To do this the user sets the tempo to the desired value 150 for example and records his part. The temp is then set to exactly half the tempo of before, in this case 75. When played back one hears the first 2 bars but then 2 more will be available afterwards.
+
+Another way to fully overcome the 2 bar limit is by powering up the Kaossilator while holding down the Tap and Loop Rec buttons. Doing this will give you 4 bars, but this disables the Undo function <ref>[http://blogs.oreilly.com/digitalmedia/2008/08/kaossilator-4-bar-loop-hack.html Korg Kaossilator 4-Bar Loop Hack] (visited 14-08-2008)</ref>
+
+==References==
+<references/>
+
+
+[[category:synths]]
+
+[[category:korg|Kaossilator]]
