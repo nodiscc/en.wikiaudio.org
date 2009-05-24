@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Sampler - 27kHz; 8-bits; 512 KB to 1 MB storage
+*Multitimbral - 8 parts (8 midi channels)
+*Sequencer - 8-Track
+*Songs - 1
+*Keyboard - 61 keys w/ velocity & aftertouch
+*Filter - 24 dB/oct 4-pole lowpass with resonance
+*Control - MIDI, SMPTE, RS422 Interface
+*Date Produced - 1984
+
+|}
+
+
+The '''Emulator II''' is a 61 key 8 voice polyphonic sampling keyboard.
+
+{{stub}}
+
+[[category:E-mu Systems|Emulator II]]
+[[category:synths]]
+[[category:samplers]]
