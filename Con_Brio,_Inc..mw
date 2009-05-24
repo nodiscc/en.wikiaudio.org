@@ -1,0 +1,61 @@
+'''Con Brio, Inc.''' (alternatively spelled '''Conbrio''' or '''ConBrio''') was a short-lived but influential [[synthesizer]] manufacturing company which, from 1978 to 1982, produced its most famous (and only) product, the ADS (an acronym for ''Advanced Digital Synthesizer'').
+
+
+== Early History and the ADS 100 ==
+
+
+Con Brio was founded in Pasadena, California, around 1979 by Tim Ryan, Alan Danziger, and Don Lieberman, three California Institute of Technology students who originally studied audio synthesis equipment designed to map the cerebral cortex of cats. Their first prototype was a modular production station dubbed the ADS 100. Originally designed as a tone generator to test hearing, the ADS was innovative in its approach to synthesis, and was, in fact, one of the earliest digital synthesizers. It was capable of several types of synthesis, including additive synthesis, phase modulation synthesis, and frequency modulation synthesis (commonly abbreviated to FM). It used three 6502 processors (the same processor used in the Apple II computer and Commodore 64) and included a video monitor which displayed sequences and envelope parameters. It could also be upgraded with commonly-available computer peripherals, including an 8" floppy disk drive. All of this was controlled via a brightly colored control panel and two 61-note keyboards.
+
+The ADS 100 was later famously used to generate sound effects for Star Trek: The Motion Picture and Star Trek II: The Wrath of Khan. Although Con Brio used this aggressively to market their product, no price for the ADS was given at the time, and the ADS 100 was largely assumed to be commercially unavailable.
+
+
+== The ADS 200 ==
+
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 64 max
+*Oscillators - 64 (upgradable to 256)
+*Effects - None
+*Arpeg/Seq - Various arpeggiators. In the "R" version there was a 16 track polyphonic sequencer (80.000 notes).
+*Keyboard - 2 manuals (61x2)
+*Memory - 32 patches ; 32 performances
+*Control - CV / Gate
+*Date Produced - 1980-82
+
+|}
+
+The ADS 100 was later modified and rebuilt to produce the ADS 200. This incarnation of the ADS series was an all-in-one machine, similar to the PPG Realizer, and weighed approximately 175 pounds. All components were built into a large wooden box, and several features were added, including the ability to display musical notation and splittable keyboards. The sequencer also could sync and play up to four tracks at a time, and five 6502 processors were used, as opposed to only three on the 100. The ADS 200 also implemented CV/Gate, an interfacing system that was standard before the invention of MIDI.
+
+The ADS 200 was completely hand-wired and reportedly took over seven months to build. Of the two units built, only one was reportedly sold for approximately USD$30,000 (about GBP£17,000), making the ADS 200 a relative success. The buyer was film composer David Campell, Beck's father, who also arranged music for Tori Amos, Elton John, The Rolling Stones, Kiss, Aerosmith, and films, such as Brokeback Mountain. It was reportedly kept in friend Chick Corea's studio for several years before being acquired by musician and noted aficionado of vintage synthesizer gear Brian Kehew.
+
+== Legal Troubles and The ADS 200-R ==
+
+
+By 1981, Yamaha began to take notice of Con Brio's use of FM synthesis, on which they owned a patent (although the legality of the patent was in doubt, as FM synthesis had been used commonly for many years before Yamaha's claim). Because the ADS 200 used FM synthesis extensively, Yamaha warned Con Brio that royalties would be requested if any more ADS units were sold. Con Brio replied that because their device was completely configurable, they did not have control over whether or not the device was used as an FM synthesizer. Although Con Brio continued to violate Yamaha's patent, legal action was never taken, presumably because Con Brio was never successful enough to become a major competitor. Yamaha would later implement FM synthesis with their wildly successful DX-7 synthesizer.
+
+In 1982, Con Brio introduced the ADS 200-R, a three-piece, detached double-keyboard model that was marketed toward touring musicians as being "roadable." It featured a 16-track polyphonic sequencer capable of storing 80,000 notes. At USD$20,500 (about GBP£11,500), with an additional USD$25,000 (about GBP£14,200) of options available, the 200-R was significantly less expensive than the original 200. However, the one unit that was built failed to sell. Although Con Brio considered retooling it into a sampling workstation similar to the Fairlight CMI, the cost of their operation and pressure from cheaper synthesizers and larger manufacturers forced the company to go out of business later that year before their vision was able to be realized.
+
+
+
+== Aftermath ==
+
+In the years since Con Brio's demise, Danziger and Lieberman have become successful manufacturing semiconductors. Tim Ryan, motivated to continue manufacturing music equipment, cofounded The Sonus corporation, which later became M-Audio, a leading manufacturer of microphones, computer interfaces, and controller keyboards.
+
+The one Con Brio ADS 200 that was ever sold now belongs to Brian Kehew of the Moog Cookbook. He claims that it was originally the ADS 100 and that it was retooled as the 200. In the years he has owned it, some functions have ceased to work, including the floppy drive. This is underway to be repaired. In researching the repair of the ADS 200, Kehew also obtained the final Con Brio made, the ADS 200-R machine, and hopes to restore both to working condition soon.
+
+== Sources ==
+*http://www.synthmuseum.com/conbrio/conads20001.jpg
+*http://www.keyboardmag.com/story.asp?sectioncode=28&storycode=12095 - Con Brio's story as printed in Keyboard Magazine
+*http://www.synthmuseum.com/conbrio/conads20001.html - The Con Brio ADS 200, on http://www.synthmuseum.com
+
+
+[[category:Con Brio]]
