@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Pickup pattern: cardioid
+* Transducer: pressure gradient dynamic
+* Frequency response: 80Hz-15kHz
+* Sensitivity (free field, no load): 1.5mV/Pa =/-56.5dB (odB=1V/Pa)
+* Nominal impedance at 1 kHz: 350 ohms
+* Min terminating impedance: 1000 ohms
+* Dimensions: 1-7/8" dia. x 7-1/8"L
+* Weight: 11-2/3 oz.
+|}
+
+
+The '''e825S''' is a cardioid dynamic microphone manufactured by Sennheiser.
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:Sennheiser|e825S]]
