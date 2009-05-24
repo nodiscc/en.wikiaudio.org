@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*  Type: Master-keyboard/ keyboard/
+* Synthesis Type:
+* Controllers :
+* Keyboard :
+**Number of Keys : 41
+**Can send on 2 simultaneous MIDI channels
+**Responds to : velocity, after-touch
+**Sounds can be split by : 
+* Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : 0
+**Number of Audio Ins : 0
+**Number of MIDI Outs (excluding Thru) : 1
+**Number of MIDI Ins : 0 
+
+|}
+
+The '''AZ-1''' is a 41-note velocity and aftertouch sensitive performance remote keyboard MIDI controller.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Casio|AZ-1]]
