@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 voices
+*Oscillators - 32MB Sound ROM
+*Effects - 2 Effects including Reverbs, Delay, Chorus, Phasers, etc.
+*Filter - 12-Pole digital resonant and modeling filters
+*Arpeggiator - 16 channel Rhythmic Pattern Generator / Arpeggiator (one per MIDI channel) with MID sync
+*Keyboard - None
+*Memory - 640 ROM, 256 user presets (4 layers per preset)
+*Control - MIDI (16-parts)
+*Date Produced - 1998 - 2000
+|}
+
+
+The '''Audity 2000''' is a rack mount 64 voice digital synth module.
+
+{{stub}}
+
+[[category:E-mu Systems|Audity 2000]]
+[[category:synths]]
