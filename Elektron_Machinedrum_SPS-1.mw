@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices (each voice is a single drum sound)
+*Oscillators - Sample Playback and Synthesis; 39 drum sounds via 4 synthesizers: TRX (12 instruments), EFM (8 instruments), E12 (16 instruments), and PI (6 instruments).
+*LFO - 16 (2 per voice); dual-waveforms assignable to various destinations
+*Filter - 1 Multi-mode resonant filter per voice 24 dB/oct (4-pole)
+*Effects - 4 Master Effects: Rhythm Echo reverb/echo, Gate Box reverb, 3-band EQ, Dynamix compressor. Each drum sound has 2 independent echo and reverb Sends. Instrument effects: Amplitude Modulation, 1-band EQ, Sample-rate Reduction, Distortion.
+*Keyboard - 16 Trigger pads for triggering sounds and/or programming patterns
+*Memory - 64 Drumkits, 128 Patterns (up to 32 steps each)
+*Control - MIDI IN/OUT/THRU, External Audio Triggering
+*Date Produced - 2001
+|}
+
+The '''Machinedrum SPS-1''' is a drum machine and drum synthesizer. 
+{{stub}}
+
+[[category:Elektron|Machinedrum SPS-1]]
+[[category:synths]]
+[[category:drum machines]]
