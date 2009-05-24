@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Korg Karma .jpg|thumb|center]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Synthesis Type: Hyper integrated 
+*Polyphony: 62 voice 
+*Multi-timbral (number of parts): 16 
+*Oscillators per Voice : 
+**Min : 31 
+**Max : 62 
+*Controllers : 3 
+*Effects : 
+**Number of FX units : 5 
+**Number of different effects : 102 
+*Drum Section : 
+**Number of Drum Kits : 64+ 
+**Number of Drum sounds : 413 
+*Keyboard : 
+**Number of Keys : 61 
+**Can send on 16 simultaneous MIDI channels 
+**Responds to : velocity, after-touch 
+**Sounds can be split by : keyboard 
+*Memory : 
+**Patches : 768+ 
+**Performances : 640+ 
+*Inputs and Outputs : 
+**Number of Audio Outs (excluding Phones) : 4 
+**Number of Audio Ins : n/a 
+**Number of MIDI Outs (excluding Thru) : 1 
+**Number of MIDI Ins : 1 
+**Upgrade Options : Triton boards
+
+
+|}
+'''Korg Karma''' is a 62 voice synthesizer keyboard.
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Korg|ElecTribe/R ER-1]]
