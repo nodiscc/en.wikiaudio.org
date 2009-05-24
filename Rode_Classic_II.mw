@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: condenser
+*Capsule: Externally polarised dual diaphragm 25mm (1 in.) condenser
+*Active Electronics: Thermionic impedance converter with bipolar output buffer
+*Pickup Pattern: Switchable Omnidirectional / Cardioid / Figure-8 in 9 steps
+*Frequency Response: 20 Hz-20 kHz
+*High Pass Filter: Switchable: flat, -15dB @ 20Hz, -21dB @ 20Hz. Cascaded first-order filters
+*Output Impedance: 200 ohms
+*Sensitivity: -37dB re 1V/Pa (14mV @ 94dB SPL) +/-2dB
+*Equivalent Noise: <18 dBA('A'-weighted per `IEC268-15)
+*Maximum Output: +2dBu (@ 1% THD into 1K ohms)
+*Dynamic Range: > 113dB (per IEC268-15)
+*Maximum SPL: 131dB SPL(@ 1% THD into 1K ohms)
+*Signal/Noise Ratio: > 76dB (per IEC268-15)
+*Power Requirements: Dedicated Power Supply (110 ~ 120V/220 ~ 240V, 50/60 Hz)
+*Packed Weight: 8.7kg (Mic only 1.44kg)
+|}
+
+The '''RODE Class II''' is a variable pattern condenser microphone 
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Rode]]
