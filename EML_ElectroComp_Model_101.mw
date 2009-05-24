@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Duophonic
+*Oscillators - 4 VCO's (2 go sub-sonic, with multiple or variable waveforms + noise)
+*LFO - 1 LFO
+*Filter - voltage controlled multi-mode 12 dB/oct filter with resonance and switchable low, band and high pass
+*VCA - 2 ADS Envelopes
+*Keyboard - 44 keys
+*Effects - ring/amplitude modulator, sample-and-hold
+*Control - CV/Gate
+*Date Produced - 1972 - 1982
+|}
+
+Th '''ElectroComp Model 101''' is a patchable analog synth that was produced by EML
+
+{{stub}}
+
+[[category:synths]]
+[[category:Electronic Music Labs|ElectroComp Model 101]]
