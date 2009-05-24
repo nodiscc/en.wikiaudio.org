@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 analog osc. (saw or square waveforms).
+*Filter - Low pass resonant 3-Pole (18dB/oct slope)
+*LFO - CV MOD
+*Effects - 24 bit stereo DSP effects processing, 16 preset effects: chorus/room1 and 2, delay 1 and 2, chorus, flange, plates 1, 2 and 3, rooms 1, 2, and 3, halls 1 and 2, rotary speaker, and a low pass muffler.
+*Keyboard - None
+*Patterns - 256 Patterns (16-steps max. per pattern)
+*Songs - 16 songs (3,580 measures per song)
+*Control - MIDI IN OUT THRU, DIN SYNC OUT, CV (1v/oct standard)/Gate (positive type, 0 to +12v) Outputs
+*Date Produced - 2004
+
+|}
+
+The '''Revolution''' is a monophonic analog synthesizer tied to a pattern and song based sequencer with digital effects.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Future Retro|Revolution]]
