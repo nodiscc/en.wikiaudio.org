@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - up to 64 notes (CPU dependent)
+*Oscillators - 2 stereo oscillators (multi-samples) per voice
+*LFO - 6 LFOs (ramp or random)
+*Filter - 2 assignable stereo filters per voice (13 filter types, including 4-pole resonant lowpass, highpass, bandpass, allpass, notch, and state-variable)
+*Effects - 2 stereo insert (serial) effects, 2 additional stereo global (parallel) effects processors (Stereo delays, reverbs, EQ, chorus, phaser, flange, overdrive and distortion)
+*Keyboard - On-Screen keyboard
+*Samples - 16-bit, 44.1kHz; Multiple sample rates supported simultaneously; Unlimited capacity; DSP functions include Normalize, Gain, Fade, Reverse, Crossfade Loop, EQ, and more
+*Control - MIDI
+*Macintosh - 120MHz or faster PowerPC processor. Operating system software version 7.6.1 or higher (OS 8 or higher recommended).
+*Windows/PC - 200MHz or faster Pentium processor. Windows 95 or Windows 98 operating system software. DirectX supported sound card.
+*General - 50 MB free hard disk space, Compatible CD-ROM drive, 800 x 600 or higher resolution monitor with 256 (8-bit) or more colors.
+*Recommended - MIDI controller and interface, Quality stereo sound monitoring system or headphones.
+|}
+
+The '''Unity DS-1''' is a software based digital sampler and instrument.
+
+{{stub}}
+
+[[category:BitHeadz|Unity DS-1]]
+[[category:software instruments]] 
+[[category:synths]]
