@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices
+*Oscillators - Digital Harmonic Generator (DHG)
+*LFO - 6 waveforms, speed, delay, trend
+*Filter - Digital Dynamic Filter (DDF) with cutoff, slope, envelope amount, keyboard, velocity, aftertouch, independent 6-stage envelope; Digital Formant Filter (DFT) 11-band graphic eq
+*VCA - Dynamic Digital Amplifier (DDA) with independent 6-stage envelopes
+*Keyboard - 61 keys with "release velocity" and aftertouch
+*Memory - 48 patches internal, 48 patches external memory card, 48 multi-mode memories
+*Control - MIDI
+*Date Produced - 1987
+
+|}
+
+The '''K5''' is a 16 voice synthesizer created by Kawai
+
+{{stub}}
+
+[[category:synths]]
+[[category:Kawai|K5]]
