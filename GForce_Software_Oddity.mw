@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic / Duophonic
+*Oscillators - 2 oscillators: saw, square, pulse, pwm (can be modulated by: sine LFO or ADSR envelope), White/Pink Noise and Ring Modulation; oscillator-sync modulated by: ADSR, square/saw LFO, sample-and-hold
+*LFO - Sine or Square waveforms, sample-and-hold, Tempo Sync, Kybd LFO Re-triggering, Rate adjustable from 02.Hz to 20Hz.
+*Filter - Four-pole resonant 24dB/oct lowpass filter plus highpass filter (static 12dB/oct). VCF can be modulated by: keybd cv, sample-and-hold, LFO, ADSR or AR envelopes.
+*VCA - EG 1: AR; EG 2: ADSR
+*Keyboard - 61 keys
+*Arpeg/Seq/ - None (just like the original)
+*Effects - None (just like the original)
+*Macintosh - VSTi, Audio Unit and MAS formats. Power Mac G4 64Mb of RAM (128Mb from Mac OS 9) Mac OS 8.6 or higher VST Instrument-compatible application such as Logic Audio or Cubase SX
+*Windows/PC - VSTi format. Pentium III or better. 64Mb of RAM. All current Windows versions VST Instrument-compatible application such as Steinberg Cubase SX
+*Date Produced - 2002
+
+|}
+
+The '''Oddity''' is a software emulation of the  Arp Odyssey hardware synthesizer. 
+
+{{stub}}
+
+
+
+
+[[category:synths]]
+[[category:GForce|Oddity]]
