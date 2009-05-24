@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - One DCO (sawtooth, square, pulse-width modulation); 4-octave range (32', 16', 8', 4'); white and pink noise generators
+*LFO - 1 LFO; Vibrato
+*Filter - 1 Low-pass filter, 12dB/octave, with ADSR
+*VCA - 1 ADSR
+*Keyboard - 37 keys
+*Memory - None
+*Control - None (Kenton Midi Retrofits available)
+*Date Produced - 1978 - 1982 
+
+|}
+
+The '''SX-1000''' is a monophonic synth produced between 1978 and 1982
+
+{{stub}}
+
+[[category:synths]]
+[[category:JEN|SX-1000]]
