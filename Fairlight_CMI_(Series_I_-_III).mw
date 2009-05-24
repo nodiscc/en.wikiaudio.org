@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices (expandable)
+*Sampler - 16-bit, 100kHz mono, 50kHz stereo
+*Memory - 28MB (several minutes at 44.1kHz; expandable)
+*Synthesis - Fast Fourier Transforming, Waveform Editing, Graphics Tablet Waveform Drawing
+*Effects - None built-in
+*Keyboard - 73 note with velocity sensitivity (un-weighted). The Series I, II, and IIx could all have a dual-keyboard feature.
+*Sequencer - Rhythm Sequencer, CAPS (Composer, Arranger, Performer Sequencer) 80-track polyphonic seq., MCL (Music Composition Language) text-based step time seq.
+*Control - MIDI, SMPTE
+*Date Produced - 1979 - 1992
+
+|}
+
+The '''Fairlight Computer Music Instrument (CMI)''' is a Synthesizer/Sampler workstation originally manufactured in 1979
+
+{{stub}}
+
+
+[[category:Fairlight|CMI]]
+[[category:synths]]
+[[category:samplers]]
