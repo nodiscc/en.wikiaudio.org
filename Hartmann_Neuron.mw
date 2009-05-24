@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 16-48 voices
+*Oscillators - 2 Resynators with 3 parameter layers per Scape/Sphere, stick recording function, 1 ADSR modulation envelope per Resynator, 1 amp envelope per Resynator (ADSR), 1 definable envelope (4 levels/4 times, also definable as pitch envelope)
+*LFO - Two; Mod: 12 waveforms (Triangle, Sine, Saw Up, Saw Down, Square, Pos Tri, Pos Sine, Pos Square, Step Tri, Step Saw Up, Step Saw Down and Random) with Rate and Depth controls.Slicer: multi-dimensional, cyclic modulation
+*Filter - 12 dB highpass, 24 dB lowpass, bandpass filter.
+*Effects - Digital multi-effects with MIDI sync: chorus / flange / delay and frequency-based FX such as phaser / distortion / compressor / limiter.
+*Keyboard - 61 keys (w/ velocity and aftertouch)
+*Memory - 256 MB RAM; 10 GB HD for sounds; 200 sound and 200 setup memory locations
+*Control - MIDI In/Out/Thru; USB port
+*Date Produced - 2002-2005
+|}
+
+The '''Hartmann Neuron''' is a 16-48 voice, 61 key polyphonic synthesizer
+
+{{stub}}
+
+[[category:synths]]
+
+[[category:Hartmann|Neuron]]
