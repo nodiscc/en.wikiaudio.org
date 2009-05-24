@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 12 DCOs (2 per voice) with pwm, noise, sync
+*LFO - Yes
+*Filter - six 24 dB/octave resonant low-pass
+*VCA - 12 velocity and pressure sensitive envelopes
+*Keyboard - None
+*Memory - 320 ROM sounds, 96 RAM sounds, 64 user
+*Control - MIDI (6-parts)
+*Date Produced - 1988
+|}
+
+The '''Cheetah MS-6''' is a 6-voice polyphonic/multitimbral rackmount analog synthesizer
+
+{{stub}}
+
+[[category:synths]]
+[[category:Cheetah|MS-6]]
