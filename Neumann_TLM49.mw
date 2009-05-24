@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Acoustical operating principle: Pressure gradient transducer
+*Directional pattern: Cardioid
+*Frequency range: 20 Hz ... 20 kHz
+*Sensitivity at 1 kHz into 1 kohm: 12 mV/Pa
+*Rated impedance: 50 ohms
+*Rated load impedance: 1000 ohms
+*Equivalent noise level, CCIR: 23 dB
+*Equivalent noise level, A-weighted: 12 dB-A
+*Signal-to-noise ratio, CCIR (rel. 94 dB SPL): 71 dB
+*Signal-to-noise ratio, A-weighted (rel. 94 dB SPL): 82 dB
+*Maximum SPL for THD 0.5%: 114 dB
+*Maximum output voltage: 10 dBu
+*Dyn. range of the mic. amplifier /A-weighted, 0.5 %): 102 dB
+*Supply voltage (P48, IEC 61938): 48 V +/- 4 V
+*Current consumption (P48, IEC 61938): 3.2 mA
+*Matching connector: XLR 3F
+*Weight: 825 g
+*Diameter: 78 mm
+*Length: 165 mm
+
+|}
+
+The '''TLM49''' is a large diaphragm cardioid microphone by Neumann.
+
+{{stub}}
+
+[[category:neumann|T]]
+[[category:microphones]]
