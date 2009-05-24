@@ -1,0 +1,144 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - up to 4 voices on each midi channel
+*Oscillators - 1 to unlimited
+*LFO - 2 standard plus 1 Sample & hold and 1 VCF-LFO
+*Filter - 24dB lowpass, hipass, bandpass; 12dB lowpass, hipass, bandpass, notch; WASP filter, Oberheim filter, 303 filter, etc.
+*VCA - Multiple Amp and ADSR envelope modules
+*Effects - Pitch Shifter, Phaser, Distortion, Spring Reverb, Frequency Shifter, Waveshaper, etc.
+*Sequencer - clock sequencer, analog/trigger sequencer, quad sequential switch
+*Keyboard - None (yet)
+*Memory - None
+*Control - MIDI, CV/Gate, Footswitch, Light Sensor, Theremin Antenna, etc.
+*Date Produced - 1995 - Present
+
+
+'''FULL LIST OF MODULES'''
+
+Sound Sources & Modifiers:
+
+* A-110 Standard VCO
+* A-111 High End VCO
+* A-112 Sampler and Wavetable Osc.
+* A-113 Subharmonic Oscillator
+* A-114 Ring Modulator
+* A-115 Audio Divider
+* A-116 Waveform Processor
+* A-117 Digital Noise / 808 Sounds
+* A-118 Noise / Random
+* A-119 Ext.Input/ Env.Follower
+
+Filter Modules:
+
+* A-101-1 Steiner Filter
+* A-101-2 Lowpass Gate
+* A-101-3 Phaser
+* A-102 Diode Low Pass
+* A-103 18dB Low Pass (TB303 type)
+* A-104 Trautonium Formant Filter
+* A-105 6/12/18/24 dB LowPass/BandPass
+* A-106 Xtreme Filter (MS20 LP/HP)
+* A-107 Multitype Morphing Filter
+* A-108 Multimode and Multislope Filter
+* A-109 VC Signal Processor
+* A-120 24dB Low Pass 1
+* A-121 Multimode VCF
+* A-122 24dB Low Pass 2
+* A-123 24dB High Pass
+* A-124 Wasp Filter
+* A-125 VC Phase Shifter
+* A-126 VC Frequency Shifter
+* A-127 VC Triple Resonance Filter
+* A-128 Fixed Filter Bank
+* A-129 Vocoder Subsystem
+
+VCAs, Mixers, Modifiers:
+
+* A-130 VCA (linear)
+* A-131 VCA (exp.)
+* A-132 Dual VCA (lin.)
+* A-133 Dual Voltage Controlled Polarizer
+* A-134 VC Panning
+* A-135 Voltage Controlled Mixer
+* A-136 Distortion/ Waveshaper
+* A-137 Wave Multiplier
+* A-138 Mixers
+* A-139 Head phone amplifier
+
+Modulation Sources:
+
+* A-140 ADSR
+* A-141 VCADSR
+* A-142 VC Decay/Gate
+* A-143 Multiple modulation sources
+* A-144 Morphing Controller
+* A-145 LFO 1
+* A-146 LFO 2
+* A-147 VCLFO
+* A-148 S&H
+
+Sequencer & Switchers:
+
+* A-150 VC Switch
+* A-151 Sequential Switch
+* A-152 Voltage Addressed Switch
+* A-154 Sequencer Controller Module
+* A-155 Analog/Trigger Sequencer
+* A-156 Dual Quantizer
+
+Clocks/Gate/Digital Modules:
+
+* A-160 Clock Divider
+* A-161 Clock Sequencer
+* A-162 Dual Trigger Delay
+* A-163 Voltage Controlled Divider
+* A-164 Manual Gate Module
+* A-165 Trigger Modifier
+* A-166 Dual Logic Module
+* A-167 Analog Comparator
+
+Voltage Sources:
+
+* A-170 Slew Limiter
+* A-171 VC Slew Limiter
+* A-172 Maximum/minimum Selector
+* A-173 Distance controlled CV (infrared based)
+* A-174 Joy Stick
+* A-175 Voltage Inverter
+* A-176 CV Source
+* A-177 Foot Controller
+* A-178 Theremin
+* A-179 Light to CV
+
+Special Modules:
+
+* A-100 Keyboard
+* A-180 Multiples 1
+* A-181 Multiples 2
+* A-185 Bus Access
+* A-190 MIDI to CV/Gate/Sync
+* A-191 MIDI to CV / Shepard Generator
+* A-192 VMC16 (CV-to-MIDI)
+* A-195 Pitch to CV/MIDI interface
+* A-197-1 Analog Meter
+* A-198 Ribbon Controller
+* A-199 Spring Reverb
+|}
+
+
+
+The '''Doepfer A-100''' is a analog synthesizer system consisting of custom configurable modules.
+
+{{stub}}
+
+
+
+[[category:synths]]
+[[category:Doepfer|A-100]]
