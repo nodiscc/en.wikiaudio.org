@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2: saw, sqr, tri, sine, random; Octave, AM, FM, Mix, De-tune, Semitone, Keytrack
+*LFO - 2: ramp, saw, tri, sqr, sine, random; Rate, Attack, Decay
+*Filter - Low-Pass, Band-Pass, Hi-Pass; 2-Pole, 4-Pole, 2+2-Pole, Comb, Comb2; cutoff, key, res, separation;
+*Memory - Unlimited
+*Keyboard - None
+*Arpeg/Seq - Arpeggiator (Tempo, Pattern1, Pattern2, Rhythm, Range, Slide
+*Control - MIDI
+*Date Produced - 1998
+|}
+
+'''Vibra 9000''' is a Virtual Synth instrument that runs on Mac OS.
+
+{{stub}}
+
+[[category:synths]]
+[[category:software instruments]] 
+[[category:Koblo|Vibra9000]]
