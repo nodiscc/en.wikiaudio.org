@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - None
+*LFO - None
+*Filter - One High Pass with Resonance and Cutoff controls; One Low Pass with Resonance and Cutoff controls.
+*VCA - Level control, Wet/Dry Mix control
+*Keyboard - None
+*Memory - None
+*Control - Control Voltage Inputs to control Frequency Cutoff and Resonance for both Low Pass and High Pass filters
+*Date Produced - 2000
+
+|}
+
+
+The '''Frostwave Resonator''' is a monophonic analog filter box.
+
+{{stub}}
+
+[[category:synths]]
+[[category:outboard processors]]
