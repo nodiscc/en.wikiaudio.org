@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - One VCO (sawtooth, square, 2 rectangular waveforms); 4-octave range (32', 16', 8', 4')
+*LFO - Square or triangle waveforms; intensity and speed; can modulate VCO or VCF
+*Filter - 1 VCF Filter with cut-off, emphasis; 3 preset envelope settings: Repeat, ASR, and AD.
+*VCA - 3 preset envelope settings: Repeat, ASR, and AD
+*Keyboard - 44 keys
+*Memory - None
+*Control - None
+*Date Produced - 1978 - 1982 
+
+|}
+
+'''SX-2000''' is an analog monophonic synthesizer.
+
+{{stub}}
+
+[[category:synths]]
+[[category:JEN|SX-2000]]
