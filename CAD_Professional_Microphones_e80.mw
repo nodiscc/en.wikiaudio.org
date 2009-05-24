@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Condenser
+**Polar pattern cardioid
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	2mV/Pa
+*Max SPL  	128dB for 0.15%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	300Ω	
+*Powering 	Phantom 48 only
+*Alternative Powering 	P24 is acceptable
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	40Hz, 80Hz, 120Hz
+
+'''Physical Characteristics''' 
+*Connector 	XLR-3M	
+*Available Colours 	Black "leather feel"
+*Weight 	284g (10oz)
+*Length 	195mm (7.67")
+*Min Diameter/Width 	30mm (1.18")
+*Max Diameter/Width 	50mm (1.96")
+
+
+|}
+
+
+The '''e80''' is a cardioid condenser microphone
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:CAD Professional Microphones|e80]]
