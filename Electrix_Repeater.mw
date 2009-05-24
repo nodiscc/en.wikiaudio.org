@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 4 tracks per loop
+*Sampler - Stereo 24-bit 44.1kHz sampling with an 8-minute (40 MB) loop limit
+*Filter - None
+*LFO - None
+*Effects - Pitch-Shift (+1 to -2 octaves), time-stretching (1.5x faster to 4x slower), Reverse, Slip, Overdub, Resample; Stereo FX insert (no built-in multi-effects)
+*Keyboard - None
+*Memory - 999 loops, 4 tracks, external CompactFlash Memory cards
+*Control - MIDI, Audio Beats Detection
+*Date Produced - Fall 2001
+|}
+
+'''Repeater''' is a loop-based digital recorder/sampler.
+
+{{stub}}
+
+[[category:synths]]
+[[category:electrix|Repeater]]
+[[category:Outboard processors]]
