@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[Image:SM58&Beta58a.jpg|125px|center|The Shure SM58 (left) and Beta 58A (right) microphones]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type Dynamic (moving coil) 
+*Frequency Response 50 to 15,000 Hz 
+*Polar Pattern Unidirectional (cardioid), rotationally symmetrical about microphone axis, uniform with frequency 
+*Sensitivity (at 1,000 Hz Open Circuit Voltage) 
+**-54.5 dBV/Pa (1.85 mV) 
+**1 Pa = 94 dB SPL 
+*Impedance 
+**Rated impedance is 150 ohms (300 ohms actual) for connection to microphone inputs rated low impedance 
+*Polarity
+**Positive pressure on diaphragm produces positive voltage on pin 2 with respect to pin 3
+*Connector
+**Three-pin professional audio connector (male XLR type)  
+*Case
+**Dark gray, enamel-painted, die cast metal; matte-finished, silver, spherical steel mesh grille 
+*Net Weight
+**298 grams (10.5 oz) 
+|}
+
+
+
+The '''Shure SM58''' is a professional cardioid [[Microphone#Dynamic_microphones|dynamic]] [[microphone]], commonly used in live vocal applications.  It has built an enviable reputation among musicians for its robust construction and technical performance, and is considered the industry standard for live performance microphones. Introduced in 1966, the SM58 remains one of the best selling microphones in the world today.  The '''SM''' stands for Studio Microphone<ref>[http://www.shure.com/Corporate/CompanyOverview/History/index.htm History of Shure Incorporated]</ref>.
+
+The SM58 has a mid-bass frequency boost common to all cardioid microphone designs when used close to the source. The cardioid response reduces pickup from the side and rear, helping to avoid feedback onstage. It uses the balanced XLR 3-pin connection. There are wired (with and without on/off switch) and [[wireless microphone|wireless]] versions.  The microphone has a frequency response from 50 Hz to 15 kHz. The SM58 uses an internal shock mount to reduce handling noise.
+
+While the look and intended applications are similar, the [[Shure Beta 58|Beta 58]] and [[Shure Beta 58A|Beta 58A]] have little in common with the SM58. The Beta series uses a different capsule and transformer from the SM series. The Beta 58A has an extended frequency response and it is also super cardioid instead of cardioid giving improved side rejection.
+
+==References==
+<references/>
+
+==See also==
+*[[Shure SM57]]
+
+==External links==
+*[http://www.shure.com/ProAudio/Products/WiredMicrophones/us_pro_SM58-CN_content SM58 official page]
+
+[[Category:Microphones|SM58]]
+[[category:Shure|SM58]]
