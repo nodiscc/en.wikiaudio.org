@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Condenser
+*Operating principle	Pressure gradient
+*Frequency response	30 - 20,000 Hz
+*Polar pattern	switchable: omnidirectional, wide cardioid, cardioid, hypercardioid, figure eight
+*Open circuit voltage at 1 kHz (0 dB = 1 V/Pa)	18 mV/Pa
+*Nominal impedance	180 Ω
+*Load impedance	1000 Ω
+*Max. SPL at 1 kHz	127 dB (without pre-attenuation)
+**137 dB with -10 dB pre-attenuation
+**147 dB with -20 dB pre-attenuation
+**Signal-to-noise ratio rel. to 1 Pa	approx. 70 dB
+*A-weighted equivalent SPL	approx. 17 dB
+*Power supply	11 - 52 V phantom power
+*Current consumption	4.6 mA
+*Low frequency roll-off	switchable, 6 dB/octave at 80 Hz and 160 Hz
+*Connector	3-pin XLR male
+**Pin 1 = ground
+**Pin 2 = +
+**Pin 3 = -
+'''Dimensions 	'''
+*Length	165 mm
+*Shaft diameter	37 mm
+*Head diameter (L x W x H)	70 x 52 x 33 mm
+*Weight	286 g
+
+|}
+
+
+The '''Beyerdynamic MC 840''' is a condenser microphone with multiple polar patterns
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|MC 840]]
