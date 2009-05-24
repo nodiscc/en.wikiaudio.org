@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Condenser (back electret)
+*Operating principle	Pressure
+*Polar pattern	Half-spherical (boundary microphone)
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	7 mV/Pa
+*Nominal impedance	250 Ω
+*Load impedance	≥ 1 kΩ
+*Connector	4-pin LEMO-plug
+*Weight without cable	85 g
+*Frequency response	30 - 20,000 Hz
+*Max. SPL at 1 kHz	approx. 131 dB
+*S/N ratio rel. to 1 Pa	approx. 60 dB
+*A-weighted equivalent SPL	approx. 26 dB
+*Power supply	11 - 52 V phantom power
+*Current consumption	3.5 mA
+*Diameter	70 mm
+*Height	10.5 mm
+
+
+|}
+
+The '''Beyerdynamic Opus 51''' is a boundary microphone intended for Kick Drum and piano applications.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|Opus 51]]
