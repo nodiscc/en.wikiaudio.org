@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices (4 FM-operators per voice)
+*Oscillators - 2 oscillators
+*LFO - 1 LFO: saw / triangle / square / sample & hold
+*Filter - None
+*VCA - 4 DCA (1 per operator)
+*Keyboard - 61 keys w/ velocity & aftertouch
+*Memory - 100 user, 10 multi patches, external card slot
+*Effects - 1 unit effect (delay, chorus, flanger, double)
+*Arpeg/Seq - None
+*Control - MIDI (8-parts)
+*Date Produced - 1987
+
+|}
+
+The '''DS-8''' is an 8 voice digital FM synthesizer produced in 1987
+
+{{stub}}
+
+[[category:synths]]
+[[category:Korg|DS-8]]
