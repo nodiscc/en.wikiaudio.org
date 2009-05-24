@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Operating Principle:  	Externally-biased condenser
+*Polar Pattern: 	Cardioid
+*Frequency Response: 	30Hz to 20KHz
+*Sensitivity: 	-41dBV (8.9mV) @ 1 Pa
+*Impedance: 	300 ohms
+*Max SPL: 	140dB, 1% THD, attenuator engaged
+*Self Noise: 	22dBA
+*Hi-pass Filter: 	40Hz, 85Hz and 122Hz, 6dB/oct
+*Attenuator: 	10dB
+*Power Requirements: 	P24, P48, 2mA
+
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	Black
+*Weight 	270g (9.50oz)
+*Length 	115mm (4.52")
+*Min Diameter/Width 	40mm (1.57")
+*Max Diameter/Width 	48mm (1.88")
+*Depth 	90mm (3.54"
+
+|}
+
+The '''e60''' is a cardioid condenser microphone 
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:‎CAD Professional Microphones|e60]]
