@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 1 - Monophonic
+*Oscillators - VCO-1: Scale (64', 32', 16', 8', 4', 2'), Waveform (triangle, square, sawtooth, pulse, PWM, External Signal). VCO-2: Coarse Tuning (16'-1'), Fine Tuning, Mode Selector (sawtooth, Ring 1, 2, Scale Noise, Pink Noise, White Noise).
+*LFO - 2 (LFO2 is called VCO Vibrato)
+*Filter - (2) VCF's: High Pass and Low Pass (Traveler).
+*VCA - VCA + ENVELOPE GENERATOR: Attack Time, Singing Level, Range Selector, Sustain Selector, Envelope Mode Selector, Trigger Mode Selector
+*Keyboard - 32 Keys
+*Memory - None
+*Control - VCF foot pedal; CV/Gate mods can be added; Mouth/Breath Controller
+*Date Produced - 1976
+
+|}
+The '''Korg 770''' is a monophonic synthesizer released in 1976
+
+{{stub}}
+
+[[category:synths]]
+[[category:korg|770]]
