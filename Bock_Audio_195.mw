@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Condenser 
+*Patterns: Cardioid
+*Frequency Range: 20Hz to 16kHz, +/-2dB
+*Sensitivity: 8mv/Pa (-42dBm=94dB SPL)
+*Equivalent Noise: 13dB (“A” weighted) 22dB (unweighted)
+*Distortion vs.SPL @1kHz:
+**126dB = 0.5% THD
+**127dB = 1% THD
+**129dB = 2% THD
+**(increasing distortion is exponential, complex 3rd harmonic)
+*Impedance: 200 Ohms true transformer balanced
+*Recommended load: 1.2k Ohms
+*Dynamic range (maxSPL-"A"noise): 111dB
+*S/N (94dB-noise): 81dB “A”, 72dB unweighted
+*Capsule size: 1” diameter, dual symmetrical backplate k67 type
+*Amplifier type: Minimalist Class A fet/transformer, no switching supplies or oscilators
+*Amplifier Controls:
+**"fat/norm" bass contour switch
+**"locut" rumble filter switch
+**"pad" -10dB sensitivity switch
+*Dimensions: 2.04” dia x 7.7” oal (51x195mm)
+*Weight: 1lb 9.6oz (1.6lbs) =725g
+*Shipping weight: 6 lbs
+*Power Supply: P48 phantom powered, user provided. Minimum 45v for proper operation
+
+
+|}
+
+The '''Bock Audio 195''' is a large diaphragm cardioid FET microphone.
+
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:Bock Audio|195]]
