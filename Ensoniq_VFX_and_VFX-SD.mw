@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 21 voices
+*Oscillators - 1 to 6 per voice. Wavetable has 109 waveforms (multi-sampled acoustic instruments, sustained waveforms, harmonic and inharmonic structures)
+*LFO - 1 LFO
+*Filter - Dual multi-mode digital filters; High- and Low-Pass with 12 or 24 dB/Oct. Band-pass filter with 12 dB/Oct.
+*Envelopes - 3 11-stage envelopes
+*Sequencer - (VFX-SD only) 24-track, 25,000 note capacity (expandable to 75,000), 60 songs and sequences, 96 PPQN quantization resolution
+*Effects - 24-bit Dual VLSI Multi-Effects: reverb, chorus, flanging, and delay
+*Keyboard - 61 keys (velocity and polyphonic aftertouch)
+*Memory - VFX: 120 patches, 12 performances
+VFX-SD: Over 200 patches, 3.5" disk drive for external loading and storage of sounds, sequences, songs, MIDI SysEx and VFX-SD sequencer Operating System.
+*Control - MIDI IN/OUT/THRU (12-channel multitimbral)
+*Date Produced - 1989
+|}
+
+The '''VFX''' is a 21 voice synthesizer manufactured by Ensoniq. The '''VFX-SD''' includes a 24 track sequencer.
+
+{{stub}}
+
+
+
+[[category:Ensoniq|VFX / VFX-SD]]
+[[category:synths]]
