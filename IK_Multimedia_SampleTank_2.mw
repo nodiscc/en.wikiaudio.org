@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 1 to 256 voices. Up to 16-parts multitimbral.
+*Sounds - Up to 96kHz operation. 4.5 GB sample ROM library. Ships with 1500 preset patches.
+*LFO - 2 LFO's with Triangle, Sawtooth, Square, Sine and Random waveforms. Speed, Depth, Delay, Pitch, Level, Pan, Filter and Free Run controls.
+*Filter - Hi-pass, Low-pass, Band pass. 6, 12 or 24 dB/oct slopes. Frequency Cutoff and Resonance controls.
+*Envelopes - 2 envelopes with AHDSR controls for amp, filter and pitch.
+*Effects - Up to 5 effects per part. 32 effects types including: Reverb, ambience, spring reverb, delay, filter, envelope filter, multi-filter, wah-wah, chorus, multi-chorus, phaser, AM modulation, FM modulation, flanger, envelope flanger, auto-pan, tremolo, rotary speaker, lo-fi, distortion, phonograph, crusher, overdrive, pre-amp, tone control, speaker cabinet, parametric EQ, channel strip, compressor, limiter, and slicer (bpm-sync-able gate). Also on-board: Portamento (mono, legato & poly modes) and Chord Memory for it's built-in 8-octave keyboard.
+*Memory - Unlimited. Import WAV, AIFF, SDII, AKAI, SampleCell plus native sounds.
+*Windows/PC - VST, RTAS, DXi. Minimum: 733Mhz Pentium III/Athlon with 512MB of RAM, Windows 2000/XP, 1024x768 screen thousands of color.
+*Macintosh - VST, RTAS, MAS, Audio Units. Minimum: 667MHz Power Macintosh G4, with 512MB of RAM, Mac OS X 10.2.8 or later, 1024x768 screen thousands of colors.
+*Date Produced - 2005
+
+|}
+
+
+'''SampleTank 2''' is a software based sample player
+
+{{stub}}
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:IK Multimedia|SampleTank 2]]
