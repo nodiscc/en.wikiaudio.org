@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 16 voices
+*Oscillators - 256 PCM waveforms (4 per sound)
+*LFO - Standard LFO
+*Filter - No filter
+*VCA - Standard ADSR
+*Keyboard - 61 keys (velocity & aftertouch)
+*Memory - 64 single-patches or 32 combo-patches
+*Control - MIDI
+*Date Produced - 1989
+
+|}
+
+The '''K1ii''' is a 16 voice polyphonic 61 note keyboard. The K1ii also comes in a rack mount version.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Kawai|K1ii]]
