@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 5 voices
+*Oscillators - 3 VCO's
+*LFO - One with sine wave modulation; routes to VCO, VCF or VCA
+*Filter - 4 dB/oct with cutoff freq, resonance and EG amount. Has dedicated ADSR EG to filter.
+*VCA - ADSR envelope
+*Keyboard - 37 keys (3-octaves)
+*Sequencer - 300-note realtime "sketch-pad" sequencer
+*Control - None
+*Date Produced - 1982
+
+|}
+
+The '''Pentaphonic''' is a five-voice polyphonic analog synthesizer produced by Gleeman in 1982
+
+{{stub}}
+
+[[category:synths]]
+[[category:Gleeman|Pentaphonic]]
