@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer Type:  	Condenser, Pressure Gradient
+*Polar Pattern: 	Cardioid
+*Frequency Response: 	20Hz - 20KHz
+*Sensitivity: 	33.5 mV/Pa at 1kHz (1 Pa = 94dB SPL)
+*Output Impedance: 	50Ω
+*Rated load Impedance: 	Not less than 1kΩ
+*Maximum SPL: 	133 dB (2.5kΩ, 0.5% THD)
+*S/N Ratio: 	87 dB-A (IEC 651)
+*Noise Level: 	5.5 dB-A (IEC 651)
+*Dynamic Range: 	127.5 dB (@ 2.5kΩ)
+*Power Requirement: 	(IEC 268-15): +48V Phantom (IEC 268-15))
+*Weight: 	350g
+*Dimensions: 	222x45
+
+
+|}
+
+
+The '''Blue Baby Bottle''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:‎Blue Microphones|Baby Bottle]]
