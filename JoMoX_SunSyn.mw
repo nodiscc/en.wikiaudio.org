@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 8 voices (4- and 6- voice models available too)
+*Oscillators - 2 VCOs per voice; waveforms: saw, square, pulsewidth. 2 RCOs per voice (digital waveforms that follow the analog oscillators)
+*LFO - 2 per voice; triangle, sawtooth up/down, rectangle and random waveforms
+*Filter - 4-pole with HP/LP switching for each pole; analog morphing between two filter setups.
+*Effects - None
+*Keyboard - None
+*Memory - 350 Single / 150 Multi / 4 wavesets; 1 PCMCIA card slot for waves and sounds
+*Control - MIDI
+*Date Produced - 2000
+
+|}
+
+The '''SunSyn''' is an 8 voice analog desktop synth module.
+
+{{stub}}
+
+[[category:synths]]
+[[category:JoMoX|SunSyn]]
