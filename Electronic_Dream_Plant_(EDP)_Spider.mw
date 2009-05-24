@@ -1,0 +1,25 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - n/a
+*Oscillators - n/a
+*LFO - n/a
+*Filter - n/a
+*Arpeg/Seq - Spider: 256 note sequencer
+*Memory - None
+*Control - EDP proprietary digital sockets. Spider adds CV/Gate outputs.
+*Date Produced - Spider: 1978
+|}
+
+The '''Spider''' is a digital sequencer used to control the EDP Wasp or Gnat modules.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Electronic Dream Plant (EDP)|Spider]]
