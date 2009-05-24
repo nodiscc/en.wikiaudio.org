@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1: saw, sqr, tri, sine, random; Octave, Velocity; ADSR
+*LFO - None
+*Filter - Low-Pass, Band-Pass, Hi-Pass; cutoff, res, velocity; ADSR
+*Memory - Unlimited
+*Keyboard - None
+*Arpeg/Seq - Arpeggiator (Tempo, Pattern1, Pattern2, Rhythm, Range, Slide
+*Control - MIDI
+*Date Produced - 1998
+|}
+
+The '''Koblo Vibra6000''' is a monophonic virtual synthesizer for the Macintosh
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Koblo|Vibra6000]]
