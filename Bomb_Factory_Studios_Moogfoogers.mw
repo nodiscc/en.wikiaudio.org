@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono input/output
+*Oscillators - RingMod: Carrier osc: 2Hz - 4kHz
+*LFO - RingMod: 0.1 Hz to 25 Hz, sine and square waveforms
+*Filter - LowPass: 24dB/Oct; 2-pole and 4-pole; Cutoff, resonance
+*VCA - LowPass: Envelope follower; Fast, Smooth; Env Amount, Dry/Wet Mix
+*Keyboard - None
+*Memory - Limitless, save to disk
+*Controls - LowPass: Filter cutoff, resonance; envelope amount, mix; plus up to 4 expression pedal inputs and external CV
+*RingMod: LFO Rate, Amount; Modulator frequency, mix; plus up to 4 expression pedal inputs and external CV
+*Date Produced - 1999
+
+|}
+
+The '''Bomb Factory Studios Moogfoogers''' are software instruments that replicate the sound of the hardware moodfooger effects modules created by Moog.
+
+{{stub}}
+
+[[category:Bomb Factory Studios]]
+[[category:software instruments]] 
+[[category:synths]]
