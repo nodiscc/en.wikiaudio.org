@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 3 voices
+*Sounds - Kick, Snare, Clap, Open Hat, Closed Hat, Ride, Cymbal, RimShot
+*LFO - 2 LFOs: Sawtooth Up, Sawtooth Down, Triangle or Rectangle waveforms; Intensity, Speed, Midi Sync
+*Analog Section - 
+**KICK: Tune, Pitch, Decay, Harmonics, Pulse, Noise, attack, EQ.
+**SNARE: Tune, Snap, Decay, De-tune, Noise Tune.
+*Sample Section - CLAPS, RIMSHOT, HIHATS, RIDE, SYMBAL, NOISE: Tune, Reverse, HiHat Balance and HiHat Decay
+*Keyboard - 5 buttons
+*Memory - 100 DrumKit memories
+*Control - MIDI, DIN-Sync Out
+*Date Produced - 1997
+
+|}
+
+The '''XBase 09''' is an analog drum machine with a sequencer and TR-909 style sounds.
+
+{{stub}}
+
+[[category:synths]]
+[[category:JoMoX|XBase-09]]
