@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Condenser
+*Pattern: Cardioid
+*Tube type: New Old Stock GE5670 triode
+*Frequency Range: 30Hz to 18kHz, +/-2dB
+*Sensitivity: 19mv/Pa (-34dBm=94dB SPL)
+*Equivalent Noise: 18dB (“A” weighted) 32dB (unweighted)
+*Distortion vs.SPL @1kHz:
+**112dB = 0.5% THD
+**118dB = 1% THD
+**129dB = 2% THD
+**(increasing distortion is non-exponential, nearly linear, and primarily 2nd harmonic)
+*Impedance: 200 Ohms true transformer balanced
+*Recommended load: 1.2k Ohms
+*Dynamic range (maxSPL-"A"noise): 94dB
+*S/N (94dB-noise): 76dB “A”, 62dB unweighted
+*Capsule size: 1” diameter, dual asymmetrical backplate CK12 type
+*Dimensions: 2.04” dia x 8” oal (52x216mm)
+*Weight: 1lb 9.6oz (1.58lbs) =694g
+*Shipping weight: 12 lbs
+*Power Supply: P251 true linear, factory wired 115v or 230v operation
+
+|}
+
+The '''Bock Audio Bock 151''' is a tube condenser microphone intended for vocal and instrument applications.
+
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:Bock Audio|151]]
