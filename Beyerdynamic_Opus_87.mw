@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Condenser (back electret)
+*Operating principle	Pressure gradient
+*Polar pattern	Cardioid
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	5 mV/Pa = -46 dBV
+*Nominal impedance	200 Ω
+*Load impedance	> 1 kΩ
+*Frequency response	30 - 20,000 Hz
+*Max. SPL at 1 kHz	136 dB (at 48 V phantom power), 126 dB (at 12 V phantom power)
+*S/N ratio rel. to 1 Pa	64 dB
+*A-weighted equivalent SPL	22 dB
+*Power supply	12 - 48 V phantom (recommended phantom power: 48 V)
+*Current consumption	< 6 mA
+*Connection	3-pin XLR, male
+*Weight	approx. 145 g
+
+|}
+
+The '''Beyerdynamic Opus 87''' is a cardioid condenser microphone. 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|Opus 87]]
