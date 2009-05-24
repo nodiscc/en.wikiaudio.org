@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - n/a - 16-band vocoder. 1/4 inch input for Speech and Excitation sound sources.
+*Oscillators - White noise generator and pulse oscillator (0-1 khz). Both may be gated by the voiced/unvoiced detector. Oscillator frequency fixed or amplitude modulated.
+*Filter - FILTERBANK: 16 Filters - 14 x 6th order active bandpass. 1 X lowpass, 1 x highpass. 16 Envelope followers and modulators.
+*Keyboard - None
+*Memory - None
+*Control - Slew / Freeze
+*Date Produced - 1975 - 1979
+|}
+
+The''' Vocoder 2000 / 3000''' are outboard vocoder synths created by EMS.
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:outboard processors]]
+[[category:Electronic Music Studios|Vocoder 2000 / 3000]]
