@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:  	Condensor (Back Electret)
+*Polar Pattern: 	Cardioid
+*Frequency Response: 	50 Hz - 18 KHz
+*Sensitivity: 	-47dB +/- 3dB @ 1 KHz (0dB = 1 V/Pa)
+*Impedance: 	200Ohms
+*S/N Radio: 	64dB(A)
+*Maximum SPL: 	125dB 1% THD
+*Power Requirements: 	9 - 48 Volts Phantom Power
+*Switch: (D500S) 	Silent Magnetic Reed On - Off switch
+*Switchable Bass Filter: 	4dB per octave at 400 Hz to - 6dB per octave at 100 Hz
+*Switchable Pad: 	-10dB
+*Termination: 	Male 3 Pin XLR
+*Dimensions: 	Overall Length - length 6.6" (165mm)
+*Head Diameter - 0.8" (20mm)
+*Finish: 	Satin Black
+*Accessories: 	Presentation case and swivel stand adaptor included
+
+|}
+
+
+The '''Clockaudio C600''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Clockaudio|C600]]
