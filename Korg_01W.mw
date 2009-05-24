@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 32 voices (16-part multitimbral)
+*Oscillators - 48 MB ROM using AI2 synthesis system (digital). 32 sounds, 32 oscillators (single mode); 16 sounds, 32 oscillators (double mode).
+*Sampler - None.
+*Effects - 2 Multi FX processors with 47 Digital multi-effects: reverb, delay, overdrive, EQ, chorus, rotary speaker, and more.
+*LFO - 2 LFOs
+*Filter - VDF: Digital Lowpass Filter, velocity sensitive (non-resonant)
+*VCA - VDA: Digital Amplifier with 4-stage ADSR envelope generators
+*Keyboard -
+**01/W, 01/WFD: 61 keys.
+**01/WPro: 76 Keys.
+**01/WProX: 88 weighted keys.
+*All keyboards feature Velocity, Aftertouch, Multi, Layer, Split modes.
+*Sequencer - 16 tracks, 16 instruments, 48,000 notes (FD & Pro version) or 7,000 notes (01/W), 100 patterns, 10 songs. Realtime and Step-editor.
+*Arpeggiator - None.
+*Memory - 200 user programs, 200 user combis; Floppy: 3.5" 720 2DD (programs, combis, drum-kit, global, sequencer and midi data).
+*Control - MIDI In / Out / Through (16-parts)
+*Date Produced - 1991-1995
+|}
+
+The '''Korg 01/W''' is a 32 voice synthesizer produced by Korg between 1991-1995
+
+{{stub}}
+
+[[category:synths]]
+[[category:korg|Korg 01/W]]
