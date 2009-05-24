@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Condenser (back electret)
+*Operating principle	Pressure gradient
+*Polar pattern	Cardioid
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	6 mV/Pa
+*Nominal impedance	approx. 800 Ω
+*Load impedance	≥ 4.7 kΩ
+*Connector	4-pin LEMO-plug or stereo mini jack (3.5 mm) or 4-pin Mini-XLR or bare-ended cable
+*Weight without cable	39 g
+*Frequency response	40 - 17,000 Hz (close miking)
+*Max. SPL at 1 kHz	132 dB
+*S/N ratio rel. to 1 Pa	60 dB
+*A-weighted equivalent SPL	26 dB
+
+
+
+|}
+
+
+
+The '''Beyerdynamic Opus 54''' is a headset microphone intended for vocal applications 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|Opus 54]]
