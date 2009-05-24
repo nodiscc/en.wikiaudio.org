@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 2 voices (synth), 8 voices (drums)
+*Waveforms - 50 synthesizer waveforms, 144 drum waveforms
+*Memory - 256 patterns, 16 songs
+*Filter - 1 VCF resonant low pass with external inputs
+*Effects - Master Effect: Tempo Delay; Insert Effects: 11 Types (Reverb, Flanger/Chorus, Phaser, Ring modulator, Pitch shifter, Compressor, Distortion, Decimator, Resonator, Modulation delay)
+*Keyboard - None (16 touch pads)
+*Arpeg/Seq - Pattern: 64 steps, motion sequence (drum parts = 2 systems, synthesizer parts = 3 systems); Song: 256 patterns per song, 35,700 events; Motion Sequences: 2 per drum part, 3 per synth part, 1 per Insert effect and 1 per Master Delay.
+*Control - MIDI IN/OUT/THRU (2 synth parts, 8 drum parts)
+*Date Produced - 2001
+|}
+
+The Korg ElecTribe/M EM-1 is a desktop synthesizer & drum machine module.
+
+{{stub}}
+
+[[category:synths]]
+[[category:drum machines]]
+[[category:korg|Korg ElecTribe/M EM-1]]
