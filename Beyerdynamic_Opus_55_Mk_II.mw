@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Condenser (back electret)
+*Operating principle	Pressure gradient
+*Polar pattern	Omnidirectional
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	4.5 mV/Pa
+*Nominal impedance	1 kΩ
+*Length	13.0 mm
+*Shaft diameter	5.2 mm
+*Weight without cable	16 g
+*Frequency response	20 - 20,000 Hz
+*Max. SPL at 1 kHz	130 dB (f=1 kHz, k>= 1%, R=1 kΩ)
+*S/N ratio rel. to 1 Pa	56 dB
+*Cable length	1.2 m
+*Supply voltage	1.5 - 9 V 
+
+
+|}
+
+The '''Beyerdynamic Opus 55 Mk II''' is an omnidirectional headset condenser microphone intended for vocal applications 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|Opus 55 Mk II]]
