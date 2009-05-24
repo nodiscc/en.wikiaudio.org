@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 3 VCO's - Subtractive / FM analog synthesis
+*Filter - Low Pass VCF
+*VCA - Trapezoid waveshape Envelope generator
+*LFO - Yes
+*Keyboard - No keyboard, needs an external CV/gate keyboard controller such as the EMS DK2.
+*Memory - None
+*Control - CV/GATE
+*Date Produced - 1969 - 94
+
+|}
+
+The '''VCS3''' was an analog synth manufactured by Electronic Music Studios. 
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Electronic Music Studios|VCS3]]
