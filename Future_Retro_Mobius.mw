@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - n/a
+*Oscillators - n/a
+*Filter - n/a
+*Patterns - 256
+*Songs - 16
+*Keyboard - None
+*Memory - 256 patterns, 16 songs; offline storage via MIDI System Exclusive dumps
+*Control - MIDI IN/OUT/THRU, DIN Sync Out, CV, Gate, Trigger, Analog Clock
+*Date Produced - 2001
+
+|}
+
+The '''Mobius''' is a hardware sequencer produced by Future Retro.
+
+{{stub}}
+
+[[category:synths]]
+[[category:future Retro|Mobius]]
