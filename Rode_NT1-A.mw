@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Power  	P48 (48V), P24 (24V) phantom supply
+*Acoustic Principle 	Pressure gradient
+*Directional Pattern 	Cardioid
+*Frequency range 	20 Hz - 20 kHz
+*Output impedance 	100Ω
+*Signal noise ratio 	>88 dB SPL (A - weighted per IEC651)
+*Equivalent noise 	5 dB SPL (A - weighted per IEC651)
+*Maximum SPL 	137dB SPL (@ 1kHz, 1% THD into 1KΩ load)
+*Maximum output voltage 	+13.7dBu (@ 1kHz, 1% THD into 1KΩ load)
+*Sensitivity 	-32 dB re 1 Volt/Pascal (25 mV @ 94 dB SPL) +/- 2 dB @ 1kHz
+*Weight 	326gm
+*Dimensions 	190mmH x 50mmW x 50mmD
+
+|}
+
+The '''Rode NT1-A''' is a condenser microphone with a cardioid polar pattern.
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:Rode|N]]
