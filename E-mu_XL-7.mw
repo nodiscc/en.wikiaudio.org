@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 128 voices
+*Oscillators - 32 MB "Pure Phatt" Hop soundset (expandable to 128 MB via 3 additional ROM expansion slots), Sample-Playback with Z-Plane filters
+*Effects - 24-bit dual stereo-effects processor with 29 reverbs types, 15 delay types, 8 chorus types, 7 flange types, 5 distortion types
+*Filter - 50 types of 6th- and 12th-order Z-plane filters
+*Arpeg/Seq - Sequencer: 16 tracks, 1024 patterns (up to 32 bars each); 512 songs; 300,000 note capacity; 384 ppqn resolution
+*Arpeggiator: 32 Simultaneously available arpeggiators with up, down, up/down, forward assignable, backward assignable, forward/backward, random, 200 preset patterns, 100 user patterns
+*Keyboard - 13 velocity and aftertouch sensitive pads
+*Memory - 512 ROM, 512 user
+*Control - MIDI IN/OUT/THRU (32 channels); Import/Export Standard MIDI File Type 0 and Type 1; USB port
+*Date Produced - 2001
+|}
+
+The '''XL-7''' is a desktop sequencer version of E-mu's Xtreme Lead-1 sound module.
+
+{{stub}}
+
+
+
+
+[[category:synths]]
+[[category:E-mu Systems|XL-7]]
