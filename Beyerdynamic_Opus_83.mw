@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	Condenser (back electret)
+*Operating principle	Pressure gradient
+*Polar pattern	Cardioid
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	3.2 mV/Pa = -50 dBV
+*Nominal impedance	190 Ω
+*Load impedance	≥ 1000 Ω
+*Connector	3-pin XLR male
+*Length	146 mm
+*Shaft diameter	25 mm
+*Head diameter	25 mm
+*Weight without cable	165 g
+*Frequency response	40 - 20,000 Hz
+*Max. SPL at 1 kHz	138 dB
+*S/N ratio rel. to 1 Pa	60 dB
+*A-weighted equivalent SPL	26 dB
+*Power supply	12 - 48 V phantom power
+*Current consumption	approx. 3 mA
+
+
+|}
+
+
+The '''Beyerdynamic Opus 83''' is a cardioid condenser microphone.
+
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|Opus 83]]
