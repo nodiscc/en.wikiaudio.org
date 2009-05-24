@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Cartridge Type:Externally Biased Condenser
+*Frequency Response 20 to 20,000 Hz
+*Directional Polar Pattern Cardioid
+*Output Impedance EIA Rated at 150 ohms (140 ohms actual)
+*Attenuation Switch 0 or 15 dB attenuation
+*Low Frequency response switch flat; -6 db/octave below 115 Hz; -18 dB/octave below 80 Hz
+*Phantom Power 48 Vdc +/- 4 Vdc (IEC­268­15/DIN 45 596), positive pins 2 and 3
+*Current Drain 5.4 mA typical at 48 Vdc
+*Common Mode Rejection >50 dB, 20 Hz to 20 kHz
+*Polarity Positive pressure on diaphragm produces positive voltage on output pin 2 relative to pin 3
+*Dimensions and Weight 53.0 mm (2.08 in.) maximum body diameter, 156.2 mm (6.15 in.) long; 642 grams (22.6 oz.)
+*Sensitivity (typical, at 1000 Hz; 1Pa = 94 dB SPL) -37 dBV/Pa
+*Self­noise (typical, equivalent SPL;
+*A­weighted, IEC 651) 14 dB
+*Maximum SPL at 1000 Hz 2500 ohm load (Attenuator on): 137 (152) dB 1000 ohm load (Attenuator on): 132 (147) dB
+*Output Clipping Level*
+**2500 ohm load: 7 dBV
+**1000 ohm load: 1 dBV
+     
+*Dynamic Range
+**2500 ohm load: 123 dB
+**1000 ohm load: 118 dB
+     
+*Signal to Noise ratio**
+**80 dB
+
+|}
+
+
+
+The '''Shure KSM27''' is a studio condenser microphone that uses a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:shure|KSM27]]
