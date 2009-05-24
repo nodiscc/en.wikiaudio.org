@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 2 voices
+*Waveforms - Sawtooth, square, tri, external audio-in
+*Memory - 256 patterns, 16 songs
+*Filter - 1 VCF resonant low pass with external inputs
+*Effects - Distortion, Tempo delay, chorus/flanger
+*Keyboard - None (16 touch pads)
+*Arpeg/Seq - Pattern: 64 steps, motion sequence, 1 parameter per part, 64 events; Song: 256 patterns per song, 65,500 events
+*Control - MIDI (2 parts)
+*Date Produced - 1999
+
+|}
+
+The '''Korg ElecTribe/A EA-1''' is an analog modeling desktop synth box.
+
+{{stub}}
+
+[[category:synths]]
+[[category:korg|ElecTribe/A EA-1]]
