@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Tube condenser
+*Polar pattern cardioid
+*Frequency Response	10Hz - 20kHz
+*Output Sensitivity 	22.4mV/Pa
+*Max SPL  	133dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	
+*Powering 	Proprietary unit
+	
+'''Switchable Options'''
+*Pad 	8dB, 16dB
+*Filter/EQ 	80Hz -3dB
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Length 	174mm (6.85")
+*Min Diameter/Width 	58mm (2.28")
+*Max Diameter/Width 	73mm (2.87")
+ 	
+
+'''Accessories'''
+*Included 	Shockmount, power supply, road case
+
+
+
+|}
+
+The '''VSM''' is a cardioid condenser microphone
+
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:CAD Professional Microphones|VSM]]
