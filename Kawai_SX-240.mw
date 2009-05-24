@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 2 DCOs with sawtooth and variable pulse waveforms and 1 sub-oscillator
+*LFO - 3 waveforms, speed, delay and depth. Can modulate the DCOs, VCA, or VCF
+*Filter - Lowpass with resonance, cutoff, envelope amount and dedicated ADSR envelope generator
+*VCA - ADSR
+*Keyboard - 61 keys
+*Memory - 48 internal patches
+*Control - MIDI
+*Date Produced - 1984
+
+|}
+
+The '''Kawai SX-240''' is an 8 voice 61 note analog keyboard synthesizer
+
+{{stub}}
+
+[[category:synths]]
+[[category:Kawai|SX-240]]
