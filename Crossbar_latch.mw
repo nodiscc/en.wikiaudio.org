@@ -1,0 +1,12 @@
+The '''cross-bar latch''' is a technology invented by Hewlett-Packard in October of 2001, that potentially could replace transistors in some applications. Transistors are essential components of logic gates and memory cells in digital electronic systems. The historical trend for computer systems to become smaller and more powerful over the years is mostly due to techniques for producing ever smaller transistors. The memristor devices that make up a cross bar latch potentially can be made far smaller than any transistor.
+
+The crossbar was introduced by Hewlett-Packard scientists in the Journal of Applied Physics, and allows much the same functionality of transistors, except on a molecular scale. It has been seen by many as an advancement as far above the transistor as the latter was to the vacuum tube. The crossbar latch consists of a signal line crossed by two control lines. Depending on the voltages sent down the various lines, it can simulate the action of the three major logic gates: AND, OR and NOT.
+
+The abstract of the patent is as follows:
+
+<span style="font-size: small;">“A molecular crossbar latch is provided, comprising two control wires and a signal wire that crosses the two control wires at a non-zero angle to thereby form a junction with each control wire. Each junction forms a switch and the junction has a functional dimension in nanometers. The signal wire selectively has at least two different voltage states, ranging from a 0 state to a 1 state, wherein there is an asymmetry with respect to the direction of current flow from the signal wire through one junction compared to another junction such that current flowing through one junction into (out of) the signal wire can open (close) while current flowing through the other junction out of (into) the signal wire can close (open) the switch, and wherein there is a voltage threshold for switching between an open switch and a closed switch. Further, methods are provided for latching logic values onto nanowires in a logic array, for inverting a logic value, and for restoring a voltage value of a signal in a nano-scale wire. Invented by Phillip J Kuekes.”</span>
+
+
+{{stub}}
+
+[[category:electronic components]]
