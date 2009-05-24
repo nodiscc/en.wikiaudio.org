@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices (4 voice models rare)
+*Sampler - 27 KHz, 8-Bit
+*LFO - Vibrato
+*Filter - simple VCF filter via JL Cooper retrofit kit
+*Sequencer - Real-time digital sequencer added to later models from 1982 on.
+*Keyboard - 49 Keys
+*Memory - 128 Kbyte (about 2 seconds)
+*Control - MIDI (on some models via retrofits)
+*Date Produced - 1981-83
+
+|}
+
+The '''Emulator''' is an 8 voice polyphonic 49 key sampling keyboard.
+
+{{stub}}
+
+[[category:E-mu Systems|Emulator]]
+[[category:synths]]
+[[category:samplers]]
