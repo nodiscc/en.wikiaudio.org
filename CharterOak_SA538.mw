@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Acoustical Operating Principle  	Pressure Gradient
+*Diaphragm 	Dual 1.07" 6 micron thick gold sputtered Mylar
+*Frequency Response 	30Hz-20kHz
+*Sensitivity 	12mV/Pa 0dB=1V/Pa@1kHz
+*Polar Pattern 	Cardioid, Omni, Figure-8, and intermediate stages selectable from power supply
+*Impedance 	< 200 Ohms
+*Recommended Load 	> 200 Ohms
+*Equivalent Input Noise 	22dB A weighted IEC651
+*Maximum Sound Pressure Level 	128dB for 0.5% total harmonic distortion @ 1kHz
+*Power Requirements 	Custom supply 115V or 230V operation with IEC type 2 AC Cable
+*Connection between
+*Mic & Power Supply 	7 pin XLR
+
+
+|}
+
+The '''SA538''' is a condenser microphone with 9 polar patterns
+
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:CharterOak|SA538]]
