@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Operating Principle:  	Externally-biased condenser
+*Polar Pattern: 	Cardioid, figure-of-eight, omnidirectional
+*Frequency Response: 	35Hz to 20KHz
+*Sensitivity: 	-38dBV (13mV) @ 1 Pa
+*Impedance: 	200 ohms
+*Max SPL: 	135dB, 1% THD, attenuator engaged
+*Self Noise: 	20dBA
+*Hi-pass Filter: 	100Hz, 6dB/oct
+*Attenuator: 	10dB
+*Power Requirements: 	P48, 4mA
+
+
+|}
+
+
+The '''GXL3000''' is a multi-polar pattern condenser microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:CAD Professional Microphones|GXL3000]]
