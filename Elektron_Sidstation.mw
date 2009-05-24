@@ -1,0 +1,25 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Oscillators - 3 osc: triangle, sawtooth, pulse, mixed, noise; PWM
+*LFO - 4 individual routable LFOs
+*Filter - 1 Resonant filter: lowpass, bandpass, highpass or any combination
+*Effects - Portamento
+*Arpeg/Seq - One Arpeggiator for each oscillator
+*Keyboard - Numeric keyboard
+*Control - MIDI In, Out, Through
+*Date Produced - 1999
+
+|}
+
+The '''Sidstation''' is a MIDI-controlled hardware synthesizer module.
+{{stub}}
+
+[[category:synths]]
+[[category:Elektron|Sidstation]]
