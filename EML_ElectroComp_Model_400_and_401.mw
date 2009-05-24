@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs: sawtooth, square and noise
+*LFO - 6 waveform shapes
+*Filter - 12 dB/Oct multimode resonant filter with switchable low-pass, band-pass, hi-pass
+*VCA - 1 A/R envelope generator
+*Keyboard - None
+*Memory - None
+*Arpeg/Seq - 12-tone diatonic
+*Effects - None
+*Control - CV/Gate
+*Date Produced - 1970-1984
+|}
+
+'''EML's 400/401 ElectroComp''' semi-modular analog synthesizer/sequencer.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Electronic Music Labs|ElectroComp Model 400/401]]
