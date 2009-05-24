@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 128 voices
+*Oscillators - 64 MB of ROM samples (Expandable to 128 MB via 2 additional slots for E-mu sound expansion ROM cards)
+*LFO - Yes with excellent MIDI control
+*Filter - 50 types of 6th- and 12th-order Z-plane filters
+*Effects - 24-bit dual stereo-effects processor with 29 reverbs types, 15 delay types, 8 chorus types, 7 flange types, 5 distortion types
+*Keyboard - None
+*Memory - 1,024 Preset ROM, 512 User RAM patches
+*Control - MIDI (32 channels)
+*Date Produced - 2001
+|}
+
+{{stub}}
+
+[[category:synths]]
+[[category:E-mu Systems]]
+
+The '''E-mu Orbit-3''' is a 128 voice rack mount sound module
