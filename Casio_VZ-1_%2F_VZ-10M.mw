@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices
+*Oscillators - IPD tone generator w/ 8 waveforms (DCOs similar to the CZ series)
+*Arpeg/Seq - None
+*LFO - 1 per voice
+*Filter - No Filter
+*VCA - Uses DCAs similar to the CZ series
+*Effects - Delay
+*Keyboard - 61 keys with velocity and aftertouch, 3 wheels
+*Memory - 64 preset, 64 user patches, 64 patch external cartridge
+*Control - MIDI (8-part multitimbral)
+*Date Produced - 1988
+
+|}
+
+The '''VZ-1''' is a 16 voice , 5-octave, velocity & pressure sensitive keyboard.
+The '''VZ-10M''' is a rackmount version of the VZ-1
+
+{{stub}}
+
+
+
+
+[[category:synths]]
+[[category:casio|VZ-1 / VZ-10M]]
