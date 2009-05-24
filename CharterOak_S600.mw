@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type  vacuum tube condenser
+*Acoustical Operating Principle  	Pressure Gradient
+*Diaphragm 	Single 1.00" 6 micron thick gold sputtered Mylar (side terminated)
+*Frequency Response 	20Hz-18kHz
+*Sensitivity 	13mV/Pa 0dB=1V/Pa@1kHz
+*Polar Pattern 	Cardioid
+*Impedance 	< 200 Ohms
+*Recommended Load 	> 200 Ohms
+*Equivalent Input Noise 	22dB A weighted IEC651
+*Maximum Sound Pressure Level 	125dB for 0.5% total harmonic distortion @ 1000Hz
+*Power Requirements 	Custom supply 115V or 230V operation with IEC type 2 AC Cable
+*Connection between
+*Mic & Power Supply 	7 pin XLR
+
+|}
+
+The '''S600''' is a vacuum tube condenser microphone with a cardioid polar pattern
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:CharterOak|S600]]
