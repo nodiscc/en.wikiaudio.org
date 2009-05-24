@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Produced: 	1988 - 1994
+* Type: Synth/ Workstation/ keyboard/
+* Synthesis Type: Digital Sample-based Subtractive
+* Polyphony:
+**Max: 16
+**Typical in use: 16 
+* Multi-timbral (number of parts): 8
+* Oscillators per Voice :
+**Min : 1
+**Max : 2 
+* Controllers : joystick
+* Effects :
+**Number of FX units : 2
+**Number of different effects : 32 
+* Drum Section :
+**Number of Drum Kits : 4
+**Number of Drum sounds : 200 
+* Keyboard :
+**Number of Keys : 61
+**Can send on 1 simultaneous MIDI channels
+**Responds to : velocity, after-touch
+**Sounds can be split by : keyboard 
+* Memory :
+**Patches : 100
+**Performances : 100 
+* Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : 4
+**Number of Audio Ins :
+**Number of MIDI Outs (excluding Thru) : 1
+**Number of MIDI Ins : 1 
+* Upgrade Options : PCM cards and RAM mem cards
+|}
+
+The '''Korg M1''' is a 61 key synthesizer keyboard equipped with an on board sequencer.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Korg|M]]
