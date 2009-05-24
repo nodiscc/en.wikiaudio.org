@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Operating Principle:  	Externally-biased condenser
+*Polar Pattern: 	Cardioid, figure-of-eight, omnidirectional
+*Frequency Response: 	20Hz to 20KHz
+*Sensitivity: 	-38dBV (13mV) @ 1 Pa
+*Impedance: 	220 ohms
+*Max SPL: 	138dB, 1% THD
+*Self Noise: 	20dBA
+*Hi-pass Filter: 	100Hz, 6dB/oct
+*Attenuator: 	10dB
+*Power Requirements: 	P48, 5mA
+
+|}
+
+The '''Trion 6000''' is an externally based condenser microphone with 3 switchable polar patterns
+
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:CAD Professional Microphones|Trion 6000]]
