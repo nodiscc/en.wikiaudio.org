@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	6mV/Pa
+*Max SPL  	136dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	6mA
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	Black/silver
+
+|}
+
+
+The '''Beyerdynamic Opus 82''' is a clip-on goose neck cardioid condenser microphone intended for wind instruments
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|Opus 82]]
