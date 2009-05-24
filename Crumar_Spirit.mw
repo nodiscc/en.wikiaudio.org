@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs (saw, square, and triangle waveforms); 32' to 4' octave range; sync OSC 2 to OSC 1. White or Pink noise gen.
+*LFO - MOD-X: triangle & square waves, random, sample & hold, RED NOISE, and OSC B. Can be routed to OSC A, A&B, Pulse Width of osc A, Filter Upper or Lower. SHAPER-Y: FREE RUN - LFO with wave shaping control from sawtooth to Reverse-sawtooth. RUN - Simple sine wave LFO. KB HOLD & RESET Modes (envelope & filter effects). Shaper Y can be routed to OSC A&B, B, Pulse Width of OSC B, LFO Rate, Lower FIlter.SHAPE X with Y switch - additional modulation of MOD-X with Shaper-Y.
+*Filter - 3 filters, 12/24 db (high pass, band pass, overdrive), cutoff, resonance, kbyd track
+*Effects - Ring Modulator
+*Keyboard - 37 keys
+*Memory - None
+*Control - CV / Gate
+*Date Produced - 1983
+
+|}
+
+The '''Crumar Spirit''' is a 37 key monophonic analog synthesizer.
+
+{{stub}}
+
+
+[[category:crumar]]
+[[category:synths]]
