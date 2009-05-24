@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 voices
+*Oscillators - 32 MB "Composer" Sound Set ROM (expandable to 128 MB), four 24-bit DACs
+*LFO - 2 per voice
+*Filter - 50 types of 6th- and 12th-order Z-plane filters
+*Effects - 24-bit dual stereo-effects processor with 29 reverbs types, 15 delay types, 8 chorus types, 7 flange types, 5 distortion types
+*Keyboard - 61 keys (velocity and aftertouch)
+*Memory - 1152 Presets (640 ROM, 512 RAM)
+*Control - MIDI
+*Date Produced - 2001
+|}
+
+'''PK-6 Proteus Keys''' is a keyboard version of E-mu's Proteus 2000 sound module.
+
+{{stub}}
+
+[[category:synths]]
+[[category:E-mu Systems|PK-6 Proteus Keys]]
