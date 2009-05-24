@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - Monophonic
+*Oscillators - 2 DCOs, switchable between ramp, pulse width (osc 1), square (osc 2), and one white noise generator
+*LFO - 1 LFO with sine, ramp, sawtooth, square waveforms + noise to modulate the VCO or VCF; sample-and-hold
+*Filter - 24dB/oct Hi-pass, low-pass, band-pass, plus dedicated envelope controls switchable between 12 dB/oct lowpass, highpass, and 6 dB/oct bandpass
+*Arpeg/Seq - None
+*Keyboard - 25 capacitive non-moving touch keys (or 37 standard keys on Deluxe model)
+*Memory - None
+*Control - EDP-Link IN/OUT (proprietary digital sockets). MIDI retrofits and some MIDI-CV converters are able to provide control.
+*Date Produced - 1978 - 1981
+|}
+
+[[category:Electronic Dream Plant (EDP)|Wasp]]
+[[category:synths]]
+
+
+
+The '''Wasp''' is a monophonic analog synthesizer produced by EDP between 1978 and 1981
+
+{{stub}}
