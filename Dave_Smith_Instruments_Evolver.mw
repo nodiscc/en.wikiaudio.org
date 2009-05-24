@@ -1,0 +1,72 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Evolver Desktop and Keyboard.jpg|thumb|center]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Synthesis type: 	Subtractive synthesis
+*FM synthesis
+*Karplus-Strong string synthesis
+*Polyphony: 	1 voice, monophonic
+*Timbrality: 	Monotimbral
+*Oscillators: 	4 total - 2 analog (saw, saw-triangle,
+*triangle, and pulse waveforms),
+*2 digital oscillators (95 wavetable waveforms)
+*Filter: 	analog low pass (resonant 4-pole or 2-pole),
+*digital high pass
+*Attenuator: 	3 ADSR envelope generators.
+*LFO: 	4 total - triangle, saw, reverse saw, pulse (square), and random (S&H) waveforms
+*Keyboard: 	37-note
+*Memory: 	512 programs
+*Onboard effects: 	distortion, delay, hack, feedback, grunge
+*Produced: 	Evolver Desktop 2002-present, Evolver Keyboard 2006-present
+*Original price: 	Evolver Desktop - $549
+**Evolver Keyboard - $1,199
+**Poly Evolver (4 note polyphonic version) - $2,399 for keyboard version, $1,349 for rack
+
+|}
+
+
+The '''Evolver''' is an analog-digital hybrid synthesizer designed by Dave Smith and manufactured by Dave Smith Instruments. It was first released as a desktop version in 2002, then later a 37-key keyboard bearing the same synth engine as the Evolver desktop was also released. A polyphonic version of the Evolver, dubbed the Poly Evolver, was released in 2004 as a rackmount version, then a 61-key keyboard version of the Poly Evolver was released in 2005.
+
+
+== Synthesis ==
+The Evolver's sound comes from 4 oscillators, 2 of which are analog and 2 of which are digital. The two analog oscillators provide classic waveforms; saw, triangle, saw-triangle, and pulse (which can be turned into a square wave at a value of 50%). The analog oscillators in the Evolver are very stable and accurate unlike some analog oscillators of the past, but drift (oscillators waver in and out of tune) can be applied. The two digital oscillators feature 95 12-bit wavetable waveforms from the Prophet VS but 16-bit user waveforms can also be loaded on to the internal RAM storage. Oscillators 1 and 3 are hardwired to the left channel, oscillators 2 and 4 are hardwired to the right. The two analog oscillators can be hard synced together, and the two digital oscillators can be ring modulated and frequency modulated to each other independently. Each oscillator can be independently tuned over a span of 10 octaves (8 Hz to 8 kHz). There is also white noise that can be used as a sound source, it is sent through the filter and cannot be routed any other way.
+
+While the Evolver is monophonic, multiple Evolvers can be linked together via MIDI to create a "chain" that, in turn, creates polyphony based on how many units are chained together. The same is true for the Poly Evolvers, up to 5 Poly Evolvers can be chained to obtain a 20-note polyphony.
+
+There are two analog low pass filters, one for each stereo channel. Each low pass filter can be changed between 4-pole or 2-pole. Unless programmed otherwise (split), the two analog filters each retain the same settings, thus processing the audio in both channels identically. However, since the filters are analog, even if they are working at identical settings, there will be slight variations in each filter's output. Each filter has its own ADSR envelope generator, and the low pass filters are also resonant, and can self oscillate.
+
+There is also a non-resonant, digital, 4-pole high pass filter available for further processing. The high pass filter can either be applied after the low pass filters, or before (if applied before the low pass filters, the high pass filter only effects an external audio signal).
+
+The VCA also utilizes a ADSR envelope. There is a third ADSR envelope generator for modulation purposes.
+
+There are 4 LFOs available for modulation purposes. The LFOs in the Evolver have speeds ranging from the very slow (one cycle every thirty seconds) to incredibly fast (261 cycles a second, almost middle C in audio terms). Some of the analog components of the Evolver cannot handle some of the incredibly high frequencies of the LFOs due to limitations in the control voltage speeds.
+
+
+
+== Effects ==
+
+The effects available in the Evolver include distortion, delay, hack, feedback, and grunge. The distortion is digital, and at the value of 1, the distortion acts as a noise gate. There is a 3-tap delay, meaning that the signal can be delayed with three flexibly programmable delays that are independent from each other. The hack effect "trashes" the output (it can also be applied to external audio before the low pass filter), it produces an effect similar to bit reduction or decimation. There is also an option to create feedback, which is routed through the filter. The grunge option produces a nasty feedback at higher levels, but has no effect at lower levels.
+
+All effects except for hack can be modulated with the LFOs. If feedback is modulated correctly, the user can create cyclic effects similar to flange or chorus.
+
+
+
+== Sequencer ==
+
+The sequencer on the Evolver is a 4x16 analog-style step sequencer. This means up to four sequences (each being 16 steps each) can be used as modulation sources, and can be routed to any of the modulation destinations in the Evolver. Certain parameters, such as pitch, filter frequency, volume, etc. can be turned into MIDI signals, so the sequencer of the Evolver can be used to sequence standard parameters on other MIDI compatible devices. Each of the 16 steps can be individually edited for duration, level, and even can be used to change up the digital oscillators' waveforms (a different digital waveform can be programmed for each step). This makes the Evolver's sequencer a very powerful tool. As a last-minute addition on the Evolver Keyboard, an arpeggiator was added using the controls for the sequencer - this is termed a "hidden function" in the Evolver's documentation, and does not seem to be present in the voice structure of its larger cousin, the Poly Evolver.
+
+==External links==
+* [http://www.davesmithinstruments.com Dave Smith Instruments]
+* [http://davesmithinstruments.com/evolver/design.html Evolver Design]
+* [http://davesmithinstruments.com/downloads/Evo_Key_Manual_1.0.pdf Evolver Manual.pdf]
+* [http://news.harmony-central.com/Newp/2004/Poly-Evolver-Ships.html Poly Evolver Rackmount]
+* [http://namm.harmony-central.com/WNAMM05/Content/Dave_Smith/PR/Poly-Key.html Poly Evolver]
+* [http://www.vintagesynth.com/dsi/evo.shtml Evolver at Vintage Synth Explorer]
+
+[[category:Dave Smith Instruments|Evolver]]
+[[category:synths]]
