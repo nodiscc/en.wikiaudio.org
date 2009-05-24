@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Inputs - Formant: XLR Mic in, quarter-inch line in; Source: 2 quarter-inch line in, 2 RCA phono in
+*Outputs - Quarter-inch line out
+*LFO - None
+*Filter - High- and Low-pass
+*Effects - Robot Pitch (built-in oscillator), Noise Mix (built-in noise gen)
+*Keyboard - None
+*Memory - None (you can save your settings to MIDI)
+*Control - MIDI
+*Date Produced - 1999
+
+|}
+
+The '''Warp Factory''' is a rack mount vocoder module.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Electrix|Warp Factory]]
+[[category:effects modules]]
