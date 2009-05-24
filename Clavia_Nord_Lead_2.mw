@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 Voices
+*Oscillators - 2 VSM oscillators: sine, triangle, sawtooth, pulse and noise
+*LFO - 2 LFO's (triangle, sawtooth, random) control OSC 1 or 2, filter, pulse-width, ADSR envelope
+*Filter - 12 dB/oct 2-pole lowpass, 24dB/oct 4-pole lowpass / bandpass / highpass (both with cutoff, resonance, env amount, env velocity, key tracking, ADSR envelope)
+*VCA - ADSR envelope and Amplifier Gain control
+*Keyboard - 49 keys (velocity sensitive)
+*Memory - 99 patches (59 preset, 40 user), 99 performances, 10 drum kits
+*Control - MIDI (4 parts), and all knobs and controls are MIDI!
+*Date Produced - 1997
+
+|}
+
+The '''Nord Lead 2''' is a 16 Voice 49 key synthesizer created by Clavia.
+{{stub}}
+
+[[category:synths]]
+[[category:clavia|Nord Lead 2]]
