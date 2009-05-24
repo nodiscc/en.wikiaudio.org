@@ -1,0 +1,6 @@
+'''Audio crossovers''' are a class of electronic filters designed specifically for use in audio applications, especially hi-fi. Commonly used loudspeaker drivers are incapable of covering the entire audio spectrum with acceptable loudness and lack of distortion by themselves. Thus, crossovers serve the purpose of splitting the audio signal into separate frequency bands which can be handled by individual loudspeaker drivers optimized for those bands.
+
+{{stub}}
+
+
+[[category:electronic components]]
