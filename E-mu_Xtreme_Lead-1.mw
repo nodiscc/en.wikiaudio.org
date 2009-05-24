@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 voices (expandable to 128 with Turbo upgrade)
+*Oscillators - 32MB Sound ROM
+*Arpeg/Seq - Rhythmic Pattern Generator/Arpeggiator: 16 arpeggiators (1 per MIDI channel); SuperBEATS Mode
+*Filter - 12-Pole Digital Filters
+*Effects - 24-bit dual stereo-effects processor
+*Keyboard - None
+*Memory - 512 ROM & 512 User Presets; 1 additional internal ROM expansion slot (expandable to 3 with Turbo upgrade) for Proteus libraries or create your own custom ROMs using E-mu's E4 Ultra samplers
+*Control - MIDI (16-parts, expandable to 32 with Turbo Upgrade)
+*Date Produced - 2000
+|}
+
+The '''Xtreme Lead-1''' is a 64 voice rack mount sound module produced by E-my Systems.
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:E-mu Systems|Xtreme Lead-1]]
