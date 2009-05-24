@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - All keys play
+*Oscillators - 16-bit mono samples of 28 Tapes: Flutes, Strings, Brass, Choir, Vibes, Accordion, Mandolin, Tremolos, Oboes, and Rhythmic effects; Sounds play for only 8 seconds per key press.
+*LFO - None
+*Filter - Tone control
+*Envelopes - Attack and Release
+*Keyboard - 35 Keys
+*Memory - M-Tron's 28 Tape sounds are all that's available and requires 518MB of hard disk space.
+*Control - MIDI
+*Macintosh - PowerMac 604e 200MHz, 128 Mb RAM, 256K Second Level Cache, MacOS 8.5 or later, VST 2.0 compatible application
+*Windows/PC - Intel Pentium II 300 MHz, 96Mb RAM, VST 2.0 compatible application
+*Date Produced - 2000
+
+|}
+
+The '''M-Tron''' is a VST instrument that emulates the sound of the [[Mellotron]] keyboard
+
+{{stub}}
+
+[[category:synths]]
+[[category:GForce|M-Tron]]
