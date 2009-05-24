@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 32 voices per plug-in (CPU dependent)
+*Oscillators - MS-20: 2 VCOs'Polysix: 1 VCO per voice Wavestation: 484 PCM waveforms
+*Filter - MS-20: Independent High Pass and Low Pass filters. Polysix: Lowpass filter. Wavestation: Lowpass filters.
+*Effects - MS-20: Portamento. Polysix: Chorus, Ensemble, Phase. MDE-X Effects: Compressors,Limiters, EQ, exciters, decimator, flanger, phaser, chorus, delay, reverbs, overdrive, wah-wah.
+*Keyboard - Virtual (MS-20 controller has 37 velocity sensitive mini-keys)
+*Memory - Wavestation: 550 performances, 385 patches (8 ROM banks + 3 RAM banks).
+*Arpeg/Seq - Polysix: Up, Down, Up/Down (Tempo/MIDI sync)
+*Macintosh - Apple G4, 1.25GHz or better. 256MB RAM. Mac OS X 10.2.6 or later. Supports Core Audio, VST, Audio units.
+*Windows/PC - Intel Pentium 4, 1.5GHz or better. 256MB RAM. Windows XP or later. Supports ASIO, DirectSound, MME and VST.
+*Date Produced - 2004
+
+|}
+
+The '''Korg Legacy Collection''' is a collection of software instruments modeled on older analog synthesizers created by Korg
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Korg|Legacy Collection]]
