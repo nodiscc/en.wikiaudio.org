@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs (saw or square), white noise gen, sub-osc, FM
+*Filter - Low pass resonant with switchable 3 or 7 pole slope
+*LFO - Sort-Of
+*Keyboard - Pattern/Bank buttons
+*Patterns - 256 (12 or 16 steps each)
+*Songs - 16 songs (3,580 measures per song)
+*Control - MIDI + CV/Gate
+*Date Produced - 1998
+
+|}
+
+The '''FutureRetro 777''' is a analog monophonic synthesizer with a 256 pattern,16 song digital sequencer
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Future Retro|777]]
