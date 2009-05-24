@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Up to 32 notes
+*Oscillators - 3 oscillators per voice: Saw, Pulse, Triangle, Sine, Sine squared, Glottal, Noise (white, pink, red)
+*Memory - Unlimited
+*Filter - 2 filters: 13 filter types, including 4-pole resonant lowpass, highpass, bandpass, allpass, notch, and state-variable
+*LFO - Dozens of LFOs, 6 shapes, midi sync, modulate almost any source and destination
+*Keyboard - On-Screen keyboard
+*Arpeg/Seq - Arpeggiator: Midi sync, multiple modes
+*Control - MIDI (16 parts)
+*Date Produced - 1998
+
+|}
+
+The '''Retro AS-1''' is a virtual synthesizer created for Macintosh and PC computers.
+
+{{stub}}
+
+[[category:BitHeadz|Retro AS-1]]
+[[category:software instruments]] 
+[[category:synths]]
