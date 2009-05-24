@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:  	Condensor (black electret)
+*Polar Pattern: 	Cardioid
+*Frequency Response: 	50 Hz - 18 KHz
+*Sensitivity: 	-48dB +/- 3dB @ 1 KHz (0dB = 1 V/Pa)
+*Impedance: 	1.8 KOhms
+*S/N Radio: 	68dB(A)
+*Maximum SPL: 	126dB 1% THD
+*Power Requirements: 	9 - 48 volts Phantom Power
+*Termination: 	Switchcraft 3 pin Tini Q
+*Dimensions: 	2.3" x 0.75" (57mm x 19mm)
+*Finish: 	Satin Black
+|}
+
+
+The '''Clockaudio C900''' is a cardioid condenser shotgun microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Clockaudio|C900]]
