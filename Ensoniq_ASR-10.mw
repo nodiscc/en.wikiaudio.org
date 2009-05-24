@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - 31 voices
+*Sampler - Sigma-Delta 64 times oversampling, 16-bit, 30kHz or 44.1kHz variable sampling rates; 127 WaveSamples, up to 8 Layers per Program.
+*Filter - 2 digital filters in series, one low-pass, one high pass. Up to 4-pole filtering with 6, 12, 18, and 24 dB/oct slopes.
+*Envelopes - 3 envelopes: Env 1 to WaveSample Pitch; Env 2 to WaveSample Filter Cutoff; Env 3 to WaveSample Amplitude.
+*Sequencer - 16 tracks, 80 Patterns (999 measure limit each), 1 Song at a time
+*Effects - 1 effects unit with 50 to 62 effects including vocoder (reverbs, chorus, flange, phaser, distortion, digital delay, speaker effects)
+*Keyboard - 61 keys w/ velocity and aftertouch (88 weighted keys on ASR-88)
+*Memory - Sampler: 2 MB expandable to 16 MB; Patches: 8 Instruments
+*Control - MIDI (8-parts)
+*Date Produced - 1992 - 1994
+
+|}
+
+The '''Ensoniq ASR-10''' is a 16 bit sampling keyboard and rack module.
+
+{{stub}}
+
+[[category:ensoniq|A]]
+
+[[category:synths]]
+
+[[category:samplers]]
