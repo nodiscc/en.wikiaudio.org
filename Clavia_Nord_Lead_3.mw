@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 24 voices
+*Oscillators - 2 oscillator groups each with Six waveforms: sine, saw, triangle, square (pulse with width modulation), noise, synced noise, dual sine; 2- and 4-op FM and differential FM; osc-sync; ring-modulation; variable unison.
+*LFO - 2 per voice, syncable to MIDI. Triangle, saw, square, smooth and stepped random, and triple-peak sine waveforms. Seperate vibrato effect.
+*Filter - 2 multi-mode filters (series or parallel). Lowpass, Bandpass, Highpass, LP-HP, LP-LP and Classic mode. 1-, 2-, or 4-pole.
+*VCA - ADSR envelopes for amplitude and filter; Amplifier Gain control
+*Keyboard - 49 keys with velocity and aftertouch and octave shift functionality
+*Memory - 1,024 patches, 256 performances
+*Control - MIDI IN/OUT/THRU (4-parts)
+*Date Produced - 2001
+
+|}
+
+The '''Nord Lead 3''' is a 24 voice synth created by Clavia.
+
+{{stub}}
+
+
+
+[[category:synths]]
+[[category:clavia|Nord Lead 3]]
