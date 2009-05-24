@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices (dynamic voice allocation)
+*Oscillators - 3 digital oscillators per voice, 32 waveforms
+*LFO - 3 LFOs per voice; triangle, saw, square, random
+*Filter - 4-pole analog resonant filter with 6-stage envelope
+*Sequencer - 8-Track (30 patterns, 10 songs w/ up to 99 patterns each)
+*VCA - 4 VCA + 4 Envelopes with 7 parameters per voice
+*Effects - None
+*Keyboard - 61 note (velocity)
+*Memory - 40 patches
+*Control - MIDI (8-parts)
+*Date Produced - 1986 - 1988
+
+|}
+
+
+The '''Ensoniq ESQ-1''' is an 8 voice 61 note keyboard synthesizer.
+
+{{stub}}
+
+
+
+[[category:Ensoniq|Ensoniq ESQ-1]]
+[[category:synths]]
