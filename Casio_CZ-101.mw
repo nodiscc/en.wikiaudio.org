@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 note
+*Oscillators - Digital Phase Distortion Synthesis (sine, saw, square, pulse, resonance, double-sine, saw-pulse)
+*Instruments - 4 part multitimbral
+*DCW - 8-stage envelope generators with level and rate controls and Key Follow (Adjusts Phase Angle)
+*DCA - 8-stage envelope generators with level and rate controls and Key Follow (Adjusts Volume)
+*Keyboard - 49 note mini keyboard (no Velocity or Aftertouch)
+*Memory - 16 preset, 16 user, 16 more via external cartridge
+*Control - MIDI
+*Date Produced - 1985 - 88
+
+|}
+The '''CZ-101''' is a digital synth manufactured by Casio between 1985-1988
+
+{{stub}}
+
+[[category:synths]]
+[[category:casio|CZ-101]]
