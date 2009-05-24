@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Acoustical Operating Principle: Pressure gradient transducer
+*Directional Pattern: Cardioid
+*Frequency range: 20 Hz-20 kHz
+*Sensitivity at 1 kHz into 1 kohm: 21 mV/Pa
+*Rated impedance: 50 ohms
+*Rated load impedance: 1000 ohms
+*Equivalent SPL CCIR 468-3: 17.5 dB
+*Equivalent SPL DIN/IEC 651: 7 dB-A
+*S/N ratio CCIR 468-3: 76.5 dB
+*S/N ratio DIN/IEC 651: 87 dB
+*Maximum SPL for THD 0.5%: 138 dB
+*Maximum output voltage: 13 dBu
+*Dyn. range of the mic. amplifier DIN/IEC 651: 131 dB
+*Supply voltage: 48 V ± 4 V
+*Current consumption: 3 mA
+*Matching connector: XLR 3F
+*Weight: approx. 500 g
+*Diameter: 60 mm
+*Length: 132 mm'' 
+|}
+
+The '''TLM 103''' is a large diaphragm cardioid microphone by Neumann.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:neumann|T]]
