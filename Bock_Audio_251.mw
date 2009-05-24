@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser tube
+*Patterns: Cardioid, omni, Figure of 8 Switchable from mic
+*Frequency Range: 10Hz to 18kHz, +/-2dB
+*Sensitivity: 19mv/Pa
+*Equivalent Noise: 18dB (“A” weighted) 32dB (unweighted)
+*Distortion vs.SPL @1kHz:
+**112dB = 0.5% THD
+**118dB = 1% THD
+**129dB = 2% THD
+**(increasing distortion is non-exponential, nearly linear, and primarily 2nd harmonic)
+*Impedance: 200 Ohms true transformer balanced
+*Recommended load: 1.2k Ohms
+*Dynamic range (maxSPL-"A"noise): 94dB
+*S/N (94dB-noise): 76dB “A”, 62dB unweighted
+*Capsule size: 1” diameter, dual asymmetrical backplate CK12 type
+*Tube type: New Old Stock GE5670 triode
+*Dimensions: 2” dia x 8.5” oal (52x216mm)
+*Weight: 1lb 9.3oz (1.58lbs) =716g
+*Shipping weight: 12 lbs
+*Power Supply: P251 true linear, factory wired 115v or 230v operation
+
+
+|}
+
+The '''Bock Audio 251''' is a tube condenser microphone with Cardioid, omni, and Figure of 8 polar patterns
+
+
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:Bock Audio|251]]
