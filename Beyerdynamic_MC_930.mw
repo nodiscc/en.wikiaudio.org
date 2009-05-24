@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Transducer type	True condenser
+*Operating principle	Pressure gradient
+*Polar pattern	Cardioid
+*Frequency response	40 - 20,000 Hz
+*Open circuit voltage at 1 kHz (0dB = 1V/Pa)	30 mV/Pa
+*Nominal impedance	180 Ω
+*Load impedance	1000 Ω
+*Max. SPL at 1 kHz	125 dB
+**with pre-attenuation 140 dB
+*S/N ratio rel. to 1 Pa	71 dB
+*A-weighted equivalent SPL	16 dB
+*Power supply	11 - 52 V phantom power
+*Current consumption	4.6 mA
+*Connector	3-pin XLR male
+*Dimensions: 	
+*Length	128 mm
+*Shaft diameter	21 mm
+*Weight without cable	115 g
+
+
+|}
+
+The '''Beyerdynamic MC 930''' is a cardioid condenser microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Beyerdynamic|MC 930]]
