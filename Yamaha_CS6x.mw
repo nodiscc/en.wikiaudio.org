@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 voices
+*Oscillators - 4 osc: 16 MB AWM2, 479 waveforms; Multitimbrality 16 + 1(A/D) + 1(Phrase Clip) + 2(Plug-in)
+*LFO - 2 with saw, square, tri, sample & hold
+*Filter - 13 different filters and EQ: 4,3,2 Pole, Band-Pass (6 and 12dB), Hi-pass (12,24dB), Low pass (6,18,24dB), BPF wide, BEF 6.
+*Effects - Reverb: 12, Chorus: 23, Insertion Effects: 93, Insertion Effects for Plug-in Boards: 24, Master Equalizer: 4
+*Keyboard - 61 notes with aftertouch & velocity
+*Memory - 256 preset patches, 8 preset drum kits, 128 internal user patches, 2 internal user drum kits, 128 external user patches, 2 external user drum kits, 128 internal Performance banks, 64 external Performance banks
+*Control - MIDI (20 Parts: 16 parts + 2 Plug-ins + 1 A/D + 1 Phrase Clip)
+*Date Produced - 1999
+
+|}
+
+The '''Yamaha CS6x''' is a 64 voice 61 note synthesizer produced in 1999
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|CS6x]]
