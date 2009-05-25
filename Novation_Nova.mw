@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 12 voices (expandable to 24, 36 and 48)
+*Oscillators - 3 osc per voice (saw and variable pulse width) plus noise
+*LFO - 2 LFOs: saw, tri square sample/hold
+*Filter - Resonant Low-pass, Hi-pass, band-pass; 12, 18 and 24 dB/Oct slopes and overdrive
+*Envelopes - 1 ADSR for the amp, 2 DADSRs
+*Effects - Distortion, comb filtering, EQ, reverb, chorus, flange, phaser, delay, panning, 40-band vocoder
+*Keyboard - Keyboard model: 49 or 61 notes
+*Memory - 256 programs, 128 performances
+*Control - MIDI (6 parts)
+*Date Produced - 1999
+
+|}
+
+The '''Novation Nova''' is an expandable 12 voice synthesizer created by Novation. The Nova is a desktop module while the '''Nova II''' incorporates a keyboard.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Novation|Nova]]
