@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 3 osc with Square / Saw / Variable Pulse / Tri / Sine / Double Saw / Double Tri / Double Sine waveforms. Osc 1-2 sync, FM, external audio in (mono)
+*LFO - 2 LFOs: triangle, saw, square, sample-and-hold; with panning, speed and delay parameters
+*Filter - 12dB / 24dB switchable resonant low-pass filter with programmable output EQ
+*Envelopes - 2 ADSR envelope generators plus FM attack/decay
+*Keyboard - None
+*Effects - distortion, stereo chorus/flanger/phaser, stereo panning, delay and reverb, 12-band vocoder
+*Arpeggiator - up, down, up/down, up to 4 octaves, latchable
+*Memory - 400 in 4 banks, (200 factory sounds)
+*Control - MIDI IN/OUT/THRU
+*Date Produced - 2001
+|}
+
+The '''Novation A-Station''' is an 8 voice rack mount bass synthesizer created in 2001
+
+{{stub}}
+
+[[category:synths]]
+[[category:Novation|A-Station]]
+[[category:software instruments]]
