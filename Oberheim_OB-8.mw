@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 2 vco's per voice: saw, pulse, triangle
+*Memory - 120 patch programs, 12 split programs, and 12 double programs; external cassette storage; MIDI SysEx data dump
+*Filter - Switchable 2-pole or 4-pole VCF w/ ADSR
+*LFO - Triangle, Square, Ramp, Samp+Hold
+*Keyboard - 61 keys (can be split or doubled); no velocity or aftertouch
+*Arpeg/Seq - 8-note arpeggiator with external sync source
+*Control - MIDI (Channels 1-9) added as a retrofit
+*Date Produced - 1983 - 1985
+
+|}
+
+The '''OB-8''' is an 8 voice polyphonic synthesizer created between 1983-1985
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|OB-8]]
