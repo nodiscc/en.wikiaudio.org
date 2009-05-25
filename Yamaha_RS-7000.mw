@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - 64 voices in SEQUENCER, 62 voices in TONE GENERATOR, 256 voices in SAMPLER
+*Sequencer - 64-voice, 200,000 note capacity per song, 1-300bpm, 480 ppqn, 16 Sequencer tracks, 16 Phrase tracks, 256 user phrases per style, 1024 user patterns (64 styles x 16 sections), 20 songs. Compatibility: RS7000 format (load & save), RM1x format (load), SMF format 0 (load & save), format 1 (load). Arpeggiator: Up, Down, Alternate1/2, Random), Sort, Hold, Octave range.
+*Tone Generator - AWM2, 16-part, 62-voice, 1054 synth voices, 63 drum-kit sounds
+*Sampler - 256 sample voices (Pitch / Kit), 5.5 to 48kHz sampling, 4MB sample memory expandable to 64MB via 2 72-pin SIMMS; Export RS7000 format, WAV (to HD, MO, ZIP, etc., SmartMediaTM), Import RS7000 format, WAV, AIFF, Yamaha A3000/4000/5000, Yamaha SU700, AKAI S1000/3000 (from HD, MO, ZIP, etc., CD-ROM, SmartMedia)
+*Filter - 6 types (18 with OS 1.2 or later) including 24dB / 18dB /12dB Low-pass, Hi-pass,Band-pass, Band eliminate, and more
+*Effects - 4 blocks: Reverb (11 types), Delay/Chorus (22 types), Variation (92 types), Master (8 types), 6 EQ types
+*Memory - 4MB, expandable up to 64MB
+*Control - MIDI IN/OUT (x2) (16-part)
+*Date Produced - 2001
+
+|}
+
+
+The '''Yamaha RS-7000''' is a sampling drum machine and sequencer workstation produced in 2001
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:drum machines]]
+[[category:samplers]]
+[[category:Yamaha|RS-7000]]
