@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 2 voices
+*Oscillators - 2 VCO's (each with sawtooth or variable-pulse waveforms)
+*LFO - LFO is triangle wave only
+*Filter - 2-pole multimode (low-, band-, hi-pass, band-reject) VCF filter with ASR (Attack, Decay and Sustain) generator
+*VCA - 2 ADR (Attack, Decay and Sustain) Envelope Generators
+*Keyboard - None
+*Effects - None
+*Memory - Not on-board. External Polyphonic Synthesizer Programmer module stores control voltage settings for up to 8 SEM modules each.
+*Arpeg/Seq - Not on-board. External DS-2 Digital Sequencer option.
+*Control - CV / Gate
+*Date Produced - 1974 - 1979
+
+
+|}
+
+The '''SEM''' is a 2 voice analog synthesizer module produced between 1974 - 1979
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|SEM Module]]
