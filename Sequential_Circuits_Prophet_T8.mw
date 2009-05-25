@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 Voices
+*Oscillators - 2 VCO's per voice (16 oscillators)
+*Sequencer - YES (670 notes)
+*Filter - 24dB/oct low-pass with cutoff, resonance, env amount, key tracking
+*LFO - Waveforms: square, triangle and sawtooth.
+Destinations: osc a, osc b, pulse width, filter
+*VCA - 2 ADSR envelopes per voice
+*Keyboard - 76 weighted keys (w/ velocity & aftertouch)
+*Memory - 128 patches
+*Control - MIDI
+*Date Produced - 1983
+
+|}
+
+The '''Sequential Circuits Prophet T8''' is an 8 voice 76 key analog synthesizer produced in 1983
+
+{{stub}}
+
+[[category:synths]]
+[[category:Sequential Circuits|Prophet T8]]
