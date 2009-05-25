@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs: triangle, sawtooth and variable width square; Osc sync; white noise gen.
+*LFO - 2 LFOs. Waveforms: triangle, sawtooth, reverse sawtooth, square, noise, random. Sample & Hold
+*Filter - External cartridge VCF: Moog, S.E.M., 303, and 2600. External audio input
+*VCA - 3 ADSRs: one for VCA, one for VCF and third to modulate other parameters
+*Keyboard - None
+*Memory - 512 patches
+*Control - MIDI, CV / GATE
+*Date Produced - 1997
+
+|}
+
+The '''Studio Electronics ATC-1''' is a monophonic rack mount synthesizer that uses preset cartridges that allow for emulation of well known synthesizers.
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Studio Electronics|ATC-1]]
