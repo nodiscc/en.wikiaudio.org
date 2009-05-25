@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 2 per voice (Osc 1: continuously variable between Sawtooth and square/pulse; OSC 2: Formant or pink / white / blue noise); hard sync-able
+*LFO - 2 with separate speed and delay controls (Ramp, Triangle, Square, Sine, Pulse, Sample & hold, Random waveforms); MIDI sync-able
+*Effects - Auto-Panning, Tremolo, Fixed frequency Ring Modulation, Portamento
+*Filter - 12dB/oct resonant with low-, high- and band-pass
+*Keyboard - None
+*Memory - 64 patches
+*Control - MIDI (5-parts)
+*Date Produced - 1999
+|}
+
+The '''Darkstar''' is a a table-top 8-voice polyphonic synthesizer created in 1999
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Red Sound|Darkstar]]
