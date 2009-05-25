@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices to 16 voices
+*Oscillators - 3 per voice with 128 waves (sine, saw, square, pwm, tri, etc.), 30 sampled waves, noise, external audio-in
+*LFO - 3, sine, tri, saw, square, sample/hold
+*Filter - 2 resonant 12dB high pass and 12/24dB lowpass
+*Effects - 2 per part: Distortion, 2-band EQ, delay, chorus, flange
+*Keyboard - none
+*Memory - 128 patches, 64 performances
+*Control - MIDI (4 parts)
+*Date Produced - 1999
+|}
+
+The '''PolyMorph is an 8 voice''' analog synthesizer created in 1999.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Quasimidi|PolyMorph]]
