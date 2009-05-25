@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - Up to 24 voices (depends on CPU load); 16-part multitimbral (12 when using arhythm kit)
+*Oscillators - Dual Oscillators: Three types:
+#Analog modeling (14 waves: SAW, SQUARE, TRIANGLE, SINE, RAMP, JUNO, HQ-SAW, HQ-SQUARE, NOISE, LA-SAW, LA-SQUARE, SUPER-SAW, FEEDBACK-OSC, X-MOD-OSC)
+#PCM/Variphrase (Preset waveforms + Sampling waveforms)
+#External Audio.
+*Sampler - Yes, make your own PCM samples. Sampling Frequency Internal: 44.1 kHz; Digital Audio IN/OUT: 96, 48, 44.1 kHz
+*Effects - MFX (Multi-effects): 41 sets; Chorus: 8 sets; Reverb: 10 sets; EQ; COSM: 16 types (OD/DS, W-SHAPE, AMP, SPEAKER, RESONATOR, SBF1, SBF2, COMB, DUAL, TVF, DYN-TVF, COMP, LIMITER, F-SHIFT, LO-FI, TB-FILTER).
+*Memory - 1 Project; 512 Patches; 999 Waves, Wave memory (RAM): 50 MB (When the unit ships from the factory, 32 MB of this is taken up by the preset waves.); PC CARD slot (Microdrive, SmartMedia or CompactFlash can be used with PC card adaptor.)
+*Keyboard - 61 keys (with velocity and channel aftertouch)
+*Control - MIDI In/Out/Thru; USB
+*Date Produced -
+**V-Synth: 2003
+**V-Synth XT: 2005
+**V-Synth GT: 2007
+
+|}
+
+The '''V-Synth''' is a synthesizer and sampling 61 note keyboard created in 2003 ('''V-Synth XT''': 2005
+and '''V-Synth GT''': 2007)
+
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|V-Synth]]
