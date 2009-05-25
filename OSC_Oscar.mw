@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - Monophonic (Duophonic via built-in Sequencer)
+*Oscillators - 2 DCO's with sawtooth, triangle, and square-, variable- or modulated-pulse waveforms and 5 preset digital wavefroms
+*LFO - 1 LFO with square, triangle, sawtooth waveforms, sample-and-hold
+*Filter - Two 12dB/oct analog filters which can be linked in series for 24dB/oct configuration. Lowpass, bandpass, highpass modes. Dedicated ADSR envelope, Frequency Cutoff and Resonance controls.
+*VCA - Two ADSR Envelopes
+*Keyboard - 37 keys
+*Memory - Pre-MIDI Model: 12 user, 24 preset patches. MIDI-equipped models: 36 programmable patches. Custom Waveforms: 24 waves. Sequencer: 24 sequences.
+*Control - Trigger In, MIDI available on some later models
+*Date Produced - 1983 - 1986
+
+|}
+
+The '''OSC (Oxford Synthesizer Company) Oscar''' is mono/duophonic synthesizer released in 1983 by the now defunct Oxford Synthesizer Company. It was fairly unusual for its time because, contrary to the then standard of synthesizer's having VCO's (voltage-controlled oscillators), it had DCO's (digitally-controlled oscillator) instead. One advantage of having DCO's instead of VCO's was that DCO's were inherently more stable and less prone to tuning drift. However the Oscar did have fully analog filters - two 12db/Oct filters which could be linked together for a 24db/Oct slope. The oscillators had a good array of wave shapes including triangle, sawtooth, square and a variable pulse-width modulation.
+
+Another unusual feature of the Oscar was it's additive synthesis capabilities. New waveforms could be created by changing the amplitudes of up to 24 harmonics, achieved by inputting values on the actual keyboard. This considerably widened the Oscar's sound palette. A elemental but musically useful sequencer allowed the user to play a monophonic lead whilst a sequence played simultaneously - this made the Oscar function as a duophonic synthesizer. Many sequencers at the time only allowed notes of a fixed length to be used in their sequencers but on the Oscar it was possible to lengthen individual notes or insert spaces - a very versatile feature.
+
+The Oscar is not an easy synthesizer to find on the second hand market now and an alternative could be to use the [[Gforce Imposcar]], which is a software emulation of the OSC Oscar.
+
+[[category:synths]]
+[[category:OSC|Oscar]]
