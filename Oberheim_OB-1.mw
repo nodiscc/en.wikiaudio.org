@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs
+*LFO - LFO (Square, Sine, Sample+Hold) w/ delay, rate control
+*Filter - 2-pole or 4-pole w/ Cutoff, resonance, key track and cutoff can be driven by LFO or ADSR envelope
+*VCA - Standard ADSR envelope
+*Keyboard - 32 keys
+*Arpeg/Seq - NO
+*Control - CV / Gate
+*Date Produced - mk1 - 1978 mk2 - 1979
+|}
+
+'''Oberheim OB-1''' is a monophonic synthesizer originally created in 1978
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|OB-1]]
