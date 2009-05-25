@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 VCO's (pulse, square, sawtooth)
+*Memory - None
+*Filter - 24 dB/oct lowpass filter w/ cutoff, emphasis (resonance), env amount
+*VCA - ADSR with lots of modulation sources
+*Keyboard - 44 keys
+*Arpeg/Seq - Sample & Hold
+*Control - CV / GATE
+*Date Produced - 1978
+|}
+
+
+The '''Multimoog''' is a 44 key monophonic analog synthesizer created in 1978 by Moog 
+
+{{stub}}
+
+[[category:synths]]
+[[category:moog|Multimoog]]
