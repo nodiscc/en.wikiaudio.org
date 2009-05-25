@@ -1,0 +1,63 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Roland TR-808 drum machine.jpg|thumb]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 12 voices
+*Sounds - Kick, Snare, Low/Mid/Hi Toms, Low/Mid/Hi Congas, Rimshot, Claves, Hand clap, Maracas, Cow bell, Cymbal, Open hihat, Closed hihat, Accent
+*Effects - Auto fill-in
+*Patterns - 64
+*Songs - 12
+*Arpeg/Seq - Sequencer
+*Keyboard - none
+*Control - DIN SYNC IN/OUT
+*Date Produced - 1981-84
+|}
+
+
+
+[[category:synths]]
+[[category:roland|TR-808]]
+[[category:drum machines]]
+
+
+
+
+The '''Roland TR-808 Rhythm Composer''' was one of the first programmable drum machines ("TR" serving as an initialism for Transistor Rhythm). Introduced by the Roland Corporation in late 1980, it was originally manufactured for use as a tool for studio musicians to create demos. Like earlier Roland drum machines, it does not sound very much like a real drum kit. Indeed, because the TR-808 came out a few months after the Linn LM-1 (the first drum machine to use digital samples), professionals generally considered its sound inferior to sampling drum machines; a 1982 Keyboard Magazine review of the Linn Drum indirectly referred to the TR-808 as sounding like marching anteaters. However, the TR-808 cost US$1,000 upon its release, which was considerably more affordable than the US$5,000 LM-1.
+
+
+
+== Features ==
+
+
+
+
+
+The TR-8008 was a step forward from Roland's previous CR-78 drum machine. The machine featured more sounds (eighteen in total) and better controls to allow the user to control the vision in waves in real time: volume knobs for the level of each sound and tone-shaping controls for the more important sounds. The memory capacity for storing patterns was increased substantially: 16 pattern locations were available, and furthermore, these could be chained together to produce songs, 22 of which could also be stored in memory. The memory was volatile (maintained by three DD batteries). The programming interface was hugely improved: a row of 16 buttons allowed the user to employ a very intuitive step-programming method—the pattern was divided up into 16 steps, and the buttons and LEDs indicated whether a drum sound played on each step. The unit also featured Roland's new DIN-Sync clock interface for synchronization with other equipment, plus various analog clock-outputs for slaving other devices. The TR-808 predated the invention of the MIDI interface; however such is the TR-808's enduring popularity that several third-party manufacturers provided MIDI-retrofit kits for it over the years.
+
+* Number of memory locations for user-programmable rhythm patterns:
+**two banks of 12 (or these can be combined to give 1 bank of 12 double length patterns)
+**plus: an additional two banks of four for use as Intro / Fill-in (again, these can be combined to give 1 bank of 4 double length patterns)
+* Number of song memory locations (ie, lists patterns chained together)
+**12 tracks, each storing a list of up to 64 patterns (tracks themselves can also be chained together)
+**song and pattern memories maintained by three 1.5-volt AA batteries (dry cell) Roland Manuals (T)
+* Divisions per pattern:
+**maximum of 32 steps per pattern
+* Sound Sources:
+**bass drum
+**snare drum
+**low tom or low conga (selectable)
+**mid tom or mid conga (selectable)
+**hi tom or hi conga (selectable)
+**rimshot or claves (selectable)
+**handclap or maracas (selectable)
+**cow bell
+**cymbal
+**open hi-hat or closed hi-hat (selectable)
+**Accent (Note that this is not itself a sound; rather, it allows the musician to place accents—that is, to increase the loudness—on certain steps in the pattern. All sounds playing on these steps are accented.)
+
+The sounds on the TR-808 are a development from the earlier TR-33, TR-55 & TR-77 machines, and the CR-78. These machines predominantly used tuned resonance voice circuits for pitched drum sounds and shaped white noise for others. The TR-808 improves on these designs, including for example adding detuned square wave oscillators (cow bell, cymbal) and analogue reverberation (handclap). However, the distinctive metal beat sound from the CR-78 was not used, nor some of the Latin percussion sounds (e.g., guiro, tambourine) from the TR-77 and CR-78.
