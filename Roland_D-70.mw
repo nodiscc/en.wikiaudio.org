@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 30 voices
+*Oscillators - Digital ROM samples and DLM ("Differential Loop Modulation")
+*LFO - YES
+*Filter - TVF FILTER: low-pass-resonant (like D50).
+*VCA - TVA (like D50).
+*Effects - Reverb, Chorus, Flanger (like D50)
+*Instruments - 5-parts + 1-percussion
+*Keyboard - 76 note keyboard with velocity and aftertouch
+*Arpeg/Seq - None
+*Memory - 10 user sets, 64 performances, 128 patches, 128 tones.
+*Control - MIDI
+*Date Produced - 1990-91
+|}
+
+'''The Roland D-70''' is a 30 voices 76 note synthesizer created in 1990-1991
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Roland|D-70]]
