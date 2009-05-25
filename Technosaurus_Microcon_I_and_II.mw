@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 1 VCO with square or sawtooth wave plus 1 SUB-oscillator.
+*LFO - 1 with square or triangle waveforms
+*Filter - Lowpass 12 or 24 dB/Octave VCF with Resonance
+*VCA - 1 Envelope Generator with AD or ADR with manual trigger button. 1 VCA with AD or Gate control.
+*Keyboard - None
+*Memory - None
+*Control - Microcon: CV/ Gate Inputs.Microcon II: MIDI IN, CV/Gate Outputs, VCF CV In.
+*Date Produced - Since 1997
+
+
+|}
+
+The '''Technosaurus Microcon I / II''' is a desktop monophonic analog synthesizer
+
+{{stub}}
+
+[[category:synths]]
+[[category:Technosaurus|Microcon I / II]]
