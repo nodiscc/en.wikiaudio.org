@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 10 voices
+*Oscillators - 2 VCOs per voice (20 oscillators); Poly-Mod; Noise
+*Sequencer - Sequencer: Polyphonic 6 track (4,000 to 10,200 notes)
+*Filter - Low pass resonant VCF with ADSR
+*LFO - 1 LFO with rate
+*Keyboard - Version 1: 61 keys; Version 2&3: 122 keys (dual manual kybd)
+*Memory - 32 patches
+*Control - CV / GATE (MIDI retrofits available and recommended)
+*Date Produced - 1980
+|}
+
+The '''Prophet 10''' is a ten voice analog synthesizer produced in 1980.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Sequential Circuits|Prophet 10]]
