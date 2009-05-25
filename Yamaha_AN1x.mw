@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 10 notes
+*Oscillators - 2 osc: saw, variable width pulse, FM
+*Effects - Reverb, delay, 3-band EQ
+*Filter - Resonant 12/18/24dB/oct low/band/hi pass filter + 1 more hi pass
+*Arpeg/Seq - Arpeg: 1 mon/poly, up, down, up/down, random; MIDI-capable. Seq: 16 steps, 1 track
+*Keyboard - 61 keys (with velocity & aftertouch)
+*Memory - 128 patches
+*Control - MIDI (2 parts)
+*Date Produced - 1997
+|}
+
+
+The '''Yamaha AN1x''' is a 10 voice 61 key analog synthesizer produced in 1997
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|AN1x]]
