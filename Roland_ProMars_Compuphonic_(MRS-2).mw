@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs
+*LFO - 1 LFO (sine, square, ramp up and ramp down)
+*Filter - HP filter, LP rez filter with ADSR which can be inverted
+*VCA - ADSR envelope gen
+*Memory - 10 presets, 10 user patches, 8 performances, 1 user performance
+*Keyboard - 37 keys
+*Control - CV / Gate
+*Date Produced - 1979 - 1982
+|}
+
+The '''Roland ProMars Compuphonic (MRS-2)''' is a monophonic analog synthesizer produced between 1979-1982
+
+{{stub}}
+
+[[category:synths]]
+[[category:Roland|ProMars Compuphonic (MRS-2)]]
