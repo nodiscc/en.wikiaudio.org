@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*  Type: Synth/ keyboard/
+* Synthesis Type: Analog Analog
+* Polyphony:
+**Max: 8 Voice
+**Typical in use: 
+* Multi-timbral (number of parts): None
+* Controllers : CV
+* Effects :
+**Number of FX units : 1 Flanger
+**Number of different effects : 
+* Keyboard :
+**Number of Keys : 61
+**Can send on simultaneous MIDI channels
+**Responds to :
+**Sounds can be split by : 
+* Memory :
+**Patches : 16 Mk1, 32 Mk2
+**Performances : 
+* Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : LR
+**Number of Audio Ins :
+**Number of MIDI Outs (excluding Thru) : None
+**Number of MIDI Ins : None 
+
+|}
+
+The '''Korg Trident''' was an 8 voice 61 key synthesizer created in 1980. An updated version called the MKII was created in 1982
+
+{{stub}}
+
+
+
+[[category:Korg|Trident]]
+
+[[category:synths]]
