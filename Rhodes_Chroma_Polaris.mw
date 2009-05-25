@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 2 VCO's: sawtooth / pw
+*LFO - Sine or square
+*Filter - 4-pole lowpass VCF: cutoff, resonance, env, keyboard, sweep + Attack, Decay, Sustain, Sustain Decay, Release
+*VCA - ADR
+*Keyboard - 61 keys w/ velocity
+*Memory - 132 patches
+*Control - MIDI (3 to 6 simultaneous patches)
+*Date Produced - 1984
+
+|}
+
+The '''Rhodes Chroma Polaris''' is a 6 voice 61 key synthesizer created in 1984
+
+{{stub}}
+
+[[category:synths]]
+[[category:Rhodes|Chroma Polaris]]
