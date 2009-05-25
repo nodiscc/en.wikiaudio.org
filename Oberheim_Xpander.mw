@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 12 VCOs (2 per voice), Linear FM
+*LFO - 5 LFO's
+*Filter - 1, 2, 3, 4 pole low pass; 1, 2, 3 pole hi pass, bandpass, notch, phase shift
+*VCA - 15 per voice, 5 ADSR envelope gens per voice
+*Keyboard - None
+*Memory - 100 single / 100 multi
+*Control - MIDI In/Out/Thru, 6 CV/Gate Inputs, Trigger, 2 pedal inputs
+*Date Produced - 1984-88
+|}
+
+The '''Oberheim Xpander''' is a six-voice desktop version of the [[Oberheim Matrix 12]]. 
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|Xpander]]
