@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - N/A
+*Oscillators - N/A
+*LFO - One built-in with square, triangle and sine waveforms
+*Keyboard - N/A
+*Controls - 35 knobs, 8 sliders, 8 knobs
+*Computer Req. - MacOS and Windows 95/98/2000/etc...
+*Memory - 3 Snapshots, MIDI setups stored to your PC computer
+*Control - MIDI on all 16 channels (including RPN's, NRPN's SysEx messages up to 24 bytes)
+*Date Produced - 2001
+
+|}
+
+'''Bitstram Pro''' is a rack mountable MIDI mixer/controller created in 2001
+
+{{stub}}
+
+[[category:synths]]
+[[category:MIDI controllers]]
