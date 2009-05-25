@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices (4 when doubled)
+*Oscillators - 2 DCO's
+*LFO - Sine wave only w/ speed & delay and route to osc. or filter
+*Filter - One VCF
+*VCA - 3 ADBSSR Digital Envelope Generators
+*Keyboard - 49 keys
+*Memory - 64 patches
+*Control - MIDI IN/OUT/THRU
+*Date Produced - 1983/84
+|}
+
+The '''Poly-800''' is an 8 voice 49 key synthesizer created in 1983/84
+
+{{stub}}
+
+
+
+
+[[category:Korg|Poly-800]]
+[[category:synths]]
