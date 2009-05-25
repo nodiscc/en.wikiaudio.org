@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 sub-osc, 2 oscillators with Pulse and Sawtooth waveforms. Can be modulated by ENV2, LFO. PWM source modulated by ENV2, manually, or by an internal LFO.
+*LFO - 2 LFO's with random, triangle, and sawtooth waveforms
+*Filter - 12dB / 24dB switchable resonant low-pass with cutoff, resonance, env mod, key follow
+*VCA - 2 ADSR envelopes with velocity depth and auto-glide, single- or multi-triggering
+*Keyboard - None
+*Memory - 50 presets, 150 user program
+*Control - MIDI and CV/GATE in/out; Arpeggio clock out
+*Date Produced - 1997
+|}
+
+The '''Super Bass Station''' is a rack mount bass synth created in 1997 by Novation
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Novation|Bass Station]]
