@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono input / Stereo output
+*Oscillators - None
+*LFO - 0.1 Hz to 250 Hz
+*Filter - None
+*VCA - None
+*Keyboard - None
+*Memory - None
+*Control - CV/Gate for LFO rate, LFO amount, LFO waveform, Phaser resonance and Phaser sweep
+*Date Produced - 1999
+|}
+
+The '''Moogerfooger MF-103''' is a 12 stage analog phaser effects box created in 1999.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Moog|Moogerfooger MF-103 12-Stage Phaser]]
+[[category:outboard processors]]
