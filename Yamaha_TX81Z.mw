@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 8 notes
+*Oscillators - 4-Operator Digital FM synthesizer
+* Number of Instruments - 8 parts
+*Filter - None
+*Effects - Built-In Pseudo-Effects: Reverb by envelope modulation, Delay by re-triggering on free voices
+*Keyboard - None
+*Memory - 128 patches, 32 user, 24 performance setups
+*Control - MIDI (w/ Velocity and Aftertouch)
+*Date Produced - 1987
+|}
+
+The '''Yamaha TX81Z''' is an 8 voice rack mount FM synthesizer produced in 1987
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|TX81Z]]
