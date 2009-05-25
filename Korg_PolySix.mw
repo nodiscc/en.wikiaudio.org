@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 Voices
+*Oscillators - 1 VCO per voice (saw, PW, PWM) + 1 sub-oscillator per voice
+*LFO - 1 LFO assignable to VCA,VCF or VCO
+*Filter - Low-pass only, self-oscillates at high resonance. ADSR envelope for VCF filter.
+*VCA - VCA uses filter's ADSR envelope or simple gate on-off
+*Effects - Chorus, phaser, ensemble
+*Memory - 32 patches
+*Keyboard - 61 keys
+*Arpeg/Seq - Arpeggiator (Up, Down, Up/Down, Latch; Full, 2-oct, 1-oct; rate 0.2 to 20 Hz)
+*Control - Chord memory, Arpeggiator sync in, CV input for VCF filter cutoff.
+*Date Produced - 1981
+|}
+
+
+The '''Korg PolySix''' is a six voice analog synthesizer produced in 1981
+
+{{stub}}
+
+[[category:Korg|PolySix]]
+[[category:synths]]
