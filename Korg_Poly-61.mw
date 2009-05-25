@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 6 Voices
+*Oscillators - DCO1:sawtooth, pulse, and square; DCO-2: sawtooth, square
+*LFO - 1 LFO can modulate the DCOs or the Filter
+*Filter - 1 lowpass filter w/ ADSR
+*Memory - 64 patches
+*VCA - ADSR
+*Keyboard - 61 keys
+*Arpeg/Seq - Arpeggiator with external sync
+*Effects - Chorus
+*Control - MIDI (on later Poly-61M models)
+*Date Produced - 1982 - 1986
+|}
+
+The '''Korg Poly-61''' is a 6 voice polyponic analog synthesizer produced between 1982-1986
+
+{{stub}}
+
+[[category:Korg|Poly-61]]
+[[category:synths]]
