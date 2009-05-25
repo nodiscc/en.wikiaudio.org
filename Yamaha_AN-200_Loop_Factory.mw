@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 5 voices (synth); 32 voices (AWM2)
+*Oscillators - Analog Modeling - Tone Generator: 2 VCO (sawtooth, variable pulse, mix, multi-saw, OSC Sync, FM); White Noise; Sub Synthesizer: AWM2 (120 Drum and Rhythm Sounds)
+*LFO - 1 LFO modulates Pitch or Filter with up to 21 waveforms (5 sine, 5 triangle, 3 square, 4 saw, 4 sample-and-hold)
+*Filter - FEG - Resonant multimode filter for synth (12-, 18-, 24dB/oct lowpass, 12dB/oct highpass, bandpass, band-reject), 1 resonant lowpass filter for each AWM2.
+*VCA - AEG - 2 ADSR amp envelopes; PEG - 1 AD pitch envelope
+*Keyboard - 16 rubber pads (not velocity sensitive)
+*Effects - 13 types (delay, flanger, phaser, overdrive/amp simulator, distortion, EQ), Ring Mod, Portamento
+*Sequencer - 16 steps x 4 parts per pattern; 1 track for Synth, 3 tracks for AWM2 drum sounds; 10 songs capacity
+*Memory - 256 Preset Patterns, 128 User Patterns; 10 Songs; 2 Scene Memories per Pattern
+*Control - MIDI IN/OUT(Int/Ext Clock)
+*Date Produced - 2001
+|}
+
+The '''Yamaha AN-200 Loop Factory''' is a desktop analog synthesizer and sequencer produced in 2001
+
+{{stub}}
+
+
+
+[[category:synths]]
+[[category:Yamaha|AN-200 Loop Factory]]
