@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 8 voice (10)
+*Oscillators - 64 ROM wavetables and waveform samples
+*Memory - 64 internal patches, 64 external card (256 user / 128 performance)
+*Filter - Microwave I - Analog 24 dB Lowpass filter Microwave II - Digital 6/12/24 dB Low/Hi/Band/Notch filter
+*VCA - 4 envelopes
+*Keyboard - none
+*Arpeg/Seq - Programmable rhythmic arpeggiator (Microwave II only)
+*Control - MIDI
+*Date Produced - 1990
+
+|}
+
+The '''Waldorf MicroWave''' is an 8 voice rack mount analog synthesizer produced in 1990
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Waldorf|MicroWave]]
