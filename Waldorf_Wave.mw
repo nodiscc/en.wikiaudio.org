@@ -1,0 +1,25 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 to 48 voices
+*Oscillators - 2 VCOs per voice + noise generator
+*Filter - Analog 24dB low pass filter, Analog 12dB high pass
+*Keyboard - 61 keys (velocity and aftertouch)
+*Memory - 256 patches, 256 performances
+*Control - MIDI
+*Date Produced - 1993
+|}
+
+The Waldorf Wave is a 16 to 48 voice digital wavetable [[synthesizer]] produced in 1993.
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:waldorf|wave]]
