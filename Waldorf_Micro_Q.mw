@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 25 voices, expandable up to 75 voices
+*Oscillators - 5 oscillators per voice (Pulse with Pulse Width Modulation, Sawtooth, Triangle, Sine, 2 wavetables with 128 waves each and sub-oscillator per alt-wave); Noise generator
+*Memory - 300 single programs, 100 multi programs, 20 drum-maps
+*Filter - 2 Filters (including FM and distortion): Low Pass (12dB/24dB), Band Pass (12dB/24dB), High Pass (12dB/24dB), Notch (12dB/24dB), Comb Filter (positive/negative feedback)
+*VCA - 4 envelopes, enhanced ADSR configuration with loop and one shot function, bipolar; different trigger modes for each envelope, poly, mono, dual, unison, manual trigger etc.
+*Modulation - 3 LFOs up to audio range; Modulation Matrix with 16 slots, freely routable, pre-routed modulation destinations, sources selectable
+*Effects - 2 effects per program, up to 5 effects in Multimode (Effects: Chorus, Flanger, Phaser, Distortion, Delay, 5 FX, Vocoder)
+*Keyboard - None
+*Arpeg/Seq - Arpeggiator with 16 preset plus 1 user pattern, including accents, timing information, swing, glide, chords and more
+*Control - MIDI In/Out/Thru (16 parts)
+*Date Produced - 2000-2001
+
+|}
+
+The '''Waldorf Micro Q''' is a 25 voice synthesizer. It comes in either a rack mount or keyboard model. 
+
+{{stub}}
+
+[[category:synths]]
+[[category:Waldorf|Micro Q]]
