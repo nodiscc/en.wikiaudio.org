@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Yes, all keys sound
+*Oscillators - 1 carrier signal + 1 input speech signal
+*LFO - Vibrato (w/ rate)
+*VCA - Mix level from dry voice to processed
+*Effects - Ensemble effect
+*Keyboard - 32 keys
+*Arpeg/Seq - None
+*Control - External pitch control CV input
+*Date Produced - 1978 - 1982
+|}
+
+The '''Korg VC-10 Vocoder''' is a 32 voice polyphonic keyboard/vocoder synthesizer 
+
+{{stub}}
+
+[[category:Korg|VC-10 Vocoder]]
+
+[[category:synths]]
