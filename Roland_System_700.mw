@@ -1,0 +1,53 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  <big>'''Roland System 700''' </big>
+This entry needs and image.Please add one here
+|-
+| style="background:#cecece;" | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators -
+**702A,B,C,D,E: VCOs with four waveforms (sine, triangle, sawtooth, and rectangle), PWM, and range knobs (LO to 2'), and a pitch control (+-12 semi-tones)
+**702A: has a PWM input and slider, and LFO1 mod input is hard-wired
+**702B: has a hard-wired ADSR1 and LFO1 modulation inputs and sync
+**702C: has a Sample & Hold and LFO1 input and sync
+**702D: like A but with a socket instead of hard-wired mod inputs
+**702E: like B&C without the hard-wired inputs
+**708A: Noise and Ring Modulators
+*LFO -
+**706A,B: LFOs (rate/delay)
+**709A,B: Sample & Hold Modules
+*Filter -
+**703B,C,D: 12dB VCFs
+**703E,F: 24dB VCFs
+**715A: Multimode Filter, Mixer
+*VCA -
+**704A,B,C,D: VCAs
+**705A: Dual Envelopes
+**707A: Envelope Follower
+*Arpeg/Seq - 717A: Analog Sequencer
+*Keyboard - 701A: 5-octave 61-note keyboard
+*Control - 712A: CV Processor
+**713A: Gate Delay
+*Effects - 720B: 2-channel Phase Shifter
+**721B: 2-channel Audio Delay
+*Misc. -
+**710A,B: Multiples
+**711A: Output module (Stereo VUs, a six-position test-tone, a Phase Shifter, a Spring Reverb, and voltage-controlled Panning)
+**714B: Frequency-to-Voltage Converter, Envelope Follower
+**716A: Mixer
+**718A: Power Supply
+**723A: Analog Switch
+*Date Produced - 1976 - 1982
+
+|}
+
+
+The '''Roland System 700''' is a modular synthesizer system created by Roland between 1976-1982
+
+{{Stub}}
+
+[[category:synths]]
+[[category:roland|System 700]]
