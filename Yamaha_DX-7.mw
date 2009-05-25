@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Type: Synth/ keyboard/
+* Synthesis Type: Digital FM
+* Polyphony: Max: 16
+* Multi-timbral (number of parts): 1
+**Oscillators per Voice :
+***Min : 1
+***Max : 2 
+* Controllers : Breath, sustain, foot 1, foot 2
+* Keyboard :
+**Number of Keys : 61
+**Can send on 1 simultaneous MIDI channels
+**Responds to : velocity, after-touch
+**Sounds can be split by : keyboard 
+*Memory :
+**Patches : 64
+**Performances : 32 
+*Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : 2
+**Number of Audio Ins :
+**Number of MIDI Outs (excluding Thru) : 1
+**Number of MIDI Ins : 1
+|}
+
+ 
+The '''DX7''' is polyphonic synthesizer created by Yamaha and released in 1984
+
+{{stub}}
+
+
+[[category:synths]]
+
+[[category:Yamaha|DX7]]
