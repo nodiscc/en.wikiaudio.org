@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Korg MS-20.jpg|thumb|center]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Synthesis type: 	Analog subtractive
+*Polyphony: 	Monophonic
+*Timbrality: 	Monotimbral
+*Oscillators: 	2 VCOs per voice
+*Filter: 	2 high-pass/low-pass
+*Attenuator: 	2 VCA
+*2 envelopes
+*LFO: 	1
+*Keyboard: 	37 keys
+*Velocity sensitive: 	no
+*Aftertouch: 	no
+*External control: 	CV/Gate
+*Memory: 	none
+*Onboard effects: 	none
+*Produced: 	1978 - 1983
+|}
+
+The '''Korg MS-20''' is a patchable semi-modular monophonic synthesizer which Korg released in 1978 and was in production until 1983. It was part of Korg's MS series of instruments, which also included the single oscillator MS-10, the keyboardless MS-50 module, and the SQ-10 sequencer. Additional devices included the MS-01 Foot Controller, MS-02 Interface, MS-03 Signal Processor, MS-04 Modulation Pedal and VC-10 Vocoder.
+
+Although the MS-20 follows a conventional subtractive synthesis architecture of oscillators/filter/vca, its patch panel allows some rerouting of both audio and modulation, and it includes an external signal processor.
+
+{{stub}}
+
+[[category:korg|MS20]]
+[[category:synths]]
