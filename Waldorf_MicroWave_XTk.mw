@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 10 voices (expandable to 30)
+*Oscillators - 2 oscillators per voice, 64 ROM wavetables, 32 RAM wavetables, 64 waves per wavetable, 500 waves
+*Memory - 256 sounds, 128 multi-patches
+*Filter - 2 multi mode filters, filter 1: low pass 12dB/24dB, band pass 12dB, high pass 12dB and more; filter 2: low pass 6dB, high pass 6dB; Filter envelope ADSR
+*LFO - 2 LFOs with MIDI sync
+*Keyboard - 49 velocity sensitive keys with aftertouch
+*Arpeg/Seq - Arpeggiator with MIDI sync
+*Control - MIDI
+*Date Produced - 1999
+
+|}
+
+The '''Waldorf MicroWave XTk''' is a 10 voice 49 key synthesizer produced in 1999
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Waldorf|MicroWave XTk]]
