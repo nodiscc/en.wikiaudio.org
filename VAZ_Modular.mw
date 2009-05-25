@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices per synth, 16-part multitimbral (up to 256 voices, depending on CPU speed)
+*Oscillators - Granular osc; Simple osc (sawtooth/square); Multi-osc (saw plus 4 pulse waves); Noise; Wavetable waves samples; Samples from WAV files
+*LFO - 1 LFO module; 1 multi-phase LFO; 1 SINE LFO; 1 TRIANGLE LFO; Sample and Hold
+*Filter - Comb filter; Decimator; Equalizer; Multimode filter; One-pole filter; Vowel filter; State-variable filter
+*Effects - Chorus, Delay, Flanger, Phaser, Reverb, Overdrive, Ring Modulator
+*Control - MIDI, CV/GATE, QWERTY Keyboard
+*Macintosh - Not Supported
+*Windows/PC - Pentium 200MHz, Windows 95/98, 16Mb RAM, accepts DirectX or VST plug-ins
+*Date Produced - 1998-2000
+|}
+
+The '''VAZ Modular''' is  windows based software synthesizer created between 1998-2000
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:software instruments]]
