@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony -
+Motif: 62 Notes.
+Motif ES: 128 Voices.
+Motif MO: 64 Voices.
+Motif XS: 128 Voices.
+All models expandable with Modular Synthesis Plug-in System boards.
+*Oscillators - AWM2 (sample playback).
+**Motif: 84MB Waveform ROM (1,309 mutisamples and drum samples).
+**Motif ES: 175MB Waveform ROM (1,859 mutisamples and drum samples).
+**Motif MO: 175MB Waveform ROM (1,859 mutisamples and drum samples).
+**Motif XS: 355MB Waveform ROM (2,670 mutisamples and drum samples).
+*Sampler - 4MB (expandable to 64MB via 32MB SIMM x 2 Slots); Sample Rates: 5.5125 - 48kHz, 20-bit stereo.
+*Sequencer - 16-Track, 110,000 notes, 64 songs, 1024 patterns; 128 ROM/256 user phrases; 480 ppqn; SMF import/export. Formats: Akai S1000/3000, Yamaha A3000/4000/5000, AIFF, WAV.
+*Arpeggiator - 256 Preset Patterns, 128 User Patterns.
+*Filter - 1 4-pole resonant multi-mode with 21 types.
+*Effects - Reverb, Chorus, Insertion FX types, Master Effects section, Master Equalizer (5 bands).
+*Keyboard - 61, 76, and 88 key versions. The 88-key version are weighted/hammer-action. All models feature velocity and aftertouch.
+*Memory -
+**Motif: 348 presets + 48 kits, 128 user, 128 performances, 128 master
+**Motif ES: 768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+**Motif MO: 640 presets + 64 kits, 256 user + 32 kits, 256 performances
+**Motif XS: 1024 presets + 64 kits, 384 user + 32 kits, 384 performances
+*Control - MIDI In, Out, Thru (16-parts multitimbral)
+*Date Produced -
+**Motif: 2001
+**Motif ES: 2003
+**Motif MO: 2006
+**Motif XS: 2007
+
+|}
+
+The '''Yamaha Motif''' is a series of music workstations, first released by Yamaha Corporation in August 2001.
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|Motif]]
