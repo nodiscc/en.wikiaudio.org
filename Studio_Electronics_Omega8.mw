@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices: (Unison mode 1, 2, 4, 6, or 8 voices)
+*Oscillators - 2 analog oscillators + 1 sub-osc. Waveforms: triangle, sawtooth and variable width square. Osc 2 to Osc 1 sync. White noise generator
+*LFO - 3 LFO's: (LFO3 fixed to voice panning) Waveforms: triangle, sawtooth, reverse sawtooth, square, noise, random. Controls: range, delay, key trigger, phase, mode (mono or poly), quantize, and midi sync.
+*Filter - 2 analog filters: 24dB lowpass (Moog) and 12db (Oberheim) low pass, bandpass, high pass, band reject modes. Filters do not operate in series or parallel. Up to four different filters available for each voice. Current additional filters available: Roland 303 and ARP 2600.
+*VCA - 3 multi-stage envelope gens w/ ADSR. Envelopes 1&2 have additional delay, decay2, and breakpoint parameters. Env 1 to filter freq., Env 2 to amp level; Env 3 assignable to 3 more destinations.
+*Keyboard - None
+*Memory - 256 sound patches,128 multi patches in RAM
+*Control - MIDI (8-part)
+*Date Produced - 2000
+
+
+|}
+
+The '''Studio Electronics Omega8''' is an 8 voice rack mount analog synthesizer produced in 2000
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Studio Electronics|Omega8]]
