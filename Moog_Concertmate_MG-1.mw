@@ -1,0 +1,49 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[file:Moog_Concertmate_MG-1.png‎|thumb|center]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Synthesis type: 	Analog Subtractive
+*Polyphony:Monophonic, 8-voice section
+*Oscillators: 	3 (2 mono, 1 poly)
+*Filter: 	low-pass
+*Attenuator: 	ASR
+*LFO: 	1
+*Keyboard: 	32 keys
+*Left hand control: 	none
+*External control: 	CV/Gate
+*Memory: 	none
+*Onboard effects: 	Ring modulation
+*Produced: 	1981
+|}
+
+
+The '''Moog Concertmate MG-1''' is an analog synthesizer made by Moog Music and was distributed by Radio Shack under their "Realistic" brand name. The MG-1, on its surface, appears to be a "Realistic" branded synth, but it is, for all intents and purposes, a genuine Moog synthesizer. Being similar to the Moog Rogue it has the following features:
+
+* Two oscillators, one producing either a Square or Sawtooth waveform, with the other producing either a Pulse or Sawtooth waveform.
+* One low pass filter/VCF, that can use the envelope generator, has limited keyboard tracking, and is capable of self oscillation.
+* Limited envelope generator with variable attack and release, and a switchable sustain (no decay).
+* Oscillator 2 can be tuned independently or synced to oscillator 1.
+* Noise generator.
+* Ring modulator (called "Bell Tone").
+* Polyphonic oscillator capable of 8-note polyphony. This oscillator is routed through the filter, but not through the envelope generator or LFO.
+* LFO that can modulate the oscillators and the filter using a triangle, square or random waveform
+* Portamento (called "Glide")
+* External Control inputs for pre-MIDI CV/Gate.
+
+The polyphony features of this synth are of particular interest, as it was a rare feature at the time it was released. The polyphony section is independently tunable, and acts as a third oscillator, sounding like a square wave (described as a "cheesy organ sound" by some). All of the sound-generating features come together in a mixer, allowing the levels the monophonic oscillators, noise, ring modulation and polyphony to be adjusted independently. Since the polyphony section is independently tunable, it can function as a rudimentary third oscillator, allow the user to create more complex tones than on similar 2-oscillator synths.
+
+Since this synthesizer was branded as Radio Shack, it has some peculiar features geared toward the consumer market at which it was targeted. While the front of the unit had a stereo 1/4" headphone jack (which is just a mono mix), the rear has two RCA plugs as the main output. The rear panel also features an input jack (again, using RCA connectors) that simply feed into the output of the synth (presumably for the Radio Shack customer to play along to an external sound source).
+
+Additionally, the synth's features aren't labeled using the standard synthesizer nomenclature, instead using more "laymen friendly" terms such as "Tone Source" for the oscillators, "Contour" for the envelope and "Rise Time" for the Attack Time.
+
+It also lacks a mod wheel and pitch wheel, reducing its live performance options. Still, this synth fetches a decent price on eBay, and is sought-after as an inexpensive way to get the famed "Moog Bass" sounds. It is also somewhat infamous in analog synth circles for having black foam insulating the interior which did not keep well over time, turning into a black sludge which clogs the various moving parts in the synth (so much so that entire replacement switches and faders can be bought on eBay, specifically for this synth).
+
+
+[[category:Synths]]
+
+[[category:moog|MG]]
