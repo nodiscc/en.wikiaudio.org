@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 2 DCOs per voice (12 osc. total), sawtooth and pulse waveforms; (6 VCOs on original versions)
+*LFO - 3 LFOs can control DCO, VCO or both
+*Filter - Resonant w/ ADSR
+*VCA - ADSR
+*Keyboard - 61 keys (responds to velocity)
+*Memory - 95 patches
+*Control - MIDI (1-part only, and found in later models only)
+*Date Produced - 1984
+
+|}
+
+The '''Siel Opera 6''' is a 6 voice 61 key synthesizer produced in 1984
+
+{{stub}}
+
+[[category:synths]]
+[[category:Siel|Opera 6]]
