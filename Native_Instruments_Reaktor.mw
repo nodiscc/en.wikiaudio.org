@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Variable, depends on CPU speed and complexity of patch
+*Synthesis - Over 200 basic modules and a comprehensive macro library for building up instruments from scratch. Analog modeling, FM synthesis, sample-playback, granular synthesis. Libraries with hundreds of instruments and thousands of presets available separately.
+*Sampler - Variable 22kHz to 132kHz! AIFF and WAV sound formats supported
+*Sequencer - 6-step, 8-step, 12-step and 16-step sequencer modules
+*Memory - Unlimited, saves to disk
+*Windows/PC - Windows 98/ME/2000, Pentium 300 MHz, 64 MB RAM
+*Macintosh - Mac OS 8.6 through Mac OS X, PPC 300 MHz, 64 MB RAM
+*Interfaces - AudioUnits, RTAS, CoreAudio, CoreMidi, ASIO, Sound Manager, MME, DirectSound, VST 2.0, MAS, FreeMidi, DirectConnect and DXi
+*Date Produced - 1999 - 2004
+
+|}
+
+'''Reaktor''' is a software-based modular real-time synthesizer, sampler and effects processor.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|Reaktor]]
+[[category:software instruments]]
