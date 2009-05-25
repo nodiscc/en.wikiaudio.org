@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - CPU Dependent
+*Oscillators - 6 FM Operators with 32 waveforms plus 1 distortion Operator and 1 dual resonant multimode filter Operator (with low/band/highpass)
+*LFO - 2 LFOs per voice, 32 waveforms each (same as in Operators), Sample-and-Hold, Modulation Matrix
+*Keyboard - 6-octave 73-note simulated keyboard (complete 12-octave 145-note keyboard range)
+*Effects - Stereo effects section with chorus, flanger delay, can be used for external audio signals; Unison mode, Portamento
+*Interfaces - Runs stand-alone with ASIO, MME, DirectX, Sound Manager, or as a plug-in using VST-2.0, MAS, DXi, Core Audio, RTAS, and DirectConnect
+*Macintosh - Mac OS 8.6 or higher, G4 400 MHz, 128 MB RAM, OMS or FreeMIDI
+*Windows/PC - Windows 98/ME/2000/XP, Pentium 450 MHz, 128 MB RAM, 16 bit sound card
+*Date Produced - 2002
+
+|}
+
+'''FM7''' is a software synthesizer created by native instruments in 2002.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|FM7]]
+[[category:software instruments]]
