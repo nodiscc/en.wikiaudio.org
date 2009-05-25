@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 1 VCO per voice (square and saw plus PWM; 1 sub-osc with 4 wave types; noise gen)
+*Memory - 12 presets, 1 user patch
+*Filter - High- and low-pass with resonance and ADSR envelope
+*Arpeg/Seq - None
+*Keyboard - 61 keys (aftertouch)
+*Effects - Ring Modulator
+*Control - CV / Gate
+*Date Produced - 1977
+|}
+
+
+The '''Yamaha CS-60''' is an 8 voice 61 key synthesizer produced in 1977
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|CS-60]]
