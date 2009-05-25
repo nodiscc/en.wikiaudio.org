@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 VCO with PWM and tuning from 10Hz to 10kHz, External Sound-In jack (Synthesizer 101 and Expander 102), White/Pink Noise (Model 101), Ring Modulator (Model 102)
+*Filter - High-Pass filter, Low-Pass filter (Synthesizer 101 and 102 Expander)
+*VCA - ADSR envelopes (Synthesizer 101 and 102 Expander)
+*Keyboard - 37 keys (Synthesizer 101 only)
+*Arpeg/Seq - 12 x 2 step sequencer, variable gate times, series or parallel configurations (Sequencer 104)
+*Control - CV / Gate
+*Date Produced - 1975-1979
+
+|}
+
+The '''Roland system 100''' is a monophonic modular analog synthesizer consisting of various components. These are the Synthesizer 101, Expander 102, Mixer 103, Sequencer 104, and Monitor Speakers 109.It was produced between 1975-1979
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|System 100]]
