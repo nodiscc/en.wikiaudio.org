@@ -1,0 +1,25 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 oscillators with pulse and sawtooth. Can be modulated by env2 or the LFO.
+*LFO - 1 LFO (random, triangle, and sawtooth waveforms)
+*Filter - 2-pole or 4-pole switchable; 12dB resonant low-pass. Can be modulated by env2 or the LFO.
+*VCA - 2 ADSR envelopes: Env1 controls VCA, Env2 controls the vcf; envelope modes: auto-glide, single, and multi
+*Keyboard - 25 velocity sensitive keys (octave up/down buttons over 8 octaves)
+*Memory - 7 user patches, 1 manual
+*Control - MIDI
+*Date Produced - 1993
+|}
+'''Novation BassStation''' Keyboard is a 25 key monophonic analog synthesizer 
+
+{{stub}}
+
+[[category:synths]]
+[[category:Novation|BassStation]]
