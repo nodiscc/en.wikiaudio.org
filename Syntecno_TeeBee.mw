@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 VCO
+*LFO - none
+*Filter - 18dB 2-pole filter with cutoff, resonance, env mod and decay
+*Sequencer - Yes
+*Keyboard - none
+*Memory - none
+*Control - MIDI, Roland DIN Sync, CV / Gate
+*Date Produced - 1997
+
+|}
+
+The '''Syntecno TeeBee''' is a monophonic rack mount synthesizer and an emulator of the TB-303 synth
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Syntecno|TeeBee]]
