@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 28 voices
+*Oscillators - 4 per voice; Digital 4 MB of ROM sampled sounds
+*Arpeg/Seq - None
+*Filter - Digital TVF filters with cutoff & resonance
+*LFO - 2 LFOs routable to pitch, TVA amps, or TVF filters
+*Effects - Reverb, chorus, delay
+*Memory - 192 Patches (64 user), 48 Performances (16 user) - expandable via 8mb expansion boards
+*Keyboard - None
+*Control - MIDI IN/OUT/THRU (8-parts)
+*Date Produced - 1992
+|}
+
+The '''Roland JV-880''' is a 28 voice rack mount synthesizer created in 1992
+
+{{stub}}
+
+
+[[category:synths]]
+
+[[category:roland|JV-880]]
