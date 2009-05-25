@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 or 2 oscillators per module:
+M-110 VCO single oscillator (with VCA and VCF sections)
+M-112 dual VCO, with 3 CV ins, 2 outs, and weak/strong sync
+M-150 Ring Mod, Noise (pink and white), S&H (with lag), and LFO (5 waveforms with switchable range: x1, x1/10)
+*Filter -
+M-110 VCF (with VCO and VCA)
+M-121 dual VCF, with an low-pass and high-pass filters
+M-174 Parametric Equalizer, four-band, with 20Hz to 20kHz center frequencies
+*VCA -
+M-110 VCA (with VCO and VCF)
+M-130 dual VCA, with a linear/exponential switch
+M-140 dual Envelope (ADSR, invertable, and manual gate button) and LFO (5 waveforms with switchable range: x1, x1/10)
+M-141 dual Envelope, Gate Delay, and Invert/Adder
+*Keyboard -
+M-180 Keyboard, 32-note (F-C) low note priority, with transpose switch and portamento knob
+M-181 Keyboard, 49-note (C-C) same as M-180 but with added portamento switch and bender lever (with CV out)
+M-184 Keyboard, 49-note (C-C) 4-voice, with switchable mono/polyphonic, an arpeggiator, and polyphonic portamento
+*Arpeg/Seq - M-182 Analog Sequencer, 2 X 8 step, serial or parallel modes
+*Effects -
+M-170 Pitch/Voltage Converter, Envelope Follower, and Audio Amp
+M-172 Phase Shifter, Audio Delay, LFO, Gate Delay
+*Misc. -
+M-131 Mixer, 4 X 2 X 1, with panning and a tuning oscillator (220/440/880Hz)
+M-132 dual Mixer and Voltage Processor
+M-190 three-module rack with connection sockets at the base
+M-190B base unit that elevates the 190 above a keyboard
+M-191 five-module rack
+M-191J five-module rack with multiple connectors on its base
+*Control - CV / Gate:
+M-160 Computer Interface
+M-165 Double Portamento Controller, with CV in
+M-173 Quadruple Signal Gate and six 4-way Multiples
+*Date Produced - 1979 - 1984
+
+|}
+
+The '''System 100m''' is a modular synthesizer created by Roland between 1979-1984.The System 100m offered over 20 modular components to design a custom modular set-up from.
+
+
+{{stub}}
+[[category:synths]]
+[[category:roland|System 100m]]
