@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Modules - Classic Analog VCO, Sequantizer; The Waveform City, Envelator, Mixolator, Filter and the new Borg Filter
+*Oscillators - Classic VCO module: 1 osc with 5 analog waveforms, A/R Envelope Generator and VCA; Waveform City module: 3 analog waveforms, digital non-linear function generator, A/R Envelope Generator and VCA
+*VCA/LFO - Envelator module: 2 Multi-mode envelope generators/oscillators, voltage "crossfader" which will work both for control voltages and audio signals; Mixolator module: 2 Multi-function circuits that provide VCA, crossfade, segue and balanced modulator (LFO) functions
+*Filter - VCF FIlter: 4-input voltage-controlled, multi-mode, multi-output analog filter; Borg Filter module: 2 seperate Vactrol-based Borg filters w/ Freq, Peak, Type, Mod, 2 LFOs w/ Speed control
+*Arpeg/Seq - Sequantizer module: 8 step analog sequencer, voltage quantizer, control voltage mixer and transposer
+*Keyboard - None
+*Memory - None
+*Control - CV / Gate
+*Date Produced - 2000
+
+|}
+
+The '''Wiard Modular''' is a modular analog synthesizer system produced in 2000
+
+{{stub}}
+
+[[category:synths]]
+[[category:Wiard|Modular]]
