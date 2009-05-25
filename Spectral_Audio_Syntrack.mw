@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - Wavetable Oscillator with 100 Waves (expandable to 200)
+*LFO - Yes
+*Filter - Analogue 24 dB Cascade Filter with Resonance and Self oscillation
+*VCA - Release, Decay, Level, Distortion
+*Memory - 99 Programs (1 .. 29 = Presets, 30 .. 99 = User Programs)
+*Keyboard - None
+*Arpeg/Seq - None
+*Control - MIDI In / Out / Thru
+*Date Produced - 1998 - 2008
+
+|}
+
+The '''Spectral Audio Syntrack''' is a monophonic rack mount synthesizer produced between 1998-2008
+
+{{stub}}
+
+[[category:synths]]
+[[category:Spectral Audio|Syntrack]]
