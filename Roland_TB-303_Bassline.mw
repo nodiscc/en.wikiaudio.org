@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 VCO : Sawtooth or Square waveforms. Tuning control pot.
+*Filter - 18dB/oct lowpass resonant filter with controls for cutoff, resonance, and envelope amount
+*VCA - Control pots for Decay time and Accent intensity
+*Sequencer - Patterns: 64; Songs: 7
+*Effects - None
+*Keyboard - none
+*Control - CV / GATE / DIN Sync
+*Date Produced - 1982-84
+
+|}
+
+The '''Roland TB-303 Bassline''' is a monophonic analog bass synthesizer produced between 1982-1984
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|TB-303 Bassline]]
