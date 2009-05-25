@@ -1,0 +1,64 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Sequential Circuits Prophet 5.jpg|thumb|center]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Synthesis type: 	Analog Subtractive
+*Analog Frequency modulation via Poly-Mod
+*Polyphony: 	5 voices
+*Timbrality: 	Monotimbral
+*Oscillators: 	2 VCOs per voice
+*Filter: 	1 lowpass
+*LFO: 	1
+*Left hand control: 	Pitch & modulation wheels
+*External control: 	CV/Gate
+*Optional factory MIDI kit
+*Produced: 	1978-1984
+|}
+
+
+The Prophet-5 was an analog synthesizer manufactured by Sequential Circuits in San Jose, California between 1978 and 1984. The Prophet 5 was groundbreaking in that it was one of the first analog synthesizers to implement patch memory, a feature which stored user settings of every parameter on the synthesizer into internal memory. It is also one of the first polyphonic synthesizers, with a maximum polyphony of 5 voices, meaning that up to 5 notes can sound at the same time.
+
+The Prophet-5 was also known for its modulation capabilities. The "Poly-Mod" feature routed the output of the filter envelope generator and the second oscillator in each voice through two mixer knobs, which could then be connected to the pulse width and pitch controls on the first oscillator, to the filter cutoff frequency control, or all three at the same time. Since the second VCO was not limited to being an LFO, this allowed the Prophet-5 to generate 2-operator FM synthesis and ring modulator-style effects, as well as complex sweeping sounds.
+
+Three revisions were produced, the first two using oscillators manufactured by Solid State Music, and the last one (Revision 3) using chips from Curtis Electronics.
+
+== SSM vs. Curtis ==
+
+The Revision 1 and 2 Prophet-5s used SSM oscillator and filter chips while the Revision 3 instruments used the CEM chips. There is still much debate about whether the earlier SSM oscillators produced a richer, more musical timbre. The instability of the early SSM-based Prophets, however, renders this debate moot for all but owners who are either technical enough to tweak or maintain their own Revision 1 or 2 instruments, or wealthy enough to pay a dwindling breed of analog synth technicians to do it for them. The most common and stable of the three revisions was the Revision 3.
+
+
+== Users ==
+The Prophet 5 is prized by amateurs and professional musicians alike for its excellent bass sounds and sound effects, as well as its uniquely warm sound that is characteristic of all synthesizers Sequential Circuits manufactured during its short lifetime. The Prophet 5 has been used by many famous artists including Roxy Music (on their albums Flesh + Blood and Avalon), Paul Carrack of Squeeze (and Roxy Music), Dieter Bohlen of Modern Talking, Kraftwerk, Radiohead (especially on "Everything in its Right Place"), Public Image Ltd., Duran Duran, No Doubt, Audiodream, Vince Clarke, Talking Heads, Peter Gabriel, Gary Numan, Thomas Dolby, New Order, Michael McDonald of The Doobie Brothers on the album Minute by Minute specifically for string pads on the song "What a Fool Believes", Annie Lennox on Medusa, The Prodigy, INXS, The Cars, Split Enz, Phil Collins, David Ball of Soft Cell,Dollar, Richard Barbieri of Japan, David Lebolt and Rob Sabino with David Bowie, Icehouse (e.g. the pads on "Great Southern Land"), Hall & Oates, Lyle Mays of the Pat Metheny Group, Jaco Pastorius, Philip Glass, Paul Waaktaar-Savoy of A-ha, Jean Michel Jarre, Sneaker Pimps, Steely Dan, Tommy Mandel with Bryan Adams, Rupert Hine with Chris de Burgh, Thompson Twins, John Foxx, Rick Wakeman, Uwe Fahrenkrog-Petersen with Nena, Orchestral Manoeuvres in the Dark (especially on their albums Dazzle Ships and Junk Culture), Tony Banks extensively on various albums by Genesis, Richard Wright, Kitaro, Level 42, Eurythmics, Pet Shop Boys, filmmaker/ composer John Carpenter, director/ composer John Harrison (most notably on the 1982 horror anthology film Creepshow ,Yellow Magic Orchestra, and Men Without Hats in almost all of their albums. One of its best remembered appearances is probably in "Bette Davis Eyes" by Kim Carnes. The Prophet 5 was also used by Keff McCulloch during the late 1980s, who compared it to a "real keyboard."
+
+
+
+== Other versions ==
+Sequential Circuits also manufactured a double version of the Prophet-5 called the Prophet-10, which featured 10 voice polyphony and two keyboards, stacked on top of each other.
+
+Yamaha developed and manufactured a daughter board known as the PLG150-AN which was based on the Prophet 5. It is a 5 note polyphonic Analogue Physical Modelling Plug-in board for expansion of the sound set of many of Yamaha's synthesizer keyboards such as the Motif and sound modules such as the MU128.
+
+Arturia developed and markets a "virtual" version of the Prophet 5 called the Prophet V which also includes the Prophet VS. In this version, characteristics from both synthesizers can be used simultaneously in a "hybrid" mode.
+
+Native Instruments developed and markets a Virtual Studio Technology (VST) version of the Prophet 5 called "Pro-53" (previously released as "Pro-52"). This software simulates the look and sound of the Prophet 5, and is programmed similarly.
+
+Creamware developed and manufactures a "virtual" version of the Prophet 5 called the "Pro-12". This version has an SSM filter emulation. Creamware has also developed and manufactures a hardware version of the Pro-12 called the Pro-12 ASB.
+
+Dave Smith Instruments in order to celebrate the 30th anniversary of the Prophet have developed the Prophet '08, an 8-voice analog synthesizer. Dave Smith was one of the original developers of the Prophet 5.
+
+[[category:synths]]
+[[category:Sequential Circuits|P]]
+
+
+
+
+
+
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article This http://en.wikipedia.org/wiki/Sequential_Circuits_Prophet_5
