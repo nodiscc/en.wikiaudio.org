@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 to 32 voices
+*Oscillators - 3 per voice (sawtooth, triangle, sine, PWM, new oscillator algorithms, waves and a noise generator)
+*Memory - 300 single programs, 100 multi programs
+*Filter - 2 12dB/24dB Filters (Low pass, band pass, hi pass, notch, comb, ring mod and more; FM and distortion)
+*VCA - 4 envelopes (ADSR with loop and one shot function, bipolar)
+*Keyboard - 61 notes (velocity and aftertouch)
+*Arpeg/Seq - Arpeggiator: Many user patterns (accents, timing, swing, glide, chords and more); Sequencer: 100 user patterns; 32 steps per pattern, polyphonic
+*Control - MIDI (16 parts), CV
+*Date Produced - 1999
+|}
+
+The '''Waldorf Q''' is a 16 to 32 voice 61 note synthesizer. Additionally the waldorf Q also comes in a rack mount version and an extended feature version called the Waldorf Q+.The Waldorf Q+ adds additional filters and up to 100 voice polyphony.
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Waldorf|Q]]
