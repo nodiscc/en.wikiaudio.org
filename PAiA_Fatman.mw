@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 with sawtooth waveforms
+*LFO - None
+*Filter - 1 low-pass resonant A(S)R 12dB/Oct
+*VCA - ADSR
+*Keyboard - None
+*Effects - None
+*Arpeg/Seq - None
+*Memory - None
+*Control - MIDI, CV Out (V/Hz) compatible w/ Korg, Yamaha and PAiA gear (velocity/pitch/gate)
+*Date Produced - 1992 - present
+|}
+
+The '''PAiA Fatman''' is a DIY (Do-it-yourself) monophonic rack mount synthesizer. 
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:PAiA|Fatman]]
