@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 Voices
+*Oscillators - 4 per voice ( 4 x 64 voices), 32 bit custom RISC chips for Digital Acoustic simulation; 512 on-board waveforms (plus up to two 8MB SRJV80 series expansion boards)
+*LFO - 2 MIDI syncable LFOs
+*Filter - TVF (lowpass, bandpass, high pass) with cutoff, resonance, key follow and velocity sensitivity
+*Effects - Reverb, Chorus and 40 multi-EFX
+*Memory - 1,406 patches, including all sounds from the "Session", "Orchestral" and "Techno" wave expansion boards, 28 Rhythm kits.
+*Keyboard - 61 keys with velocity and aftertouch sensitivity
+*Arpeg/Seq - Advanced Arpeggiator capabilities derived from the XP-60/80
+*Control - MIDI In/Out/Thru (16-parts)
+*Date Produced - 1999-2002
+
+|}
+
+The '''Roland XP-30''' is a 64 voice 61 key synthesizer produced between 1999-2002
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|XP-30]]
