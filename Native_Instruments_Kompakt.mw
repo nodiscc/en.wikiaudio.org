@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Up to 256 voices, 8-part multitimbrality
+*Sampler - Supports Kontakt instruments, Akai S-1000/3000, Gigasampler, SD2, EXS, AIFF and WAV, from 8 to 32 bits and up to 192 kHz.
+*LFO - 4 LFOs.
+*Filters - 6 Filter types: 2-pole LP, 4-pole LP, 6-pole LP, 2-pole HP, 2-pole band reject and 2-pole BP. Master Filter with low pass, high pass, band pass and 3-band EQ.
+*Envelopes - 3 Envelopes: AHDSR envelopes for amplitude and filter, plus an additional envelope that can be assigned to pan, tune, filter resonance, LFO speed or LFO amount.
+*Keyboard - Virtual keyboard with pitch/mod wheels
+*Effects - chorus, reverb, and delay
+*Interfaces - Runs stand-alone with ASIO, Core Audio, SoundManager, or as a plug-in using VST-2.0, Audio Units, RTAS, DXiII, MME, Direct Sound.
+*Macintosh - Minimum: Mac OS 9.2 or higher, G3 500 MHz, 256 MB RAM, 2.2 GB free hard disc space. Recommended: Mac OS 9.2 or higher, G4 733, 512 MB, 2.2 GB free hard disc space.
+*Windows/PC - Minimum: Windows XP/2000/ME/98, Pentium III/ Athlon 500 MHz, 256 MB RAM, 2.2 GB free hard disc space. Recommended: Windows XP, Pentium III/ Athlon 700 MHz, 512 MB, 2.2 GB free hard disc space.
+*Date Produced - 2003
+|}
+
+
+
+'''Kompakt''' is a multi-instrument sample player created by Native Instruments and released in 2003
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Native Instruments|Kompakt]]
+[[category:software instruments]]
