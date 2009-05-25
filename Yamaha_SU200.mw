@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 6 voices
+*Oscillators - None
+*Sampler - 896 KB Memory; Sample Rates: 44.1kHz, 22.05kHz, 11.025kHz, 5.5125kHz (approx. 42, 84, 168, 333 seconds sample times in mono, respectively); Stereo or Mono modes
+*Filter - Low pass resonant filter in Effects section
+*Effects - Loop Remix, Slice, Low-pass filter with resonance, distortion/lo-fi (distortion with lo-pass filter), Delay, Tech Mod (LFO)
+*Keyboard - None (8 touch pads)
+*Memory - Holds up to 24 samples; Flash RAM and SmartMedia 3.3v offline storage
+*Control - MIDI IN only
+*Date Produced - 2000
+
+|}
+
+The '''Yamaha SU200''' is a 6 voice desktop sampler produced in 2000
+
+{{stub}}
+
+[[category:synths]]
+[[category:samplers]]
+[[category:drum machines]]
+[[category:Yamaha|SU200]]
