@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Polyphony - n/a
+* Multitimbral - Dual-filters
+* LFO - YES, modulates filter or envelope
+* Filter - 24dB/oct 4-pole low-pass / band-pass / hi pass / notch filter with resonance and ADR envelope
+* VCA - ADSR
+* Keyboard - None
+* Memory - None
+* Control - MIDI
+* Date Produced - 1997
+
+
+|}
+
+The '''Sherman FilterBank''' is a desktop filter effects module
+
+{{Stub}}
+
+[[category:synths]]
+[[category:outboard processors]]
+[[category:Sherman|FilterBank]]
