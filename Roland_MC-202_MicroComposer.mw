@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - Single VCO : Simultaneous sawtooth and square/pulse width waveforms and 1 Sub-Oscillator
+*VCA - ADSR Envelope or gate.
+*Filter - Resonant 24dB lowpass with cutoff, res, env, mod, kybd
+*LFO - 1 sine wave with delay and rate controls
+*Memory - Volatile sequence memory using batteries or do a Cassette Tape Dump
+*Sequencer - 2 Tracks, 2,729 notes capacity
+*Control - CV/GATE and Tape/Clock/DIN Sync
+*Date Produced - 1983
+|}
+
+The '''Roland MC-202 MicroComposer''' is a monophonic synthesizer/sequencer created in 1983
+
+{{stub}}
+
+
+[[category:synths]]
+
+[[category:roland|MC-202 MicroComposer]]
