@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices
+*Oscillators - Two with square, sawtooth, sine & formant waveforms plus pink/white/blue noise
+*LFO - Two with ramp, triangle, square, sine, pulse, sample + hold, random waveforms.
+*Effects - Chorus, Flange
+*Filter - 12 dB/oct resonant filter, low-, high-, or band-pass modes
+*Keyboard - None
+*Memory - 127 preset, 127 user patches, 90 multi-patches with 8 programs each
+*Control - MIDI IN/OUT/THRU (8-parts), Joystick Controller with independent socket input
+*Date Produced - 2001
+|}
+
+The '''Elevata''' is a 16 voices DSP analog modeling synthesizer created in 2001
+{{stub}}
+
+
+[[category:synths]]
+[[category:Red Sound|Elevata]]
