@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 4 voices
+*Oscillators - 8 VCO's (2 per voice) with sawtooth or variable-pulse waveforms
+*LFO - LFO with triangle wave only
+*Filter - Low, band, high, notch filter w/ resonance
+*VCA - 2 ADR envelopes
+*Keyboard - 49 keys
+*Arpeg/Seq - None
+*Memory - 16 patches via programmer module
+*Control - CV / Gate
+*Date Produced - 1975-1979
+|}
+
+The '''Oberheim Four Voice''' is a 49 key, four voice analog synthesizer created between 1975-1979.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|Four Voice]]
