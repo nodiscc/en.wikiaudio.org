@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - Physical Modeling
+*LFO - 4 LFOs, 30 Waveforms, Real-Time Modulation, 0-60Hz
+*Filter - Voice Filter: Resonant Low/Hi/Band/Notch
+*VCA - 4 envelopes
+*Keyboard - 37 keys (with velocity & aftertouch)
+*Arpeg/Seq - Arpeggiator: Programmable, Sends/Receives MIDI Clock
+*Control - MIDI
+*Date Produced - 1995
+
+|}
+
+
+The '''Prophecy''' is a monophonic 37 key synthesizer created by Korg.
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Korg|Prophecy]]
