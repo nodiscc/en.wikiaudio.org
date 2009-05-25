@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono Input, Mono/Stereo Output
+*Oscillators - n/a
+*LFO - Waveshaper: based on "Sheet-Beam Modulator" vacuum tube.PWM circuit: based on 6BQ7-family dual triode tube, produces different pulse shapes, noise bursts, or violent oscillation. Bypass-able.
+*Filter - None
+*VCA - Pentode Preamp
+*Keyboard - None
+*Memory - None
+*Control - CV input to VCA and Beam/PWM
+*Date Produced - 2000
+
+|}
+
+'''Metasonix TS-21''' HellFire is an analog, tube-based rack-module used for distortion effects.
+
+{{stub}}
+
+[[category:outboard processors]]
+[[category:synths]]
+[[category:Metasonix|TS-21 HellFire]]
