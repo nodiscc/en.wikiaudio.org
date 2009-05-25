@@ -1,0 +1,16 @@
+{{stub}}
+
+'''A-weighting''' is the most commonly used of a family of curves defined in IEC179 and various other standards relating to the measurement of perceived loudness, as opposed to actual sound intensity. The others are B, C, and D weighting.
+
+Loudness is not the same thing as sound intensity, and there is not even a simple relationship between the two, because the human hearing system is more sensitive to some frequencies than others, and furthermore, its frequency response varies with loudness, as has been demonstrated by the measurement of equal-loudness contours. In general, low frequency and high frequency sounds appear to be less loud than mid-frequency sounds, and the effect is more pronounced at low levels, with a flattening of response at high levels. Sound level meters therefore incorporate weighting filters, which reduce the contribution of low and high frequencies to produce a reading of loudness which corresponds approximately to what we hear.
+
+Four curves are defined for use at different average sound levels, but A-weighting, though originally intended only for the measurement of low-level sounds (around 40-phon) is now commonly used for the measurement of environmental noise and industrial noise, as well as when assessing potential hearing damage and other noise health effects at moderate to high intensity levels.
+A-weighting is also used when measuring noise in audio equipment, especially in the U.S.A. In Britain, Europe and many other parts of the world, Broadcasters and Audio Engineers more often use the ITU-R 468 noise weighting, which was developed in the 1960s based on research by the BBC and other organisations. This research showed that our ears respond differently to random noise, and the equal-loudness curves on which the A, B and C weightings were based are really only valid for pure single tones.
+
+[[category:acoustics]]
+[[category:measurements]]
+[[category:standards and protocols]]
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/A-weighting</small>
