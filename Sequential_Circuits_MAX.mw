@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 6 voices
+*Oscillators - 6 VCO's (saw, triangle, pulse waveforms)
+*Memory - 20 User patches, 80 presets
+*Filter - 6 24dB/oct lowpass VCF's (one per voice)
+*LFO - 1 LFO with Triangle & square waveforms. Controls VCO pitch, VCF filter, or VCA envelope
+*Keyboard - 49 Keys
+*Arpeg/Seq - Two 6-track real-time sequencers (records up to 500 notes total and 2 songs)
+*Control - MIDI
+*Date Produced - 1984
+|}
+
+
+The '''Sequential Circuits MAX''' is a 6 voice analog synthesizer produced in 1984
+
+{{stub}}
+
+[[category:synths]]
+[[category:Sequential Circuits|MAX]]
