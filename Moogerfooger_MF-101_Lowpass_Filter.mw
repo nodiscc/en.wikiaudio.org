@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono input/output
+*Oscillators - None
+*LFO - None
+*Filter - 24dB/Oct; 2-pole and 4-pole; Cutoff, resonance
+*VCA - Envelope follower; Fast, Smooth; Env Amount, Dry/Wet Mix
+*Keyboard - None
+*Memory - None
+*Controls - Filter cutoff, resonance; envelope amount, mix; plus up to 4 expression pedal inputs and external CV
+*Date Produced - 1998
+|}
+
+
+'''Moogerfooger MF-101''' is a voltage controlled lowpass filter and [[‎Envelope follower]]
+{{stub}}
+
+[[category:moog|MF-101 Lowpass Filter]]
+[[category:synths]]
