@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 analog VCOs (Sawtooth and Pulse Waves); White Noise Generator; True Ring modulator
+*LFO - 1 (Rectangle, Impulse, Triangle, Sawtooth, Sinus, Noise and Random); Wide LFO Range: 0.005 ... 3800 Hz; LFO Targets: VC01, VC02, Pulse Width of VC01, Cutoff and Panorama
+*Filter - High and Lowpass Filter with Resonance, Selectable 12 or 24 dB per Octave, Accent (Decay Envelope for the Filter)
+*VCA - ADSR
+*Effects - Slide (portamento)
+*Memory - None
+*Keyboard - None
+*Arpeg/Seq - None
+*Control - MIDI In/Out, CV+Gate In/Out
+*Date Produced - 1996-2001
+
+|}
+
+The '''Spectral Audio ProTone''' is an analog rack mount synthesizer produced between 1996-2001
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Spectral Audio|ProTone]]
