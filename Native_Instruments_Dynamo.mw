@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - CPU Dependent. Macintosh ranges 5 voices on PPC 603/120 to 33 voices on G4/450. PC ranges 7 voices on 166MMX to 55 on PIII/700. Maximum number of instruments: 16. Maximum number of voices per instrument: 64.
+*Synthesis - 32-Bit Realtime Synthesis: Analog Modelling, Waveshaping, FM-, Waveset-, Granular-Synthesis, Sampling
+*Sampler - Variable 22kHz to 132kHz! Audio-Recording and WAV (PC) / AIFF (MAC) / SDII (Mac) file Import/Export.
+*Sequencer - Yes, included within the Drum Machine and Sequenced Synth Presets.
+*Memory - Unlimited, save to computer
+*Windows/PC - Windows 95/98/2000 or NT4.0, Pentium 233 MHz, 32 MB RAM, 16-bit sound card, MIDI-Keyboard (recommended).
+*Macintosh - Mac OS 8.6 or higher, PPC 604e, 250 MHz, 32 MB RAM, 16-bit sound card, MIDI-Keyboard (recommended).
+*Interfaces - ASIO, Sound Manager, MME, DirectSound, VST 2.0, MAS, DirectConnect, and FreeMidi
+*Date Produced - 2000
+
+
+|}
+
+
+'''Native instruments Dynamo''' is a "lite" version of Reaktor and was released in 2000
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|Dynamo]]
+
+[[category:software instruments]]
