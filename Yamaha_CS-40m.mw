@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - (2-voices) Duophonic
+*Oscillators - 2 VCO's + noise gen. Triangle, Sawtooth, Square (Pulse) waveforms.
+*LFO - Waveforms: sine, up-ramp, down-ramp, square, and sample-and-hold.
+*Filter - multimode: Low-, Band-, High-Pass w/ cutoff, resonance, and ADSR envelope controls
+*VCA - ADSR (x5 switch)
+*Arpeg/Seq - None
+*Effects - None
+*Keyboard - 44 keys (3 1/2 octaves)
+*Memory - 20 patches via 2 banks of 10 presets; external cassette interface
+*Control - CV/Trigger outputs for each voice and CV inputs for portamento, sustain, brilliance, volume and filter.
+*Date Produced - 1980 - 1986
+|}
+
+The '''Yamaha CS-40m''' is a 2 voice 44 key analog synthesizer produced between 1980-1986
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|CS-40m]]
