@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 24 voices
+*Oscillators - 6MB of ROM waveform data (expandable to 16MB), 4 osc. per patch
+*Memory - 3 banks x 64 patches (expandable), 3 drum kits with 61 sounds
+*LFO - 2 per patch
+*Filter - TVF: Lowpass/bandpass/highpass-filters with resonance and envelopes
+*VCA - TVA envelopes and pitch envelopes
+*Effects - Delay, Reverb, Phaser, Distortion, Chorus, EQ
+*Keyboard - None
+*Arpeg/Seq - None
+*Control - MIDI (6-part + rhythm part multitimbral)
+*Date Produced - 1993
+
+|}
+
+
+The '''Roland JD-990 Super JD''' is a 24 voice rack mount synthesizer created in 1993
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Roland|JD-990 Super JD]]
