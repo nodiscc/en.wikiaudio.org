@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 2 voice (expandable to 12)
+*Oscillators - 2 per voice; Triangle, Sawtooth, Pulse Width waveforms
+*LFO - 3 LFOs (triangle, sawtooth, sample/hold)
+*Filter - 2 filters per voice; Resonant 12 dB/oct Oberheim type filter with low, band, hi pass and a 24 dB/oct Minimoog low-pass filter section
+*VCA - 4 multistage envelopes per voice
+*Keyboard - None
+*Memory - 256 patches, 256 performances
+*Control - MIDI (12 parts)
+*Date Produced - 1994
+|}
+
+
+The '''Oberheim OB-Mx''' is a 2 voice (expandable to 12) analog rack mount synthesizer created in 1994
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|OB-Mx]]
