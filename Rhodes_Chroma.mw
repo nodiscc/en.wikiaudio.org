@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 voices max.
+*Oscillators - 16 VCOs: 0-63 value mix of sawtooth and variable pulse waveforms; 16 modulation sources
+*LFO - 16 LFO waveforms
+*Filter - Switchable hi-pass or low-pass filters
+*VCA - ADSR
+*Keyboard - 64 weighted-keys with velocity (polyphonic aftertouch optional)
+*Memory - 50 patches + external cassette tape interface
+*Control - None (MIDI via retrofit)
+*Date Produced - 1982 - 1984
+|}
+
+The '''Chroma''' is a 64-note analog keyboard synthesizer produced between 1982-1984
+
+{{stub}}
+
+[[category:synths]]
+[[category:Rhodes|Chroma]]
