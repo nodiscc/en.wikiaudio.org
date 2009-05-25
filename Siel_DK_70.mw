@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 8 voices (or 4 voice 'Dual Mode' with 2 DCOs per voice)
+*Oscillators - 8 DCO's (Square / Saw-tooth).
+*Filter - VCF: 1 resonant 24dB/Octave (4 pole) Low-Pass filter
+*Envelopes - VCA: ADSR envelope, triggered by gate or LFO
+*LFO - One
+*Effects - Chorus
+*Arpeg/Seq - 2 track polyphonic sequencer
+*Keyboard - 49 keys (Split/layer)
+*Memory - 40 preset, 10 user
+*Control - MIDI In/Out/Thru
+*Date Produced - 1987
+
+|}
+
+The '''Siel DK 70''' is an 8 voice 49 key synthesizer produced in 1987
+
+{{stub}}
+
+[[category:synths]]
+[[category:Siel|DK 70]]
