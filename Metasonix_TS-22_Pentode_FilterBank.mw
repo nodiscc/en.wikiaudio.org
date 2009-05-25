@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Mono Input/Output
+*Oscillators - n/a
+*LFO - n/a
+*Filter - 4 vacuum-tube bandpass filters with resonance; staggered frequency ranges in one-octave increments, starting at 50 Hz; 1-octave range sweeping via knobs or external CV; Individual tuning controls for each filter from F to F.
+*VCA - built-in vacuum tube VCA to shape filters, usable with any external envelope generator via CV
+*Keyboard - None
+*Memory - None
+*Control - CV Input for filter sweep and VCA
+*Date Produced - 2000
+
+|}
+
+The '''Metasonix TS-22 Pentode FilterBank''' is an outboard analog filter
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:outboard processors]]
+[[category:Metasonix|TS-22 Pentode FilterBank]]
