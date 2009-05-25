@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 VCO with sawtooth waveform and pitch adjust knob
+*Vocoder - 11-bands: 100, 225, 330, 470, 700, 1030, 1500, 2280, 3300, 4700, 9000 Hz
+*Filter - No resonant filter, but can be used as 11-band filterbank to cut/boost Synthesis channel bands
+*VCA - 1 on each band of Synthesis channel and controlled internally by Envelope Detectors
+*Keyboard - None
+*Memory - None
+*Control - No external control
+*Date Produced - 2000
+
+|}
+
+
+The '''MAM VF-11''' is an 11 band analog vocoder
+
+{{stub}}
+
+[[category:synths]]
+[[category:Outboard processors]]
