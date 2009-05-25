@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 8: 1 per voice (sawtooth, triangle and square)
+*LFO - 1: programmable rate (0.25 - 20 Hz), depth, triangle, square waveforms; route to VCO, VCF, or pwm
+*Filter - 24dB/octave 4-pole lowpass resonant filter; cutoff, kybd, ADSR env
+*VCA - 2 ADSR Envelope gens
+*Keyboard - 61 keys (no velocity or aftertouch)
+*Memory - 64 patches, 64 performances
+*Control - MIDI IN/OUT (2-parts), SysEx dumping
+*Date Produced - 1985
+
+|}
+
+The '''Sequential Circuits Split 8''' is an 8 voice 61 key analog synthesizer produced in 1985
+
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Sequential Circuits|Split 8]]
