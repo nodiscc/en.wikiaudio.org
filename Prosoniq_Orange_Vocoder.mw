@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 64-bit internal processing Virtual analog synthesizer: 2 oscillators per voice 10 basic waveforms (from Pulse to Cycloid); 7 sampled sounds; Voice de-tune, pitch LFO, Oscillator hard sync and ring modulator
+*LFO - 1 LFO with depth and speed controls
+*Filter - 4-pole Low Pass filter with cutoff and resonance
+*Effects - Reverb with Mix, Decay and Density
+*Memory - Unlimited, save to hard disk
+*Macintosh - Power Macintosh or compatible system, 132 MHz or better, at least 24 MB RAM, Mac OS 7.5 or later, Cubase VST or other VST compatible host software
+*Windows/PC - Pentium, 133 MHz or better, at least 32 MB RAM, Windows 95/98/2000, Cubase VST, WaveLab (2.0 or higher), Nuendo or other VST compatible host software
+*Date Produced - 1998
+|}
+
+The '''Prosoniq Orange Vocoder''' is a VST vocoder software Plug-In.
+
+
+{{stub}}
+
+[[category:Prosoniq|Orange Vocoder]]
+
+[[category:software instruments]]
+
+[[category:synths]]
