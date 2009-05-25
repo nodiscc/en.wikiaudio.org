@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 3 analog VCO's; Waveforms: triangle, sawtooth and variable width square. Osc2&3 sync to Osc1. Noise generator.
+*LFO - 3 LFO's; Waveforms: triangle, sawtooth, reverse sawtooth, square, noise, random. Controls: delay, key trigger, phase, and midi sync.
+*Filter - 2 analog filters: 24db Lowpass (classic Moog), 12db Lowpass & Bandpass (classic Oberheim).
+*VCA - 4 multi-stage envelope generators (ADSR). Env 1 fixed to filter frequency, Env 2 fixed to amp level, Env 3&4 are assignable
+*Keyboard - None
+*Memory - 4 ROM Banks (396 locations), 4 RAM Banks (396 locations)
+*Control - MIDI
+*Date Produced - 2000
+
+
+|}
+
+The '''Studio Electronics SE-1''' is a rack mount monophonic analog synthesizer produced in 2000
+
+{{stub}}
+
+[[category:synths]]
+[[category:Studio Electronics|SE-1]]
