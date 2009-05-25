@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Unlimited (depending on CPU power)
+*Oscillators - VCO A saw/pulse, VCO B saw/tri/pulse, Noise
+*LFO - saw, tri, pulse
+*Filter - cutoff, res, ADSR env, kbd
+*VCA - ADSR Env
+*Keyboard - None
+*Arpeg/Seq - Arpeg: UP, UP/DOWN patterns; SEQUENCER: 2 patterns of pitch info only
+*Memory - Unlimited Program Memory
+*Macintosh - G3/300/128MB/OS8.6+
+*Windows/PC - 300 MHz, 64 MB RAM, Windows 95/98
+*Date Produced - 2001
+
+|}
+
+The '''Wine Country Sequential Pro One''' is a software instrument that emulates the sound of the hardware Pro one software synthesizer.
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:software instruments]]
