@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 128 voices
+*Oscillators - 4 oscillators
+*LFO - 4 LFOs
+*Filter - 2 filters: 8 pole low, band, hi, pass and notch
+*VCA - 4 envelopes
+*Keyboard - None
+*Arpeg/Seq - Designed for use under MIDI or MIDI sequencer control
+*Control - MIDI
+*OS - originally Windows 95
+*Date Produced - 1997
+|}
+
+'''Seer Systems Reality''' is a virtual analog synthesizer emulator originally created for the Windows 95 operating system. It was released in 1997
+
+
+{{stub}}
+
+[[category:synths]]
+
+[[category:software instruments]]
