@@ -1,0 +1,57 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*K2600 - 76-note semi-weighted piano-style keyboard 
+*K2600X - 88-note fully-weighted piano-style keyboard. 
+*Highly readable 60 x 240 backlit LCD display 
+*Sample RAM: Up to 128 MB via non-composite 72 pin SIMMs. 
+*Sequence/Program RAM: 486KB user-programmable battery-backed RAM, expandable to 1.5 MB via PRAM upgrade kit. 
+*Comes with 438 preset programs (238 in ROM and 200 more loaded into RAM, with back up for RAM programs on disk) 
+*Room for a total of 1000 programs in memory. 
+*Flash ROM (for software updates via floppy disk and SCSI). 
+*V.A.S.T. variable architecture synthesis with 60 DSP functions 
+*Polyphony: 48 voices. 
+*Live Mode allows real time V.A.S.T. and KDFX processing of an external signal (requires sampling option) 
+*Sampling Option with analog and digital I/O and sample-while-play 
+*KB3 Mode adds an incredible tone wheel organ emulation 
+*Full MIDI controller capabilities: Includes 8 sliders, 2 ribbon controllers, 2 button switches, 4 switch pedal jacks, 2 continuous controller jacks, breath controller jack, mod wheel (without spring), pitch bend wheel (with spring), and aftertouch - all assignable to any MIDI controller number. 
+*Extensive sample processing capabilities 
+*32-track sequencer 
+*Advanced File Management System (AFMS) 
+*Dual SCSI ports 
+*Up to 44 MB onboard ROM sounds, 12 MB base ROM plus additional 8 MBOrchestral ROM, 8 MB Contemporary ROM. 
+*Powerful KDFX digital reverb and effects 
+*DMTi Digital Multi Track interface option for data format and sample rate conversion (interfaces with Alesis ADAT and Tascam DA-88). 
+*Display: 64 x 240 fluorescent backlit display.
+
+*Power Supply: User switchable international power supply. 
+*Analog I/O: 8 balanced audio outs plus mix stereo pair (can also be used as unbalanced). 
+*600-ohm stereo headphone out. 
+*With SMP-2X sampling option: Stereo 1/4 in. unbalanced analog hi-Z input (tip/ring/sleeve); two balanced lo-Z (XLR) inputs. 
+*Digital I/O: With SMP-2X: 2 channels AES/EBU, SPDIF (via Optical and RCA)inputs and outputs. With Digital Input/Output Option: 8 channels of input and output via KDS ports. 
+*SCSI support: Two SCSI-1 25-pin connectors. 
+*Software Upgrades: User-installed upgrades via 3.5 in. DOS-compatible diskette or SCSI. Software available for download from Kurzweil's web site. DOS compatibility required. 
+*AFMS File System: User-friendly cataloging and retrieval of individual objects. 
+*Powerful utilities including: file search, info about media/available space, disk macros, startup file applications, and more. 
+Sequencer: Full-function sequencer with 16 song and 16 arrangement tracks. 
+*Offers pattern, linear, and step recording, Cut, Copy, Paste, advanced 'groove' quantizing, event list editing and other powerful editing tools. 
+*Sequences can be triggered in real time from the keyboard. 
+*Compatibility: Reads/writes Standard MIDI Files, AIFF and WAVE files. 
+*Reads libraries in Roland 700 series, Akai S900, S950, S1000, S1100, and S3000, and Ensoniq EPS, and ASR file formats. 
+*Dimensions: K2600 47.8" x 17.8" x 4.8" (121.4 cm x 45.1 cm x 12.2 cm), K2600X 54.3" x 17.8" x 4.8" (137.9 cm x 45.1 cm x 12.2 cm) 
+*Weight: K2600 55.5 lbs. (25.2 kg), K2600X 72 lbs. (32.7 kg) 
+
+|}
+
+[[category:Kurzweil|K2600]]
+[[category:synths]]
+
+The '''Kurzweil K2600''' is a 76 note keyboard workstation.
+
+{{stub}}
