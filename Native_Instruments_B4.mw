@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Unlimited (depending on CPU power)
+*Oscillators - 91 modeled tonewheels
+*Keyboard - 2 manuals and pedal keyboard; 9 drawbars per manual
+*Speaker - Emulated rotary speaker
+*Effects - scanner vibrato/chorus; tube distortion sound
+*Memory - Save Patches directly to your hard disk or as part of a VST sequence/MIDI file.
+*Macintosh - Mac OS 8.6 or higher, PPC 604, 233 MHz, 64 MB RAM VST 2, Audio Units, RTAS, Core Audio, Core MIDI, ASIO
+*Windows/PC - Windows 98/2000/ME/XP, Pentium 233 MHz, 64 MB RAM. VST 2, DXi, RTAS (XP only), ASIO, MME
+*Date Produced - 2000
+|}
+
+The '''Native Instruments B4''' is a software plug-in that emulates the  sounds of the Hammond B3 tone wheel organ
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|B4]]
+
+[[category:software instruments]]
