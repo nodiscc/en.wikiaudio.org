@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 128 stereo voices
+*Sample Formats - REX1 and REX2, AKAI S-1000/S-3000, Gigasampler, SF2, HAlion, EXS, SDII, BATTERY, LM4, AIFF and WAV from 8 to 32 bits with 44.1 to 96 kHz sample rates
+*Sampler Engine - Based on KONTAKT sampling engine with 32 bit processing and up to 96 kHz sample rate support
+*Modulation - AHDSR envelope, 2 individual syncable LFOs, Envelope Follower and a DBD pitch envelope
+*Effects - Group Filter (including 2-pole LP, 4-pole LP, 6-pole LP, 2-pole HP, 2-pole BP, and 2-pole band reject), Master Filter (HP, LP, BP and 3-band EQ), Lo-Fi, Distortion, and Syncable Delay
+*Interfaces - Runs stand-alone with ASIO and Core Audio or as a plug-in using VST 2.0, DXi, RTAS, Audio Units, and Direct Sound
+*Macintosh - Mac OS X 10.2.6 or higher, G3 500 MHz, 256 MB RAM
+*Windows/PC - Windows XP/2000/ME/98, Pentium III/ Athlon 400 MHz, 256 MB RAM
+*Date Produced - 2003
+
+|}
+
+
+
+'''Intakt''' is a loop-based software instrument created by Native Instruments and released in  2003
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|Intakt]]
+[[category:Software instruments]]
