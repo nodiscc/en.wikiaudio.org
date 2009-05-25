@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 2 Ultra-stable analog Oscillators
+*LFO - 1 LFO; Sources: 4 waveforms (saw, sqr, tri, ramp) + Filt. Env. + Osc 2, (Sample & Hold and Noise also available on Stage Edition). Destinations: Filter, Pitch, Wave, Osc. 2.
+*Filter - 1 Low Pass Filter (Classic Moog Ladder Filter) with ADSR Envelope Generator
+*VCA - 4-Stage ADSR Analog Envelope Generator
+*Keyboard - 37-note keyboard with +/-2 Octave Transpose
+*Memory - 100 user editable presets
+*Control - MIDI IN/OUT, CV (pitch, vol, filter) / Gate
+*Date Produced - 2007
+
+
+|}
+
+The '''Little Phatty''' is a monophonic synthesizer created by Moog in 2007
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Moog|Little Phatty]]
