@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Sound Generation Method: HI (Hyper Integrated) synthesis system
+* Tone Generator: HI synthesis system; 48 kHz sampling frequency, 32 Mbyte PCM ROM, 425 multisamples + 413 drum samples. Sampling; 16 bit, 48 kHz stereo/mono sampling, 16 Mbytesmemory standard, expandable to 64 Mbytes. Maximum of 1,000 multisamples / 4,000 samples. Up to 128 samples can be assigned to a multisample. AIFF, WAVE, AKAI (S1000/S3000) and Trinity sample data can be loaded. (Triton cannot load Trinity format data from TFD-1S, TFD-2S, TFD-3S and TFD-4S , since they use data-compressed data.)
+* Sound Source: 62 voices, 62 oscillators (single mode)/ 31 voices, 31oscillators (double mode)
+* Keyboard: 61 notes. All keyboards have velocity and aftertouch sensitivity
+* Effects: Stereo digital multi-effect system - 2 master effects (mono in, stereo out), 5 insert effects (stereo in / out), and 1 master EQ (stereo in / out) simultaneously
+* Number of effects: 102 (insert effects/ 89 for master effects)
+* Program/Combination: 640 programs, 512 combinations, 64 drum programs, GM Level 2 - 256 programs + 9 drum set
+* Sequencer Section: 16 timbres, 16 tracks, 1/192 resolutions, 100 preset / 100 user pattern per a song, 200 songs, 20 cues, over 300,000 notes, reads and writes Standard MIDI File (Format 0 and 1)
+* RPPR (Realtime Pattern Play / Recording): 1 set with 72 patterns available per song
+* Arpeggiator: 5 preset patterns and 232 patterns (approx. 180 preset)
+* Controllers: Joystick, Ribbon controller, 2 x Assignable switches, 4 x Assignable knobs, 3 x Arpeggiator control knobs
+* Control Inputs: Damper pedal (Responds to half-pedaling), Assignable (SWITCH, PEDAL)
+* Communication Terminal: Computer interface (to host PC)
+* MIDI: IN, OUT, THRU
+* Outputs: Main = L/MONO,R, Individual = 1, 2, 3, 4, Headphones
+* Inputs: 1, 2, Level switch LINE / MIC, Level volume
+* Floppy Disk Drive: 3.5 inch 2DD/2HD
+* Display: TouchView Graphical User Interface, 320 x 240 dots
+* Accessories: AC cord, Preload program disk TNFD-00P, TNFD-01P
+* Dimensions: 1074.4(W) x 348.5(D) x 122(H)
+* Weight: 14.2 kg 
+
+|}
+
+The '''Korg Triton''' is a music workstations and sampler.
+
+{{stub}}
+
+[[category:Korg|Triton]]
+
+[[category:synths]]
