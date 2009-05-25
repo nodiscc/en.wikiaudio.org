@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic/Duophonic (the keyboard is capable of outputting two control voltages at a time out two seperate outs)
+*Oscillators - 3 VCOS plus a White and Pink Noise generator
+*Effects - LFO, Dual Sample and Hold, Portemento, VC Phasor, Ring Modulator, Frequency Divider
+*Filter - One 2-pole resonant low/band/highpass VCF filter
+*VCA - One VCA with Two envelope generators with attack, sustain, decay plus a third one with Attack, on-time and decay.
+*Keyboard - 48 keys (on optional keyboard controller) plus a 3 bank, 8-step sequencer.
+*Memory - None
+*Control - CV / Gate / VC Filter-In; 6 pin plug on back panel ( 6=unused, 5=trigger from key, 4=keyboard control voltage, 3=10-volt-dc, 2=ground, 1=+12voltdc)
+*Date Produced - 1975-79
+
+|}
+
+
+The''' Steiner Parker SynthaSystem''' is a monophonic/duophonic 48 key synthesizer produced between 1975-1979
+{{stub}}
+
+[[category:synths]]
+[[category:Steiner Parker|SynthaSystem]]
