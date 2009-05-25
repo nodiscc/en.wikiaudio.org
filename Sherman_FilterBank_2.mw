@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+<big>'''Specifications'''</big>
+*Polyphony - n/a
+*Multitimbral - Dual 12dB/oct filters, Single 24dB/oct filter
+*LFO - Modulates filter or envelope, triangle or sawtooth waveforms
+*Filter - Dual 12 dB/oct analog multimode (lowpass, bandpass, highpass, notch); combines both for 24dB/oct cutoff slope. ADSR envelope, cutoff, resonance. Filter 2 sync to Filter 1.
+*VCA - ADSR and AR controls
+*Keyboard - None
+*Memory - None
+*Control - MIDI IN/OUT/THRU(x3), LFO restart can be triggered by MIDI notes
+*Date Produced - 2001
+|}
+
+
+The '''Sherman FilterBank 2''' is an outboard filter processing device. 
+
+{{stub}}
+
+[[category:synths]]
+[[category:outboard processors]]
+[[category:Sherman|FilterBank 2]]
