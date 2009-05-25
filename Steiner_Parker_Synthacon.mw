@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 3 VCOS (VCO1: sawtooth, sine; VCO2, VCO3: sawtooth, square, or pulse.) plus a White and Pink Noise generator
+*Effects - Sample and Hold, Portamento
+*Filter - 2-pole resonant low/band/highpass VCF filter
+*VCA - ADSR, envelope generator, Trigger Generator
+*Keyboard - 49 keys w/ controls for Tune, Scale, Portamento, Range Select (8 octave range), and pitch bend
+*Memory - None
+*Control - CV/Trigger
+*Date Produced - 1975-1979
+
+|}
+
+The '''Steiner Parker Synthacon''' is a monophonic 49 key synthesizer produced between 1975-1979
+
+{{stub}}
+
+[[category:synths]]
+[[category:Steiner Parker|Synthacon]]
