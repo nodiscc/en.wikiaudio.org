@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - Three Oscillators with variable Waveform pulse,saw and triangle
+*Memory - 59 preset, 40 user programs
+*LFO - Two LFOs, LFO1 with 5 different waveforms tri, sin, saw, pulse, sample&hold (range from 0.008 Hz to 261 Hz)
+*Filter - 24 dB lowpass filter with resonance
+*Envelopes - 2 envelopes with selectable trigger
+*Keyboard - None
+*Arpeg/Seq - Rhythmic arpeggiator
+*Control - MIDI (CV/Gate on Pulse Plus)
+*Date Produced - 1996
+
+|}
+
+The '''Waldorf Pulse''' is a [[monophonic]] rack mount [[synthesizer]] with three oscillators. It was produced in 1996
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:waldorf|Pulse]]
