@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 2 - Duophonic
+*Oscillators - VCO x2: Scale (64', 32', 16', 8', 4', 2'), Waveform (triangle, square, sawtooth, pulse, PWM), Pink Noise, White Noise; SUB OSC x2: Scale (32', 16', 8', 4', 2')
+*LFO - LFO x2: PWM + Vibrato
+*Filter - VCF x4: Traveler (High Pass, Low Pass)
+*VCA - VCA x2 + ENVELOPE GENERATOR x2: Attack Time, Singing Level, Range Selector, Mode Selector
+*Keyboard - 44 Keys
+*Memory - None
+*Control - None
+*Date Produced - 1975
+|}
+
+The '''MaxiKorg 800dv''' is a 44 key analog synthesizer produced by Korg in 1975
+
+{{stub}}
+
+[[category:synths]]
+[[category:korg|MaxiKorg 800dv]]
