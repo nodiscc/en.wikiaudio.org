@@ -1,0 +1,51 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Up to 128 stereo voices
+*Sampler - Internal 32-bit resolution and sample-accurate timing. Reads samples in the formats AKAI S-1000, SF2, REAKTOR Map, LM4, AIFF and WAV, from 8 to 32 bits
+*Drums/Samples - 54 sample cells, each with 128 velocity layers, tuning, volume envelope, pitch envelope, bit reduction, shaper and FX Loop for innovative effects. Six modulation inputs per sample cell with many drum-oriented presets. More than 20 high-quality soundsets included.
+*Keyboard - n/a
+*Effects - Reverse, Loop, FX-Loop
+*Interfaces - Runs stand-alone with ASIO, MME, Sound Manager, or as a plug-in using VST-2.0, MAS, DXi, FreeMidi and DirectConnect
+*Macintosh - Minimum: Mac OS 9.2 or OS X, G3 500 MHz, 128 MB RAM Recommended: Mac OS 10.2.6, G4 733 MHz, 256 MB RAM VST 2, ASIO, Audio Units, Core Audio, RTAS, MAS, Sound manager, DirectConnect
+*Windows/PC - Minimum: Windows 2000/XP, Pentium/Athlon 500 MHz, 128 MB RAM Recommended: Windows XP, Pentium/Athlon 700 MHz, 256 MB RAM VST 2, DXi, ASIO, MME, DirectSound
+*Date Produced - 2001
+
+----
+<big>'''Native Instruments Battery 2''' </big>
+
+''This entry needs and image.Please add one here''
+----
+<big>'''Specifications'''</big>
+
+
+*Polyphony - 256 stereo voices
+*Sampler - Internal 32-bit resolution and sample-accurate timing. Reads samples in the formats BATTERY 1, KONTAKT, INTAKT, KOMPAKT, EXS24, Gigasampler, Halion, LM4, AKAITM S-1000/S-3000, REX I & II, AIFF, WAV, SDII, SoundFont2, SampleCell
+*Drums/Samples - From 9 to 72 cells, each with 128 velocity layers, tuning, volume envelope, pitch envelope, bit reduction, shaper and FX Loop for innovative effects.
+*Keyboard - n/a
+*Effects per cell - Reverse, Voice Group/Overlap (up to 63), LFO, ADHSR Envelopes, Multimode Filters (15 types), Compressors, Loops (up to 4 per cell)
+*Interfaces - Runs stand-alone with ASIO, MME, Sound Manager, or as a plug-in using VST-2.0, MAS, DXi, FreeMidi and DirectConnect
+*Macintosh - Minimum: Mac OS X 10.2.6, G3 500 MHz, 256 MB RAM Recommended: Mac OS X 10.3, G4 733 MHz, 512 MB RAM VST, RTAS, Audio Units, ASIO, Core Audio
+*Windows/PC - Minimum: Windows XP, Pentium III/Athlon 500 MHz, 256 MB RAM 
+
+**Recommended: Windows XP, Pentium III/Athlon 1 GHz, 512 MB RAM VST, RTAS, DXi, ASIO, DirectSound
+
+*Date Produced - 2004
+
+
+|}
+
+'''Native Instruments Battery''' is a digital percussion software-sampler.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments]]
+
+[[category:software instruments]]
