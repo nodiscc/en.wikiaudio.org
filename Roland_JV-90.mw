@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 28 voices (expandable to 56)
+*Oscillators - Digital Acoustic simulation via 4MB (expandable to 14MB) of ROM
+*Arpeg/Seq - None
+*Filter - Digital filters
+*Effects - 2 effects units with chorus, reverb and delay
+*Memory - 256 Patches (can expand to about 600); 64 Performances
+*Keyboard - 76 semi-weighted keys (responds to velocity and aftertouch)
+*Control - MIDI (8- to 16-parts)
+*Date Produced - 1994
+|}
+
+The '''Roland JV-90''' is a 28 voice synthesizer created in 1994
+
+{{stub}}
+
+
+[[category:synths]]
+
+[[category:roland|JV-90]]
