@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 4 Stereo Voices
+*Sampler - 44.1kHz and 32kHz sample-rates, holds up to 1,024 samples (16 pads x 64 banks)
+*Sequencer - 64 songs, 2000 events per song
+*Filter - Filter effect: lowpass resonant, low boost; Isolator effect: isolate hi, mid or low bands
+*Effects - GrooveSampler: 99 preset patches, 99 user patches; e-Studio: 25 algorithms, 149 preset patches, 149 user patches
+*Memory - 100 MB Zip Drive (250 MB in e-Mix Studio)
+*Keyboard - None
+*Control - MIDI IN/OUT, MMC, MTC, MIDI Clock
+*Date Produced - 1998 - GrooveSampler; 2000 - e-Studio
+
+|}
+
+The '''Roland SP-808 / SP-808EX''' is a 4 (stereo) voice phrase sampler and sequencer.
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|SP-808 / SP-808EX]]
+[[category:samplers]]
