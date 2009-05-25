@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Sound Generation Method: AI2 (Advanced Integrated) Synthesis System
+* Sound Source: 64 voices, 64 oscillators (single mode); 32 voices, 64 oscillators (double mode)
+* Keyboard: 61 notes, with velocity and after touch sensitivity
+* Waveform Memory: PCM 8Mbytes
+* Effects: 2 digital multi-effect systems, 47 effects
+* Program/Combination: ROM 200 programs + GM 128 Programs + 8 drum programs/200 combinations; RAM 200 programs/200 combinations
+* Arpeggiator: 5 types, 4 octaves
+* Sequencer Section: 10 songs, 100 patterns, maximum 32,000 notes, 16 tracks, 16 timbres (Dynamic Voice Allocation)
+* Real-time Pattern Play and Record: 100 patterns, 10 pattern sets, 60 pattern assignments per set
+* Floppy Disk Drive: 3.5 inch 2HD/2DD
+* MIDI: IN, OUT, THRU
+* Display: Custom LCD display with backlit
+* Power Supply: AC, Local Voltage
+* Power Consumption: 11 W
+* Accessories: AC cord, Preload program disk
+* Dimensions: 1076.4(W) x 338.3(D) x 106.1(H) mm
+* Weight: 10.9 kg 
+
+|}
+
+The '''Korg N364''' is a 64 voice keyboard workstations
+
+{{stub}}
+
+[[Category:Korg|N]]
+
+[[category:synths]]
