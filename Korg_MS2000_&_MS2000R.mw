@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Polyphony - 4 voices
+*Oscillators - Analog Modeling Synthesis System: 2 osc. plus 1 noise generator (8 waveforms: sine, tri, saw, pulse, human voice and 64 DWGS waves)
+*LFO - 2 LFOs with sample and hold
+*Filter - High and band-pass (12dB), low-pass (12 or 24dB) with resonance and ADSR
+*Effects - 3 types modulation, 3 types delay, EQ, vocoder, 6 pattern arpeggiator
+*Keyboard - 44 keys with velocity (rack has 16 emulated keys, no velocity)
+*Memory - 128 programs
+*Control - MIDI (2-parts)
+*Date Produced - 2000
+
+|}
+
+The '''Korg MS2000''' is a voice voice polyphonic synthesizer. The '''MS2000R''' is a rack mount version of the MS2000
+
+{{stub}}
+
+[[category:Korg|MS2000 & MS2000R]]
+[[category:synths]]
