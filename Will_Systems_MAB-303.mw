@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 1 VCO: square, saw and pulse
+*LFO - Modulation
+*Filter - 18 dB/oct low pass filter with resonance and envelope
+*VCA - No controls
+*Keyboard - None
+*Memory - None
+*Control - MIDI
+*Date Produced - 1996
+|}
+
+The '''Will Systems MAB-303''' is a monophonic analog [[Roland TB-303 Bassline|TB-303]] synthesizer ''emulator''
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Will|Systems MAB-303]]
