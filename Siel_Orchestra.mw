@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 49 notes
+*Oscillators - Brass, Strings, Organ and Piano
+*LFO - Fixed waveform, speed, depth, delay sliders
+*Filter - Yes: Brilliance (Orch 1). Freq. Cutoff and Resonance (Orch. 2)
+*Effects - Animator flange effect (Orch 2)
+*VCA - Yes, individual attack and decay sliders for strings, brass and piano sections.
+*Keyboard - 49 keys
+*Memory - None
+*Control - None
+*Date Produced - 1979-1982 (Orch 1); 1983-1986 (Orch 2)
+
+
+|}
+
+The '''Siel Orchestra''' is an analogue subtractive synthesizer, which was produced by Italian manufacturer Siel from 1979 to 1982. The original Orchestra was very limited but still a very characteristic instrument for its time. It produces its sounds from a divide-down oscillator network, and therefore has 49 note (unlimited) polyphony. Although it contains 4 sections of presets (Brass, Strings, Reed and Piano), each which contain two sounds, the only parameters that can be edited are Vibrato (LFO), Brilliance (for the Brass, which also has a separate 'Brass Attack'), Attack and Decay. This ultimately means that the Orchestra cannot produce many different sounds, however because of its Italian origin, and its distinctive routing, the Orchestra sounds very unique and is not matched by any other similar synthesizers.
+
+The Orchestra was later bought by ARP to be slightly modified, relabeled and then sold as the 'ARP Quartet'. This version replaced the Reed section with an Organ one, however aside from that, the synthesizer was almost identical.
+
+The Orchestra does not support MIDI, or any other means of communicating with other electronic instruments, however it does include a volume pedal socket, which could be mistaken for a MIDI port.
+
+==Orchestra 2==
+Later, a more programmable version of the Orchestra was released. It still used 4 preset sections, however it offered many improvements over the original version. A better filter for the brass section was included, and more sounds were added to other sections. It also introduced a very simple LFO, a graphic equalizer, octave transpotion, and an 'animator section' which was effectively a flange effect. It also had a pitch bend function, which surprisingly, was never included with the first version Orchestra.
+
+
+[[category:synths]]
+[[category:Siel| Orchestra]]
