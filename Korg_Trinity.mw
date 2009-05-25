@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 32 voices
+*Tone Generator - ACCESS (Advanced Combined Control Synthesis System): 24 Mbyte PCM ROM, with 375 different PCM multi-samples and 258 drum samples; 128 Z1 sounds in V3 models
+*Sound Source - ACCESS (Advanced Combined Control Synthesis System): 32 voices, 32 oscillators (single mode); 16 voices, 32 oscillators (double mode)
+*Sampler - Optional Add-On: 8MB Sample Playback, reads Akai and Korg sample libraries.
+*Memory - 56 programs/256 combinations for ACCESS, 64 programs for MOSS, additional 256 programs/256 combinations for ACCESS plus 64 programs for MOSS are available when PBS-TRI optional board is installed
+*Sequencer - 20 songs, 100 patterns, 1/192 resolutions, 80,000 notes, 16 tracks, reads and writes Standard MIDI File
+*Arpeggiator - None
+*Keyboard - 61 notes; Pro models: 76 notes; ProX models: 88 notes; All keyboards are sensitive to velocity and aftertouch
+*Effects - Stereo digital multi-effect system - 2 master effects and 8 insert effects simultaneously. 14 effects algorithms for master effect and 100 effects algorithms for insert effect
+*Control - MIDI (16-parts)
+*Date Produced - 1995-1998
+
+|}
+
+
+The '''Korg Trinity''' is a 32 voice synthesizer
+
+{{stub}}
+
+[[category:Korg|Trinity]]
+
+[[category:synths]]
