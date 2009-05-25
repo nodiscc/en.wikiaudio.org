@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1 VCO with mixable sawtooth and square waveforms.MK II adds a sub-oscillator
+*LFO - None
+*Filter - MB 33: 24 dB/oct lowpass filter (MK II uses an 18 dB/oct filter) with cutoff-frequency, resonance, ENV-modulation controls
+*VCA - Decay-time (200 ms - 2,5 sec.) VCA separate ENV-generator with non controllable voltage assignment. ACCENT pot for accent-intensity; can be activated at velocity parameters greater than 120.
+*Keyboard - None
+*Memory - None
+*Control - MIDI, CV IN to VCF
+*Date Produced - 1996 (MB 33) 1998 (MB 33 mkII)
+
+|}
+
+The '''MAM MB 33 / MB 33 mkII''' is a monophonic rack mount synth produced in 1996
+
+
+
+{{stub}}
+
+
+[[category:MAM|MB 33 / MB 33 mkII]]
+[[category:synths]]
