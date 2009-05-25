@@ -1,0 +1,26 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 12 voices (Dynamic allocation + User Voice reserve)
+*Oscillators - 2 per voice w/ noise & ring modulator (Sawtooth, Triangle & Square w/ WaveMix and FM)
+*LFO - Sawtooth, Triangle, Square, S&H noise
+*Filter - 2 multimode filters with Lowpass, Hipass, Bandpass, and Flat with serial/parallel configurations and up to 24 dB/octave slope.
+*Effects - Overdrive, Chorus, Delay, Reverb
+*Keyboard - 49 Keys (Velocity and aftertouch)
+*Memory - 256 user programs, 256 user timbres
+*Control - MIDI
+*Date Produced - 2000
+|}
+
+The '''Oberheim OB-12''' is a 12 voices (Dynamic allocation + User Voice reserve) 49 key analog synthesizer created in 2000
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|OB-12]]
