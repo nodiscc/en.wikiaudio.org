@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Sample rates - Supports from 11 to 48 kHz
+*Vocoder - Extremely high-resolution FFT spectral engine with Multiple vocoding modes configurable from 4 to 1024 frequency bands.
+*Synthesizer - Dual-oscillator synthesizer with dynamic patch morphing, multiple filter modes, and FM
+*Sampler - Granular sampler with independent control of time and pitch.
+*Filter - Multi-mode resonant filters (smoothly blend between low pass, band pass and high pass)
+*Modulation - 4 tempo-synced LFOs (sine, square, ramp up, ramp down, triangle, random) able to modulate nearly any parameter, 2 envelope followers
+*Sequencer - 2 step sequencers with up to 32 steps and tempo sync
+*Interfaces - Runs stand-alone with ASIO, Sound Manager, Core Audio, or as a plug-in using VST-2.0, MAS, DXi, RTAS, and Audio Units
+*Macintosh - MacOS 9.2/MacOS 10.2.2, G3 500 MHz, 128 MB RAM
+*Windows/PC - Windows 98/2000/ME/XP, Pentium/Celeron/Athlon 800 MHz, 128 MB RAM
+*Date Produced - 2003
+
+
+|}
+
+The '''Vokator''' is a vocoder software instrument created by Native Instruments in 2003
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|Vokator]]
+[[category:Software instruments]]
