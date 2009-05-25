@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Variable, up to 256 simultaneous voices
+*Sampler - Based on the KONTAKT sampling engine with 32 bit processing and up to 96 kHz sample rate support. Multisampled sounds include Fender Rhodes MK I (27 patches) and MK II (19 patches), Hohner Clavinet E7 (22 patches) and Wurlitzer A 200 (21 patches).
+*Effects - Chorus, Phaser, Tremolo, Reverb, Delay, Saturation,Multiband EQ and more.
+*Keyboard - 73 virtual keys
+*Macintosh - Minimum: Mac OS 10.2.6, G4 867 MHz, 512 MB RAM Recommended: Mac OS 10.3, G4 1.2 MHz, 1 GB MB RAM VSTi, Audio Units, RTAS, Core Audio, ASIO
+*Windows/PC - Minimum: Windows XP, Pentium/Athlon 800 MHz, 512 MB RAM
+**Recommended: Windows XP, Pentium/Athlon 1.2GHz, 1 GB MB RAM VSTi, DXi, RTAS, DirectSound, ASIO
+*Date Produced - 2004
+
+|}
+
+The '''Native Instruments Elektric Piano''' is a virtual software synthesizer and electric piano emulator created in 2004
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Native Instruments|Elektrik Piano]]
