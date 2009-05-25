@@ -1,0 +1,88 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[image:Split-8.JPG‎ |thumb|center]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Synthesis type: 	Analogue Subtractive
+*Polyphony: 	8 voices
+*Timbrality: 	Bitimbral (2 different sounds possible at once)
+*Oscillators: 	1 VCO per voice
+*Filter: 	1 lowpass, 24 dB/octave resonant
+*LFO: 	1
+*Left hand control: 	Pitch & modulation wheels
+*External control: 	MIDI, footswitch
+*Produced: 	1985
+|}
+
+
+
+The '''Split-8''' is a polyphonic analogue keyboard synthesizer manufactured by Sequential Circuits. Built in Japan and going by the alternative name "Pro-8" in some markets, this was one of the last synthesizers produced by the company and was assigned model number 608. It was released in 1985 at a list price of $1,199 (or $1,195; this number varied between advertisements). This and some other Sequential Circuits synthesizers (the Six-Trak, Multi-Trak and MAX) were built around the Curtis Electronics CEM 3394 "synth-on-a-chip" integrated circuit, and used a Z80 as their central microprocessor.
+
+
+
+== Features and Cabinet ==
+
+
+
+=== Brief Summary of Features ===
+
+
+This electronic keyboard is an 8-voice polyphonic, bi-timbral analogue synthesizer with the ability to split or layer two sounds ("double" mode). It has 64 memory locations for sounds ("patches"). Patches may be "linked" in memory so that calling up one automatically calls up the second for a split or layer. A monophonic mode, with all eight oscillators producing the same sound at once, is also possible. Polyphonic portamento is also available. The instrument features MIDI, including the capability to save and restore patches with system-exclusive data (see MIDI for more detail about this process).
+
+
+=== Front Panel ===
+
+
+The front panel has two volume knobs (one for each available sound), a master tuning knob, a data entry knob for programming patches, modulation and pitch wheels, various buttons for mode (layer, or "double", split) and program selection, and a four by eight grid for programming (with all parameters labelled on the grid; see Figure 1). Some other functions are also listed on the panel as a reminder of which buttons to press. The case is metal with light blue graphics and lettering, red LED indicators, and black painted wooden end pieces.
+
+
+=== Back Panel ===
+
+The back panel has quarter-inch jacks for recording data to cassette tape (one also doubling as a footswitch input), MIDI in and out DIN connectors, separate quarter-inch audio outputs for each of the two sounds and a mix audio out (both sounds combined), a power switch, and a fuse socket.
+
+
+=== Keyboard ===
+
+The keyboard is five octaves (61 notes, C to C) and is unweighted. It has no velocity or aftertouch sensitivity.
+
+== Voice Architecture and Sound Programming ==
+
+
+=== Voice Architecture ===
+
+The synthesizer voices are based on the Curtis Electronics CEM 3394 chip. This allows for one voltage-controlled oscillator (VCO) per voice, with on/off toggles for any combination of sawtooth, triangle and variable pulse waveforms. There are coarse (up to 4 octaves) and fine (to just under a semitone) tuning parameters. A "poly mod" parameter allows the audio output of one voice to feed another's voltage-controlled filter (VCF) when they are layered in "double" mode. This results in a sound with 4-voice polyphony with no audio from the second voice's oscillators, processed through two filters in series. The single low-frequency oscillator (LFO) is free-running (i.e. doesn't re-start when a key is depressed), with programmable rate (0.25 to 20 Hz according to the manual), and has programmable depth and waveform (triangle or square). This can modulate any combination of filter cutoff frequency, pitch, or oscillator pulse-width. There is a chorus with fixed rate and frequency. Filter cutoff frequency, resonance (to self-oscillation), keyboard tracking (off, half or full) and envelope amount can be programmed, but the envelope cannot be inverted. The two ADSR envelopes modulate the VCA and the 24dB/octave VCF. The rate for the polyphonic portamento is programmable. "Unison" (monophonic mode) can be programmed for each patch. In this mode, the envelopes are re-triggered only after all keys are released ("legato", with low-note priority), and a delay of four oscillators relative to the other four can be programmed (fixed at 20, 40 or 80 milliseconds). A program can be "linked" to another so that both are called up and assigned correctly in a split or layer. There is also a programmable output level for each patch to help balance loud and soft sounds.
+
+
+=== Performance Controls ===
+
+There are separate volume knobs for channels A and B (i.e. the two patches in a split or layer). The footswitch can be programmed to momentarily change patches, or change one of several patch parameters: filter cutoff frequency, envelope amount or attack; VCA decay or release; voice volume (the momentary value of any of the preceding being user-defined); chorus on/off, or portamento on/off. The parameter value knob can be used to alter one parameter in real-time, although the value will "jump" to the knob's current setting as soon as it is moved and some parameters stair-step badly when treated this way. The pitch-bend wheel is not spring-loaded and is centre-detented. Oscillator tuning can be initiated from the front panel, with this process taking about twenty seconds. During tuning, the instrument is silenced.
+
+
+===MIDI Implementation===
+
+The Split-8 has quite advanced MIDI implementation for an instrument of this vintage. OMNI mode, wheel controller reception/transmission and program change can be toggled on or off. All MIDI operation (in and out) can be disabled, and there is the capability for saving and loading patches. The MIDI receive channel (1-16) can be set for each patch. Four voices can be assigned to one patch that is controlled only via MIDI, with the other four playing a patch controlled only from the keyboard. In this case, wheel effects can be disabled for the MIDI-controlled patch. The Split-8 also recognizes incoming pitch-bend and modulation wheel data as well as note number, note on and off, program change, and tuning request.
+
+Some MIDI functions are accessed through a special "MIDI Expand" mode. This is entered by holding down the RECORD button and pressing PROGRAM SELECT 5. All of the LEDs for the PROGRAM SELECT buttons blink, and pressing one of these PROGRAM SELECT buttons now performs one of the following:
+
+#Selects MIDI mode 1 (OMNI on/poly). If the instrument is in SPLIT mode, data from the MIDI in port will be passed to both programs (as though the synth were in DOUBLE mode). This is the reverse of using button 3, below.
+#Initiates a 2,240 byte system exclusive dump consisting of patch data. The LED for PROGRAM SELECT 2 remains lit during the few seconds that this takes.
+#Selects MIDI mode 3 (OMNI off/poly). This is the reverse of using button 1, above.
+#Not used.
+#Toggles between enable and disable of program changes. Transmission and reception of program changes via MIDI is disabled by default when the synthesizer is switched on.
+#Toggles between enable and disable of both the pitch-bend and modulation wheels. On power-up, MIDI transmission and reception for both is disabled by default.
+
+When sending MIDI program (system-exclusive) information to the Split-8, the 64 patches are sent as a string of single-patch packets, so loading single patches at a time is possible. When sending all 64, the synthesizer will sporadically "lose" some patches, presumably because it cannot handle MIDI data transmitted at the speed that modern computers can send it. Most music software allows the user to insert a short delay between packets of sysex information, circumventing this problem. A 50 millisecond delay is adequate.
+
+According to the manual, it is possible to have the Split-8 respond to a system-exclusive dump-request, but the manual does not indicate what the request bytes are, nor is there a a byte-map of the sysex data. The Split-8 does not respond to the MIDI "all notes off" message, and pitch-bend depth is fixed at +/- a major third.
+
+[[category:synths]]
+[[category:Sequential Circuits]]
+
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Split-8
