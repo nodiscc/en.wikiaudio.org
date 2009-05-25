@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic (Highest or last note priority)
+*Oscillators - 3 very stable VCOs; 1 & 2 offer Sawtooth and Pulse Waves; VCO 3 can be switched between LFO and Sub Oscillator Modes; White Noise Generator; Ring Modulation and Sync Features for VCO 1 & 2 (mkII adds sync for VCO 3)
+*LFO - 5 Shapes (Sawtooth, Triangular, Rectangular, Random and Noise); VCO 2 can also be a Modulation Source, LFO MIDI Clock Sync; 4 Modulation targets: VCO 1 and 2, Cutoff and Mixer
+*Filter - 24 dB precision cascade Filter with Highpass and Lowpass Modes with dedicated ADSR with Positive or Negative Modulation (mkII adds Key-follow switch 0% - 50% - 100%).
+*VCA - ADSR Envelope
+*Effects - Distortion and 'Fuzzer' Effect; Slide Function, switchable by MIDI Controller 65 (Portamento)
+*Memory - None
+*Keyboard - None
+*Arpeg/Seq - None
+*Control - MIDI IN/THRU / CV+Gate (switchable between IN or OUT)
+*Date Produced - 1999 mk1 / 2003 mk2
+
+|}
+
+The '''Spectral Audio Neptune''' is a monophonic rack mount synthesizer produced in 1999 (mk2 in 2003)
+
+{{stub}}
+
+[[category:synths]]
+[[category:SpectralAudio|Neptune I / II]]
