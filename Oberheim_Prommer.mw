@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Sampler - 8-bit, Variable sample rates
+*Memory - EPROM Chips, MIDI SysEx dump
+*Filter - None
+*Envelopes - Start Point, Decay Time
+*Keyboard - None
+*Effects - Reverse, ring-mod, digital bit manipulation
+*Control - MIDI, Trigger
+*Date Produced - 1984
+|}
+
+
+The '''Oberheim Prommer''' is a sampler used to burn EPROM chips for use in the Oberheim DMX Drum Machine.
+
+{{stub}}
+
+[[category:synths]]
+[[category:drum machines]]
+[[category:samplers]]
+[[category:Oberheim|Prommer]]
