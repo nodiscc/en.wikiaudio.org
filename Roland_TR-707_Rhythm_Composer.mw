@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Effects - Shuffle / Flam
+*Oscillators - Sample Playback/Acoustic Simulation. Drum sounds are 8-bit, Crash & Ride are 6-bit.
+*Tones - 15 sampled sounds (kick1, kick2, snare1, snare2, low tom, mid tom, high tom, rim shot, cow bell, hand clap, Tambourine, open/closed high hat, crash/ride cymbals)
+*Patterns - 64
+*Songs - 4
+*Arpeg/Seq - Sequencer
+*Keyboard - none
+*Control - MIDI IN/OUT & DIN SYNC IN/OUT & TRIG OUT (outputs Rimshot sound as trigger)
+*Date Produced - 1985
+|}
+
+The '''Roland TR-707''' Rhythm Composer is a sample playback drum machine produced in 1985
+
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|TR-707 Rhythm Composer]]
+[[category:drum machines]]
