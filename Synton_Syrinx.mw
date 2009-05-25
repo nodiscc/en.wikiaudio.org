@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 2 VCO's (tri, saw, square, PWM) plus 1 sub-oscillator, ring modulation and noise gen.
+*LFO - 2
+*Filter - 2 Bandpass filters (Peak 1 & 2) and 1 Lowpass 24dB/oct filter. Individual cutoff and resonance controls, ADSR Envelope, Keyboard Tracking and LFO modulation
+*VCA - 2 ADSR filters (one can modulate the VCF)
+*Keyboard - 44-keys (3 1/2-octave, no velocity, low-note priority)
+*Arpeggiator - None
+*Sequencer - None
+*Memory - None
+*Control - CV / Gate (Moog type). Touch 'N Bend Pad.
+*Date Produced - 1983/84
+
+
+|}
+
+The '''Synton Syrinx''' is a monophonic 44 key synthesizer produced in 1983-1984
+
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Synton|Syrinx]]
