@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 28 voices
+*Oscillators - 4 per voice; Digital 4 MB of ROM sampled sounds
+*Arpeg/Seq - None
+*Filter - Digital TVF filters
+*LFO - 2 LFOs routable to pitch, TVA amps, or TVF filters
+*Effects - 2 Effects units
+*Memory - 192 Patches (64 user), 48 Performances (16 user) - expandable via 8mb expansion boards
+*Keyboard - 61 keys (responds to velocity and aftertouch)
+*Control - MIDI IN/OUT/THRU (8-parts)
+*Date Produced - 1992 - 1994
+|}
+
+The '''Roland JV-80''' is a 28 voice 61 key synthesizer produced between 1992-1994
+
+{{stub}}
+
+[[category:synths]]
+
+[[category:roland|JV-80]]
