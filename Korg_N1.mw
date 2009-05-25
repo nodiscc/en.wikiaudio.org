@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+* Sound Generation Method: AI2 Synthesis System (Full Digital Processing)
+* Sound Source: 64 voices, 64 oscillators (single mode); 32 voices, 64 oscillators(double mode)
+* Keyboard: 88 weighted keys with velocity and aftertouch sensitivity
+* Waveform Memory: PCM 18Mbytes (563 multisamples + 286 drum samples)
+* Effects: 2 digital multi-effect systems, 48 effects
+* Programs: Preset 1,169 programs / 302 combinations / 37 drum kits, User area 100 programs / 100 combinations / 2 drum kits
+* Arpeggiator: 20 patterns, Internal clock speed 40-240bpm
+* Number of Multi Timbre: 32
+* Controllers: Modulation wheel, Pitch bend wheel, Control knob 1-4, Arpeggiator, Assignable pedal, Assignable switch
+* speed knob
+* Communication Terminal: Computer interface(to host PC)
+* Outputs: 1/L/MONO, 2/R,3,4, Headphones(Stereo mini jack)
+* MIDI: IN, OUT, THRU
+* Display: Custom LCD 144 x 40 full dot matrix (Amber/Yellow green with backlight)
+* Power Supply: AC Local voltage
+* Power Consumption: 14W
+* Dimensions: 1,322(W) x 392.5 (D) x 139.7(H)mm (52"(W) x 15.5'(D) x 5.5"(H))
+* Weight: 23.8kg (52.47lbs.)
+* Accessories: AC/AC Power supply 
+
+|}
+
+
+The '''Korg N1''' is an 88 key music synthesizer
+
+{{stub}}
+'
+
+
+[[Category:Korg|N]]
+
+[[category:synths]]
