@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Full
+*Oscillators - 1 VCO per section (Synth, Bass, Strings)
+*LFO - Yes (in Synth section)
+*Filter - Yes w/ cutoff, resonance (in Synth section)
+*VCA - ADSR in Synth, AR in Bass.
+*Memory - 2 Preset Strings, 3 Preset Bass, 4 Preset Synth Waveforms
+*Keyboard - 49 keys
+*Control - VCF CV In, Trigger, Gate
+*Date Produced - 1978
+
+|}
+
+The '''Roland RS-505''' is a full polyphonic 49 key string and bass synthesizer produced in 1978
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|RS-505 Paraphonic Strings]]
