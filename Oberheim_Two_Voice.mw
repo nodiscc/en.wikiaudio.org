@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 2 voices
+*Oscillators - 4 VCO's (2 per voice) with sawtooth or variable-pulse waveforms
+*LFO - LFO is triangle wave only
+*Filter - (x2) Lowpass filter with cutoff and resonance. Can be modulated by the LFO, envelope or external sync
+*VCA - (x2) Attack, Decay and Sustain
+*Keyboard - 37 keys
+*Arpeg/Seq - Mini Sequencer (with 8 steps and 2 voices)
+*Control - CV / Gate
+*Date Produced - 1975-1979
+|}
+
+The '''Oberheim Two Voice''' is a 2 voice 37 key analog synthesizer created between 1975-1979
+
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Oberheim|Two Voice]]
