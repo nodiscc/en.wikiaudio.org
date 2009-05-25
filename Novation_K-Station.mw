@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voices
+*Oscillators - 3 osc with Square / Saw / Variable Pulse / Tri / Sine / Double Saw / Double Tri / Double Sine waveforms. Osc 1-2 sync, FM, external audio in (mono)
+*LFO - 2 LFOs: triangle, saw, square, sample-and-hold; with panning, speed and delay parameters
+*Filter - 12dB / 24dB switchable resonant low-pass filter with programmable output EQ
+*Envelopes - 2 ADSR envelope generators plus FM attack/decay
+*Keyboard - 2 Octave (25 keys) touch sensitive Keyboard with Pitch & Mod Wheels
+*Effects - Reverb, Distortion plus tempo-locked Chorus, Phaser, Delay, Panner & Enveloped Filter with EQ, 12-band Vocoder
+*Arpeggiator - up, down, up/down, up to 4 octaves, latchable
+*Memory - 400 in 4 banks, (200 factory sounds)
+*Control - MIDI IN/OUT/THRU
+*Date Produced - 2002
+
+|}
+
+
+The '''Novation K-Station''' is an 8 voice 25 key bass synthesizer 
+
+{{stub}}
+
+[[category:synths]]
+[[category:Novation|K-Station]]
