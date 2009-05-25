@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 8 voice
+*Oscillators - 2 VCOs per voice (saw, sine, sqr, pw)
+*LFO - 2 LFOs
+*Filter - 24 dB/oct low pass resonant filter with ADSR
+*VCA - 2 ADSR envelope generators
+*Keyboard - 61 note remote keyboard (velocity + aftertouch)
+*Memory - 100 patches
+*Control - V-bus (or MIDI on many models using XLR connectors, few used standard 5-pin cables)
+*Date Produced - 1983 - 1986
+|}
+
+
+'''Octave Plateau Voyetra 8''' is a 2 piece 8 voice analog synthesizer.
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Octave|Plateau Voyetra 8]]
