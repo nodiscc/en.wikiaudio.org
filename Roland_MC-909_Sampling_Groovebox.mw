@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 64 voices (16-part multitimbral)
+*Oscillators - 32MB - 693 Waves
+*Sampler - 16-bit linear, 44.1 kHz (File Type: WAV/AIFF); Internal memory (16MB) only = mono: 180 sec. (stereo 90 sec. approx.), with DIMM (256MB) = mono: 51 min. (stereo 25.5 min. approx.) Samples: User/2,000, Card/7,000 (128MB SmartMedia)
+*Sequencer - 16-Tracks; Patterns: Preset 333, RPS 440, User 200, Card 999 Songs: 50 Rec.Modes: Realtime, TR-REC, Step
+*Arpeggiator - Patterns: 128 Preset / 128 User; Chord Memory: 64 Preset, 128 User ; RPS Set: 50; Pattern set: 50
+*Memory - Patches: Preset/917, User/256, Card/256 Rhythm Set: Preset/89, User/128, SmartMedia Card/128 1 Expansion Slot for Wave Expansion Board SRX Series
+*Effects - MultiFX: MFX1: 38 Types, MFX2: 47 Types; 4 Reverb Types, 1 Compressor, 3-band Mastering Compressor
+*Filter - 1 per tone, max: 4 per patch. Cutoff, Resonance, ADSR, 12/24/36 dB/oct.
+*LFO - 2 per part, 8 waveforms, Rate & Depth controls
+*VCA - 1 ADSR Envelope per tone
+*Keyboard - 16 velocity sensitive pads
+*Control - MIDI In/Out, USB
+*Date Produced - 2003
+|}
+
+The '''Roland MC-909''' Sampling Groovebox is a 64 voice desktop sampler and sequencer
+
+{{stub}}
+
+[[category:synths]]
+[[category:Roland|MC-909 Sampling Groovebox]]
