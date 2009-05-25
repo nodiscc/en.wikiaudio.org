@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 4 Voices
+*Oscillators - 4 VCO's: triangle / sawtooth / PWM
+*LFO - 2 LFO's w/ individual rates
+*Filter - VCF, VCF ADSR
+*VCA - ADSR Env
+*Keyboard - 44 keys
+*Arpeg/Seq - YES (with very cool effects)
+*Control - CV/GATE and CV Filter
+*Effects - Chord Memory
+VCO sync / modulation
+*Date Produced - 1981
+|}
+
+The '''Mono/Poly''' is a 4 voice synth with 4 VCO's that can be linked to create a monophonic patch.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Korg|Mono/Poly]]
