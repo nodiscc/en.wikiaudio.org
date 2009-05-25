@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 Voices
+*Oscillators - 4 osc. per voice; Digital PCM subtractive with 16MB of ROM (expandable to 80MB)
+*Sequencer - 60,000 notes, 100 patterns, 1 song
+*Filter - Resonant 4-pole, 12dB/oct, High pass, LowPass, BandPass, Peak filtering
+*Effects - 3 processors: EFX (w/ 40 effects), 8 reverbs, chorus
+*Memory - 512 Preset, 128 User patches; 64 Preset, 32 User performances; 8 Preset, 2 User Drumkits
+*Keyboard - 61 keys (responds to velocity and aftertouch)
+*Control - MIDI (16-parts)
+*Date Produced - 1996
+
+|}
+
+
+The '''Roland XP-60''' is a 64 voice 61 key synthesizer produced in 1996
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|XP-60]]
+[[category:drum machines]]
