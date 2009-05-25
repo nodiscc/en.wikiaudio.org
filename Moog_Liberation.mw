@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic (plus 10-voice poly-section organ)
+*Oscillators - 2 VCO:
+**OSC 1: Pitch: 32', 16, '8'; Wave: Sawtooth, Triangle, Rectangle.
+**OSC 2 : Pitch: 16', 8', 4'; Wave: Sawtooth, Triangle, Square.
+*Memory - NONE
+*Filter - one 24dB/oct lowpass; cutoff, emphasis, env amount; Attack, Decay/Release, Sustain.
+*VCA - Attack, Decay/Release, Sustain
+*Keyboard - 44 keys with Ribbon controller
+*Arpeg/Seq - NO
+*Control - CV / GATE
+*Date Produced - 1981
+
+|}
+
+The '''Liberation''' is a strap-on keytar style performance synthesizer created by Moog in 1981
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:moog|Liberation]]
+[[category:Keytars]]
