@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - MONOPHONIC (switchable between low note, high note, or last note priority)
+*Oscillators - 3 wide-range analog oscillators with triangular, sawtooth, square, and narrow rectangular waveforms.
+*LFO - One LFO (VCO3 can be used as a 2nd LFO) with triangular, square, Sample & Hold, and smoothed Sample & Hold waveforms. Adjustable Rate speeds from 0.2 Hz to 50 Hz. LFO Syncable to keyboard gate, external envelope gate, or external gate.
+*Filter - Two analog filters: Dual Lowpass mode or Highpass-Lowpass mode. Cutoff, Resonance, Keyboard Control Amt, Spacing (sets the spacing between the frequencies of the two filters over a +/-3 octave range). One wide-range ADSR (Attack Decay Sustain Release) envelope generator.
+*VCA - One wide-range ADSR (Attack Decay Sustain Release) envelopes for the stereo amplifier.
+*Keyboard - 44 keys with Velocity and Pressure control. Pitch/Mod wheels (illuminated blue on Signature Edition).
+*Memory - 128 programs. All front panel controls, selectors, and switches are stored in the nonvolatile digital memory.
+*Control - MIDI IN/OUT/THROUGH, CV/GATE, Pedal/CV inputs for: Volume, Pan, Filter Cutoff, Waveform select, Pitch, Mod1, Mod2, Sample n Hold, Env Rate, LFO Rate, and Sync.
+*Date Produced - 2002
+
+|}
+
+The '''Minimoog Voyager''' is a 44 key monophonic synthesizer created in 2002
+
+{{stub}}
+
+[[category:synths]]
+[[category:moog|Minimoog Voyager]]
