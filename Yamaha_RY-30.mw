@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 16 note polyphony (metronome takes 1 voice)
+*Sounds - 16-bit AWM2, 48 kHz. Drum tones: 96 internal PCM sounds, 32 sounds per external ROM card.
+*Sequencer - Resolution: 1/96 note, Tempo range: 40-250bpm.
+*Filter - Digital Filter, High (12 and 24 dB/oct) and Lowpass (12 and 24 dB/oct)
+*VCA - Decay Rate + Volume. Envelope rate can be modulated by Velocity.
+*Keyboard - 12 pads with velocity sensitive controlling filter, volume, EQ, and pitch
+*Memory - 100 preset and 100 user programmable patterns (up to 4 measures per pattern), 20 songs (up to 999 measures each).
+*Control - MIDI IN/OUT (16-part multitimbral)
+*Date Produced - 1985 - 1990
+|}
+
+The '''Yamaha RY-30''' is a 16 voice drum machine produced between 1985-1990
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|RY-30]]
+[[category:drum machines]]
