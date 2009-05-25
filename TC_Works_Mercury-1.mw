@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - Modeled Analog Synthesis: 2 plus sub-osc; osc 1: saw/sine/square/noise; osc 2: saw/tri/square/variable pulse width. Osc 1 and 2 SYNC. White Noise Generator.
+*LFO - 1 (sine/saw/square/S&H)
+*Filter - 24 dB/Octave Low Pass 4-pole Filter (Resonance, Key Follow, LFO amount, assignable to either Envelope Generator)
+*Envelopes - 2 ADSR Envelope Generators
+*Memory - 128 Patches (Unlimited storage to disk)
+*Effects - Ring-Mod, Pulse-Width Mod
+*Control - MIDI (4-parts, velocity, key range can be split)
+*Macintosh - Mac G3 or G4, OS 8.6 or higher, 64MB RAM (128MB w/ OS9), VST 2.0 compatible sequencer
+*Windows/PC - Pentium II or better, Windows 95/98/2000 or NT4.x, 64Mb RAM, VST 2.0-compatible sequencer
+*Date Produced - 2001
+
+|}
+
+The '''Mercury-1''' is a monophonic analog virtual synthesizer for the Mac or Windows operating systems.It was produced in 2001
+
+
+{{stub}}
+[[category:synths]]
+[[category:TC Works|Mercury-1]]
+[[category:software instruments]]
