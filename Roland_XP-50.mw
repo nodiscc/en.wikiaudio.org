@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 64 Voices
+*Oscillators - 32 bit custom RISC chips for Digital Acoustic simulation; 512 on-board waveforms (plus up to four 8MB SRJV80 series expansion boards)
+*LFO - Up to 8 MIDI syncable LFOs
+*Filter - TVF (lowpass, bandpass, high pass, peak) with cutoff, resonance, key follow and velocity sensitivity
+*Effects - 40 multi-effects, reverb, chorus
+*Memory - 640 Patches, 128 performances
+*Keyboard - 61 keys (responds to velocity and aftertouch)
+*Control - MIDI (16-parts)
+*Date Produced - 1995
+
+|}
+
+The '''Roland XP-50''' is a 64 voice 61 key synthesizer produced in 1995
+
+{{stub}}
+
+[[category:synths]]
+[[category:roland|XP-50]]
+[[category:drum machines]]
