@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - Monophonic
+*Oscillators - 2 VCOs:
+**OSC 1: Pitch: 32', 16', 8'; Wave: Sawtooth, Rectangle.
+**OSC 2: Pitch: 32', 16', 8'; Wave: Sawtooth, Square.
+*Memory - None
+*Filter - 1 24dB/oct lowpass w/ cutoff, emphasis, env amount
+*VCA - Attack, Release
+*Keyboard - 32 keys
+*Arpeg/Seq - NO
+*Control - CV / GATE (V-trig in, S-trig out)
+*Date Produced - 1981
+|}
+
+The '''Moog Rogue''' is a 32 key monophonic analog synthesizer created in 1981
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Moog|Rogue]]
