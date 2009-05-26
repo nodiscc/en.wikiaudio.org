@@ -1,0 +1,7 @@
+'''ADX''' is a lossy proprietary audio storage and compression format developed by CRI Middleware specifically for use in video games, it is derived from ADPCM. Its most notable feature is a looping function that has proved useful for background music in various games that have adopted the format, such as the Dreamcast and later generation Sonic the Hedgehog games from SEGA, as well as many PlayStation 2 and GameCube games. There is also a sibling format, AHX, which uses a variant of MPEG-2 audio and is intended specifically for voice recordings. A packaging archive, AFS, is also included for bundling individual ADX and AHX files into a single container.
+
+
+
+{{stub}}
+
+[[category:audio formats]]
