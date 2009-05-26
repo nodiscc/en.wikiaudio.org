@@ -1,0 +1,11 @@
+{{Unreferenced|date=October 2008}}'''AES51''' is a standard first published by the [[Audio Engineering Society]] in June 2006 ([http://www.aes.org Official Site]) that specifies a method of carrying ATM ([[Asynchronous Transfer Mode]]) cells over [[Ethernet]] physical structure intended in particular for use with [[AES47]] to carry [[AES3]] digital audio transport structure. The purpose of this is to provide an open standard, [[Ethernet]] based approach to the networking of linear (uncompressed) digital audio with extremely high quality-of-service alongside standard [[Internet Protocol]] connections.
+
+==AES51 details==
+This standard specifies a method, also known as “ATM-E”, of carrying [[asynchronous transfer mode]] (ATM) cells over hardware specified for [[IEEE 802.3]] (Ethernet). It is intended as a companion standard to [[AES47]] (Transmission of digital audio over ATM networks), to provide a standard method of carrying ATM cells and real-time clock over hardware specified for Ethernet.
+The full details of AES51 can be studied in the standards section of the [[Audio Engineering Society]] [http://www.aes.org/publications/standards/ web site] by downloading copies of the AES51 document as a PDF file.
+
+
+[[category:standards and protocols]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia articlehttp://en.wikipedia.org/wiki/AES51
