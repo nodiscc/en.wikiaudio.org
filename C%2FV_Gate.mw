@@ -1,0 +1,77 @@
+'''CV/Gate''' (an abbreviation of Control Voltage/Gate) is a method of controlling synthesizers, drum machines and other similar equipment with external sequencers. This method was widely used in the epoch of analog modular synthesizers, in the 1970s and up to the early 1980s, but was mostly superseded by more complex and feature-rich MIDI systems in professional music production.
+
+
+== Basic usage ==
+As early analog synths were modular, each synthesizer component (e.g. LFO, VCF) could be connected to another component by means of a patch cable that transmits voltage, with changes in that voltage causing changes to one or more parameters of the component. The most popular example of this technique is a keyboard that transmits a signal with two components:
+
+* CV (Control Voltage) indicates which note (event) to play: a different voltage for each key pressed; those voltages are typically connected to one or more oscillators, thus producing the different pitches required. Note that such a method implies that the synthesizer is monophonic.
+* Gate (sometimes called Trigger) indicates when a note should start, a pulse that is used to trigger an event, typically an ADSR envelope. In the case of triggering a drum machine, a clock signal or LFO square wave could be employed to signal the next beat (or rest).
+
+
+
+== CV ==
+While the concept of CV (Control Voltage) was fairly standard on analog synths, the implementation was not. For pitch control via CV, there are two prominent implementations:
+
+* Volts per octave (also known as "Roland" implementation). This method uses logarithmic voltage signal scale. One volt represents one octave, so the note produced by a voltage of 3 V would be one octave lower than that produced by a voltage of 4 V. Notable followers of this standard include Roland, Moog, Sequential Circuits, Oberheim and ARP.
+
+* Hertz per volt (also known as "Yamaha" implementation). This method (used by Korg and Yamaha synths) represented an octave of pitch by doubling voltage, so the pitch represented by 2 V would be one octave lower than that represented by 4 V, and one higher than that represented by 1 V.
+
+The following example table demonstrates some notes and their corresponding voltage levels in both implementations (this example uses 1 V/octave and 55 Hz/V):
+
+
+
+{| border=0 cellspacing=0 cellpadding=4 style="; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; "
+| Note
+!    A1 !!    A2 !!    A3 !!    B3 !!    C4 !!    D4 !!    E4 !!    A4 !!    A5
+|-
+| Volts per octave scheme, V
+| 1.000 || 2.000 || 3.000 || 3.167 || 3.250 || 3.417 || 3.583 || 4.000 || 5.000
+|-
+| Piano key frequencies, Hz
+|    55 ||   110 ||   220 ||   247 ||   261 ||   294 ||   330 ||   440 ||   880
+|-
+| Hertz per volt, V
+| 1.000 || 2.000 || 4.000 || 4.491 || 4.745 || 5.345 || 6.000 || 8.000 || 16.000
+|-
+|}
+
+
+
+
+
+Generally, these two implementations are not critically incompatible; voltage levels used are comparable and there are no other safety mechanisms. So, for example, using a Hz/Volt keyboard to control a Volts/Octave synthesizer would eventually produce some sound, but it will be terribly out of tune. Commercial solutions are available to get round this problem, most notably the Korg MS-02 CV/trigger interface.
+
+On synthesizers, this signal is usually labelled as "CV", "VCO In", "Keyboard In", "OSC" or "Keyboard Voltage".
+
+
+
+== Gate ==
+
+Gate (Trigger) also has two implementations:
+
+* V-Trigger ("voltage trigger", sometimes called "positive trigger"). This method involves keeping normally low voltage (around 0V) on trigger and producing a fixed positive voltage to indicate a note is on. The amount of voltage required differs from synth to synth, but generally it is from 2 to 10V. V-Trigger is used by Roland and Sequential Circuits synths, among others.
+* S-Trigger ("short circuit trigger", sometimes called "negative trigger"). This one involves keeping voltage high normally, shorting the trigger circuit whenever the note should play. S-Trigger is used by Moog, Korg and Yamaha synths, among others.
+
+Depending on the voltage level used, using the wrong combination of triggering mechanism would either yield no sound at all or would reverse all keypress events (i.e. sound will be produced with no keys pressed and muted on keypress).
+
+On synthesizers, this signal is usually labelled as "Gate", "Trig" or "S-Trig".
+
+
+== Modern usage ==
+
+Since the publishing of the MIDI standard in 1983, usage of CV/Gate to control synths has decreased dramatically. The most criticized aspect of the CV/gate interface is the allowance of only a single note to sound at a single moment of time.
+
+However, the 1990s saw renewed interest in analog synthesizers and various other equipment, notably the Roland TB-303. In order to facilitate synchronization between these older instruments and newer MIDI-enabled equipment, some companies produced several models of CV/Gate-MIDI interfaces. Some models target controlling a single type of synthesizer and have fixed CV and Gate implementation, while some models are more customizable and include methods to switch used implementation.
+
+CV/Gate is also very easy to implement and it remains an easier alternative for homemade / modern modular synthesizers. Also, various equipment, such as stage lighting sometimes uses CV/Gate interface. For example, a strobe light can be controlled using CV to set light intensity or color and Gate to turn an effect on and off. With the advent of non-modular analog synths, the exposure of synth parameters via CV/Gate provided a way to achieve some of the flexibility of modular synths. Some synths also could generate CV/Gate signals and be used to control other synths..
+
+Some software synthesizers emulate control voltages to allow their virtual modules to be controlled as early analog synths were. For example, Propellerheads Reason allows a myriad of connection possibilities with CV, and allows Gate signals to have a "level" rather than a simple on/off (for example, to trigger not just a note, but the velocity of that note)...
+
+== External links ==
+* [http://www.vintagesynth.com/techniques/faq.shtml VintageSynth.com FAQ] has a brief explanation of CV/Gate;
+* [http://www.synthesizers.com/gates.html Gates and Triggers] tutorial at Synthesizers.com
+* [http://www.users.globalnet.co.uk/~concuss/mcvbeg.htm Analogue Solutions' Beginner's guide to MIDI-CV conversion] — a detailed article on all aspects of MIDI-CV conversion;
+
+
+[[category:synthesis]]
+[[category:circuitry]]
