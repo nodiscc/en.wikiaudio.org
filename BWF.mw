@@ -1,0 +1,45 @@
+'''Broadcast Wave Format''' ('''BWF''') is an extension of the popular Microsoft WAVE audio format and is the recording format of most file-based non-linear digital recorders used for motion picture and television Film production.
+
+It was first specified by the European Broadcasting Union in 1997, and updated in 2001 and 2003.
+
+The purpose of this file format is the addition of metadata to facilitate the seamless exchange of sound data between different computer platforms and applications.  It specifies the format of metadata, allowing audio processing elements to identify themselves, document their activities, and permit synchronization with other recordings.  This metadata is stored as extension chunks in a standard digital audio WAV file.
+
+Files conforming to the Broadcast Wave specification have names ending with the extension .WAV.
+
+In addition to the common WAVE chunks, the following extension chunks can appear in a Broadcast Wave file:
+* Original Bext chunk ('bext')
+* iXML chunk ('iXML')
+* Quality chunk ('qlty')
+* MPEG audio extension chunk ('mext')
+* Peak Envelope chunk ('levl')
+* link chunk ('link')
+* axml chunk ('axml')
+
+
+For more information, see [http://www.ebu.ch/en/technical/publications/userguides/bwf_user_guide.php EBU BWF User Guide]
+
+== WAV compatibility ==
+Since the only difference between a BWF and a "normal" WAV is the extended information in the file header (Bext-Chunk, Coding-History, etc...), a BWF does not require a special player for playback.
+
+Unfortunately, this compatibility also preserves the filesize limitation that WAV files have (4 GB in theory, 2 GB in practice because most implementations use signed integer). In order to be able to store audio which would exceed this limit, 2 different chunks exist allowing to spread the audio material across several files: cont & link (see list above)
+
+Since there is no official naming convention for these subsequent files, but it is still desirable to see at a glance which ones belong to a continuous piece of audio, a lot of programs apply a numbering scheme to the file suffix: .wav, .w01, .w02, ..., .wNN.
+
+Each of those segments is a regular Wave/BWF file, but players that are aware of the continue/link chunk will treat all segments as one single, long piece of audio when opening the first segment ".wav".
+
+As an extension, RF64 is a BWF-compatible multichannel file format enabling file sizes to exceed 4 GB that has been specified in 2006.
+
+
+
+== External links ==
+* [http://www.ebu.ch/CMSimages/en/tec_doc_t3285_tcm6-10544.pdf EBU Tech 3285       - Specification of the Broadcast Wave Format (BWF) - Version 1 - first edition (2001)]
+* [http://www.ebu.ch/CMSimages/en/tec_doc_t3285_s1_tcm6-10545.pdf EBU Tech 3285-s1 - Specification of the Broadcast Wave Format (BWF) - Supplement 1, MPEG Audio - first edition (1997)]
+* [http://www.ebu.ch/CMSimages/en/tec_doc_t3285_s2_tcm6-10482.pdf EBU Tech 3285-s2 - Specification of the Broadcast Wave Format (BWF) - Supplement 2, Capturing Report - first edition (2001)]
+* [http://www.ebu.ch/CMSimages/en/tec_doc_t3285_s3_tcm6-10483.pdf EBU Tech 3285-s3 - Specification of the Broadcast Wave Format (BWF) - Supplement 3, Peak Envelope Chunk - first edition (2001)]
+*[http://www.ebu.ch/CMSimages/en/tec_doc_t3285_s4_tcm6-10484.pdf EBU Tech 3285-s4 - Specification of the Broadcast Wave Format (BWF) - Supplement 4, Link Chunk - first edition (2003)]
+* [http://www.ebu.ch/CMSimages/en/tec_doc_t3285_s5_tcm6-10485.pdf EBU Tech 3285-s5 - Specification of the Broadcast Wave Format (BWF) - Supplement 5, <axml> Chunk - first edition (2003)]
+* [http://www.bwfwidget.com BWF-Widget Broadcast Wave File Utility]
+* [http://www.vosgames.nl/products/BoomRecorder/ BoomRecorder]
+
+
+[[category:audio formats]]
