@@ -1,0 +1,11 @@
+A '''band-pass''' filter is a device that passes frequencies within a certain range and rejects (attenuates) frequencies outside that range. An example of an analogue electronic band-pass filter is an RLC circuit (a resistor–inductor–capacitor circuit). These filters can also be created by combining a low-pass filter with a high-pass filter.<ref> | [http://books.google.com/books?id=k8SSLy-FYagC&pg=PA260&dq=band-pass-filter&lr=&as_brr=3&ei=7Y2uR4nCEoOssgPO7bD8BQ&sig=a3fmpt4zGisnq4vIt6Bi2urgb-U#PPA260,M1  Time Sequence Analysis in Geophysics  author E. R. Kanasewich, publisher University of Alberta, year 1981, isbn 0888640749, p.260 ]</ref>
+
+
+
+
+== References ==
+
+<references/>
+
+
+[[category:circuitry]]
