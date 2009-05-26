@@ -1,0 +1,10 @@
+'''Adaptive feedback cancellation''' is a common method of cancelling audio feedback in a variety of electro-acoustic systems such as digital hearing aids. The time varying acoustic feedback leakage paths can only be eliminated with adaptive feedback cancellation. When an electro-acoustic system with an adaptive feedback canceller is presented with a correlated input signal, a recurrent Distortion artifact, entrainment is generated. It is important to note the difference between the system identification and feedback cancellation.
+
+Adaptive feedback cancellation has its application in echo cancellation. The error between the desired and the actual output is taken and given as feedback to the adaptive processor for adjusting its coefficients to minimize the error (See Adaptive Signal Processing by Bernard Widrow, ISBN 0-13-004029-0; "Method of and means for adaptively filtering screeching noise caused by acoustic feedback" by D Graupe, J Grosspietsch, SP Basseas - US Patent 4,783,818, 1988, filed 1985).
+
+{{stub}}
+
+
+[[category:circuitry]]
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Adaptive_feedback_cancellation
