@@ -1,0 +1,12 @@
+'''Adaptive Multi-Rate (AMR)''' is a patented audio data compression scheme optimized for speech coding. AMR was adopted as the standard speech codec by 3GPP in October 1998 and is now widely used in GSM and UMTS. It uses link adaptation to select from one of eight different bit rates based on link conditions.
+
+AMR is also a file format for storing spoken audio using the AMR codec. Many modern mobile telephone handsets will allow you to store short recordings in the AMR format, and some commercial programs exist to convert between this and other formats such as MP3, although it should be remembered that AMR is a speech format and is unlikely to give ideal results for other audio. The common filename extension is .amr.
+
+{{stub}}
+
+
+[[category:audio formats]]
+
+[[category:standards and protocols]]
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Adaptive_Multi-Rate
