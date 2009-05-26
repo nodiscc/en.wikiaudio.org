@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: Super cardioid electret condenser 
+*Sensitivity Long: 55dB (at 1kHz 1V/µ bar)
+*Sensitivity Short: 72dB (at 1kHz 1V/gm bar)
+*Frequency Response: 150-18KHz
+*Output Impedance Long: 5 (at 1kHz)
+*Output Impedance Short: 660 (at 1kHz)
+*Power Source: 1.5V DC (“AAA” Battery)
+*Max. SPL: 100dB
+*Signal to Noise: Better than 40dB
+*Plug Cord Assembly: Coiled cord with 3.5 plug
+*Accessories: Shoe Mount
+
+|}
+
+
+The '''Azden ECZ-990''' is a cardioid condenser microphone. It is intended for film use on cameras with a hot-shoe mount and an unbalanced 3.5mm input jack
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Azden|ECZ-990]]
