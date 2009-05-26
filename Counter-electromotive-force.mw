@@ -1,0 +1,12 @@
+The '''counter-electromotive force''' (abbreviated '''counter emf''', or '''CEMF''' ) <ref name="Graf">Graf, "counterelectromotive force", Dictionary of Electronics </ref> is the [[voltage]], or [[electromotive force]], that pushes against the current which induces it.  CEMF is caused by a changing electromagnetic field. It is represented by [[Lenz's Law]] of [[electromagnetism]]. '''Back electromotive force''' is a voltage that occurs in [[electric motor]]s where there is relative motion between the [[armature (electrical engineering)|armature]] of the motor and the external [[magnetic field]].  One practical application is to use this phenomenon to indirectly measure motor speed and position <ref>[http://www.acroname.com/robotics/info/articles/back-emf/back-emf.html Back-EMF ]</ref>.  ''Counter emf'' is a voltage developed in an [[inductor]] network by a pulsating current or an [[alternating current]] <ref name="Graf"/>. The voltage's [[polarity]] is at every moment the reverse of the input voltage <ref name="Graf"/><ref>[[Naval Electrical Engineering Training Series]], Module 02 - Introduction to Alternating Current and transformers", ''Inductance, [http://www.tpub.com/neets/book2/2a.htm self-inductance]''</ref>.
+    
+In a generator using a rotating armature and, in the presence of a [[magnetic flux]], the conductors cut the magnetic field lines as they rotate. The changing field strength produces a voltage in the coil; the motor is acting like a generator.. ([[Faraday's law of induction]].) This voltage opposes the original applied voltage; therefore, it is called "''counter-electromotive force''". (by [[Lenz's law]].) With a lower overall voltage across the armature, the current flowing into the motor coils is reduced. <ref>   
+"Nuclear Power Fundamentals Training Manuals". DC Generators, [http://www.tpub.com/content/doe/h1011v2/css/h1011v2_79.htm Counter-Electromotive Force] (CEMF), DC Equipment Terminology, Electrical Science Volume 2.</ref> 
+
+==Efficiency==    
+If it is assumed that a motor is 100% efficient with no friction or windage losses, the speed of the armature will increase until the back electromotive force is equal to the applied electromotive force, i.e. there will be no net electromotive force, no current flow and hence, no net force. The armature will spin at a constant rate, of its own accord.
+
+==References==
+<references/>
+
+[[category:circuitry]]
