@@ -1,0 +1,7 @@
+'''Bitrate Peeling''' is a technique used in Ogg Vorbis audio encoded streams, wherein a stream can be encoded at one bitrate but can be served at that or any lower bitrate. Bitrate Peeling is similar in overall effect to Real Networks' technology called "SureStream", which basically creates a single media clip that contains multiple bitrates. The purpose is to provide access to the clip for people with slower Internet connections, and yet still allow people with faster connection to enjoy the higher quality content. The server automatically chooses which stream to deliver to the user, depending on user's connection speed.
+
+{{stub}}
+
+[[category:audio formats]]
+
+[[category:standards and protocols]]
