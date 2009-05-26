@@ -1,0 +1,29 @@
+'''Analog sequencers''' were the first generation of music sequencers. Their peculiarities and limitations left a lasting stylistic imprint on Berlin School electronic music, and hence, indirectly, in many later rhythmic synthesizer-driven music genres such as techno, trance music, 1980s synth pop, house, ...
+
+At its most basic, an analog sequencer is nothing but a bank of potentiometers and a "clock" that steps through these potentiometers one at a time and then cycles back to the beginning. The output of the sequencer is fed (as a control voltage and gate pulse) to a synthesizer. By "tuning" the potentiometers, a short repetitive rhythmic motif or riff can be set up.
+
+The most commonly used analog sequencer was the Moog 960, which was a module of the Moog modular synthesizer. It basically consisted of three parallel banks of eight potentiometers: the three banks could either steer three different VCOs to allow three-note chords in the sequence, or (for example) one row could steer pitch while the second row is patched through to the filter cutoff or VCA volume, and a third steers filter cutoff for a white noise generator (thus creating an extremely primitive electronic drum track).
+
+Under each of the eight steps, a switch offered three options: play this step, skip this step, or loop back to the beginning. In order to avoid the monotony of endlessly repeated sequences, pioneering e-musicians like Chris Franke of Tangerine Dream and Michael Hoenig would manipulate these switches in real time during performance, adding and dropping notes and beats from a sequence. Also, the "pitch" row can be patched to two or more oscillators tuned to intervals, and the oscillators mixed in and out one at a time.
+
+Good examples of all these techniques can be heard on the Phaedra, Rubycon, Ricochet, and Encore albums of Tangerine Dream, as well as on Departure from the Northern Wasteland by Michael Hoenig.
+
+By synchronizing two sequencers, and manipulating them individually, swirling polyrhythmic phasing patterns (as introduced in minimalist music by Steve Reich) can be set up. The title track of the abovementioned Michael Hoenig album is an excellent example.
+
+An additional module (Moog 962) allowed "daisy-chaining" the three rows to form one longer 24-step sequence. In addition, a switch on the 960 itself allowed the third (bottom) row to be used for note lengths.
+
+The output voltage of the sequencer can be added to the output voltage of a keyboard controller, and the latter used to transpose the sequence on the fly. Klaus Schulze was particularly fond of this technique, which lays the musical foundation for tracks like "Bayreuth Return" from Timewind, "Floating" from Moondawn, and indeed pretty much any rhythmic piece from Klaus Schulze's "analog" years. Vangelis and Jean-Michel Jarre likewise availed themselves of this technique.
+
+Except in a temperature-controlled environment after warmup, pitch stability could be problematic. On the famous opening of Phaedra, the sequencer had drifted out of tune, and one can clearly hear Chris Franke retuning the sequence by ear in real time.
+
+Analog sequencers were eventually made obsolete by digital sequencers.
+
+== External links ==
+* [http://www.youtube.com/watch?v=gNmzyZaqVwI&NR=1 Silicon sequences], a video clip demonstrating realtime sequence(r) manipulation
+* [http://www.synthesizers.com/q960.html Images and specifications of Moog 960 clone]
+
+{{stub}}
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Analog_sequencer
