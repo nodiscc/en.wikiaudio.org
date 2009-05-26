@@ -1,0 +1,14 @@
+
+
+'''Audio editing''' is the process of taking recorded sound and changing it directly on the recording medium (analog) or in RAM (digital).
+
+Audio editing was a new technology that developed in the middle part of the 20th century with the advent of magnetic tape recording. Prior to magnetic tape, editing (and the repairing of breaks) was performed on wire recorders with solder and extra wire to reinforce the new joint. After World War II, reel-to-reel tape machines became prevalent and edits were made with straight razors and special tape to connect pieces of magnetic tape that had been cut. Audio editors would listen to recorded tapes at low speeds, and then located specific sounds using a process called scrubbing, which is the slow rocking back and forth of the tape reels across the playback heads of the tape deck.
+
+With the development of microcomputer technology, sound recordists were able to digitize their recordings and edit them as files within a computer's RAM. The earliest audio editor was written by Soundstream Inc specifically for the PDP-11 minicomputer platform. Digital audio workstations appeared using proprietary software and hardware solutions but after the personal computer became widely available in the mid '80s, much the power of a DAW came into the hands of home and small business users through software audio editing programs written specifically for personal computers. The earliest program to become widely used in this application was a wave editor called Sound Designer in the late 1980s and early 1990s. Sound Designer was created by a company called Digidesign who achieved early industry dominance. Today, the most popular retail audio editing programs not associated with specific hardware are: Audacity, Adobe Audition, Sony Sound Forge, Samplitude, Adobe Soundbooth, Digidesign Pro Tools LE and Goldwave.[citation needed]
+
+In recent years, with the growing popularity of GNU/Linux, a number of Open Source software projects have sprung up in order to develop an open source audio editing program. This movement has been bolstered recently by the development of ALSA, and the Linux low latency kernel patch, which allow the GNU/Linux Operating System to achieve audio processing performance equal to that of commercial operating systems. The multi-platform package Audacity is currently the most fully-featured free software audio editor.
+
+{{unreferenced}}
+{{stub}}
+
+[[category:mixing techniques]]
