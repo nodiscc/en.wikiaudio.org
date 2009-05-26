@@ -1,0 +1,14 @@
+The '''AES11''' standard published by the [[Audio Engineering Society]]<ref>[http://www.aes.org/ Audio Engineering Society official site]</ref> provides a systematic approach to the synchronization of digital audio signals. Recommendations are made concerning the accuracy of sample clocks as embodied in the interface signal and the use of this format as a convenient synchronization reference where signals must be rendered co-timed for digital processing. Synchronism is defined, and limits are given which take account of relevant timing uncertainties encountered in an audio studio.
+
+AES11 Annex D (in the November 2005 or later printing or version) shows an example method to provide [[isochronous]] timing relationships for distributed [[AES3]] structures over asynchronous networks such as [[AES47]] where reference signals may be locked to common timing sources such as [[GPS]].
+The AES11 standard may be studied by downloading a copy at the AES web site<ref>[http://www.aes.org/publications/standards/ AES Standards In Print]</ref> as AES11-2003 with the current version (or printing) dated 2005-11-21.
+
+In addition, the [[Audio Engineering Society]] has now published a related standard called [[AES53]], that specifies how the timing markers already specified in [[AES47]] may be used to associate an absolute time-stamp with individual audio samples. This may be closely associated with AES11 and used to provide a way of aligning streams from disparate sources, including synchronizing audio to video in networked structures.
+
+==References==
+{{reflist}}
+
+[[category:standards and protocols]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia articlehttp://en.wikipedia.org/wiki/AES11
