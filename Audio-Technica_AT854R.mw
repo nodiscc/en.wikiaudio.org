@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENTS 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Cardioid (x4)
+*FREQUENCY RESPONSE 	70-16,000 Hz
+*OPEN CIRCUIT SENSITIVITY 	-37 dB (14.1 mV) re 1V at 1 Pa
+*IMPEDANCE 	100 ohms
+*MAXIMUM INPUT SOUND LEVEL 	134 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	105 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	65 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	9-52V DC, 2 mA typical (each channel)
+*WEIGHT 	16.4 oz (465 g)
+*DIMENSIONS 	5.91" (150.0 mm) maximum diameter, 1.09" (27.6 mm) height
+*OUTPUT CONNECTORS 	Microphone: Neutrik MiniCon (9 pins used) Cable: Four 3-pin XLRM-type
+*CABLE 	30' (9.1 m) long, 0.28" (7.0 mm) diameter, shielded, with a miniature multi-contact plug at microphone end and four independent XLRM-type output connectors
+|}
+The '''Audio-Technica AT854R''' is a four-channel cardioid condenser boundary microphone
+
+{{stub}}
+
+
+[[category:microphones]]
+
+
+[[category:Audio-Technica|AT854R]]
