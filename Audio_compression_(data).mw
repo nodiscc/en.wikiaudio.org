@@ -1,0 +1,6 @@
+'''Audio compression''' is a form of data compression designed to reduce the size of audio files. Audio compression algorithms are implemented in computer software as audio codecs. Generic data compression algorithms perform poorly with audio data, seldom reducing file sizes much below 87% of the original, and are not designed for use in real time. Consequently, specific audio "lossless" and "lossy" algorithms have been created. Lossy algorithms provide far greater compression ratios and are used in mainstream consumer audio devices.
+
+{{stub}}
+
+[[category:audio formats]] 
+[[category:standards and protocols]]
