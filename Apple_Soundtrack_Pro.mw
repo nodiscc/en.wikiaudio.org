@@ -1,0 +1,243 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+
+'''Audio Control'''
+
+*  Nondestructive, sample-accurate editing of audio files
+* Support for up to 24-channel files, including mono, stereo, and surround
+* Action-based editing to modify, reorder, suspend, or delete any audio edit, plug-in, or process
+* Audio Effects and Audio Units plug-ins can be applied to supported audio files as Actions
+* Audio Effects and Audio Units plug-ins can be applied to supported audio files as real-time effect chains
+* Real-time effects applied to audio files can be rendered to Actions
+* Intelligent analysis, repair, and restoration functions for:
+**Clicks and pops
+**Power line hum
+**DC offset
+**Phase
+**Clipped signal
+* Integrated multichannel file editor
+* Audio time stretching without affecting pitch
+* Ambient Noise Print to quickly replace unwanted noises from location recordings
+* Background Noise Removal including noise print
+* Sample ruler units in sample value, normalized, percent, and decibel view
+* Snapping to ruler ticks, zero crossings, markers, and adjacent clips
+* Support for bit depths up to 32-bit float
+* Support for sample rates from 2kHz to 192kHz
+* Support for AIFF, WAV, MP3, CAF, BWF, SDII, NeXT, QuickTime, and STAP (Soundtrack Audio Project) file playback
+* Saves files nondestructively as STAP files or destructively as AIFF, WAV, SDII, QuickTime, CAF, or NeXT
+* Export mixes as AIFF, WAV, NeXT, SDII, MP3, AAC/Podcast, Dolby Digital Professional (AC-3), or use Compressor for additional file support
+* Selection history
+* Waveform and customizable frequency spectrum views with linear and logarithmic display
+* Frequency selection and editing in frequency spectrum view
+* Animated waveform feedback
+* Mini-waveform view
+
+
+'''Sound Design'''
+
+*Processes including:
+** Fade in/Fade out
+** Normalize
+** Amplitude adjust
+** Silence
+** Invert
+** Swap channels
+** Mono conversion
+** Channel reordering
+** Resample
+** Generate silence, white noise, pink noise, sine wave, sawtooth wave, square wave, or triangle wave
+
+*Support for Audio Units plug-ins
+*Audio Units presets available to all Audio Units-compatible applications
+*More than 6000 sound effects, music beds, and music loops, including over 1000 in surround
+*Powerful media search engine
+*Support for Apple Loops, AIFF, WAV, MP3, AAC, CAF, and ACID sound and music libraries
+
+
+'''Take Management'''
+
+*  Multitake recording with take editing in Multitake Editor
+* Multitake Editor allows comps of multitake recordings and other audio files
+* Combine individual phrases from different takes
+* Automatic customizable crossfade between phrases
+* Single-click take selection
+* Adjustable transition boundaries for multitake comps
+* Final comp functions as stand-alone clip while retaining access to all takes
+* Slide phrases within edit boundaries
+
+
+
+'''Multitrack Audio Editing'''
+
+* Single window with customizable tab panes
+* Customizable window layouts
+* Dynamic tab panes with quick show/hide functionality
+* Resizable video window tab
+* Multitrack Timeline with tracks, busses, submixes, and master in mono, stereo, or surround
+* Multiple multitrack and audio file projects open at once
+* Mixed sample rates supported in multitrack projects
+* Time- or beat-based tracks
+* Ruler in HH:MM:SS, seconds, samples, frames, drop frame, non-drop frame, beats
+* Loop clip transposition
+* Loop clip speed adjustments (quadruple, double, normal, half, quarter)
+* Adjustable automatic and manual crossfades
+* Fade selector for customizing fade in, fade out, and crossfades
+* Tape style and sample repeat scrubbing
+* Rolling edit tool
+* Native and custom timecode spotting
+* Multitrack recording of mono, stereo, and multichannel files
+* Lift and stamp tool to selectively copy plug-in sets from one clip to another
+* Lift and stamp effect sets can be saved as presets
+* Lift and stamp EQ matches the EQ characteristics of one clip to another
+* Automation parameters can move with clips or lock to absolute time
+* Pull up/pull down of audio and video to all common standards
+* Customizable clip and track colors
+* Clip locking in multitrack
+* Clip disabling in multitrack
+* Momentary mono switch
+* Automatable master tempo, master volume, master effects, and key
+* Automation of most mix and effect parameters with read, touch, and latch modes
+* Pre- and post-fader send busses for application of common effect plug-ins to multiple tracks
+* Output bussing for single fader control of multiple tracks
+* Support for multichannel audio output devices
+* Time, duration, podcast, beat, and end-of-project markers
+* Powerful browser for locating content quickly
+* Multipoint Video HUD
+* Tool HUD
+* Timecode HUD
+* Numeric Clip offset
+* Bin with access to multiple projects, media files, markers, and clips
+* Spotlight-style searching in Bin
+
+
+'''Surround and Stereo Mixing'''
+
+* Discrete 5.1 mixing, bussing, and routing
+* Console-style Mixer with full stereo and surround meters on every track, buss, submix, and master
+* Surround panning of mono, stereo, and surround audio files
+* Mono, stereo, and surround files can be combined on same track
+* Support for multichannel surround files
+* Surround Panner HUD with automatable controls for rotation, width, collapse, center bias, LFE balance, and individual speaker disabling
+* Surround and stereo panner automation data simultaneously available on each track
+* Automatic surround to stereo Dolby-standard downmix
+* Support for true surround and multi-mono effects
+* Over 1000 royalty-free surround sound effects and music tracks
+* Control surface support (Mackie Control Protocol)
+
+
+
+
+'''Integrated Workflow'''
+
+* AppleScript scriptable (executable from Soundtrack Pro, Final Cut Pro 6, or as AppleScript droplets for batch processing)
+* Automator actions for creation of complex multiapplication workflows in Mac OS X v10.4 or later
+* Support for video formats up to HD resolutions
+* Integrated video tab
+* Output to SD and HD1 video monitors (via FireWire or PCI card)
+* HD1 or SD output using Digital Cinema Desktop2 to second Apple Cinema Display
+* Send and receive MIDI timecode and beat clock for synchronization with hardware and software
+* Integration with Final Cut Pro 6, DVD Studio Pro 4, and Motion 3
+* Round-trip audio file editing with Final Cut Pro 6 and Motion 3
+* Support for Final Cut Pro 6 scoring markers
+* Conform tab to conform audio edit to new Final Cut Pro 6 edits
+* Conform visual interface for highlighting changed areas
+* Accept or reject changes across entire project or selectively on a change-by-change basis
+* Podcast track to create audio-only, enhanced audio, or video podcasts
+* Support for chapter, artwork, and URL markers in video and audio podcasts
+* Export presets and customizable post-export scripts
+* OMF import
+* AAF import and export
+
+
+'''Included Effects'''
+
+TS = True surround
+* Dynamics
+**Adaptive Limiter
+**Compressor
+**DeEsser
+**Expander
+**Limiter TS
+**Multichannel Gain TS
+**Multipressor
+**Noise Gate
+**Surround Compressor TS
+
+*Distortion
+** Bitcrusher
+** Clip Distortion
+** Distortion
+** Distortion II
+** Exciter
+** Overdrive
+** Phase Distortion
+
+*EQ and Filter
+** AutoFilter
+** Channel EQ
+** Fat EQ
+** High Cut
+** High Pass Filter
+** High Shelving EQ
+** Linear Phase EQ
+** Low Cut
+** Low Pass Filter
+** Low Shelving EQ
+** Match EQ TS
+** Parametric EQ
+** Soundtrack Pro AutoFilter
+
+*Modulation
+** Chorus
+** Ensemble TS
+** Flanger
+** Modulation Delay
+** Phaser
+** Scanner Vibrato
+** Tremolo TS
+
+*Reverb/Delay
+** PlatinumVerb
+** Soundtrack Pro Reverb
+** Space Designer TS
+** Stereo Delay
+** Tape Delay
+
+*Metrics and Diagnostics
+** Correlation Meter
+** Multi Meter TS
+** Test Oscillator
+** TunerTS
+
+*Miscellaneous
+** Denoiser
+** Direction Mixer
+** Enveloper
+** Gain
+** Pitch Shifter II
+** Ringshifter
+** Spectral Gate
+** Stereo Spread
+** SubBass
+** Vocal Transformer
+
+|}
+
+
+
+'''SoundTrack Pro''' is digital a multitrack audio recording and editing software program created by Apple inc.
+
+{{stub}}
+
+[[category:Apple]]
+[[Category:Soundtrack Pro]]
