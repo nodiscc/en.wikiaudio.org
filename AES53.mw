@@ -1,0 +1,10 @@
+'''AES53''' is a standard first published in October 2006 by the [[Audio Engineering Society]] ([http://www.aes.org Official Site]) that specifies how the timing markers already specified in AES47 may be used to associate an absolute time-stamp with individual audio samples. AES47 specifies a format for the transmission of digital audio over asynchronous transfer mode (ATM) networks. A recommendation is made to refer these timestamps to the SMPTE epoch which in turn provides a reference to UTC and GPS time. It thus provides a way of aligning streams from disparate sources, including synchronizing audio to video, and also allows the total delay across a network to be controlled when the transit time of individual cells is unknown. This is most effective in systems where the audio is aligned with an absolute time reference such as GPS, but can also be used with a local reference. 
+
+This standard may be studied by downloading a copy of the latest version from [http://www.aes.org/publications/standards the AES standards web site] as AES53-2006.
+
+
+
+[[category:standards and protocols]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/AES53
