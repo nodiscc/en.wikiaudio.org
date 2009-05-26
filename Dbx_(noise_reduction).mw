@@ -1,0 +1,50 @@
+'''dbx''' is a family of noise reduction systems developed by the company of the same name. The most common implementations are dbx Type I and dbx Type II for analog tape recording and, less commonly, vinyl LPs. A separate implementation, known as dbx-TV, is part of the MTS system used to provide stereo sound to North American and certain other TV systems. The company – dbx, Inc. – was also involved with Dynamic Noise Reduction (DNR) systems.
+
+=== History ===
+
+The original dbx Type I and Type II systems were based on so-called "linear decibel companding" - compressing the signal on recording and expanding it on playback. It was invented by David E. Blackmer of dbx, Inc. in 1971.
+
+A miniature dbx Type II decoder on an integrated circuit was created in 1982 for use in portable and car audio, although only a few devices took advantage of it, such as certain Panasonic portable cassette players and Sanyo car stereos.[1] dbx marketed the PPA-1 Silencer, a decoder that could be used with non-dbx players such as the Sony Walkman.[2] A version of this chip also contained a Dolby B-compatible noise reduction decoder, described as dbx Type B noise reduction this was possible after the Dolby patent (but not the trademark) had expired.
+
+A miniature dbx Type II decoder on an [[integrated circuit]] was created in 1982 for use in portable and car audio, although only a few devices took advantage of it, such as certain [[Panasonic]] portable cassette players and Sanyo car stereos.[http://pocketcalculatorshow.com/walkman/walkman-db.html] dbx marketed the '''PPA-1 Silencer''', a decoder that could be used with non-dbx players such as the [[Sony Walkman]].[http://pocketcalculatorshow.com/walkman/museum.html] A version of this chip also contained a [[Dolby noise reduction|Dolby B]]-compatible noise reduction decoder, described as ''dbx Type B noise reduction'' this was possible after the Dolby patent (but not the trademark) had expired.
+
+=== How dbx works ===
+dbx Type I and Type II are types of "companding noise reduction".  Companding noise reduction works by first compressing the source material's dynamic range (in this case by a factor of 2) in anticipation of being recorded on a relatively noisy medium (magnetic tape, for example).
+* Upon playback, the encoded material, now contaminated with noise, is passed through an expander which restores the original dynamic range of the source material.
+* The contaminating signal (tape hiss) is "masked" by the dynamic expansion process, resulting in a significant reduction in perceived noise.
+
+=== dbx artifacts ===
+A sometimes noticeable artifact of dbx was "breathing", as its compander rapidly increased and decreased the volume level of the background noise along with the music, which was most noticeable in quiet musical passages; this was a greater issue with dbx than with Dolby because its compander was more aggressive and worked across the frequency spectrum.[http://www.robertshifi.com/faq/faq-14.html#4]
+
+=== Dolby wins in the marketplace ===
+Although it brought extraordinary dynamic range to the lowly cassette tape, dbx noise reduction did not achieve widespread popularity in the consumer marketplace, as compressed recordings did not sound acceptable when played back on non-dbx equipment; [[Dolby noise reduction system|Dolby B]] was already widely used when dbx was introduced.  Although Dolby noise reduction also used some companding, the level of compression and expansion was very mild, so that the sound of Dolby-encoded tapes was acceptable to consumers when played back on non-Dolby equipment.
+* dbx Type I was widely adopted in professional recording, and [[Tascam]] incorporated dbx Type II in their [[Portastudio]] four-track cassette recorders.
+* [[Tascam]]'s [[Portastudio]] family of 4 track cassette recorders became an industry  standard for small recording studios before being replaced by [[digital audio tape]] many years later.
+* An advantage of dbx Type I and Type II compared to Dolby noise reduction is that it did not require calibration with the output level of the tape deck, which could cause incorrect tracking with Dolby B and C, leading to muffled high tones.
+* However, due to dbx's high compression and strong high-frequency preemphasis, dbx-encoded tapes were, unlike Dolby B, practically unplayable on non-dbx systems, sounding very harsh when played back undecoded.
+
+=== dbx on vinyl ===
+dbx was also used on vinyl records, from 1973 until around 1982, and over 1100 albums were released with dbx encoding, which were known as '''dbx discs'''. When employed on [[LP album|LPs]], the dbx Type-II system reduced the audibility of dust and scratches, reducing them to tiny pops and clicks (if they were audible at all) and also completely eliminated record surface noise. dbx encoded LPs had, in theory, a dynamic range of up to 120db.[http://www.audioinvest.no/dbx/dbxsysin.htm] In addition, dbx LPs were produced from only the original master tapes, with no copies being used, and pressed only on heavy, virgin vinyl.  Most were released in limited quantities with premium pricing.  Until the CD format came along in 1982, dbx LPs were the quietest and highest fidelity mass-market audio format available to consumers.
+
+In practice, dbx companders contain electronic noise below about -60db which is about halfway from the theoretical range. This meant that even with the best all-analog [[Audio mastering|mastering]], dbx discs still did not achieve the full 90db range.
+
+=== dbx for television ===
+dbx-TV noise reduction, while having elements in common with Type I and Type II, is different in fundamental ways, and was developed by Mark Davis (then of dbx, now of Dolby Labs) in the early 1980s.
+
+dbx-TV is included in multichannel television sound (MTS), the U.S. standard for [[stereophonic sound|stereo]] analog television transmission.  Every TV device that decoded MTS originally required the payment of royalties, first to dbx, Inc., then to [[THAT Corporation]] which was spun off from dbx in 1989 and acquired its MTS patents in 1994; however, those patents expired worldwide in 2004.<ref>[http://www.thatcorp.com/dbxtv-time.html dbx-TV Timeline (THAT Corporation)]</ref>
+
+=== dbx in film production ===
+dbx noise reduction, capable of more than 20db of noise reduction, was used in the re-recording of the film Apocalypse Now in 1979. Dolby A-type noise reduction, capable of only 10-12db of noise reduction, was used only at the final stage for the mastering of the film's soundtrack to 70mm prints.
+
+A modified version of dbx was also used in the Colortek stereo film system.  In addition, the Model-II and Model-III variants of MCA's Sensurround Special Effects System used dbx Type-II noise reduction on the optical audio track and was a cornerstone of the entire system.  MCA's Sensurround+Plus, used on the film Zoot Suit, employed dbx Type-II with the 4-track magnetic sound format on 35mm film prints, providing the motion picture with a stereo soundtrack capable of wide dynamic range and freedom from noise.
+
+
+== External links ==
+dbx (Audio Invest)
+* [http://www.audioinvest.no/dbx/dbxsysin.htm Audio Invest page on dbx]
+* [http://www.vintagedbx.com Vintage dbx, the sound of the legend]
+
+<references/>
+
+
+[[category:standards and protocols]]
