@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern supercardioid
+
+*Frequency Response	40Hz - 16.5kHz
+*Output Sensitivity 	6.9mV/Pa
+*Max SPL  	130dB for
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	28dB-A
+*Output Impedance 	150Ω	
+*Powering 	Phantom 12-48
+
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black
+
+|}
+
+The '''Audix VX-5''' is a supercardioid condenser microphone intended for hand-held live vocal applications 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audix|VX-5]]
