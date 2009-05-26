@@ -1,0 +1,16 @@
+In '''electronics''', the term crosstalk (XT) refers to any phenomenon by which a signal transmitted on one circuit or channel of a transmission system creates an undesired effect in another circuit or channel. Crosstalk is usually caused by undesired capacitive, inductive, or conductive coupling from one circuit, part of a circuit, or channel, to another.
+In [[telecommunication]] or [[telephony]], crosstalk is often distinguishable as pieces of speech or [[Signalling (telecommunication)|signaling]] tones leaking from other people's connections.  If the connection is analog, [[twisted pair]] cabling can often be used to reduce the effects of crosstalk. Alternatively, the signals can be converted to digital form, which is much less susceptible to crosstalk.
+
+
+
+In [[integrated circuit design]], crosstalk normally refers to a signal affecting another nearby signal.  Usually the coupling is capacitive, and to the nearest neighbor, but other forms of coupling and effects on signal further away are sometimes important, especially in analog designs. See [[signal integrity]] for tools used to measure and prevent this problem, and [[substrate coupling]] for a discussion of crosstalk conveyed through the [[integrated circuit]] substrate. There are a wide variety of possible fixes, with increased spacing, wire re-ordering, and shielding being the most common.
+
+With the [[Hammond organ]], an electromechanical organ invented in 1935, "crosstalk" or "leakage" occurs when the instrument's magnetic pickups receive the signal from rotating metal tonewheels other than those selected by the organist. In the 1930s and 1940s, crosstalk was originally considered a defect that needed to be corrected. However, in the 1990s and 2000s, Hammond enthusiasts have come to prize the sound of tonewheel crosstalk as a "vintage" or "authentic" aspect of the Hammond's sound.
+
+In a music recording setting, the term "crosstalk" can refer to the leakage (or "bleeding") of sound from one instrument into a microphone placed in front of another musical instrument or singer. A common example is the leakage of the high-pitched, heavily-amplified sound of the lead guitar into the microphones for other instruments. Note that this is nearly always an acoustic effect, not electrical.
+
+==References==
+*From [http://www.its.bldrdoc.gov/fs-1037/fs-1037c.htm Federal Standard 1037C] and from MIL-STD-188.
+
+
+[[category:circuitry]]
