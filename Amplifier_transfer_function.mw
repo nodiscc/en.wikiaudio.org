@@ -1,0 +1,13 @@
+The relationship of the input to the output of an amplifier — usually expressed as a function of the input frequency — is called the '''transfer function of the amplifier''', and the magnitude of the transfer function is termed the [[gain]].           
+
+"Mathematically the transfer function is expressed in the form of a complex function which has real and imaginary parts and physically corresponds to the ratio of the output signal amplitude to the input signal amplitude. The magnitude of the transfer function at any particular frequency is the square root of the sum of the squares of the real and imaginary parts and physically corresponds to the ratio of the output signal amplitude to the input signal amplitude. The angle of the transfer function at any particular frequency is the angle whose tangent is the ratio of the imaginary and real parts and physically corresponds to the phase differences between the output signal and the input signal" <ref>Ballou,Glen.M.  Handbook For Sound Engineers, 3rd edition </ref>
+
+
+
+== References ==
+
+<references/>
+
+{{stub}}
+
+[[category:circuitry]]
