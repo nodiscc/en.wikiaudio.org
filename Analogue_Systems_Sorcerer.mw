@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Unlimited
+*Oscillators - RS-90: VCO with 2 waveshape pots with VC (sawtooth and square), sync, adjustable pulse-width
+*LFO - RS-80: Sine, Triangle, Square and Sawtooth waveforms.
+*Filter - RS-110: Multimode 4-pole (24dB/oct) HP/LP, 2-pole (12dB/oct) BP/notch. 2 audio and CV inputs. RS-120: Comb Filter (phaser/flanger)
+*VCA - RS-60 Envelope Generators offer ADSR envelopes.RS-180 VCAs have 2 audio and CV inputs and individual Level knobs
+*Keyboard - Sorcerer / Demon: 49 note monophonic keyboard
+*Memory - None
+*Control - MIDI IN/OUT/THRU, CV/Gate outputs
+*Date Produced - 2000
+
+|}
+
+
+
+ [[category:synths]] 
+
+[[category:Analogue Systems|Sorcerer]]
+
+The '''Sorcerer''' is a keyboard version of Analogue Systems RS-Integrator series of modular synthesizers
+
+{{stub}}
