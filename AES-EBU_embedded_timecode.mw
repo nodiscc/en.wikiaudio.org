@@ -1,0 +1,9 @@
+'''AES-EBU embedded timecode''' is an embedded timecode format used to embed SMPTE timecode data within AES/EBU digital audio signals. It can be used for synchronization and for logging and identifying audio content.
+
+
+{{stub}}
+
+[[category:standards and protocols]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/AES-EBU_embedded_timecode</small>
