@@ -1,0 +1,24 @@
+'''De-essing''' is any technique intended to reduce or eliminate excess [[sibilance]] in sound recordings of the human voice.<ref name=rane>Rane, Dynamics Processors -- Technology, Chapter 4 -- Specialized Compressors [http://www.rane.com/note1554.html], Retrived [[2008-10-01]]</ref>  Excess sibilance can be caused by [[Dynamic range compression|compression]], [[microphone]] choice and technique, and even simply a singer's mouth.  Sibilance lies in [[frequencies]] anywhere between 2 kHz-10 kHz, depending on the individual.  
+
+De-essing is dynamic, only working when the level of the signal in the sibilant range exceeds a certain threshold. It differs from [[Equalization|equalization]], which is a static change in level, but can be used to reduce the level of sibilant frequencies. 
+
+De-essing can be achieved in the following ways<ref name=rane/>:
+
+''Side-chain compression'' or ''broadband de-essing'': With this technique, the signal feeding the side-chain of a compressor is equalized or filtered so that the sibilant frequencies are most prominent. As a result the compressor only reduces the level of the signal when there is a high level of sibilance. This reduces the level over the entire frequency range.  
+As such, attack and release times are extremely important, and threshold settings can be not placed as low as with other types of de-essing without experiencing more blatant artifacts.
+
+''Split-band compression'': Here, the signal is split into two frequency ranges, a range that contains the sibilant frequencies, and a range that does not. The signal containing the sibilant frequencies is sent to a compressor. The other frequency range is not processed. Finally the two frequency ranges are combined back into one signal. The original signal can be split into high(sibilant) and low frequencies, or, split so that the frequencies below AND above the sibilance are untouched. This technique is similar to multi-band compression.
+
+''Dynamic equalization'': The gain of a parametric equalizer is reduced as the level of the sibilance increases. The frequency range of the equalizer is centered on the sibilant frequencies. 
+
+''De-essing with automation'':A more recent method of de-essing involves automating the level of the vocal in a [[Digital audio workstation|DAW]]. Whenever problematic sibilance occurs the level can be set to follow automation curves that are drawn in by the user. This method is not possible in the [[analog signal|analog]] domain as an [[audio engineer]] would not be able to react fast enough.
+
+== References == 
+
+{{reflist}}
+Jeffs, Holden, and Bohn, "Dynamics Processors - Chapter 4", in ''Dynamics Processors -- Technology & Applications'', [http://www.rane.com/note1554.html].
+
+
+[[category:mixing techniques]]
+
+[[category:recording techniques]]
