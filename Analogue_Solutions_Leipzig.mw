@@ -1,0 +1,56 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*VCO1 
+Tune, Glide, PW , PWM, Mod Source & Amount controls, Saw out, Pulse out 
+*VCO2 
+Tune, Glide , Sync, PWM, Mod Source & Amount controls, Saw out, Pulse out 
+*VCF 
+Low pass ﬁ lter: Cut-off, Emphasis, Key Track, ENV1 Mod, Mod Source & Amount 
+controls 
+*Mixer 
+Audio source mixer, including external audio inputs 
+*VCA 
+Mode switch, Output volume 
+*ENV1 
+ASR envelope with trigger LED 
+*ENV2 
+ASR envelope with trigger LED 
+*LFO 
+Square & Triangle waves 
+*Noise Generator 
+White noise 
+*SUB oscillators 
+-1 from VCO1 
+-2 from VCO2 
+*MIDI to CV Converter 
+16 bit high resolution with auxiliary controller CV2 output (modulation CV) 
+
+*Many modulation possibilities. 
+*Rotary controls: 25 
+*Rotary switches: 6
+*Push button: 1 
+*LEDs: 6 
+*Jack sockets (6.35mm, mono); 3 
+*MIDI Sockets; 2 
+*Rugged steel contruction 
+*Dimensions: Height: x 5U 
+*Weight: xKg 
+*Power: x 
+*Accessories: Manual , Mains adaptor (230v)
+
+|}
+
+The '''Leipzig''' is a monophonic synth produced by Anologue Solutions.
+
+{{stub}}
+
+[[category:synths]]
+[[category:Analogue Solutions]]
