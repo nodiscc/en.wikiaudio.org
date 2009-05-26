@@ -1,0 +1,16 @@
+{{stub}}
+
+
+'''Bass instrument amplification''' for the [[bass guitar]], [[double bass]] and similar instruments is distinct from other types of [[Instrument amplifier|amplification systems]] due to the particular challenges associated with low-frequency sound reproduction. This distinction affects the design of the loudspeakers, the cabinet, and the preamplifier and amplifier.
+
+Speaker cabinets for bass instrument amplification usually use larger [[loudspeakers]] (or more loudspeakers) than the cabinets used for other instruments, so that they can move the larger amounts of air needed to reproduce low frequencies. Speakers used for bass instrument amplification tend to be more heavy-duty, because higher sound pressure levels are needed for bass to achieve the same perceived [[loudness]] as other instruments <ref>this is because human hearing is much less sensitive to the lower frequencies</ref><!--Simple example...an electric guitarist can do a solo in a rock band with a 50 watt guitar amp, but the bassist will probably need a 300 watt amp to lay down the bass tone in the group -->  Bass instrument speaker cabinets are typically more rigidly constructed and heavily braced than cabinets for non-bass instrument amplification, and bass cabinets often include [[bass reflex]] ports or openings.
+
+Bass instrument amplifiers' preamplifier sections have equalization controls that are designed for bass instruments, and extend down to 40 hertz or even below. As well, bass instrument amplifiers are more likely to be designed with cooling fans than regular guitar amplifiers, due to the high power demands of bass instrument amplification, and bass amplifiers are more commonly equipped with [[compressor]] or [[limiter]] circuitry to prevent speaker damage.
+
+
+
+== References ==
+<references/>
+
+[[category:circuitry]]
+[[category:recording techniques]]
