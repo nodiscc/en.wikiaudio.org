@@ -1,0 +1,29 @@
+{{Unreferenced|date=October 2008}}
+An '''APE tag''' is a [[Tag (metadata)|tag]] used to add [[metadata]], such as the title, artist, or track number, to [[digital audio]] files.
+
+==Versions==
+=== APEv1 ===
+The ''APEv1 tag'' was designed for the [[Monkey's Audio]] format.
+
+=== APEv2 ===
+The creator of the Musepack format [[Frank Klemm]] extended the original format to add a header, allowing APE tags to be at the beginning of files, and also allowed metadata values to be [[Unicode]] rather than simply ASCII.
+Because of its simplicity and flexibility, the [[WavPack]] and [[OptimFROG]] formats also adopted it as their primary tag format. Version 3.99 of Monkey's Audio also switched from using APEv1 to APEv2.
+
+The [[foobar2000]] player can also tag [[MP3]] files with APEv2 tags instead of [[ID3]] tags, because they are considerably easier to write and more flexible.However, because ID3 was designed with the MP3 format in mind and APEv2 was not, there are some complications. For example, the string ''APETAGEX'' signals the start of an APEv2 tag, but the string ''TAG'' signals the start of an ID3v1 tag. If the ''TAG'' in ''APETAGEX'' ends up where an ID3v1 tag is expected, it may be read incorrectly. ID3 also has an “unsynchronization scheme” to ensure players do not try to play the tag data as audio; APEv2 has no such scheme, and APEv2 tags may result in errors or [[White noise|static]] at the end of files.
+
+== Features ==
+APE tags are closer to [[Vorbis comment]]s than [[ID3]] tags. Like Vorbis comments, they are unstructured key/value pairs. However, unlike Vorbis comments, they do not allow for inter-key ordering. This is because they store a list of values with each key, rather than a key per value.
+
+APE values can also be flagged as “text”, “binary”, or “external” types. Because of this, tag editing software can avoid presenting blocks of unreadable data to users. Binary data cannot be easily stored in Vorbis comments for this reason (though this is by design).
+
+APEv2 supports Unicode using [[UTF-8]] for key values. For key names an ASCII subset (control characters from 0x00 to 0x1f are not allowed) must be used.<ref>see [http://wiki.hydrogenaudio.org/index.php?title=APE_key wiki.hydrogenaudio.org] for more details</ref>
+
+==References==
+<references />
+
+[[category:audio formats]]
+[[category:standards and protocols]]
+
+
+== External links ==
+* [http://wiki.hydrogenaudio.org/index.php?title=APEv2_specification APEv2 specifications at HydrogenAudio Wiki]
