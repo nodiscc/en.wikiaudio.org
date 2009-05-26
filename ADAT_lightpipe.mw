@@ -1,0 +1,31 @@
+The '''ADAT Lightpipe''', officially the '''ADAT Optical Interface''', is a standard for the transfer of [[digital audio]] between equipment. It was originally developed by Alesis.
+
+==Cables and interface==
+Lightpipe uses fiber optic cables (hence its name) to carry data, with Toslink connectors at either end, making them identical to [[S/PDIF]] optical cables. However, the data streams of the two protocols are totally incompatible. S/PDIF is mostly used for transferring stereo or multi-channel surround sound audio, whereas the ADAT optical interface supports up to 8 channels at 48 kHz, 24 bit. Recently, Lightpipe devices have been successfully interfaced via [[FireWire]] <ref>[http://www.m-audio.com/products/en_us/ProFireLightbridge-main.html M-Audio Profile Lightbridge, an example of a Lightpipe wireless interfacing implementation]</ref>.
+
+==Data transfer==
+Lightpipe can carry eight channels of uncompressed digital audio at 24 bit resolution at 48,000 Sampling (music)|sample]]s per second.
+
+Although initially used for the transfer of digital audio between ADATs, the protocol was designed with future improvements in mind. All Lightpipe signals are transmitted at 24 bit resolution, no matter what the depth of the audio; information is contained within the Most Significant Bits and the rest of the bits remain a string of zeros. For example, if a 16 bit signal is sent via Lightpipe, the first sixteen bits contain the audio information while the other eight are simply occupied by zeros. The receiving device ignores information it cannot process. For example, a 20 bit signal going from a Type II ADAT to a Type I (which only operates at 16 bits) will simply ignore the bits below the sixteen MSBs.<ref>Alesis. 199?. ADAT LX20 Reference Manual. Chapter 8, p.52. Available online: [http://www.alesis.com/downloads/manuals/ADAT-LX20_Manual.pdf]. Accessed 24th August 2007</ref>
+
+Higher [[sample rate]]s can be used with a proportionately reduced number of channels, although the original ADAT machines did not support this.
+
+==Advantages==
+Lightpipe's main advantage is, of course, the transfer of digital audio, which results in the perfect transfer of information. The lightpipe is also "hot-swappable", which means devices do not need to be turned off when plugging in or unplugging.
+
+==Use in ADAT systems==
+Lightpipe was designed for use with the Alesis ADATs, and although extremely versitile, there are a few limitations. For straightforward digital audio transfer, the receiving device can synchronize to the lightpipe's embedded clock signal, achieving a 1:1 digital copy. For transport control, additional synchronization is needed between devices. (For example, using two ADAT machines at the same time to achieve 16-channel throughput would require better transport control; otherwise, the two ADAT machines would be very unlikely to play in sync.) [[D-subminiature|Nine pin D connectors]] are used to transfer transport information. The [[Alesis ADAT HD24]] also offers [[MIDI]] Time Code for synchronization with MIDI-enabled devices.
+
+==Competing Protocols==
+There are numerous digital audio transfer protocols. The most commonly used professional interface is [[AES3]], developed by the [[Audio Engineering Society]] and the [[European Broadcasting Union]], which transmits two channels of digital audio over a balanced [[XLR]] cable. [[S/PDIF]] (Sony/Philips Digital Interface) is the consumer version of this protocol, which uses either RCA leads or optical cables identical to lightpipe cables. [[MADI|MADI-X]] can carry a 64 channels of audio at 48kHz and 32 channels at 96kHz, although it always requires a separate clock signal as it does not have one embedded.
+
+However, recently, certainly in home and semi professional studios, [[USB]] and [[FireWire]] interfaces are the most popular means of transferring data. Their advantages over Lightpipe are large: compatibility is almost universal, all kinds of information can be transferred and a single cable can both send and receive data, whereas Lightpipe requires two separate leads for this. [[Yamaha]]'s [[mLAN]] protocol exclusively uses the FireWire interface.
+
+==References==
+<references/>
+
+[[category:standards and protocols]]
+[[category:alesis]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/ADAT_Lightpipe</small>
