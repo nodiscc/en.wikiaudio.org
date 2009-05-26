@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 2 to 32 voices with Unison possibilities
+*Oscillators - 3 VCOs (osc 1: saw, sqr. osc 2 & 3: saw, sqr, sin, tri) with Osc. 1 and 2 hard-sync.
+*Modulation - 1 LFO with saw, sqr, sin tri waveforms and MIDI sync. 1 Sample-and-Hold.
+*Filter - Multimode lowpass, highpass, bandpass, notch.
+*VCA/Envelopes - 1 VCA with Ring Mod. 2 Envelopes: 1 ADSR and 1 AR. 1 Envelope Follower.
+*Arpeg/Seq - ARP Model 1601 Sequencer: 16-step analog-style sequencer with MIDI sync.
+*Keyboard - Virtual 49-note keyboard
+*Effects - Spring Reverb, Chorus, Delay
+*Memory - Ships with over 400 presets. Unlimited patch memory.
+*Interfaces - Stand-Alone: DirectX, ASIO, CoreAudio.
+*Plug-In: VSTi, DXi, RTAS, HTDM, Audio Units.
+*Macintosh - OS X 10.2 or higher, 1GHz, 256MB RAM
+*Windows/PC - Windows 98SE/2000/XP, 1GHz, 256MB RAM
+*Date Produced - 2004
+|}
+
+The '''Arturia ARP 2600V''' is a [[Software synthesizer|virtual instrument]] that attempts to emulate the sound and look of a real [[ARP 2600]]
+
+{{stub}}
+
+[[category:Arturia|ARP 2600V]]
+[[category:software instruments]]
+
+[[category:synths]]
