@@ -1,0 +1,76 @@
+'''Dolby NR''' is the name given to a series of noise reduction systems developed by Dolby Laboratories for use in analogue magnetic tape recording. The first was Dolby A professional noise reduction for recording studios in 1966, but the best-known is Dolby B (introduced 1968), a simplified version of Dolby A for the home market, which helped make high fidelity practical on cassette tapes, and is common on stereo tape players and recorders to the present day. Of the noise reduction systems, Dolby A and Dolby SR were developed for professional use. Dolby B, C, and, S were designed for the consumer market. All the Dolby variants work by companding, or compressing the dynamic range of the sound during recording and expanding it during playback.
+
+
+===How Dolby noise reduction works===
+
+Dolby noise reduction is a form of dynamic preemphasis employed during recording, plus a form of dynamic deemphasis used during playback, that work in tandem to improve the signal-to-noise ratio. While Dolby A operates across the whole spectrum, the other systems specifically emphasize the audible frequency range where background tape hiss, an artifact of the recording process that is similar to white noise, is most noticeable (usually above 1 kHz).
+
+The Dolby preemphasis boosts the recorded level of the audio signal at these higher frequencies during recording, effectively compressing the dynamic range of that portion of the signal, so that quieter sounds above 1 kHz receive a proportionally greater boost. As the tape is recorded, the relative amplitude of the signal above 1 kHz is used to determine how much pre-emphasis to apply - a low-level signal is boosted by 10 dB (Dolby B) or 20 dB (Dolby C). As the signal rises in amplitude, less and less pre-emphasis is applied until at the "Dolby level" (+3 VU), no signal modification is performed.
+
+The sound is thus recorded at a higher overall level on the tape relative to the tape's overall noise level, requiring the tape formulation to preserve this specially recorded signal without distortion. On playback, the opposite process is applied (deemphasis), based on the relative signal component above 1 kHz. Thus as this portion of the signal decreases in amplitude, the higher frequencies are progressively more sharply attenuated, which also filters out the constant background noise on the tape when and where it would be most noticeable.
+
+The two (pre and de-emphasis) processes are intended to cancel each other out as far as the actual recorded program is concerned. Only de-emphasis is applied to the incoming signal and noise during playback. After playback de-emphasis is complete, apparent noise in the output signal is reduced, and this process should not produce any effect noticeable to the listener. Playback without noise reduction produces a noticeably brighter sound, however.
+
+The calibration of the recording and playback circuitry is therefore critical for faithful reproduction of the original program content, and this is easily offset by poor quality tape, dirty recording/playback heads, or using inappropriate bias levels/frequency for the tape formulation, as well as tape speed, when recording or duplicating. This can manifest itself as muffled-sounding playback, or "breathing" of the noise level as the signal varies.
+
+On some high end consumer equipment, Dolby calibration control is included: for recording, a reference tone at Dolby level may be recorded for accurate playback level calibration on another transport; at playback, the same recorded tone should produce the identical output, as indicated by a Dolby logo marking at +3 VU on the VU meter(s). For accurate off-the-tape monitoring during recording on 3-head decks, both processes must be employed at once, and circuitry provided to accomplish this is marketed under the rubric "Double Dolby".
+
+
+
+=== Dolby A ===
+
+
+Dolby A was the company's first noise reduction system, intended for use in professional recording studios, where it became commonplace, gaining widespread acceptance at the same time that multitrack recording became standard. The input signal is split into four frequency bands with 12 dB/oct slopes: lowpass @ 80 Hz; bandpass 80 Hz - 3 kHz; highpass @ 3 kHz; highpass @ 9 kHz. The compansion circuit has a threshold of -40dB, with a ratio of 2:1 for a compression / expansion of 10dB, except for the 9 kHz highpass which has only 5dB of gain change. This provides about 10 dB of broadband noise reduction, which increases to a possible 15dB at 15 kHz according to articles written by Ray Dolby in JAES (Oct 1967) and Audio (June / July 1968).
+
+
+
+=== Dolby B ===
+
+
+Dolby B was developed after Dolby A as a single band system providing up to 10 dB noise reduction on frequencies above 1 kHz, primarily for cassettes. It was much simpler than Dolby A and therefore much less expensive to implement in consumer products. Dolby B recordings are acceptable when played back on equipment that does not possess a Dolby B decoder, such as most inexpensive cassette players. However, Dolby B provides less effective noise reduction than Dolby A, generally by a factor of more than 3 dB.
+
+From the mid 1970s, Dolby B became standard on commercially prerecorded music cassettes in spite of the fact that some low-end equipment lacked decoding circuitry, although it allows for acceptable playback on such equipment. Most pre-recorded cassettes use this variant. In the mid-1970s, some expected Dolby NR to become normal in FM radio broadcasts and some tuners and amplifiers were manufactured with decoding circuitry.
+
+
+===Dolby C===
+
+Dolby C provides up to 20 dB noise reduction in the high frequency range, but the resulting recordings sound much worse when played back on equipment that does not have Dolby C noise reduction. Some of this harshness can be mitigated by using Dolby B on playback. It utilises anti-saturation and spectral skewing techniques. Dolby C first appeared on higher end cassette decks in the 1980s.
+
+
+===Dolby SR===
+The Dolby ''SR'' (Spectral Recording) system, the company's second professional noise reduction system, is a much more aggressive noise reduction approach than Dolby ''A''. It attempts to maximise the recorded signal at all times using a complex series of filters that change according to the input signal. As a result, Dolby ''SR'' is much more expensive to implement than Dolby ''B'' or ''C'', but Dolby ''SR'' is capable of providing up to 25&nbsp;dB noise reduction in the high frequency range. It is only found on professional recording equipment.<ref>[http://www.soundonsound.com/sos/1996_articles/jan96/reducingnoise.html Sound On Sound. January 1996. Paul White. ''TAPING THE HISS! Tape Noise Reduction Explained'']</ref><ref>[http://www.dolby.com/uploadedFiles/English_(US)/Professional/Technical_Library/Technologies/Dolby_Spectral_Recording_(SR)/33_SpectralRecordingPaper.pdf Dolby Spectral Recording (1987)]</ref>
+
+
+===Dolby S===
+
+Dolby S is found on some Hi-Fi and semi-professional recording equipment. It was intended that Dolby S would become standard on commercial prerecorded musicassettes in much the same way that Dolby B had in the 1970s, but this never happened, as Dolby S came to market at a time when the Compact Cassette was being replaced by the Compact Disc as the dominant mass market music format. Dolby Labs claimed that most members of the general public couldn't differentiate between the sound of a CD and a Dolby S encoded cassette. In any case, Dolby S only ever appeared as a feature on high-end audio equipment.
+
+Dolby ''S'' is much more resistant to playback problems caused by noise from the tape transport mechanism than Dolby C. Likewise, Dolby S was also claimed to have playback compatibility with Dolby B in that a Dolby S recording could played back on older Dolby B equipment with some benefit being realised. It is basically a cut down version of Dolby ''SR'' and uses many of the same noise reduction techniques. Dolby ''S'' is capable of 10&nbsp;dB of noise reduction at low frequencies and up to 24&nbsp;dB of noise reduction at high frequencies.<ref>[http://www.dolby.com/uploadedFiles/English_(US)/Professional/Technical_Library/Technologies/Dolby_A-type_NR/212_Dolby_B,_C_and_S_Noise_Reduction_Systems.pdf Dolby.com. ''Dolby B, C and S Noise Reduction Systems.'']</ref>
+
+
+===Dolby HX===
+
+Dolby developed another system in 1982 called Dolby HX. Not a noise reduction system per se, it provides a cleaner original recording. HX or "Headroom eXtension" is a method for further increasing the dynamic range of a cassette tape by dynamically adjusting the ultrasonic bias signal, used by all analogue tape decks, to increase the headroom for high-frequency audio signals. This system was modified by Bang & Olufsen for consumer equipment and marketed by Dolby as Dolby HX Pro <ref>[http://www.beoworld.org/article_view.asp?id=145 HXPro.]</ref> HX and HX Pro are used only in recording.
+
+Because tape is magnetic, it is inherently non-linear in nature, due to the hysteresis of the magnetic particles. If an analogue signal were recorded directly onto magnetic tape, its reproduction would be extremely distorted, due to this non-linearity.
+
+To overcome this, a high frequency signal, known as bias, is mixed in with the recorded signal, which "pushes" the envelope of the signal into the linear region. With strong signals of fixed frequency and high amplitude, the amount of bias needed is reduced. Due to group and phase delay the audio signal itself creates a variable amount of self-bias. If the added bias remains constant, these high frequency signals become overbiased. This overbias creates distortion as the tape becomes saturated. Dolby HX Pro automatically reduces the bias signal in the presence of strong high frequency signals. This optimises the amount of self bias, reducing distortion caused from saturation of the magetic tape. By adjusting the bias with respect to group and phase delay the overall distortion of high frequency signals is also greatly reduced. This kind of bias adjustment increases the high frequency dynamic range available. The net effect for the listener is a crisper sounding high frequency reproduction.
+
+
+===Technological obsolescence===
+
+Dolby's analogue noise reduction systems, though still used in some professional applications, as well as in the large installed base of consumer tape decks, are becoming increasingly obsolete due to the widespread adoption of digital audio (in the form of compact discs, MP3s, MiniDiscs, and to a lesser extent DAT) in the home for entertainment and professional studios for recording. In other words, Dolby NR is not becoming obsolete for analog recording, but analog recording itself is becoming obsolete as digital recording replaces it.
+
+
+
+== References ==
+
+<references/>
+
+
+
+
+== External links ==
+* More information available at [http://www.dolby.com/ Dolby Laboratories, Inc.]
+
+[[category:standards and protocols]]
