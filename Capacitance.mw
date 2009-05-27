@@ -1,0 +1,26 @@
+{{stub}}
+
+In electromagnetism and electronics, '''capacitance''' is the ability of a body to hold an electrical charge.
+Capacitance is also a measure of the amount of electric charge stored (or separated) for a given electric potential. A common form of charge storage device is a two-plate capacitor. If the charges on the plates are +Q and −Q, and V gives the voltage between the plates, then the capacitance is given by
+
+:<math>C = \frac{Q}{V}.</math>
+
+
+
+The SI unit of capacitance is the farad; 1 farad = 1 coulomb per volt.
+The energy (measured in joules) stored in a capacitor is equal to the work done to charge it. Consider a capacitance C, holding a charge +q on one plate and -q on the other. Moving a small element of charge dq from one plate to the other against the potential difference ''V = q/C'' requires the work <math>\mathrm{d}W</math>:
+
+:<math> \mathrm{d}W = \frac{q}{C}\,\mathrm{d}q </math>
+
+
+where W is the work measured in joules, q is the charge measured in coulombs and C is the capacitance, measured in farads.
+
+
+
+
+We can find the energy stored in a capacitance by integrating this equation. Starting with an uncharged capacitance (q=0) and moving charge from one plate to the other until the plates have charge  ''+Q'' and ''-Q'' requires the work ''W'':
+
+:<math> W charging  = \int_{0}^{Q} \frac{q}{C} \, \mathrm{d}q = \frac{1}{2}\frac{Q^2}{C} = \frac{1}{2}CV^2 = W stored.</math>
+
+
+[[category:circuitry]]
