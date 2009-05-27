@@ -1,0 +1,12 @@
+'''Dolby E''' is an [[audio]] [[encoder|encoding]] and decoding [[technology]] that allows up to 8 channels of audio to be compressed into a [[digital]] stream that can be stored on a standard [[stereo]] pair of audio tracks.
+
+Anything up to a 5.1 mix can be recorded in 16-bit, however, if anything more than 5.1 is required, the tape format must accept 20-bit audio.
+
+It is very important to ensure that a Dolby E stream is never played through monitors without being decoded. The data stream produces a very loud digital noise that can easily blow the [[tweeter]]s. Tape labelling is essential to avoid this.
+
+Dolby E never reaches home viewers, it is used when passing material between different production facilities etc. and then re-encoded into a more suitable format before being broadcast.
+
+== References ==
+[http://www.dolby.com/professional/pro_audio_engineering/solutions_dolbye.html Description from Dolby website]
+
+[[category:standards and protocols]]
