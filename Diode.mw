@@ -1,0 +1,10 @@
+In electronics, a '''diode''' is a two-terminal device (except that thermionic diodes may also have one or two ancillary terminals for a heater). Diodes have two active electrodes between which the signal of interest may flow, and most are used for their unidirectional current property. The varicap diode is used as an electrically adjustable capacitor.
+
+The directionality of current flow most diodes possess is sometimes generically called the rectifying property. The most common function of a diode is to allow an electric current to flow in one direction (called the forward biased condition) and to block it in the opposite direction (the reverse biased condition). Thus, the diode can be thought of as an electronic version of a check valve. Real diodes do not display such a perfect on-off directionality but have a more complex non-linear electrical characteristic, which depend on the particular type of diode technology. Diodes also have many other functions in which they are not designed to operate in this on-off manner.
+
+
+{{stub}}
+
+
+[[Category:Electronic components]]
+[[category:circuitry]]
