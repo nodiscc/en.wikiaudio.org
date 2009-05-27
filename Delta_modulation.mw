@@ -1,0 +1,25 @@
+'''Delta modulation''' (DM or Δ-modulation) is an analog-to-digital and digital-to-analog signal conversion technique used for transmission of voice information where quality is not of primary importance. DM is the simplest form of differential pulse-code modulation (DPCM) where the difference between successive samples is encoded into n-bit data streams. In delta modulation, the transmitted data is reduced to a 1-bit data stream.
+
+Its main features are:
+*the analog signal is approximated with a series of segments
+*each segment of the approximated signal is compared to the original analog wave to determine the increase or decrease in relative amplitude 
+*the decision process for establishing the state of successive bits is determined by this comparison
+*only the change of information is sent, that is, only an increase or decrease of the signal amplitude from the previous sample is sent whereas a no-change condition causes the modulated signal to remain at the same 0 or 1 state of the previous sample.
+
+To achieve high signal-to-noise ratio, delta modulation must use oversampling techniques, that is, the analog signal is sampled at a rate several times higher than the Nyquist rate.
+
+Derived forms of delta modulation are continuously variable slope delta modulation, delta-sigma modulation, and differential modulation. The Differential Pulse Code Modulation is the super set of DM.
+
+==Principle==
+
+Rather than quantizing the absolute value of the input analog waveform, delta modulation quantizes the difference between the current and the previous step, as shown in the block diagram in Fig.&nbsp;1.
+
+[[Image:769px-Delta1.png|thumb|280px|none|right|Fig. 1 - Block diagram of a Δ-modulator/demodulator]]
+
+The modulator is made by a quantizer which converts the difference between the input signal and the average of the previous steps. In its simplest form, the quantizer can be realized with a comparator referenced to 0 (two levels quantizer), whose output is ''1'' or ''0'' if the input signal is positive or negative. The demodulator is simply an integrator (like the one in the feedback loop) whose output rises or falls with each 1 or 0 received. The integrator itself constitutes a low-pass filter.
+
+==Bibliography==
+*Steele, R. (1975). Delta Modulation Systems. London: Pentech Press. ISBN 0-4708-2104-3.
+
+
+[[category:circuitry]]
