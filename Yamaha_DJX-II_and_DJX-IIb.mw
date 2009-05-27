@@ -1,0 +1,27 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 32 voices
+*Oscillators - AWM: Advanced Wave Memory: 202 sounds (180 Instrument Voices + 23 Drum Kits)
+*Sampler - 8-bit, 22kHz, 6 sample pads (3 loops, 3 one-shots), 128KB memory (about 6 seconds for all pads, maximum 3 seconds per pad)
+*Filter - Dynamic Digital Filter with resonance, cutoff
+*Effects - Live Effector: 10 Presets (Distortion, Auto Pan, Ring Modulator, Flanger, Phaser, Slice, Delay, Echo, Lo-Fi, Wah); Reverb: 11 Presets (Can be set only via MIDI); Chorus: 7 Presets (Can be set only via MIDI); 3-Bands Isolator EQ (-12dB - +12dB)
+*Keyboard - DJX-II61 Keys (No Touch Response). DJX-IIb - No keyboard
+*Memory - Pattern Player: 70 Preset Patterns + 10 Variations of each (700 total), 5 User Patterns + 10 Variations (50 total), 52 Preset Activator Kits (5 loops and 8 one-shots each); Performance Recorder: 6 pads, 18KB memory (about 2500 events for all 6 Pads)
+*Control - MIDI Clock In/Out, Remote Control, Tone Generator, Bulk Send/Receive
+*Date Produced - 2000
+|}
+
+The '''Yamaha DJX-II / DJX-IIb''' is a 32 voice sampling synthesizer produced in 2000.
+
+{{Stub}}
+
+[[category:synths]]
+[[category:Yamaha|DJX-II / DJX-IIb]]
