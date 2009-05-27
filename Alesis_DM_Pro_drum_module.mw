@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Audio Outputs: 6, 1/4" -10dBV unbalanced; headphone jack 1/4" TRS w/variable gain
+* Audio Inputs: 2, RCA -10dBV unbalanced
+* Trigger Input Jacks: 16, 1/4" w/variable sensitivity curves
+* DAC Bit Resolution: 20
+* Sample Rate: 48kHz
+* Sound ROM: 16 MB
+* Polyphony: 64 Voice
+* Panning: 7 position, user programmable
+* Velocity Response: 128 levels of loudness via MIDI or trigger inputs
+* Kits: 64 memory locations w/defaults permanently stored in ROM
+* MIDI Jacks: In, Out/Thru
+* Switchable Footswitch Jack: 1/4" jack can be assigned to Hi-Hat or Program Advance mode
+* Dimensions (WxHxD): 19" x 1.75" x 6" (483mm x 45mm x 153mm)
+* Weight: 4.5 lbs. (2kg) 
+|}
+
+The''' Alesis DM Pro''' is a 20 bit drum module
+
+{{stub}}
+
+
+[[category:synths]]
+
+[[category:alesis]]
