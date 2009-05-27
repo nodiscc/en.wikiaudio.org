@@ -1,0 +1,13 @@
+An [[envelope detector]] is sometimes referred to as an '''envelope follower''' in musical environments. It is used to detect the amplitude variations of an incoming signal to produce a control signal that resembles those variations. However, in this case the input signal is made up of audible frequencies.
+
+Envelope detectors are often a component of other circuits, such as a compressor or an auto-wah or envelope-followed filter. In these circuits, the envelope follower is part of what is known as the "side chain", a circuit which describes some characteristic of the input, in this case its volume.
+
+Both expanders and compressors use the envelope's output voltage to control of the gain of an amplifier. Auto-wah uses the voltage to control the cutoff frequency of a filter. The voltage-controlled filter of an analog synthesizer is a similar circuit.
+
+Modern envelope followers can be implemented:
+
+#directly as electronic hardware,
+#indirectly using DSPs
+#completely virtually in software.
+
+[[category:circuitry]]
