@@ -1,0 +1,3 @@
+A '''ducker''' is a dynamic processor that lowers the level of one audio signal based upon the level of a second audio signal. A common application is in narration that involves background music. A ducker will automatically lower the volume level of background music when a narrator speaks over it.
+
+{{stub}}
