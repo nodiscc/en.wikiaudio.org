@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 64 voices (16-part multitimbral)
+*Oscillators - 16MB AWM2, 479 waveforms; Multitimbrality 16 + 1(A/D) + Plug-in Board (1 slot in S30, 2 slots in S80).
+*LFO - Yes with tri, tri up, saw up, saw dw, sq1/4,sq1/3,sq,sq2/3,sq 3/4,trpzd,S/H1,S/H2
+*Filter - 13 different filters and EQ: 4,3,2 Pole, Band-Pass (6 and 12dB), Hi-pass (12,24dB), Low pass (6,18,24dB), BPF wide, BEF 6.
+*Effects - Reverb: 12; Chorus: 23; Insertion Effects: 93; Insertion Effects for Plug-in Boards: 24; Master Equalizer: 4
+*Keyboard - S30: 61 keys with Initial Touch/Aftertouch S80: 88 Keys with Initial Touch/Aftertouch
+*Memory - 256 preset patches, 8 preset drum kits, 128 internal user patches, 2 internal user drum kits, 128 external user patches, 2 external user drum kits, 128 internal Performance banks, 64 external Performance banks. EXTERNAL MEMORY: Card SmartMedia (TM) 2MB - 32MB.
+*Arpeggiator - 128 Types (MIDI Sync, MIDI TX, RX, Velocity Rate, Gate Time Rate, Unit)
+*Sequencer - SMF Playback (Format 0) Direct Play Only
+*Control - Midi In, Out, Through + PC/ Mac Serial
+*Date Produced - 2000 - 2003
+
+|}
+
+The '''Yamaha S30 / S80''' is a 64 voice polyphonic synthesizer produced in 2000-2003
+
+{{stub}}
+
+[[category:synths]]
+[[category:Yamaha|S30 / S80]]
