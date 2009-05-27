@@ -1,0 +1,48 @@
+[[Image:Roomcorrect-mag.png|right|thumb|An example of the frequency magnitude of a room response before and after digital room correction.]]
+
+'''Digital room correction''' (or '''DRC''') is a process in the field of [[acoustics]] where digital filters designed to ameliorate unfavorable effects of a room's acoustics are applied to the input of a [[sound recording|sound reproduction]] system.  Modern room correction systems produce substantial improvements in the [[time|time domain]] and [[frequency domain]] response of the sound reproduction system.
+
+== History ==
+[[Image:Roomcorrect-phase.png|right|thumb|Unlike equalizers, digital room correction also corrects phase. Standard equalizers worsen phase response.]]
+
+The use of analog filters, such as [[Equalization|equalizers]], to normalize the frequency response of a playback system has a long history; however, analog filters are very limited in their ability to correct the distortion found in many rooms. Although digital implementations of the equalizers have been available for some time, digital room correction is usually used to refer to the construction of filters which attempt to invert the [[impulse response]] of the room and playback system, at least in part. Digital correction systems are able to use [[anticausal system|acausal filters]], and are able to operate with optimal time resolution, optimal frequency resolution, or any desired compromise along the [[gabor limit]]. Digital room correction is a fairly new area of study which has only recently been made possible by the computational power of modern [[Central processing unit|CPUs]] and [[DSP]]s.
+
+== Operation ==
+
+The configuration of a digital room correction system begins with measuring the [[impulse response]] of the room at the listening location for each of the loudspeakers. Then, computer software is used to compute a [[Finite impulse response|FIR filter]], which reverses the effects of the room and linear distortion in the loudspeakers. Finally, the calculated filter is loaded into a computer or other room correction device which applies the filter in real time. Because most room correction filters are acausal, there is some delay. Most DRC systems allow the operator to control the added delay through configurable parameters.
+
+== Challenges ==
+
+DRC systems are not normally used to create a perfect inversion of the room's response because a perfect correction would only be valid at the location where it was measured: a few millimeters away the arrival times from various reflections will differ and the inversion will be imperfect. The imperfectly corrected signal may end up sounding worse than the uncorrected signal because the acausal filters used in digital room correction may cause [[pre-echo]]. Room correction filter calculation systems employ sophisticated processing to attempt to produce an inverse filter which will work over a usably large area, and which avoid producing bad-sounding artifacts outside of that area, at the expense of peak accuracy at the measurement location.
+
+
+
+== References ==
+* [http://www.audiosignal.co.uk/Resources/Digital_room_equalisation_A4.pdf Michael Gerzon's article on Digital Room Equalization], on audiosignal.co.uk.
+
+== External links ==
+===Presentations===
+* [http://www.duffroomcorrection.com/wiki/Main_Page Duff Room Correction], a wiki on digital room correction.
+* [http://www.trinnov.com/moreoptimizer.php#videos 3D simulations of  Digital Room Correction], on Trinnov Audio's website
+
+===Software===
+* [http://www.ikmultimedia.com/arc IK Multimedia ARC System], software plugin & calibrated microphone for automatic room equalization.
+* [http://www.acourate.com (((acourate)))], software for computing crossovers, speaker driver linearisation and room correction filters.
+* [http://pcazeles.perso.cegetel.net/acxo.htm ACXO], [[free software]] running on Windows, based on DRC.
+* [http://www.juicehifi.com/ Audiolense], a software for measuring speakers and computing room correction & digital cross-over filters.
+* [http://www.ludd.luth.se/~torger/brutefir.html BruteFIR], a convolver for applying DRC filter in realtime using [[Linux]].
+* [http://drc-fir.sourceforge.net/ DRC], [[free software]] running on Linux and Windows for computing room correction filters.
+
+===Licensing===
+* [http://www.audyssey.com Audyssey Laboratories], a company that licenses automatic room correction software.
+* [http://www.dirac.se Dirac Research], a company that licenses automatic room correction software.
+* [http://www.dynaton.com Dynaton], a company that licenses automatic room correction software.
+* [http://www.trinnov.com/licences.php Trinnov Audio's Licensing Program], for audio manufacturers.
+* [http://www.lyngdorfaudio.com  Lyngdorf Audio], with patented [http://www.lyngdorf.com/downloads/product_descriptions/roomperfect_productdescription_english.pdf RoomPerfect] correction.
+
+===Hardware===
+* [http://www.deqx.com DEQX], a company that offers hardware based digital speaker and room measurement/correction.
+* [http://www.trinnov.com/optimizer.php Trinnov Audio's Optimizer], loudspeaker/room processor for stereo and surround monitoring in professional studios.
+
+
+[[category:acoustics]]
