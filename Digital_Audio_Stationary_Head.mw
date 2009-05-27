@@ -1,0 +1,31 @@
+{{stub}}
+
+The '''Digital Audio Stationary Head''' or '''DASH''' standard is a reel-to-reel, digital audio tape format introduced by Sony in early 1982 for high-quality multitrack studio recording and mastering, as an alternative to analog recording methods. DASH is capable of recording 2, 24, or 48 channels of audio on a quarter-inch or half-inch wide tape on open reels of up to 14". The data is recorded on the tape linearly, with a stationary recording head, as opposed to in the DAT format, where data is recorded helically with a rotating head, in the same manner as a VCR. The audio data is encoded as linear PCM and boasts strong Cyclic redundancy check error correction, allowing the tape to be physically edited with a razor blade as analog tape would, e.g. by cutting and splicing, and played back with no loss of signal. In a two-track DASH recorder, the digital data is recorded onto the tape across nine data tracks: eight for the digital audio data and one for the CRC data, there is also a provision for two linear analog cue tracks and one additional linear analog track dedicated to recording time code.
+
+The main advantage of any digital recording medium is that of exact reproduction, which is why some of the first uses of digital recording were for instrumentation data and classical music. For audio, perfect reproduction is not necessarily always desired, and the uneven reproduction equilization of analog recorders or the ability to record at levels above 0 dB (to produce desirable distortion) is often exploited advantageously, such as the "fat" sound of a kick drum on analog tape. In an effort to reproduce the analog sound, DASH recorders included a specialized circuit called "Emphasis" which can artificially recreate the unnatural 'bass bump' of an analog recorder. This circuit, of course, had a sound all its own and was often not utilized.
+
+There were three families of DASH recorders produced by Sony and Studer, with minimal differences among them:
+
+* 2 track: PCM-3402, PCM-3202
+* 24 track: PCM-3324, PCM-3324A, PCM-3324S
+* 48 track: PCM-3348, PCM-3348HR, and the Studer D820 and D827
+* TASCAM also produced a 24-track DASH recorder
+
+With the exception of the Sony PCM-3348HR and Studer D827, all of the DASH recorders have 16-bit resolution with a 44.1 kHz or 48 kHz sampling rate, although it is possible to use an outboard analog-to-digital converter of up to 20-bit resolution. The PCM-3348HR and D827 are capable of 20-bit 96 kHz operation, and are the only machines that still find significant use today, often in only the highest-end studios for music and film production. All DASH recorders primarily use the SDIF-2 (Sony Digital Interface Format-2) as a digital interface, which is slightly different than the S/PDIF / AES-EBU that nearly all other digital audio recorders utilize, but is technically superior because SDIF-2's word clock is not multiplexed into the bitstream.
+
+Because of this fact that SDIF-2 is often only found on the expensive DASH recorders, it is also only often found on the highest-end mixing consoles, such as those made by Solid State Logic.
+
+
+== Tape ==
+
+
+One significant advantage offered by DASH recorders over the analogue recorders of the day was that 'proper' tape biasing was unimportant, as there is no means for the tape to 'colour' the sound of the recorded data. This was a nice advantage, and routine maintenance amounted to not much more than keeping the tape guides clean. Due to this fact, the formulation of tape is relatively insignificant, unlike analogue machines which are required to be set and biased for a particular tape formulation for optimum performance.
+
+The 2-track DASH machines use 1/4" wide tape, while the 24 and 48 track versions use 1/2" wide tape. One interesting thing of note is that the 24-track machines only actually utilize half of the tape's width, and can be played on the 48-track machines with no modifications. Similarly, the 48-track tapes can be played on a 24-track machine, but only the first 24 tracks are capable of being reproduced.
+
+DASH recorders (as well as any other type of digital recorder using magnetic tape) require the use of metal-particle formulation magnetic tape. Given the correct bias, professional analog tape recorders could possibly benefit from the use of metal particle tape as consumer cassette decks had; but the headstacks will wear at a significantly accelerated pace, outweighing any benefits. Due to this fact, open reel tape of this type was previously not widely available before or after these digital machines were in fashion. Some examples of metal particle tape compatible with DASH machines are 3M Scotch 275,Ampex / Quantegy 467, EMTEC 931, and Sony's own tape formulation. These tape formulations are not directly compatible with any analog open-reel tape recorder.
+
+The DASH format is not compatible with the only other popular open reel stationary head digital recording format, Mitsubishi's ProDigi, which was available as 2-, 16-, and 32-track variations.
+
+
+[[category:audio formats]]
