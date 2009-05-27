@@ -1,0 +1,10 @@
+A '''ribbon controller''' is a user interface used to control parameters of electronic musical instruments, primarily used with analogue synthesizers. (See fingerboard synthesizer). A ribbon controller is similar to a touchpad, but a ribbon controller only registers linear motion.
+
+Although it could be used to operate any parameter that is affected by control voltages, a ribbon controller is most commonly associated with pitch bending.
+
+The ribbon controller has no moving parts. Instead, a finger pressed down and moved along it creates an electrical contact at some point along a pair of thin, flexible longitudinal strips whose electric potential varies from one end to the other.
+
+
+[[category:synths]]
+[[category:synthesis]]
+[[category:MIDI]]
