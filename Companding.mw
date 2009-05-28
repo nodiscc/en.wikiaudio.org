@@ -1,0 +1,35 @@
+[[Image:Waveformoriginal.png|right|thumb||Original signal]]
+[[Image:Waveformcompanded.png|right|thumb||After compressing, before expanding]]
+
+In telecommunication, signal processing, and thermodynamics, '''companding''' (occasionally called compansion) is a method of mitigating the detrimental effects of a channel with limited dynamic range. The name is a portmanteau of compressing and expanding.
+
+While the compression used in audio recording and the like depends on a [[variable-gain amplifier]], and so is a locally linear process (linear for short regions, but not globally), companding is non-linear and takes place in the same way at all points in time.  The dynamic range of a signal is compressed before [[transmission (telecommunications)|transmission]] and is expanded to the original value at the receiver.
+
+The electronic circuit that does this is called a '''compandor''' and works by compressing or expanding the [[dynamic range]] of an analog electronic signal such as sound.  One variety is a triplet of amplifiers: a logarithmic amplifier, followed by a variable-gain linear amplifier and an exponential amplifier.  Such a triplet has the property that its output voltage is proportional to the input voltage raised to an adjustable power.  Compandors are used in concert audio systems and in some noise reduction schemes such as [[dbx (noise reduction)|dbx]] and [[Dolby noise reduction system|Dolby C]].
+
+Companding can also refer to the use of compression, where gain is decreased when levels rise above a certain threshold, and its complement, [[Audio level expansion|expansion]], where gain is also decreased when levels drop below a certain threshold.
+
+Companding is used in professional [[wireless microphone]]s to improve the dynamic range of the microphone (the dynamic range of the [[microphone]] itself is higher than the dynamic range of the radio transmission).
+
+The use of companding allows signals with a large dynamic range to be transmitted over facilities that have a smaller dynamic range capability. Companding reduces the [[signal noise|noise]] and [[crosstalk]] levels at the receiver.
+Companding is used in digital and telephony systems , compressing before input to an analog-to-digital converter, and then expanding after a digital-to-analog converter. This is equivalent to using a non-linear ADC as in a T-carrier telephone system that implements A-law or μ-law companding. This method is also used in digital file formats for better signal-to-noise ratio (SNR) at lower bit rates. For example, a linearly encoded 16-bit PCM signal can be converted to an 8-bit WAV or AU file while maintaining a decent SNR by compressing before the transition to 8-bit and expanding after a conversion back to 16-bit. This is effectively a form of lossy audio data compression.
+
+==History==
+
+The use of companding in an analog picture transmission system was patented by A. B. Clark of [[American Telephone & Telegraph|AT&T]] in 1928 (filed in 1925):<ref>[http://www.google.com/patents?id=XElKAAAAEBAJ&dq=patent:1691147 Electrical picture-transmitting system]
+</ref>
+
+{{quote|"In the transmission of pictures by electric currents, the method which consists in sending currents varied in a non-linear relation to the light values of the successive elements of the picture to be transmitted, and at the receiving end exposing corresponding elements of a sensitive surface to light varied in inverse non-linear relation to the received current".}}
+
+In 1942, Clark and his team completed the [[SIGSALY]] secure voice transmission system that included the first use of companding in a [[PCM]] (digital) system.<ref> [http://books.google.com/books?id=XO5VjslHLasC&pg=PA256&lpg=PA256&dq=companding+a-b-clark+pcm&source=web&ots=8pQUVrr9oA&sig=u_zVHuT910Jyn-UXGg9scdFiCKo&hl=en  Wireless Security: Models, Threats, and Solutions | author = Randall K. Nichols and Panos C. Lekkas | publislher = McGraw-Hill Professional | year = 2002 | isbn = 0071380388 | ] </ref>
+
+In 1953, B. Smith showed that a nonlinear [[digital-to-analog converter|DAC]] could result in the inverse nonlinearity in a successive-approximation [[Analog-to-digital converter|ADC]] configuration, simplifying the design of digital companding systems.<ref>B. Smith, "Instantaneous Companding of Quantized Signals," ''Bell System Technical Journal'', Vol. 36, May 1957, pp. 653–709.</ref>  
+
+In 1970, H. Kaneko developed the uniform description of segment (piecewise linear) companding laws that had by then been adopted in digital telephony.<ref>H. Kaneko, "A Unified Formulation of Segment Companding Laws and Synthesis of Codecs and Digital Compandors," ''Bell System Technical Journal'', Vol. 49, September 1970, pp. 1555–1558.</ref>
+
+==References==
+
+<references/>
+
+==External links==
+* [http://www.audio-technica.com/cms/site/490e7be64dfcaa53/index.html A description of companding in wireless microphones]
