@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: keyboard
+*Synthesis Type: Digital Subtractive virtual analog
+*Polyphony:
+**Max: 12
+**Typical in use:
+*Multi-timbral (number of parts): 4
+*Oscillators per Voice :
+**Min : 1
+**Max : 2
+*Keyboard :
+**Number of Keys : 31
+**Can send on 1 simultaneous MIDI channels
+**Responds to :
+**Sounds can be split by :
+*Memory :
+**Patches : 40 or 297 w expansion
+**Performances :
+*Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : 1
+**Number of Audio Ins :
+**Number of MIDI Outs (excluding Thru) : 1
+**Number of MIDI Ins : 1
+*Upgrade Options : 8 voice epxansion and slot for more sounds
+
+|}
+
+
+'''Clavia Nord Lead''' is the first virtual analog subtractive synthesizer developed in Sweden, being released to the public by Clavia in 1995.
+
+{{stub}}
+
+[[category:synths]]
