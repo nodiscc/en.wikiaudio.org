@@ -1,0 +1,7 @@
+A '''word clock''' or '''wordclock''' (sometimes '''sample clock''', which can have a broader meaning) is a clock signal (not the actual device) used to synchronise other devices, such as digital audio tape machines and compact disc players, which interconnect via digital audio. S/PDIF, AES/EBU, ADAT, TDIF and other formats use a word clock. Various audio over Ethernet protocols use broadcast packets for the word clock. The device which maintains the word clock on a network is the master clock.
+
+Word clock should not be confused with timecode; word clock is used entirely to keep a perfectly-timed and constant bitrate to avoid data errors. The word clock generator, usually built-in to Analog to Digital converters, creates digital pulses which contain no other data, and is considered essential to avoid frequency drift between the internal oscillators of each device. Timecode is actual data (technically metadata) about the media content being transmitted, and is optional, being sent in a higher layer.
+
+
+[[category:standards and protocols]]
+[[category:Synchronization]]
