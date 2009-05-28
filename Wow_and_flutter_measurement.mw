@@ -1,0 +1,55 @@
+'''Wow and flutter measurement''' is carried out on audio tape machines, cassette recorders and players, and other analog recording and reproduction devices with rotary components (e.g. movie projectors, turntables (vinyl recording), etc.). This measurement quantifies the amount of 'frequency wobble' (caused by speed fluctuations) present in subjectively valid terms. Turntables tend to suffer mainly slow Wow. In digital systems, which are locked to crystal oscillators, wow and flutter are usually significantly more subtle, and are referred to as jitter.
+
+While the terms Wow and Flutter used to be used separately (for wobbles at a rate below and above 4 Hz respectively), they tend to be combined now that universal standards exist for measurement which take both into account simultaneously. Listeners find flutter most objectionable when the actual frequency of wobble is 4 Hz, and less audible above and below this rate. This fact forms the basis for the weighting curve shown here. The weighting curve is misleading, inasmuch as it presumes inaudibility of flutters above 4 Hz, when actually faster flutters are quite damaging to the sound. A flutter of 200 Hz at a level of -50db will create 0.3% intermodulation distortion, which would be considered unacceptable in a preamp or amplifier.
+
+
+== Measurement techniques ==
+
+
+
+[[Image:354px-Lindos9_Flutter.svg.png|thumb]]
+
+
+
+Measuring instruments use a frequency discriminator to translate the pitch variations of a recorded tone into a flutter waveform, which is then passed through the weighting filter, before being full-wave rectified to produce a slowly varying signal which drives a meter or recording device. The maximum meter indication should be read as the flutter value.
+
+The following standards all specify the weighting filter shown above, together with a special slow-quasi-peak full-wave rectifier designed to register any brief speed excursions. As with many audio standards these are identical derivatives of a common specification.
+
+*IEC 386
+*DIN45507
+*BS4847
+*CCIR 409-3
+
+Measurement is usually made on a 3.15 kHz (or sometimes 3 kHz) tone, a frequency chosen because it is high enough to give good resolution, but low enough not to be affected by drop-outs and high-frequency losses. Ideally, flutter should be measured using a pre-recorded tone free from flutter. Record-replay flutter will then be around twice as high, because worst case variations will add from time to time.  When a recording is played back on the same machine as it was made on, a very slow change from low to high flutter will often be observed, because any cyclic flutter caused by capstan rotation may go from adding to cancelling as the tape slips slightly out of synchronism. A good technique is to stop the tape from time to time and start it again, as this will often result in different readings as the correlation between record and playback flutter shifts. On top machines, it is not possible to use a tape made on a better machine, and so a record-playback test, using the stop-start technique, is the best that can be done.
+
+
+== Audible effects ==
+Wow and flutter are particularly audible on music with oboe or piano solo playing. While wow is perceived clearly as pitch variation, flutter can alter the sound of the music differently, making it sound ‘cracked’.  There is an interesting reason for this. A recorded 1 kHz tone with a small amount of flutter (around 0.1%) can sound fine in a ‘dead’ listening, but in a reverberant room constant fluctuations will often be clearly heard. These are the result of the current tone ‘beating’ with its echo, which since it originated slightly earlier, has a slightly different pitch. What is heard is quite pronounced amplitude variation, which the ear is very sensitive to. This probably explains why piano notes sound ‘cracked’. Because they start loud and then gradually tail off, piano notes leave an echo that can be as loud as the dying note that it beats with, resulting in a level that varies from complete cancellation to double-amplitude at a rate of a few Hz: instead of a smoothly dying note we hear a heavily modulated one. Oboe notes may be particularly affected because of their harmonic structure. Another way that flutter manifests is as a truncation of reverb tags. This may be due to the persistence of memory with regard to spatial location based on early reflections and comparison of doppler effects over time. The auditory system may become distracted by pitch shifts in the reverberation of a signal that should be of fixed and solid pitch.
+
+
+== Equipment performance ==
+
+* Professional tape machines can achieve a weighted flutter figure of 0.03%, which is considered inaudible, but for the fact that without weighting it would be an actual 0.3%. 
+* The best cassette decks struggle to manage around 0.08% weighted, which is still audible under some conditions. As an example, the [[Tascam]] 202MkIII Auto Reverse Cassette Deck reaches this 0.08% level. <ref>[http://www.zzounds.com/item--TAS202MKII]zzounds.com</ref>
+* Average cassette decks and car players often have around 0.2% or more flutter.
+* Digital music players such as [[CD]], [[DAT]] or [[MP3]] use electronic clocks to deliver samples at precisely the correct speed, and do not suffer from wow or flutter.
+* The linear sound track on VCR video recorders has much higher wow and flutter than the VHS-HiFi high fidelity track which is contained within the video signal.
+* Primitive phonographs which used idler wheels had very high wow and flutter, but high fidelity belt drive turntables were typically less than 0.2% by the 1970s, and the best direct drive turntables reached less than 0.05%.
+
+The term ‘flutter echo’ is used in relation to a particular form of reverberation that flutters in amplitude. It has no direct connection with flutter as described here, though the mechanism of modulation through cancellation may have something in common with that described above.
+
+
+
+
+== Flutter correction ==
+
+Novel DSP processes have been developed that correct wow and flutter by tracking various spuriae on the tape or film which can be re-purposed as timing references. Several recent (2006) DVD releases have utilized a system developed by Plangent Processes that substantially reduces wow and flutter of very high rates to extremely low levels, with a substantial improvement in quality, and without adding distortion or extra cycles of sound. Scrape Flutter High frequency flutter, above 100 Hz can sometimes result from tape vibrating as it passes over a head, as a result of rapidly interacting stretch in the tape and striction at the head . This is termed 'scrape flutter'. It adds a roughness to the sound that is not typical of Wow & flutter, and damping devices or heavy rollers are sometimes employed on professional tape machines to prevent it. Scrape flutter measurement requires special techniques, often using a 10 kHz tone.
+
+
+
+
+
+==References==
+<references/>
+
+[[category:measurements]]
