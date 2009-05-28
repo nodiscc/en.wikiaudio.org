@@ -1,0 +1,9 @@
+'''Conductive ink''' is an ink that conducts electricity, allowing a circuit to be drawn or printed on a variety of materials including paper. It usually contains powdered silver and carbon.
+
+Conductive ink is a cheap way to print circuit boards on paper. Silver ink is used to improvise or repair circuits on circuit boards. Computer keyboards contain membranes with printed circuits that sense when a key is pressed. Windshield defrosters are also printed.
+
+Printed paper and plastic sheets have problematic characteristics, primarily high resistance and lack of rigidity. The resistances are too high for the majority of circuit board work, and the non-rigid nature of the materials permits undesirable forces to be exerted on component connections, causing reliability problems. Consequently such materials are only used in a restricted range of aplications, usually where the flexibility is important and no parts are mounted on the sheet.
+
+{{stub}}
+
+[[category:circuitry]]
