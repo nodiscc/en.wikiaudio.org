@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type ( amplifier for compatible capsules) 
+*Frequency Response	10Hz - 20kHz
+*Output Sensitivity 	66mV/Pa
+*Max SPL  	127dB for 1%THD
+*Self Noise (CCIR) 	0dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	5mA
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	120g (4.22oz)
+*Length 	176mm (6.92")	
+*Max Diameter/Width 	21mm (0.82")
+|}
+
+
+The '''Josephson Engineering C617SET''' is a preamplifier for use with compatible diaphragm capsules.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Josephson Engineering|C617SET]]
