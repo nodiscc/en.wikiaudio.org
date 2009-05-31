@@ -1,0 +1,16 @@
+[[image:AB_Stereo.png‎|thumb]]
+
+Also called "spaced pair" this is a technique where two [[stereo]] [[microphone]]s are placed anywhere from 3 to 10 feet a part to create a time difference that the brain perceives as a stereo imaging effect. If the resulting acoustic delay is in the range of 1.5 - 1.7 ms, a full stereo panorama image will be perceivable. If the delay is less than this,  it will result in a narrowed stereo image.
+
+The technique uses two parallel omnidirectional microphones capturing time-of-arrival stereo information as well as some level (amplitude) difference information, especially if employed in close proximity to the sound source(s). At a distance of about 60 cm (0.6 m) the time delay (time of arrival difference) for a signal reaching first one and then the other microphone from the side is approximately 1.5 msec (1 to 2 msec). According to Eberhard Sengpiel this is enough to locate the sound source exactly at the speaker on the respective side, resulting in a stereophonic pickup angle of 180°. If you increase the distance between the microphones you effectively decrease the pickup angle. At 70 cm distance it is about equivalent to the pickup angle of the near-coincident ORTF-setup. This technique can produce phase issues when the stereo signal is mixed to mono.
+
+
+{{stub}}
+
+[[category:tutorials]]
+[[category:recording techniques]]
+
+
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Stereophonic_sound
