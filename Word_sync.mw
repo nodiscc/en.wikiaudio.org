@@ -1,0 +1,8 @@
+'''Word sync''' is a technique for synchronizing digital audio signals between high-end professional devices such as CD players, audio I/O cards etc. It is important because it allows all the components in the signal path to process the data and remain in synchronized with each-other.
+
+In simplest terms, one drummer beating out a pattern 10110 is great, but if two or three drummers beat that same 10110 pattern, but don't all start at the exact same point in time, or keep the exact same tempo as they're doing it, the result is a very muddy message for other devices which might need to listen to all three at once (e.g. a digital audio capture card on a computer or other multi-track recording device).
+
+
+{{Template:Stub}}
+
+[[category:synchronization]]
