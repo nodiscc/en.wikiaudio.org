@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polyphony - 128-voices via eight 16-voice TF1 module cards
+*Oscillators - Digital FM synthesizer with 6 Operators and 32 algorithms per TF1 module
+*LFO - Yes
+*Filter - None
+*Effects - None
+*Keyboard - None
+*Memory - 256 patches (32 x 8)
+*Control - MIDI 1 IN/OUT per TF1 card, 1 global IN/OUT (up to 9 I/O total) with 8-parts multitimbral
+*Date Produced - 1985
+
+|}
+
+The '''Yamaha TX816''' is a module housing synthesizer system used to hold Yamaha TF1's. TFI's are synthesizer modules based on the [[Yamaha DX7]]'s sound architecture 
+
+
+{{stub}}
+
+
+[[category:synths]]
+[[category:Yamaha|TX816]]
