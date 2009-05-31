@@ -1,0 +1,15 @@
+A '''zero-ohm link''' or '''zero-ohm resistor''' is a wire link used to connect traces on a printed circuit board that is packaged in the same format as a resistor. This format allows it to be placed on the circuit board using same automated equipment used to place other resistors instead of requiring a separate machine to install a jumper or other wire. Zero-ohm resistors may be packaged like cylindrical resistors, or like surface-mount resistors.
+
+"000" and "0000" sometimes appear as values on surface-mount zero-ohm links, since these have (approximately) zero resistance. Alternatively, a single black line may be used to denote zero ohms using the resistor color code on a cylindrical zero-ohm resistor.
+
+{{stub}}
+
+
+== External Links ==
+
+
+*[http://www.micro-ohm.com/filmcarbon/jumper.html Micro-Ohm]
+
+
+[[category:circuitry]]
+[[category:electronic components]]
