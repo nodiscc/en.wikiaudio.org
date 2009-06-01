@@ -1,0 +1,45 @@
+= Melodyne 3.2.2: Basic note correction =
+
+This tutorial uses Melodyne 3.2.2
+
+Note: Prior to editing pitch you must first understand how to [[Melodyne 3.2.2: recording and importing audio |record and/or import audio into Melodyne.]]
+
+
+
+== Editing Pitch ==
+
+
+Select the pitch tool (underlined in the image below)
+
+
+[[file:Melodyne Pitch_Tool_Display.png]]
+
+
+Once you select the pitch tool the "blobs" should be surrounded by a blue highlight. If not, then go to the bottom left corner of the editing window and select Note and then Note Snap
+
+
+[[image:Melodyne Note_snap.JPG]]
+
+
+
+All your notes should look similar to the one below on the left. The blue outline represents where Melodyne has determined the note should go. You can place the note in this position by simply clicking on it with the pitch tool. After you click the note it should snap into place.
+
+
+'''Before and after note correction'''
+
+
+[[Image:Before and after note correction Melodyne.png]]
+
+== When Melodyne misinterprets pitch information ==
+
+Sometimes Melodyne will misinterpret the pitch of audio material during import. If this happens there are a few ways to correct it. The easiest quickest way is to use the correct detection function.
+
+== Definition/Correct Detection==
+
+
+When using this function, the "blobs" in Melodyne will turn yellow and the pitch curve will appear in bold red. The point of this editor is not to "change" notes, but to give Melodyne a hint as to where the correct note is. If you move the misinterpreted notes in this editor they will only snap to a position that Melodyne could have plausibly misinterpreted. So when using the correct detection function to correct misinterpreted notes, drag the note(s) to where you feel they should go.
+
+
+[[category:tutorials]]
+
+[[Category:Melodyne|N]]
