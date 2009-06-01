@@ -1,0 +1,14 @@
+===Logic 8: Bypassing resolution in tempo track===
+----
+
+When writing  tempo changes into the ''tempo track'' events get placed according to the '''resolution''' value.
+
+To bypass the resolution value:
+
+Hold down '''Control''' and drag the node (event).
+
+
+
+[[category:logic|Tempo]]
+
+[[category:tutorials]]
