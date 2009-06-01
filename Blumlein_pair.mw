@@ -1,0 +1,28 @@
+'''Blumlein pair''' or '''Blumlein array''' is the name for a stereo recording technique invented by Alan Blumlein for the creation of recordings that — upon replaying through headphones or loudspeakers — recreate the spatial characteristics of the recorded signal.
+
+The pair consists of an array of two matched microphones of bi-directional (figure 8) pickup pattern, positioned 90° from each other. Ideally, the transducers should occupy the same physical space; as this is impossible the microphone capsules are placed as close to each other as physically possible. The array is oriented so that the line bisecting the angle between the two microphones points towards the sound source to be recorded (see diagram). The pickup patterns of the pair, combined with their positioning, delivers a high degree of stereo separation in the source signal as well as the room ambience.
+
+The Blumlein pair produces an exceptionally realistic stereo image, but the quality of recordings is highly dependent on the acoustics of the room and the size of the sound source.
+
+The traditional microphone for Blumlein Pair recording is the ribbon microphone, although some microphones are purpose-built for the type of coincident arrangements that are required for the Blumlein pair.
+
+{|class="wikitable"
+|align="center"|[[Image:Bidirectionalpattern.png|250px]] 
+|align="center"|[[Image:Blumlein -Stereo.png|250px]]
+|align="center"|[[Image:Blumlein Pair.png|200px]]
+|-
+!Bidirectional (Figure 8)<br>Microphone Sensitivity Pattern<br><small>(Red dot is microphone, viewed from above)</small>
+!Blumlein Pair Array<br>(2 crossed Figure-8s)<br>
+!Blumlein Pair Array<br><small>(Small arrows indicate front of individual <br>microphones, large arrow indicates front of array.)</small>
+|}
+
+
+
+==External links==
+
+*[http://psbg.emusician.com/microsites/magazinearticle.asp?magazinearticleid=65366&srid=11367&magazineid=33&siteid=15 2000 article describing stereo miking techniques] from [http://www.emusician.com Electronic Musician]
+*[http://www.rickshawrecords.com/ribbonmic/stereo A home-built Blumlein-Pair Ribbon Microphone]
+*[http://www.wikirecording.org/Blumlein_Microphone_Technique WikiRecording's Guide to the Blumlein Microphone Technique]
+[[Category:Microphones]]
+
+[[category:recording techniques]]
