@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser tube
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	17.7mV/Pa
+*Max SPL  	124dB for 3%THD	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	150Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit	
+
+'''Switchable Options'''
+*Pad 	12dB	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	and XLR-5M
+*Available Colours 	Gold, satin nickel
+*Weight 	907g (31.93oz)
+*Length 	247.7mm (9.75")
+*Min Diameter/Width 	57.2mm (2.25")
+*Max Diameter/Width 	57.4mm (2.25")
+
+'''Accessories'''
+*Included 	10m Mogami cable, Pelican case
+
+|}
+
+The '''Lawson L47C''' is a condenser tube microphone with a cardioid polar pattern
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Lawson|L47C]]
