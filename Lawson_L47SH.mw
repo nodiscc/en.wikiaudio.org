@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type tube condenser
+*Polar pattern 
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	11mV/Pa
+*Max SPL  	145dB for 3%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	150Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	1mA
+
+
+'''Switchable Options'''
+*Pad 	10dB, 20dB
+*Filter/EQ 	100Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	Gold, satin nickel
+*Weight 	52.4g (1.84oz)
+*Length 	680mm (26.77")
+*Min Diameter/Width 	57.2mm (2.25")
+*Max Diameter/Width 	57.4mm (2.25")
+	
+'''Accessories'''
+*Included 	10m Mogami cable, Pelican case
+
+|}
+
+The '''Lawson L47SH''' is a cardioid tube condenser microphone  
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Lawson|L47SH]]
