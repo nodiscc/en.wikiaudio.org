@@ -1,0 +1,60 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Synthesis type: 	PCM Subtractive synthesis and Additive synthesis
+*Polyphony: 	32 voices
+*Timbrality: 	K5000S, K5000R: 4-part multi-timbral; K5000W: 32-part multi-timbral
+*Oscillators: 	
+**Digital Additive Synthesis plus PCM samples
+**Harmonics: 64 per source
+**Waveforms: 689 (123 synth, 341 GM, 225 drums)
+**Note: only K5000W features GM sounds
+*Attenuator: 	1 ASDR per part, with key scale and velocity
+*LFO: 	2 (one for formant filter, one can be freely routed to other destinations)
+*Velocity sensitive: 	Yes
+*Aftertouch: 	Yes
+*External control: 	MIDI K5000S, K5000R: 4-part multi-timbral;
+**K5000W: 32-part multi-timbral
+*Onboard effects: 	4 effects algorithms with 32 different effects
+*Produced: 	1996 - 1999
+
+|}
+
+
+== History ==
+
+
+The '''Kawai K5000''' is a series of digital synthesizers manufactured by Kawai Musical Instruments of Japan. The first of the series was the K5000W keyboard workstation. It was introduced in 1996 and soon afterwards the K5000S and its rackmounted sibling (the K5000R) followed suit. In Japan, Kawai stopped production of all models of the K5000 by the summer of 1999, although they were officially discontinued months earlier in other parts of the world. The K5000 is credited as one of the few commercial synthesizers to use additive synthesis. Even today this technology is mostly found in software synthesizers. It was Kawai's second attempt at additive synthesis. The first was the Kawai K5 nearly ten years earlier.
+
+
+
+== Synthesis ==
+A K5000 sound is comprised of up to six different layers, each of which could use the "advanced additive" synthesis engine or subtractive synthesis using the internal PCM waveforms. The digital filter, available with both additive and subtractive synthesis, is fairly standard and is known for extreme self-oscillation at higher resonance settings. Another useful feature is that most functions of the synthesizer can be tied to velocity, location of a note on the keyboard, and MIDI controllers, allowing for timbral variation in response to player dynamics.
+
+'''Additive Synthesis'''
+
+Each source that used additive synthesis could use up to 64 harmonics per source (tuned in a harmonic series, each with their own amplitude envelope) and had its own formant filter that could be modulated by an LFO or its own envelope.
+
+'''PCM Subtractive Synthesis'''
+
+
+== Models ==
+The K5000W and the K5000S both have the same 61-key keyboard. There are pitch and assignable modulation wheels. The keys are velocity sensitive with aftertouch that can be programed to control various parameters.
+
+
+'''Kawai K5000W.''' The K5000W was intended as a songwriting workstation. It includes a sequencer and has two supplemental sound banks not available to the K5000S/K5000R, including General MIDI.
+
+'''Kawai K5000S''' The K5000S was intended for live performance and it includes sixteen realtime control knobs (four of them assignable), a programmable arpeggiator, two assignable front panel buttons, a damper and (assignable) expression pedal, and two assignable foot switches.
+
+'''Kawai K5000R''' The K5000R has the same functionality as the K5000S, but is controlled via MIDI.
+
+
+[[category:Kawai|K5000]]
+[[category:synths]]
