@@ -1,0 +1,85 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Korg PS-3300.JPG|center|thumb]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Synthesis type: 	Analog subtractive
+*Polyphony: 	48-note polyphonic
+*Timbrality: 	Multitimbral
+*Oscillators: 	144 VCOs (3 per key)
+*Filter: 	144 Low-Pass VCFs (3 per key)
+*9 Band-Pass VCFs
+*Attenuator: 	144 VCAs (3 per key)
+*144 Envelopes (3 per key)
+*LFO: 	6 LFOs
+*Keyboard: 	48 keys
+*External control: 	CV/Gate, Kenton MIDI Kit
+*Produced: 	1977
+|}
+
+== History ==
+
+
+The gargantuan Korg PS-3300 is one of the biggest and rarest synthesizers ever made. Only around 50 units were produced by Korg over a period of 3-4 years in the late 70s before it was discontinued. The high production costs of this very complex instrument gave it a price tag that was out of reach for anyone but the wealthiest musicians of the day. It's a much coveted synthesizer by professional musicians and collectors alike as it has a big and unique sound which has been described as an orchestra of synthesizers. It has attained near mythical status due to its rarity and the fact that it was adopted and revered by many of the now legendary artists that were the synthesizer pioneers, such as Vangelis, Jean-Michel Jarre and Keith Emerson. At its release back in 1977, along with the smaller PS-3100, it was a landmark synthesizer in many respects. It was the worlds first fully fledged polyphonic synthesizer where all 48 keys could be played at once and articulated independently of each other. Still to this day, the Korg PS series of synthesizers (PS-3100, PS-3200, PS-3300) remains the only fully polyphonic analog semi-modular synthesizers in existence.
+
+
+
+== Architecture ==
+
+
+
+The layout of the front panel clearly shows the modular origins of the Korg PS-3300. Oscillators, filters and envelopes are all arranged in vertical narrow strips, much like the front panel of the Moog modular synthesizer with patch points at the bottom of each strip. No patching is required to start playing since all the normal connections have been made internally, this is often referred to as a "semi-modular" configuration and is easier to use than a conventional modular with unconnected modules.
+PSU-3301 and PSU-3302 units
+
+The Korg PS-3300 is actually three complete synthesizer units in one box where each synthesizer unit is almost identical to the smaller Korg PS-3100 and is labelled as "PSU-3301" on the front panel (PSU = abbreviation for Polyphonic Synthesizer Unit). The unique feature of 48-note polyphony means that each unit has 48 oscillators, low-pass filters, envelopes and amplifiers, which makes for a mind-boggling 144 oscillators, 144 filters, 144 envelopes and 144 amplifiers in total for all three units (no voice board sharing here!). Each Oscillator, also called Signal Generator, has 6 waveforms (Triangle, Sawtooth, Wide Rectangle, Narrow Rectangle, Pulse and Pulse Width Modulation), as do the LFOs, also called Modulation Generator, (Triangle, Sawtooth, Ramp, Rectangle, Pink Noise and White Noise). The filters have the usual Frequency Cut-off and Resonance (Peak) control knobs and the envelopes have Attack, Decay and Sustain control knobs plus an unconventional Release function which can be controlled by a foot pedal acting much like the sustain pedal on a piano. The envelopes and LFOs are notable for their wide range, for example the Attack of the envelope can be several minutes at it's most extreme and the LFOs are very fast, extending into the audio range.
+
+Each of the three PSU-3301 synthesizer units has its own individual audio output and many Control Voltage output and input options for oscillator, filter, envelope and LFO. This semi-modular design provides a vast number of modulation possibilities, being freely patchable by making connections with cables. There's also a Resonator (see below) per unit and two positional crossfade knobs which sets varying Volume and Filter Frequency Cut-off for a synthesizer unit across the keyboard allowing complex layers of sound to be created when all three units are played together. Further amplitude modulation with the LFO as modulation source can be controlled with the Amplitude Modulation knob, enabling constantly evolving sounds as the different layers fade in and out. LFO modulation of oscillator and filter also have their own dedicated intensity control knobs and here lies some of the secret behind the big sound of the Korg PS-3300. The effect of an ensemble of instruments can be created since it is possible to modulate each of the three oscillators and three filters per key with an individual free-running LFO, for a total of six free-running LFO modulation sources in parallel.
+
+An example of the Korg PS-3300s big sound and prowess as an orchestra of synthesizers can be heard on Keith Emerson's soundtrack for the film Nighthawks where the Korg PS-3300 were used for virtually all the synthesized sounds, including the synthesized orchestral brass sound at the beginning of the first track and the synthesized timpani sound at the start of the second track.
+
+
+== Resonators ==
+
+A much desired feature of the Korg PS-3300 is its Resonators which is a set of three band-pass filters per PSU-3301 synthesizer unit. The frequency of each of the bands can be set with control knobs on the front panel or modulated with an LFO or an envelope to add animation to the sound. There is also a depth control for the level of resonance desired. These band-pass filters are in addition to the usual low-pass filters that are common to all analog synthesizers. Indeed it is these Resonators that gives the Korg PS-3300 its distinct sound and sonic flexibility. For example, large synthesized choir or orchestral type sounds (often referred to as "pad" sounds) can be made to sound more authentic and richer than those obtained with just a low-pass filter since the Resonators, when static, can be used as formant filters. There is also great scope for phased, spacey and abstract synthesizer sounds by modulating the peak frequencies of the Resonators
+
+== Tuning / Musical Temperament ==
+
+The oscillator section of each PSU-3301 synthesizer unit has the usual global tuning knobs; an octave switch with footages 16, 8, 4, 2 and there are separate control knobs for coarse and fine tune as well. However, along the very bottom of the synthesizer unit there is an additional set of individual miniature tuning knobs (labelled "Temperament Adjust") for each of the twelve notes in the octave, making it possible to tune it to scales other than the Western standard of Equal temperament. This is a completely unique feature for a polyphonic analog synthesizer which allows the Korg PS-3300 to be tuned to exotic scales such as the Byzantine scale or Eastern scales that have a different Musical temperament than Western scales.
+
+Three examples of alternative tuning systems are given in the owners manual and are as follows: 1) Mean Tone System - This is a scale used for medieval keyboard instruments and features a pure Major third. 2) Just Intonation - Which is a theoretical scale with a pure Major third and fifth in C. 3) Hepatonal Scale - This scale divides one octave into seven equal intervals.
+
+
+== Audio Mixer & Modulation ==
+
+On the far right hand side of the front panel there's a fourth unit labelled "PSU-3302" which is a mixer and modulation section where the three audio channels from the synthesizer units are mixed into a single channel with separate outputs and volume control for line and headphones. There are also three external mixer inputs for effects loops or other sound sources. The mixed level can be modulated by control voltages from an LFO or envelope enabling for example fade-ins while playing the keys.
+The Modulation part of the PSU-3302 unit comprises an auxilliary envelope with delay and 3 seperate outputs which simultaneously outputs the normal CV signal as well as an inverted signal and a negative voltage version of the signal. There's also a Sample & Hold module with it's own built-in clock frequency function so no need to sacrifice an LFO, and there are two Control Voltage Processors, as well as inputs for the Korg PS-3010 Polyphonic Keyboard and the Korg PS-3040 Dual Foot Controller.
+
+
+
+== Keyboard & Foot Controllers ==
+The PS-3010 Polyphonic Keyboard is a specialised keyboard with it's 48 keys (not 49) and proprietary 60-pin connector that connects to the PS-3300 via a proprietary cable. It has a trigger mode dial selector with 5 different trigger modes as well as a momentary switch for retriggering of envelopes during sustained notes. There is also an X-Y joystick with seperate CV outputs for X and Y direction movements, which can be connected to any of the many CV inputs of the three synthesizer units of the Korg PS-3300.
+The PS-3040 Dual Foot Controller is basically two CV control pedals with variable range, which also can be connected to any parameter with a CV input, adding greatly to the possibilities for expression. The pedals are made out of heavy duty cast metal and are designed to have the entire foot placed upon it giving the player the kind of control one has over a volume or Wah-Wah pedal. (Note! This set of pedals is in addition to the Sustain/Release pedal described earlier).
+
+== External Galleries ==
+*[http://www.synthtopia.com/content/2007/03/07/buy-klaus-schulzes-korg-ps-3300/ Klaus Schulze's Korg PS-3300]
+*[http://www.flickr.com/photos/matrixsynth/sets/72157600287833963/ Korg PS-3300 gallery at flickr.com]
+*[http://www.sequencer.de/korg/korg_ps_synth_trident.html Korg PS-3300 gallery at sequencer.de]
+
+
+== References & External Links  ==
+*[http://www.korganalogue.net/korgps/index.html Korg PS-3300 Owner's Manual and Schematics at Korganalogue.net]
+*[http://www.korg.co.jp/SoundMakeup/Museum/PS-3100/ Korg PS-3300 at Korg Museum website]
+*[http://www.vintagesynth.com/korg/ps3300.shtml Korg PS-3300 at Vintagesynth.com]
+*[http://matrixsynth.blogspot.com/2007/05/korg-ps3300.html Korg PS-3300 at Matrixsynth blog]
+*[http://www.sequencer.de/syns/korg/PS3300.html Korg PS-3300 at Sequencer.de]
+*[http://www.jarrography.free.fr/details_equipement_audio.php?id_equip=15 Korg PS-3300 at Jarrography]
+
+
+[[category:korg|PS-3300]]
+
+[[category:synths]]
