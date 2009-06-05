@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern cardioid 
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	130dB for 0.5%THD	
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	680g (23.94oz)
+*Length 	210mm (8.26")	
+*Max Diameter/Width 	76mm (2.99")
+*Depth 	50mm (1.96")
+
+'''Accessories'''
+*Included 	Shock mount, carry-case
+
+|}
+
+The '''M-Audio Luna''' is a cardioid condenser microphone  
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:M-Audio|Luna]]
