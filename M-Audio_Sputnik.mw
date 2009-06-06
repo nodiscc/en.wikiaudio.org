@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type tube condenser
+*Polar pattern omni,cardioid,figure 8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	30mV/Pa
+*Max SPL  	132dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+*SupplyCurrent 	
+*Alternative Powering 	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	80Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	7-pin on microphone body
+*Available Colours 	Polished nickel
+*Weight 	700g (24.64oz)
+*Length 	210mm (8.26")
+*Min Diameter/Width 	50mm (1.96")
+*Max Diameter/Width 	75mm (2.95")
+
+
+'''Accessories'''
+*Included 	PSU, cables, shockmount, flight case
+
+
+|}
+
+The '''M-Audio Sputnik''' is a cardioid tube microphone with 3 different polar patterns  
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:M-Audio|Sputnik]]
