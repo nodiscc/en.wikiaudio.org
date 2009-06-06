@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser "jecklin disc" PZM
+*Polar pattern stereo, boundary
+*Frequency Response	10Hz - 26kHz
+*Output Sensitivity 	5mV/Pa
+*Max SPL  	130dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	200Ω
+*Recommended Load 	0.8kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	0.5mA
+*Alternative Powering 	Phantom 16-48V
+	
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	x 2
+ 	
+'''Accessories''' 	
+*Optional 	NT48C phantom PSU
+
+|}
+
+
+The '''MBHO MBNM 622 E PZ''' is a condenser PZM microphone based on the [[Jecklin disk]]
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:MBHO|MBNM 622 E PZ]]
