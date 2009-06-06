@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	20Hz - 18kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	128dB for 0.5%THD	
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Silver nickel
+*Weight 	650g (22.88oz)
+*Length 	190mm (7.48") 	
+*Max Diameter/Width 	50mm (1.96")
+
+|}
+
+The '''Nova''' is a cardioid condenser microphone 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:M-Audio|Nova]]
