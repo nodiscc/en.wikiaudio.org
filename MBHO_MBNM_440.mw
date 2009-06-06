@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern cardioid 
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	7mV/Pa
+*Max SPL  	126dB for 1%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4.5mA
+*Alternative Powering 	22-48V phantom
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Matt black	
+*Length 	85mm (3.34")
+*Max Diameter/Width 	21mm (0.82")
+
+
+|}
+
+The '''MBHO MBNM 440''' is a cardioid condenser microphone 
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:MBHO|MBNM 150 EN]]
