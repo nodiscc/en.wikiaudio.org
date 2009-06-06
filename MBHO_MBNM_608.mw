@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern omni, cardioid, figure 8
+*Frequency Response	5Hz - 20kHz
+*Output Sensitivity 	10mV/Pa
+*Max SPL  	133dB for 1%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	17dB-A
+*Output Impedance 	35Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4.5mA
+*Alternative Powering 	Phantom 16-48V	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Matt black	
+*Length 	200mm (7.87")
+*Min Diameter/Width 	21mm (0.82")
+*Max Diameter/Width 	52mm (2.04")
+	
+'''Accessories'''	
+*Optional 	DZ40 10dB pad, NT48C phantom PSU
+
+
+|}
+
+The '''MBHO MBNM 608''' is a cardioid condenser microphone with three different polar patterns.
+
+{{stub}}
+
+
+[[category:microphones]]
+
+[[category:MBHO|MBNM 150 EN]]
