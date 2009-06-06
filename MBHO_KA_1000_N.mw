@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser capsule
+*Polar pattern cardioid 
+*Frequency Response	10Hz - 20kHz
+*Output Sensitivity 	11mV/Pa
+*Max SPL  	132dB for 1%THD
+*Self Noise (CCIR) 	27dB
+*Self Noise (DIN/IEC) 	15dB-A
+	
+'''Physical Characteristics'''	
+*Available Colours 	Matt black	
+*Max Diameter/Width 	50mm (1.96")
+*Depth 	20mm (0.78")
+|}
+
+
+The '''MBHO KA 1000 N''' is a cardioid condenser microphone ''capsule''. The specifications shown are with the MBP 603 preamplifier unit
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:MBHO|KA 1000 N]]
