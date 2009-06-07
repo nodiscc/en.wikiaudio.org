@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern supercardioid 
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	775mV/Pa
+*Max SPL  	116dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	40Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+*SupplyCurrent 	
+*Alternative Powering 	
+
+'''Switchable Options'''
+*Pad 	10dB, 20dB
+*Filter/EQ 	90Hz -10dB
+
+'''Physical Characteristics'''
+*Connector 	Tuchel 7 pin
+*Connector Notes 	
+*Available Colours 	Satin nickel ,dark bronze
+*Weight 	960g (33.80oz)
+*Length 	355mm (13.97")
+*Min Diameter/Width 	25mm (0.98")
+*Max Diameter/Width 	40mm (1.57")
+*Depth 	
+
+'''Accessories'''
+*Included 	N970 PSU and C97S 10m cable, Al case
+*Optional 	MH97 mic holder, W97 windscreen, C97.1 cable
+
+|}
+
+The '''Microtech Gefell KEM 970''' is a supercardioid condenser microphone.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Microtech Gefell|KEM 970]]
