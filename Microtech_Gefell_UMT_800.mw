@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern omni, wide cardioid , cardioid, hypercardioid, figure 8
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	13mV/Pa
+*Max SPL  	135dB for 0.5%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	150Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3mA
+	
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	90Hz -10dB
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Satin nickel, dark bronze
+*Weight 	540g (19.01oz)
+*Length 	195mm (7.67")	
+*Max Diameter/Width 	70mm (2.75")
+
+'''Accessories'''	
+*Optional 	PO70 p/scrn, W80 w/scrn, MH80 holder, EA92 mount, N200 PSU
+
+|}
+
+The '''Microtech Gefell UMT 800''' is a condenser microphone with 5 different polar patterns.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Microtech Gefell|UMT 800]]
