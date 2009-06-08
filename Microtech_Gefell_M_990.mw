@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type tube condenser
+*Polar pattern cardioid 
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	28mV/Pa
+*Max SPL  	119dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+*SupplyCurrent 	1mA
+ 	
+'''Physical Characteristics'''
+*Connector 	Tuchel 7 pin
+*Connector Notes 	
+*Available Colours 	Dark bronze
+*Weight 	400g (14.08oz)
+*Length 	185mm (7.28")
+*Min Diameter/Width 	43mm (1.69")
+*Max Diameter/Width 	43mm (1.69")	
+
+'''Accessories'''
+*Included 	N920.1 PSU, C92.1 cable, EA92 suspension
+*Optional 	PO70 p/scrn, W92 w/scrn, MH80 holder, Al case
+
+
+|}
+
+The '''M 990''' is a cardioid condenser tube microphone 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Microtech Gefell|M 990]]
