@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	7mV/Pa
+*Max SPL  	147dB for 0.5%THD
+*Self Noise (CCIR) 	30dB
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	100Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3.3mA
+	
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Available Colours 	Dark bronze
+*Weight 	510g (17.95oz) 	
+*Max Diameter/Width 	21mm (0.82")	
+
+'''Accessories'''
+*Included 	W18 Windscreen
+*Optional 	N200 power supply
+|}
+
+The '''HSM 180''' is an omnidirectional condenser headset microphone designed for use with "UltrasoneHiFi-650" studio headphones.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Microtech Gefell|HSM 180]]
