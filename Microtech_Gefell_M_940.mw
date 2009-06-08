@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern super cardioid 
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	23mV/Pa
+*Max SPL  	141dB for 0.5%THD
+*Self Noise (CCIR) 	12dB
+*Self Noise (DIN/IEC) 	6dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3.6mA
+	
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Satin nickel, dark bronze
+*Weight 	210g (7.39oz)
+*Length 	118mm (4.64")	
+*Max Diameter/Width 	45mm (1.77")	
+
+'''Accessories'''
+*Included 	MH93.1 microphone holder
+*Optional 	PO70 p/scrn, W76 w/scrn, EH93 mounts, N200 PSU
+|}
+
+The '''Microtech Gefell M 940''' is a supercardioid condenser microphone 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Microtech Gefell|M 940]]
