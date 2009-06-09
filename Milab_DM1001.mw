@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type digital 
+*Polar pattern omni,widecardioid, cardioid, supercardioid, hypercardioid,figure 8. 
+*Frequency Response	20Hz - 20kHz	
+*Max SPL  	130dB for 1%THD	
+*Self Noise (DIN/IEC) 	17dB-A	
+*Powering 	Proprietary unit
+*SupplyCurrent 	195mA	
+
+'''Switchable Options'''
+*Pad 	20dB
+*Filter/EQ 	40Hz, 80Hz, 120Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	AES/EBU	
+*Weight 	730g (25.70oz)
+*Length 	237mm (9.33")
+*Min Diameter/Width 	40mm (1.57")
+*Max Diameter/Width 	48mm (1.88")
+
+'''Accessories'''
+*Included 	Windscreen
+*Optional 	Elastic suspension
+
+|}
+
+The '''Milab DM1001''' is a digital microphone with 6 computer controlled polar patterns, 24-bit/48kHz Sigma-Delta ADC, AES/EBU digital output and computer controlled filters. 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Milab|DM1001]]
