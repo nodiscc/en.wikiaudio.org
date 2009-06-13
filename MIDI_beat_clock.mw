@@ -1,0 +1,9 @@
+'''MIDI beat clock''' is a clock signal that is broadcast via MIDI to ensure that several synthesizers stay in synchronization. It is not MIDI timecode.
+
+Unlike MIDI timecode, MIDI beat clock is sent at a rate that represents the current tempo. It is used to maintain a synchronized tempo and measure position for synthesizers that have BPM-dependent voices and also for arpeggiator synchronization.
+
+Because of limitations in MIDI and synthesizers, devices driven by MIDI beatclock are often subject to clock drift. For this reason, it is a common practice on equipment that supports another clock source such as ADAT or wordclock to use both that source and MIDI beatclock.
+
+{{stub}}
+
+[[category:MIDI|Beat clocks]]
