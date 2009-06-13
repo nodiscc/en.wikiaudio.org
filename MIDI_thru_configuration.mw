@@ -1,0 +1,21 @@
+Below is a diagram of a''' MIDI "thu configuration"''', also called a "daisy chain".
+
+If more than one device has the same MIDI channel(s) set to the "on" value then those devices will "sound" when the trigger is played as well as respond to any other channel messages on that channel sent from the trigger. If you would like to control which devices you hear we would suggest you designate different channels to different devices and then set the transmission channel of the MIDI trigger to correlate with the device you wish to hear.
+
+For example:
+
+Set the first device to receive on channels 1-5, set the next device to receive on channels 6-11, and set the third device to receive on channels 12-16. Or any combination thereof ; then set the transmission channel of the trigger to be one of the same channels of the device you wish to hear when you play.
+
+The maximum number of devices recommended to connect without latency (not including the trigger) is 3.
+
+
+[[image:MIDI_THRU.jpg]]
+
+
+= Also See =
+[[MIDI star configuration]]
+
+
+[[category:tutorials]]
+
+[[category:MIDI|Thru configuration]]
