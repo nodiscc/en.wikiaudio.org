@@ -1,0 +1,68 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[image:Roland-Juno-106.jpg‎|thumb|left|Roland Juno-106]] 
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Synthesis type: 	Analog Subtractive
+*Polyphony: 	6 voices
+*Timbrality: 	Monotimbral
+*Oscillators: 	1 DCO per voice
+*(pulse, saw, square and noise)
+*Filter: 	Analog 24dB/oct resonant
+*low-pass, non-resonant high-pass
+*Attenuator: 	ADSR envelope generator
+*LFO: 	triangle
+*Velocity sensitive: 	No
+*Aftertouch: 	No
+*External control: 	MIDI
+*Memory: 	128 patches
+*Onboard effects: 	Chorus
+*Produced: 	1984-1988
+|}
+The '''Roland Juno-106''' was a hybrid digital/analogue polyphonic synth manufactured by Roland Corporation in 1984. It featured Digitally-controlled oscillators (DCOs) for tuning stability and digital envelope generation along with analog filters and signal path.
+
+
+
+== Features and Architecture ==
+
+'''Sound Generation'''
+
+The Roland Juno-106 was relatively simple in terms of its synthesis architecture.
+
+The central tone-generating component of the instrument was a set of 3 digitally-controlled oscillators (one for each couple of voices) capable of producing sawtooth and square/pulse waveforms. The Juno is well known for its -24dB/octave analog lowpass filter with adjustable resonance, which has been said to provide the Juno 106 with its rather distinctive sound, when combined with the tone of the MC5534 wave generation modules.
+
+The 80017A VCF/VCA (voltage controlled filter, voltage controlled amplifier) module contains circuits common to other Roland machines (IR3109 and BA662). They are known to be prone to failure, leading to lost notes, and are no longer manufactured. Substitute parts have been designed and are available from a small number of sellers.
+
+A single invertible ADSR envelope (attack, decay, sustain, release) can be assigned to the filter's cutoff frequency and can be selected to control the VCA rather than key gating by a switch. Filter cutoff can also be proportioned to note number so higher notes have higher harmonics.
+
+Due to the simple features of the Juno-106, the synthesizer lacked the range of capabilities found in other instruments of its time that have multiple oscillators, complex envelopes, and more diverse modulation choices. Despite this fact the Juno-106 was quite popular and was able to produce rich basses, pads, and other tones.
+
+
+
+
+
+
+== Other Features ==
+
+The Juno-106 featured an onboard analog stereo chorus effect which, while rather noisy, was also a fairly distinctive aspect of the instrument's sound. The Juno-106's chorus was based on a set of bucket brigade delay (BBD) lines similar to other Roland products of the time including guitar pedals. The Juno-106 also contained 128 internal memory slots for patch storage as well as surprisingly complete MIDI implementation - a rarity for any synthesizers of the time, let alone analogue ones. Almost all control surfaces on the synthesizer were capable of transmitting and receiving MIDI SysEx commands, allowing complete control of the instrument via a sequencer or computer.
+
+Furthermore, this synthesizer featured polyphonic portamento, also rather rare for a 1984 analog instrument.
+
+
+==External links==
+*[http://www.retrosynth.com/gear/juno106/juno106b.jpg Photo of a Juno-106 in its natural environment]
+*[http://www.jarvik7.net/juno-106 Juno-106 Librarian for all platforms supporting Java]
+*[http://www.retrosound.de/juno-106.html Juno-106 pics and more]
+*[http://www.analoguerenaissance.com/D80017/ 100% clone of the 80017A voice IC]
+
+
+[[category:synths]]
+
+[[category:roland|Juno-106]]
