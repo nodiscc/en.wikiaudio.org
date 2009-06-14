@@ -1,0 +1,53 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*  Type: Synth
+* Synthesis Type: Digital Analog
+* Polyphony:
+**Max: 16
+**Typical in use: 8-10 
+* Multi-timbral (number of parts): 2
+* Oscillators per Voice :
+**Min : 1
+**Max : 4 
+* Controllers : Pitch/Mod pedals
+* Effects :
+**Number of FX units : 2
+**Number of different effects : 3 
+* Keyboard :
+**Number of Keys : 61
+**Can send on 1 simultaneous MIDI channels
+**Responds to :
+**Sounds can be split by : 
+* Memory :
+**Patches : 128 with card
+**Performances : 
+* Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : 2
+**Number of Audio Ins :
+**Number of MIDI Outs (excluding Thru) : 1
+**Number of MIDI Ins : 1 
+* Upgrade Options : There is a card that can be installed that makes the D-50 multi-timbral. 
+
+|}
+
+
+
+The '''Roland D-50''' was a polyphonic 61-key synthesizer produced by Roland. It was released in 1987.Its features include on-board effects, a joystick for data manipulation, and an intuitive layout design. The external Roland PG-1000 Programmer could also be attached to the D-50 for more complex manipulation of sounds.
+
+The D-50 could be modified through the addition of a 3rd-party product (the Musitronics M-EX) to make it multitimbral. It was also produced in a rack-mount variant design, the D-550, with almost 450 user-adjustable parameters.
+
+
+{{stub}}
+
+
+
+[[category:Synths]]
+
+[[category:roland|D]]
