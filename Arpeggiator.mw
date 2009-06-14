@@ -1,0 +1,15 @@
+An '''arpeggiator''' (often shortened to '''arp''') is a feature available on some hardware [[synthesizer]]s and [[software instrument]]s. It allows the player to automatically step through a sequence of notes based on the player's input, most often from a keyboard [[MIDI controller]], thus creating an [[arpeggio]]. The notes can then be transmitted to a MIDI sequencer for recording and further editing.
+
+Typically an arpeggiator will have several controls which allow the player to manipulate the order and speed in which the notes are played. Some arpeggiators allow the pattern to be sustained even if the player no longer holds down the keys; in this way an arpeggiated pattern may be built up over time by pressing several keys one after the other. Typically an arpeggiator will allow the user to step through the notes upwards, downwards, or in a random order. More advanced arpeggiators might allow the user to step through a complex sequence of notes, or play several arpeggios at once.
+
+Arpeggiators are  commonly found in [[sequencer|sequencing]] software. A sequencer's arpeggiator will usually allow the user to convert a held note or chord into an arpeggio, often with real-time control from the computer keyboard or a MIDI input device. Some sequencers expand this into a full [[Music sequencer|phrase sequencer]], which allows the user to trigger complex, multi-track blocks of sequenced data from a keyboard or input device.
+
+Historically, arpeggiators grew from dedicated [[Music sequencer|hardware sequencer]]s of the late 1960s and 1970s, such as the 16-step [[ARP Instruments, Inc.|ARP]] Sequencer, and the sequencers of [[modular synthesiser]]s. They were commonly fitted to keyboard instruments throughout the late 1970s and early 1980s, notable examples of which include the [[Roland Jupiter 8]], [[Oberheim OB-Xa]], [[Roland SH-101]], [[Roland Juno-6]], [[Sequential Circuits Six-Trak]], and [[Korg Polysix]]. Arpeggiators fell out of favour during the 1980s and early 1990s, and were absent from the most popular synthesisers of the period, such as the [[Yamaha DX-7]], [[Casio CZ-101]], [[Roland D-50]], and [[Korg M1]]. The resurgence of interest in [[analog synthesizer|analogue synthesiser]]s during the 1990s, and the use of rapid-fire arpeggios in several popular dance hits, brought with it a resurgence of interest in arpeggiators, and most popular synthesisers manufactured since the mid 1990s include such a device.
+
+Arpeggiators are also common features of modern-day [[software synthesizer|software synthesiser]]s, where they are typically synchronised with the tempo of the hosting application.
+
+[[category:synthesis]]
+
+[[category:MIDI]]
+
+{{Unreferenced|article|}}
