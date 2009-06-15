@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid 
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	11mV/Pa
+*Max SPL  	120dB for 1%THD	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	550Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	0.68mA
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	455g (16.02oz)
+*Length 	193mm (7.59")	
+*Max Diameter/Width 	50mm (1.96")
+|}
+
+
+The '''Mojave Audio MA-201 fet''' is a cardioid condenser microphone using FET electronics 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Mojave Audio|Audio MA-201 fet]]
