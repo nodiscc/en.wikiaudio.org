@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	30Hz - 18kHz
+*Output Sensitivity 	15.5mV/Pa
+*Max SPL  	127dB for 1%THD	
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+	
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	
+*Weight 	650g (22.88oz)
+*Length 	171.5mm (6.75")	
+*Max Diameter/Width 	66.7mm (2.62")
+|}
+
+The '''Nady PCM100''' is a cardioid condenser microphone with a "retro" look.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:nady|PCM100]]
