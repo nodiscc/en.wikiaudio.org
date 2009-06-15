@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid 
+*Frequency Response	40Hz - 16kHz
+*Output Sensitivity 	14mV/Pa
+*Max SPL  	131dB for 1%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	19dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3mA
+	
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	130g (4.57oz)
+*Length 	130mm (5.11")
+*Min Diameter/Width 	
+*Max Diameter/Width 	22mm (0.86")
+
+'''Accessories'''
+*Included 	Microphone clip, foam windscreen (FW-1/90),leatherette pouch
+*Optional 	48V phantom power supply (SMPS-1),aluminium carrying case (SMCC-2)
+|}
+
+
+
+The '''Nady CM 90''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:nady|CM 90]]
