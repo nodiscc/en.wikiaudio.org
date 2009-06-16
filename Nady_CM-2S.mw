@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type polarized condenser
+*Polar pattern cardioid 
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	5.6mV/Pa
+*Max SPL  	128dB for 1%THD	
+*Self Noise (DIN/IEC) 	27dB-A
+*Output Impedance 	250Ω	
+*Powering 	Internal battery
+
+'''Switchable Options'''
+*Filter/EQ 	150Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Weight 	165g (5.80oz)
+*Length 	197mm (7.75")
+*Min Diameter/Width 	21mm (0.82")	
+*Depth 	62mm (2.44")
+|}
+
+
+The '''Nady CM-2S''' is an X/Y configured stereo electret condenser microphone intended for drum applications 
+
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:nady|CM-2S]]
