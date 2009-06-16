@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	30Hz - 16kHz
+*Output Sensitivity 	13mV/Pa
+*Max SPL  	125dB for 1%THD	
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3mA	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	100Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	500g (17.60oz)
+*Length 	190mm (7.48")	
+*Max Diameter/Width 	50.5mm (1.98") 	
+
+'''Accessories'''
+*Included 	Plastic carrying case (SMCC-1)
+*Optional 	SMPS1 48V PSU, SSM3 shockmount, FW1 w/scrn
+
+
+
+|}
+
+
+The '''Nady SCM 910''' is a cardioid condenser microphone 
+
+
+{{stub}}
+[[category:microphones]]
+
+[[category:Nady|SCM 910]]
