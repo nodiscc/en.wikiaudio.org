@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type tube condenser
+*Polar pattern omni, wide cardioid, sub cardioid, cardioid, super cardioid, hyper cardioid, figure 8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	134dB for 1%THD	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+*Connector 	XLR-3M
+*Connector Notes 	XLR7 at capsule	
+*Weight 	800g (28.16oz)
+*Length 	180mm (7.08")	
+*Max Diameter/Width 	60mm (2.36")
+*Depth 	
+
+'''Accessories'''
+*Included 	TMPS-2 PSU, 10m cable, SSM-1050 suspension
+|}
+
+The '''Nady TCM 1050''' is a tube condenser microphone with 9 polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Nady|TCM 1050]]
