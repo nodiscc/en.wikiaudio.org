@@ -1,0 +1,95 @@
+The '''XLR connector''' is an electrical connector design. XLR plugs and sockets are used mostly in professional audio and video electronics cabling applications. Home audio and video electronics normally use RCA connectors.
+
+In reference to its original manufacturer, Cannon (now part of ITT), the connector is colloquially known as a cannon plug or canon. Originally the "Cannon X" series, subsequent versions added a Latch ("Cannon XL") and then a Rubber compound surrounding the contacts, which led to the abbreviation XLR. Many companies now make XLRs. The initials "XLR" have nothing to do with the pinout of the connector. XLR connectors can have other numbers of pins besides three.
+
+They are superficially similar to the older, smaller, and less rugged DIN connector range, but are not physically compatible with them.
+
+
+[[image:XLR_.jpg|thumb]]
+
+== Patterns of XLR connector ==
+
+
+The most common is the 3-pin XLR3, used almost universally as a balanced audio connector for high quality microphones and connections between equipment. XLR4 (with four pins) is used for ClearCom and Telex intercom headsets and handsets, some DC power connections and the older AMX analog lighting control. XLR5 is the standard connector for DMX512 digital lighting control and is also used for dual-element microphones and dual-channel intercom headsets. XLR6 is used for dual channel intercom beltpacks.
+
+Many other types exist, with various pin numbers. Most notable are two now obsolete 3-pin patterns manufactured by ITT Cannon. The power Cannon (also called the XLR-LNE connector) had shrouded pins and red insulation, it was intended as a mains power connector, but has been superseded by the IEC mains connector and increasingly, more recently, the PowerCon connector developed by Neutrik.
+
+The loudspeaker Cannon had blue or white insulation (depending on its gender), was intended for connections between audio power amplifiers and loudspeakers. At one time XLR3 connectors were also used extensively on loudspeaker cables, as when first introduced they represented a new standard of ruggedness, and economic alternatives were not readily available. The convention was that a 2-conductor loudspeaker cable had XLR3F connectors on both ends, to distinguish it from a 3-conductor shielded signal level cable which has an XLR3F at one end and an XLR3M at the other. Either pin 2 or 3 was live, depending on the manufacturer, with pin 1 always the 'earthy' return. This usage is now both obsolete and dangerous to equipment but is still sometimes encountered, especially on older equipment. For example, some loudspeakers have a built-in XLR3M as an input connector. This use was superseded in professional audio applications by the Neutrik Speakon connector.
+
+The female XLR connectors are designed to first connect pin 1 (the earth pin), before the other pins make contact, when a male XLR connector is inserted. With the ground connection established before the signal lines are connected, the insertion (and removal) of XLR connectors in live equipment is possible without picking up external signals (as it usually happens with, for example, RCA connectors).
+
+Lighting control for entertainment applications is widely connected using five pin XLRs. While only three pins are used to carry the DMX512 signal, the design allows expansion with the remaining two pins considered for use with Remote Device Management (RDM) and Architecture for Control Networks (ACN) and also prevents users from confusing lighting with common XLR3 audio cables. Unfortunately, five pin XLRs still allow the use of lower-grade (non-110 Ohm) microphone cable for transmission of signals. Some manufacturers of DJ lighting and professional lighting are still using three-pin connectors as their standard. Manufacturers such as Leviton and Lightronics have even established new protocols not compatible with DMX512 that use three pin XLR to control lighting devices (primarily dimmers made by the same manufacturer). Non-DMX512 protocols using three pins are not generally accepted as a professional standard and are used primarily to promote consumers to buy multiple products from the same company. Any protocol using control or management on pins 4 & 5 is against the stated use in the USITT DMX512 standard, and all of its later revisions. Their stated use is for a second universe of DMX512 (thereby allowing two universes to pass down one cable. i.e. 1024 channels). WARNING: Any use, other than for the transmission of DMX512, of pins 4&5 on a DMX512 line may destroy connected equipment.
+
+
+
+{| class="wikitable" 
+| colspan="2" align="center"| 
+[[image:XLR_pinouts.svg.png|thumb]]
+|-
+! Pin 
+! Function
+|-
+| 1   || Chassis [[ground (electricity)|ground]] (cable shield)
+|-
+| 2   || Normal polarity ("hot")
+|-
+| 3   || Inverted polarity ("cold")
+|}
+
+
+
+When looking at the 'holes' of a female connector, the top left hole is 2, top right is 1, and bottom is 3.When looking at the pins of a male connector, the top left pin is 1, top right is 2, and bottom is 3.
+
+Some audio equipment manufacturers reverse the use of pin 2 (properly the normal input) and pin 3 (inverting input). This reflects their own previous usage before any standard existed. Pin 1 is always ground, and many connectors connect it internally to the connector shell or case.
+XLR and 1/4" TRS combo jack.
+
+Although covered in [http://campuspa.com/downloads/aes48-2005-f.pdf AES48-2005] and in [http://www.aes.org/standards/b_comments/drafts/aes54-3-xxxx-cfc-080916.pdf AES54-3-xxxx], it is worth noting that there is disagreement on the best way to handle the usage of pin 1 at both ends of a cable, particularly with respect to the cable shield, the connector's shell, signal ground, and a third cable wire connected to pin 1 — which may (or may not) be connected to the shield.
+
+
+An XLR3M (male) connector is used for an output and an XLR3F (female) for an input. Thus a microphone will have a built-in XLR3M connector, and signal cables such as microphone cables will each have an XLR3F at one end and an XLR3M at the other. At the stage box end of a multicore cable, the inputs to the mixing desk will be XLR3F connectors, while the returns to the stage will be XLR3M connectors. Similarly, on a mixing desk, the microphone inputs will be XLR3F connectors, and any balanced outputs XLR3M connectors.
+
+Neutrik also offers several models of "combo" jacks that accept both XLR and 1/4" TS or TRS plugs.
+
+
+== Mnemonics ==
+
+
+
+There are several mnemonics for remembering the pinouts and wire colors of an XLR connection. One involves writing the numbers 1, 2, and 3, followed by the letters X, L, and R, and making a connection between L, "line", and R, "return":
+
+   1. X [External or Ground or Shield]
+   2. L [Line or Live]
+   3. R [Return]
+
+For cabling with shield, red, and black leads, "solid rocket booster":
+
+   1. Solid [Shield]
+   2. Rocket [Red]
+   3. Booster [Black]
+
+For cabling with ground/shield/green, white, and black leads, "George Washington Bridge":
+
+   1. George [Ground or Green]
+   2. Washington [White]
+   3. Bridge [Black]
+
+
+
+
+
+== References ==
+
+
+[http://www.rane.com/par-c.html#XLR Rane Professional Audio Reference description]
+
+
+
+
+==External links==
+* [http://www.clarkwire.com/PinOutXLRBalanced.htm Audio usage]
+* [http://www.dmx512.com/web/light/dmx512/pinouts.htm Lighting control usage]
+* [http://colomar.com/Shavano/xlr_cable.html Making XLR cables]
+
+
+[[category:cables and connections]]
+[[category:circuitry]]
