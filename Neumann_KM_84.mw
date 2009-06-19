@@ -1,0 +1,44 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	10mV/Pa
+*Max SPL  	120dB for 0.5%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	17dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	0.4mA	
+
+'''Switchable Options'''
+Pad 	10dB
+	
+'''Physical Characteristics'''
+*Connector 	DIN 3
+*Connector Notes 	XLR3-M (suffix I)
+*Available Colours 	Silver (dark matt - suffix mt)
+*Weight 	80g (2.81oz)
+*Length 	110mm (4.33")
+*Min Diameter/Width 	
+*Max Diameter/Width 	21mm (0.82")
+
+|}
+
+The '''Neumann KM 84''' is a condenser microphone that was initially released in the 1960's
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|KM 84]]
