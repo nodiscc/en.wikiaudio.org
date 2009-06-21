@@ -1,0 +1,23 @@
+{{template:pagelocked}}
+
+
+==Instructions==
+
+
+
+<big> 
+
+
+This Max Msp patch is required for the polyphonic synth patch called "DistortionAndDelays" to operate.
+
+
+
+Download [[File:DistortionAndDelays.maxpat]] and put in the same folder with '''Grubly.maxpat'''. Launch '''DistortionAndDelays''' from within Max Msp
+
+
+
+This patch file was created by Michael G. Cox and was uploaded by permission 
+
+
+
+----
