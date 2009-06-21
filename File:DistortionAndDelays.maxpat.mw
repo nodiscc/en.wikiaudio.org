@@ -1,0 +1,19 @@
+{{template:pagelocked}}
+
+
+==Instructions==
+
+<big>
+
+
+This patch requires the file  [[File:Grubly.maxpat]] to run.
+
+Download '''DistortionAndDelays.maxpat'''  and  '''[[File:Grubly.maxpat]]'''. Then  put them in the same folder. Run DistortionAndDelays from within Max Msp.
+
+
+
+This patch file was created by Michael G. Cox and was uploaded by permission
+
+
+
+----
