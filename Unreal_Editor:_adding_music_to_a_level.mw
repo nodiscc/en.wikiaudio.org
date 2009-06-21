@@ -1,0 +1,21 @@
+'''Pequisites'''
+#This tutorial already assumes you know how to build basic levels.
+#The file you wish to add must be in Ogg format and must be placed in the UnrealEd Music folder directly (not a subfolder)
+----
+
+
+While having a map open push '''F6'''.This will bring up the level properties.
+
+Now go to '''Level Properties / Audio / Song''' and type in the name of your song (without the file extension). Save your map.
+
+You can now play it with music triggers in the '''Actor Class browser/Triggers'''.
+
+
+
+
+
+[[category:game audio]]
+
+[[category:unreal Editor|adding music to a level]]
+
+[[category:tutorials]]
