@@ -1,0 +1,45 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid 
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	24mV/Pa
+*Max SPL  	135dB for 0.5%THD
+*Self Noise (CCIR) 	18.5dB
+*Self Noise (DIN/IEC) 	7dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3.2mA
+*Alternative Powering 	
+*Pad 	14dB (internal)
+*Filter/EQ 	100Hz (internal)
+*Connector 	XLR-3M	
+*Weight 	500g (17.60oz)
+*Length 	110mm (4.33")	
+*Max Diameter/Width 	64mm (2.51")
+*Depth 	85mm (3.34")
+
+'''Accessories'''	
+*Optional 	Elastic suspension
+
+
+	 
+|}
+
+The '''Neumann BCM104''' is a cardioid condenser microphone intended for broadcasting and studio applications 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|BCM104]]
