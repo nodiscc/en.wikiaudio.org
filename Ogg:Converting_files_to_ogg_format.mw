@@ -1,0 +1,42 @@
+{{in Progress}}
+
+
+=Converting files to Ogg=
+
+A general list of software to convert various file types to .Ogg can be found 
+[http://wiki.xiph.org/index.php/TheoraSoftwareEncoders here]
+
+
+=Mac OS=
+
+==Audio==
+
+===Audacity===
+
+Audacity is a free open source audio editor.
+
+#[http://audacity.sourceforge.net/ Download the program], install it and launch it.
+#Drag an audio file to the program window.
+#In the upper menu click '''File''' then go to '''Export'''
+#Add any [[Metadata]] you feel needs to be added to the file and click '''OK'''
+#In the Format menu that appears click and choose '''Ogg vorbis files'''.
+#Click '''Save'''
+
+
+----
+
+==Video==
+
+===Converting .MOV to Ogg video using Simple Theora Converter===
+
+Download and install the [http://v2v.cc/~j/SimpleTheoraEncoder/ Simple Theora Converter]
+
+#Click '''ADD''' and open the files you want.
+#Click '''Encode'''.
+
+=Windows=
+
+
+=Linux=
+
+[[category:tutorials]]
