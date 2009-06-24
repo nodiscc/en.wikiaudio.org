@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern figure 8,cardioid,omni
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	18mV/Pa
+*Max SPL  	105dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	11dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	Hi-pass
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Weight 	490g (17.25oz)
+*Length 	200mm (7.87")	
+*Max Diameter/Width 	56mm (2.20")
+|}
+
+The '''Neumann TLM 67''' is a condenser microphone with 3 different polar patterns.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|TLM67]]
