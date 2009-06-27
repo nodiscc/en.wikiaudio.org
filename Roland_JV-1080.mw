@@ -1,0 +1,66 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[Image:Roland JV-1080 front.png|thumb|left]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Type: Rackmount synth
+* Synthesis Type: Sample-based synthesis
+* Polyphony:
+**Max: 64
+**Typical in use: 24-32 
+* Multi-timbral (number of parts): 16
+* Oscillators per Voice :
+**Min : 1
+**Max : 4 
+* Effects :
+**Number of FX units : 3
+**Number of different effects : 40 
+* Drum Section :
+**Number of Drum Kits : 3
+**Number of Drum sounds : 128 
+* Keyboard :
+**Number of Keys :
+**Can send on simultaneous MIDI channels
+**Responds to : velocity, after-touch
+**Sounds can be split by : velocity, keyboard 
+* Memory :
+**Patches : 640
+**Performances : 128 
+* Inputs and Outputs :
+**Number of Audio Outs (excluding Phones) : 6
+**Number of MIDI Outs (excluding Thru) : 1
+**Number of MIDI Ins : 1 
+* Upgrade Options : 4 extra boards with PCM samples and extra patches
+|}
+
+
+The '''Roland JV-1080''' (aka Super JV-1080, or simply 1080) is a Sample-based synthesizer/sound module in the form of a 2U rack design. It was the most popular synthesizer, not only from Roland, but in the history of synthesizers.
+
+
+
+== Features ==
+
+
+The JV-1080 features a 64-Voice Polyphony, as well as 16-part Multi-timbral capabilities. From the factory, the JV-1080 comes with hundreds of patches, and several rhythm kits (8 Mega-Bytes total). It can be expanded with 4 SR-JV80 expansion cards, as well as a PCM and Data card, to provide up to 42 Mega-Bytes.
+
+
+== Also see ==
+[[Roland JV-1080: Simplified operation tutorial]]
+
+
+
+==External links==
+* [http://rolandus.com/ Roland] - official site
+* [http://rolandus.com/products/productdetails.aspx?ObjectId=495&ParentId=73 Roland JV-1080] - official JV-1080 product page
+* [http://www.vintagesynth.com/index2.html JV-1080 page at VintageSynth]
+* [http://www.planet-groove.com/roland/jv-1080.html JV-1080 page at Planet-Groove]
+
+
+[[category:synths]]
+
+[[category:roland|JV-1080]]
