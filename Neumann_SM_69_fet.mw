@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type stereo condenser
+*Polar pattern omni, cardioid , figure 8, stereo
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	19mV/Pa
+*Max SPL  	123dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+*SupplyCurrent 	0.6mA
+	
+'''Physical Characteristics'''
+*Connector 	DIN 12 M
+*Connector Notes 	
+*Available Colours 	Nickel, black
+*Weight 	465g (16.37oz)
+*Length 	260mm (10.23")
+*Min Diameter/Width 	30mm (1.18")
+*Max Diameter/Width 	48mm (1.88")
+
+
+'''Accessories''' 	
+*Optional 	EA30 A elastic suspension, WS69 windscreen
+|}
+
+
+The '''Neumann SM 69 fet''' is a stereo condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|SM 69 fet]]
