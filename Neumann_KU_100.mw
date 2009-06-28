@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type dummy head condenser
+*Polar pattern binaural stereo
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	20mV/Pa
+*Max SPL  	135dB for 0.5%THD
+*Self Noise (CCIR) 	29dB
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA
+*Alternative Powering 	Internal Battery
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	40Hz, 140Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black
+*Weight 	3500g (123.23oz)
+*Length 	280mm (11.02")	
+*Max Diameter/Width 	180mm (7.08")
+*Depth 	260mm (10.23")
+
+'''Accessories'''
+*Included 	IC5 microphone cable, plug-in mains unit, aluminium case
+*Optional 	WSB windscreen
+|}
+
+The '''Neumann KU 100''' is a dummy head binaural condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|KU 100]]
