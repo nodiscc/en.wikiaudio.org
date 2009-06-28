@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type digital
+*Polar pattern cardioid
+*Frequency response: 20 Hz to 20 kHz
+*Free-field sensitivity2) 3): –41/–39/–42 dBFS
+*Equivalent noise level, CCIR4): 25/24/25 dB
+*Equivalent noise level, A-weighted4): 13/13/16 dB-A
+*Signal-to-noise ratio3), CCIR4): 69/70/69 dB
+*Signal-to-noise ratio3), A-weighted4): 81/81/78 dB
+*Maximum SPL at 0 dBFS: 135/133/136 dBSPL
+*Sampling rates:
+*Preset: 44.1, 48 or 96 kHz(with DMI-2 switchable: 44.1/48/88.2/96/176.4/192 kHz)
+*Preset Gain: 10 dB (variable with DMI-2)
+*Current consumption: max. 150 mA
+*Weight: approx. 80/84/88 g, Diameter: 22 mm, Length: 108 mm 
+|}
+
+
+The '''KM 184D''' is a digital microphone created by Neumann
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|KM184D]]
