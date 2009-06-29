@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type tube condenser
+*Polar pattern omni,wide cardioid, cardioid,hypercardioid,figure 8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	47mV/Pa
+*Max SPL  	120dB for 0.5%THD
+*Self Noise (CCIR) 	25dB
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+
+'''Switchable Options'''
+*Pad 	
+*Filter/EQ 	7 position, includes 40, 80, 160Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	(DIN 8M on mic)
+*Available Colours 	Nickel
+*Weight 	730g (25.70oz)
+*Length 	201mm (7.91")
+*Max Diameter/Width 	70mm (2.75")
+
+'''Accessories'''
+*Included 	N149 A PSU, EA170 suspension, cable, dust cover, wooden box,
+*Optional 	SG1 swivel mount, PS10 and PS20 pop screens
+|}
+
+The '''Neumann M 149 Tube''' is a variable polar pattern dual diaphragm tube condenser microphone
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|M 149 Tube]]
