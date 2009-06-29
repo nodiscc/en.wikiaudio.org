@@ -1,0 +1,48 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	15mV/Pa
+*Max SPL  	138dB for 0.5%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	400Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	Black
+*Weight 	285g (10.03oz)
+*Length 	175mm (6.88")
+*Min Diameter/Width 	
+*Max Diameter/Width 	48mm (1.88")
+
+'''Accessories'''
+*Included 	MKV quick release clamp, wooden box
+*Optional 	WSS100 windscreen
+|}
+
+The '''Neumann KMS 140''' is a cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|KMS 140]]
