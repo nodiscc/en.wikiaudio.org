@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern super cardioid 
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	4.5mV/Pa
+*Max SPL  	150dB for 0.5%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3.5mA
+
+	
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black, nickel
+*Weight 	350g (12.32oz)
+*Length 	180mm (7.08")
+*Min Diameter/Width 	48mm (1.88")
+
+
+'''Accessories'''
+*Included 	SG105 stand clamp, padded nylon bag
+*Optional 	WSS100 windscreen
+|}
+
+The '''Neumann KMS 105''' is a super cardioid condenser microphone 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:neumann|KMS 105]]
