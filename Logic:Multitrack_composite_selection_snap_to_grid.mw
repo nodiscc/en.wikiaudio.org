@@ -1,0 +1,10 @@
+==Logic 8:Make multitrack composite selection snap to grid==
+
+
+If you have a multitrack take that you have unfolded and are now attempting to create a composite track out of, you can "snap" the selections to the current grid value by holding down the apple key
+
+
+
+==Also see==
+
+[[Logic: Multi takes and composite tracks]]
