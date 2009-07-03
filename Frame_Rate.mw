@@ -1,0 +1,33 @@
+'''Frame rate''', or '''frame frequency''', is the measurement of the [[frequency]] (rate) at which an imaging device produces unique consecutive images called frames. The term applies equally well to computer graphics, video cameras, film cameras, and motion capture systems. Frame rate is most often expressed in frames per second (FPS) and in progressive-scan monitors as [[hertz]] (Hz).
+
+==Frame rates in film and television==
+There are three main frame rate standards in the TV and movie-making business.
+
+* 60i (actually 59.94, or 60 x 1000/1001 to be more precise; 60 interlaced fields = 29.97 frames) is the standard video field rate per second that has been used for NTSC television since 1941, whether from a broadcast signal, rented DVD, or home camcorder. (When NTSC color was introduced, the older rate of 60 fields per second was reduced by a factor of 1000/1001 to avoid interference between the chroma subcarrier and the broadcast sound carrier.) 
+
+* 50i (50 interlaced fields = 25 frames) is the standard video field rate per second for PAL and SECAM television. 
+
+* 30p, or 30-frame progressive, is a noninterlaced format and produces video at 30 frames per second. Progressive (noninterlaced) scanning mimics a film camera's frame-by-frame image capture and gives clarity for high speed subjects and a cinematic-like appearance. Shooting in 30p mode offers video with no interlace artifacts. The widescreen film process Todd-AO used this frame rate in 1954–1956. For video, this frame rate originated in the 1940s for recording current events or recording shows that were not shot in 24p film. However, this frame rate became popular in the 1980s, with the popularity of music videos. 
+
+* The 24p frame rate is also a noninterlaced format, and is now widely adopted by those planning on transferring a video signal to film. But film- and video-makers turn to 24p for the "cine"-look even if their productions are not going to be transferred to film, simply because of the "look" of the frame rate. When transferred to NTSC television, the rate is effectively slowed to 23.976 fps, and when transferred to PAL or SECAM it is sped up to 25 fps. 35 mm movie cameras use a standard exposure rate of 24 frames per second, though many cameras offer rates of 23.976 fps for NTSC television and 25 fps for PAL/SECAM. The 24 fps rate became the de facto standard for sound motion pictures in the mid-1920s.[1] 
+
+* 25p is a video format which runs twenty-five progressive frames per second. This framerate is derived from the PAL television standard of 50i (or 50 interlaced frames per second). While 25p captures only half the motion that normal 50i PAL registers, it yields a higher vertical resolution on moving subjects. It is also better suited to progressive-scan output (e.g. on LCD displays, computer monitors and projectors) because the interlacing is absent. Like 24p, 25p is often used to achieve "cine"-look. 
+
+* 50p and 60p is a progressive format used in high-end HDTV systems. While it is not technically part of the ATSC or DVB broadcast standards, it is rapidly gaining ground in the areas of set-top boxes and video recordings.
+
+== See also ==
+
+[[SMPTE time code]]
+
+== External links ==
+
+* [http://www.100fps.com/how_many_frames_can_humans_see.htm All about framerates]
+* [http://spng.se/frame-rate-test/ Frame Rate Test Video Files]
+* [http://www.cinemaweb.com/silentfilm/bookshelf/18_kb_2.htm Silent Films: What Was the Right Speed]
+* [http://www.microsoft.com/whdc/archive/TempRate.mspx "Temporal Rate Conversion" - a very detailed guide about the visual interference of TV, Video & PC]
+
+==References==
+
+{{reflist}}
+
+[[Category:Synchronization]]
