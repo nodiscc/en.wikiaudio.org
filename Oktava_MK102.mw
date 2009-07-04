@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid 
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	120dB for 0.5%THD	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	150Ω 	
+*Powering 	Phantom 48 only	
+
+'''Switchable Options'''
+*Pad 	10dB	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	180g (6.33oz)
+*Length 	123mm (4.84")
+*Max Diameter/Width 	39mm (1.53")
+|}
+
+The '''Oktava MK102''' is a condenser cardioid microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Oktava|MK102]]
