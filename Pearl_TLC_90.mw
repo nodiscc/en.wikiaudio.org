@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	100Hz - 14kHz
+*Output Sensitivity 	8mV/Pa
+*Max SPL  	144dB for 0.5%THD	
+*Self Noise (DIN/IEC) 	23dB-A
+*Output Impedance 	500Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	1.25mA
+*Alternative Powering 	30-48V phantom
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black
+*Weight 	290g (10.21oz)
+*Length 	170mm (6.69")
+*Min Diameter/Width 	25mm (0.98")
+*Max Diameter/Width 	37mm (1.45")
+
+'''Accessories'''
+*Included 	1826 stand adapter
+*Optional 	1927 shockmount, 1730 windscreen
+|}
+
+The '''Pearl TLC 90''' is a cardioid condenser microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Pearl|TLC 90]]
