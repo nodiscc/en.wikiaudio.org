@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern figure-of-8
+*Frequency Response	20Hz - 25kHz
+*Output Sensitivity 	18mV/Pa
+*Max SPL  	126dB for 0.5%THD	
+*Self Noise (DIN/IEC) 	12dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2.7mA
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black chrome
+*Weight 	305g (10.73oz)
+*Length 	192mm (7.55")
+*Min Diameter/Width 	28mm (1.10")
+*Max Diameter/Width 	32mm (1.25")	
+
+'''Accessories'''
+*Included 	Shockmount 1927 / 1928
+|}
+
+The '''Pearl ELM-B''' is a figure-of-8 condenser microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Pearl|ELM-B]]
