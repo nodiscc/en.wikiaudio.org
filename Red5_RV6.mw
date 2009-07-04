@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	130dB for 1%THD 	
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	200Ω
+*Powering 	Phantom 48 only 	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	100Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+
+'''Accessories'''
+*Included 	Shockmount, foam windshield, plastic flight case
+*Optional 	PS1 pop-shileld, ST10 stand
+
+|}
+
+The '''Red5 RV6''' is a cardioid condenser microphone.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Red5| ]]
