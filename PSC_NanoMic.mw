@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type lavalier condenser
+*Polar pattern omni
+*Frequency Response	40Hz - 16kHz
+*Output Sensitivity 	3mV/Pa
+*Max SPL  	123dB for 1%THD	
+*Self Noise (DIN/IEC) 	25dB-A
+*Output Impedance 	2500Ω
+*Recommended Load 	3kΩ
+*Powering 	Other
+*SupplyCurrent 	0.05mA
+*Alternative Powering 	PSC barrel style power supply or wireless transmitter	
+
+'''Physical Characteristics'''
+*Connector 	All wireless connectors, Lemo, Mini XLR, etc	
+*Available Colours 	Black, white
+*Weight 	18.5g (0.65oz)
+*Length 	12mm (0.47")
+*Min Diameter/Width 	4.4mm (0.17")
+*Max Diameter/Width 	4.4mm (0.17") 	
+
+'''Accessories'''
+*Included 	Tie bar and tape down mounts, windscreen, zippered carry case
+
+|}
+
+The '''PSC NanoMic''' is an omnidirectional lavalier condenser microphone.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:PSC|NanoMic]]
