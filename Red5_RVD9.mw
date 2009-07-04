@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type dynamic
+*Polar pattern cardioid
+*Frequency Response	50Hz - 16kHz
+*Output Sensitivity 	2mV/Pa
+*Max SPL  	136dB for 1%THD 	
+*Output Impedance 	250Ω
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	320g (11.26oz)
+
+|}
+
+The '''Red5 RVD9''' is a dynamic microphone with a cardioid polar pattern.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Red5|RVD9]]
