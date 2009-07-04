@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid, wide cardioid, hypercardioid, figure 8, omni
+*Frequency Response	40Hz - 16kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	126dB for 0.5%THD
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	5.5mA	
+
+'''Physical Characteristics'''
+*Connector 	Lemo 9-pin male	
+*Available Colours 	Black body - gold plated net
+*Weight 	470g (16.54oz)
+*Length 	180mm (7.08")
+*Min Diameter/Width 	42mm (1.65")
+*Max Diameter/Width 	42mm (1.65")	
+
+'''Accessories'''
+*Included 	Aluminium flight case, 9-4x3/10 cable, 1942 shockmount
+|}
+
+The '''Pearl DS 60''' is multipolar pattern condenser microphone.
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Pearl|DS 60]]
