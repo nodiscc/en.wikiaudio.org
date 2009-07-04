@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	60Hz - 15kHz
+*Output Sensitivity 	12mV/Pa
+*Max SPL  	144dB for 0.5%THD 	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	500Ω
+*Recommended Load 	1kΩ	
+*SupplyCurrent 	1.5mA
+*Alternative Powering 	Phantom 30-48 	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black
+*Weight 	215g (7.57oz)
+*Length 	120mm (4.72")
+*Min Diameter/Width 	25mm (0.98")
+*Max Diameter/Width 	28mm (1.10")
+|}
+
+
+The '''Pearl WCM 90''' is a cardioid condenser microphone.
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Pearl|WCN 90]]
