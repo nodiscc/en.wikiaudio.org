@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser tube
+*Polar patterns: omni, wide cardioid, subcardioid, cardioid, supercardioid, hypercardioid, figure-of-8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	162dB for 1%THD	
+*Self Noise (DIN/IEC) 	10dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	on power unit
+
+'''Accessories'''
+*Included 	SM2 shock mount, protective case
+
+
+|}
+
+The '''Røde K2''' is a condenser tube microphone with multiple polar patterns.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|K2]]
