@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	20mV/Pa
+*Max SPL  	128dB for 1%THD	
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	40Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4mA
+*Alternative Powering 	Phantom 24
+
+'''Switchable Options''' 	
+*Filter/EQ 	120Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Available Colours 	Silver
+*Weight 	577g (20.31oz)
+*Length 	167mm (6.57")	
+*Max Diameter/Width 	50mm (1.96")	
+
+'''Accessories'''
+*Included 	ZP1 zip pouch, BM1 stand mount + 3/8" / 5/8" thread adaptor
+*Optional 	WS2 windshield
+
+|}
+
+The '''Røde Broadcaster''' is a condenser microphone with a cardioid polar pattern.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|Broadcaster]]
