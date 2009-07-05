@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser tube
+*Polar patterns: omni, wide cardioid, subcardioid, cardioid, supercardioid, hypercardioid, figure-of-8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	14mV/Pa
+*Max SPL  	131dB for 1%THD	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit	
+
+'''Switchable Options'''
+*Pad 	10dB, 20dB
+*Filter/EQ 	20Hz -15dB & -21dB
+
+'''Physical Characteristics'''
+*Connector 	Proprietary 12-pin multicore 	
+*Available Colours 	Silver
+*Weight 	1440g (50.70oz)
+*Length 	201mm (7.91")	
+*Max Diameter/Width 	65mm (2.55")
+
+'''Accessories'''
+*Included 	PSU, cables, SM2 shockmount, M2 stand mount, Al flight case
+
+|}
+
+The '''Røde Classic II''' is a condenser tube microphone with multiple polar patterns.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|Classic II]]
