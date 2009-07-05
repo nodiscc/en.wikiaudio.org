@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern omni
+*Frequency Response	20Hz - 100kHz
+*Output Sensitivity 	56.2mV/Pa
+*Max SPL  	125dB for 1%THD 	
+*Self Noise (DIN/IEC) 	19dB-A
+*Output Impedance 	150Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	6mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	150g (5.28oz)
+*Length 	191.5mm (7.53")	
+*Max Diameter/Width 	20mm (0.78")
+
+|}
+
+The '''Sanken CO-100K''' is a condenser microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sanken|CO-100K]]
