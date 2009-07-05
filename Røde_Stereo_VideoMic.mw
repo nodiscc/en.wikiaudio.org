@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern supercardioid
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	6.3mV/Pa
+*Max SPL  	120dB for 1%THD	
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	200Ω 	
+*Powering 	Internal battery
+*SupplyCurrent 	7mA 	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	HPF
+
+'''Physical Characteristics'''
+*Connector 	Mini stereo jack	
+*Weight 	330g (11.61oz)
+*Length 	172mm (6.77")
+*Min Diameter/Width 	64mm (2.51")
+*Max Diameter/Width 	100mm (3.93")
+
+|}
+
+The '''Røde Stereo VideoMic''' is a condenser microphone with a supercardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|Stereo VideoMic]]
