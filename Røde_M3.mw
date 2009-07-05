@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*polar pattern cardioid)
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	6.3mV/Pa
+*Max SPL  	142dB for 1%THD	
+*Self Noise (DIN/IEC) 	21dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	6.5mA
+*Alternative Powering 	Internal 9V battery, P24
+
+'''Switchable Options'''
+*Pad 	10, 20dB
+*Filter/EQ 	80Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	390g (13.73oz)
+*Length 	225mm (8.85")
+*Min Diameter/Width 	33mm (1.29")
+
+|}
+
+The '''Røde M3''' is a condenser microphone with a cardioid polar pattern.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|M3]]
