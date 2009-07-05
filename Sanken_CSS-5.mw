@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: supercardioid and shotgun (short rifle)
+*Output Sensitivity 	31mV/Pa
+*Max SPL  	120dB for 1%THD
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	240Ω
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2.5mA
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Weight 	250g (8.80oz)
+*Length 	300mm (11.81")
+*Min Diameter/Width 	19mm (0.74")
+*Max Diameter/Width 	22mm (0.86")
+*Depth 	45mm (1.77")
+
+|}
+
+The ''' Sanken CSS-5''' is a condenser microphone with two polar patterns.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sanken|CSS-5]]
