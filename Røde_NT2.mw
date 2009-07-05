@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patters: omni and cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	130dB for 1%THD 	
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	40Ω 	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4mA
+*Alternative Powering 	Phantom 24
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	100Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Silver
+*Weight 	541g (19.04oz)
+*Length 	204mm (8.03")	
+*Max Diameter/Width 	50mm (1.96")	
+
+'''Accessories'''
+*Included 	WS2 windshield, SM1 shockmount, Al flight case
+*Optional 	NT2-NC (without flight case or windshield)
+
+|}
+
+The '''Røde NT2''' is a cardioid microphone with two polar patterns.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|NT2]]
