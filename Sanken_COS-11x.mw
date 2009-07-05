@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (lavalier)
+*Polar pattern omni
+*Frequency Response	50Hz - 20kHz
+*Output Sensitivity 	17.8mV/Pa
+*Max SPL  	127dB for 1%THD	
+*Self Noise (DIN/IEC) 	28dB-A
+*Output Impedance 	180Ω 	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA
+*Alternative Powering 	(see different suffixes)
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	Bare tails on PT
+*Available Colours 	Black, grey, beige, white 	
+*Length 	16.1mm (0.63") 	
+*Max Diameter/Width 	4mm (0.15")	
+
+'''Accessories'''
+*Included 	WS-11 windscreen, RM-11 rubber mount, HC-11 holder clip
+
+|}
+
+The '''Sanken COS-11x''' is a condenser (lavalier) microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sanken|COS-11x]]
