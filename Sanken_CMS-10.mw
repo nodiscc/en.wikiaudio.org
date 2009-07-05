@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: hypercardioid and figure-of-8
+*Output Sensitivity 	50mV/Pa
+*Max SPL  	120dB for 1%THD	
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	240Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2.6mA
+
+'''Physical Characteristics'''
+*Connector 	6-pin
+*Connector Notes 	R-03-R6M (TAJIMI)	
+*Weight 	130g (4.57oz)
+*Length 	220mm (8.66")
+*Min Diameter/Width 	20mm (0.78")
+*Max Diameter/Width 	26mm (1.02")
+
+'''Accessories'''
+*Included 	Suspension holder, attached Softie, 6pin to 2xXLR-3 lead
+
+|}
+
+The '''Sanken CMS-10''' is a condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sanken|CMS-10]]
