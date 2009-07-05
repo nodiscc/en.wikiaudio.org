@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	138dB for 1%THD 	
+*Self Noise (DIN/IEC) 	19dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	80Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	386g (13.59oz)
+*Length 	188.4mm (7.41")	
+*Max Diameter/Width 	20mm (0.78")
+*Depth 	64mm (2.51")
+
+'''Accessories'''
+*Included 	RM5 stand mount, WS5 foam windshield
+
+
+|}
+
+The '''Røde NT6''' is a condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Røde|NT6]]
