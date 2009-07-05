@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: cardioid and wide cardioid
+*Frequency Response	60Hz - 12kHz
+*Output Sensitivity 	40mV/Pa
+*Max SPL  	122dB for 1%THD
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	180Ω
+*Powering 	Phantom 48 only
+*SupplyCurrent 	1.8mA
+*Alternative Powering 	3 - 14V DC for PT option	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Grey, beige
+*Weight 	45g (1.58oz)
+*Max Diameter/Width 	32.5mm (1.27")
+*Depth 	12mm (0.47")
+
+|}
+
+The '''Sanken CUB-01''' is a condenser microphone with two polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sanken|CUB-01]]
