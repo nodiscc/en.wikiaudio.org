@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: cardioid and figure-of-8
+*Frequency Response	20Hz - 18kHz
+*Output Sensitivity 	2.8mV/Pa
+*Max SPL  	145dB for 1%THD 	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	250Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	1.4mA
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Available Colours 	Black
+*Weight 	180g (6.33oz)
+*Length 	176mm (6.92")
+*Min Diameter/Width 	20.5mm (0.80")
+*Max Diameter/Width 	43mm (1.69")	
+
+'''Accessories'''
+*Included 	Case,MB2 matrix
+
+|}
+
+The '''Sanken CMS-2''' is a condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sanken|CMS-2]]
