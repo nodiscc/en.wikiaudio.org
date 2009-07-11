@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	6.3mV/Pa
+*Max SPL  	126dB for 1%THD
+*Self Noise (CCIR) 	35dB
+*Self Noise (DIN/IEC) 	25dB-A
+*Output Impedance 	250Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	1.5mA
+*Alternative Powering 	1.5V AA battery
+
+'''Switchable Options'''
+*Filter/EQ 	Bass roll-off
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M
+*Available Colours 	Black
+*Weight 	125g (4.40oz)
+*Length 	190mm (7.48")
+*Min Diameter/Width 	24mm (0.94")
+*Max Diameter/Width 	44mm (1.73") 	
+
+'''Accessories'''
+*Included 	Y-cable (XLR-5F to 2xXLR-3M), case, velour foam windshield
+
+|}
+
+The '''Sennheiser MKE 44 P''' is a condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|MKE 44 P]]
