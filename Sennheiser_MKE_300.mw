@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern supercardioid
+*Frequency Response	150Hz - 17kHz
+*Output Sensitivity 	16mV/Pa
+*Max SPL  	116dB for 1%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	2.7kΩ
+*Powering 	Internal battery
+
+'''Physical Characteristics'''
+*Connector 	3.5mm jack
+*Connector Notes 	2-pole jack
+*Available Colours 	Anthracite
+*Weight 	60g (2.11oz)
+*Length 	230mm (9.05")
+*Min Diameter/Width 	50mm (1.96")
+*Max Diameter/Width 	65mm (2.55")
+
+'''Accessories'''
+*Included 	Cable, case, foam windshield
+
+
+|}
+
+The '''Sennheiser MKE 300''' is a condenser microphone with a supercardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|MKE 300]]
