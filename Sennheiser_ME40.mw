@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern supercardioid
+*Frequency Response	50Hz - 15kHz
+*Output Sensitivity 	3mV/Pa
+*Self Noise (CCIR) 	30dB 	
+*Output Impedance 	140Ω
+*Recommended Load 	0.3kΩ
+*Powering 	Phantom 12-48	
+*Alternative Powering 	Internal 5.6V battery
+
+'''Switchable Options'''
+*Filter/EQ 	-7dB, -20dB @ 50Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	170g (5.98oz)
+*Length 	201mm (7.91")
+*Min Diameter/Width 	19mm (0.74")
+*Max Diameter/Width 	22mm (0.86")
+
+|}
+
+The '''Sennheiser ME40''' is a condenser microphone with a supercardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|ME40]]
