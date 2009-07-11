@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (Lavalier)
+*Polar pattern omni
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	5mV/Pa
+*Max SPL  	142dB for 0.5%THD
+*Self Noise (CCIR) 	39dB
+*Self Noise (DIN/IEC) 	26dB-A
+*Output Impedance 	1000Ω
+*Recommended Load 	4.7kΩ
+*Powering 	Other
+*SupplyCurrent 	
+*Alternative Powering 	7.5V via 18kohm
+
+'''Physical Characteristics'''
+*Connector 	Proprietary
+*Available Colours 	Anthracite, beige
+*Weight 	34.4g (1.21oz)
+*Min Diameter/Width 	
+*Max Diameter/Width 	4.8mm (0.18") 	
+
+'''Accessories'''
+*Included 	MZC 2-1, 2-2 presence caps
+*Optional 	MZW 2, MZW 02 windshields
+
+|}
+
+The '''Sennheiser HS 2''' is a condenser (lavalier) microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|HS 2]]
