@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Externally-polarized (DC bias) condenser
+*POLAR PATTERN 	Cardioid
+*FREQUENCY RESPONSE 	20-18,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 12 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	-35 dB (17.7 mV) dB re 1V at 1 Pa
+*IMPEDANCE 	250 ohms
+*MAXIMUM INPUT SOUND LEVEL 	149 dB SPL, 1 kHz at 1% T.H.D.; 159 dB SPL, with 10 dB pad (nominal)
+*NOISE 	9 dB SPL
+*DYNAMIC RANGE (typical) 	140 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	85 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	48V DC, 3.0 mA typical
+*SWITCHES 	Flat, roll-off; 10 dB pad (nominal)
+*WEIGHT 	14.5 oz (410 g)
+*DIMENSIONS 	6.69" (170.0 mm) long, 2.10" (53.4 mm) maximum body diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*ACCESSORIES FURNISHED 	AT8449/SV shock mount for 5/8"-27 threaded stands; microphone dust cover; protective carrying case
+*AUDIO-TECHNICA CASE STYLE 	R1
+
+
+|}
+
+The '''AT4047/SV''' is a cardioid condenser microphone with a frequency response of 20Hz-18KHz
+
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:Audio-Technica|AT4047/SV]]
