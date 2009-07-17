@@ -1,0 +1,33 @@
+''This article needs further development. Please add to it.''
+----
+==How to read microphone specifications==
+
+'''Type (transducer)''' This is the the technical method the mic uses to convert sound into electricity. The most common microphone types are dynamic, condenser, ribbon and crystal
+
+
+'''[[Polar pattern]] (directional response).'''
+Indicates how sensitive a microphone is to sounds arriving at different angles about its central axis
+
+
+'''Frequency response''' A frequency response diagram plots the microphone sensitivity in decibels over a range of frequencies (typically at least 0–20 kHz), generally for perfectly on-axis sound (sound arriving at 0° to the capsule).
+You will often see frequency response quoted as a range between two figures such as 20Hz-20Khz. This is an extremely over simplistic way to see which frequencies a microphone is capable of capturing and doesn't account for measurement methods or attenuated and extenuated frequencies
+
+
+'''Sensitivity''' is how much electrical output (measured in millivolts) is generated as a result of a specific sound pressure input which is usually measured in Pascals (abbreviated Pa). This is usually done with a sound pressure level of 1 Pascal (94 dB at 1000 Hz) although some microphone manufacturers use different values.If multiple microphones are subject to the same sound pressure input (1 pascal) and one produces a higher output voltage, then ''that'' microphone is said to have a sensitivity rating higher than the others. Sensitivity is sometimes expressed in dBV/Pa. For example, a sensitivity of -35 dBV/Pa indicates a microphone whose output is 35 dB lower than that of a hypothetical microphone that produces 1V in response to 1 pascal. 
+
+
+'''Self-noise (equivalent noise level)''' This is the sound level that creates the same output voltage as the microphone does in the absence of sound. This is called equivalent input noise, or EIN and represents the lowest point of the microphone's dynamic range and is particularly important should you wish to record sounds that are quiet. This is usually measured as dB SPL or "dB re 20 µPa,” and it often [[A-weighting|A-weighted]]. If the figure is not A-weighted, then the self noise was measured using [[ITU-R 468-Weighting Curve|ITU-R 468]].
+
+
+
+'''[[Impedance]]''' This is frequency dependent resistance. With microphones low impedance is usually associated with higher quality microphones. The microphone preamplifier's input impedance should be higher than the output impedance of the microphone itself.This insures optimal voltage transfer and minimize signal degradation. If the microphone doesn't have a suggested ration then a good rule of thumb is either a ratio of 5:1 or 10:1
+
+
+
+==References==
+*[http://emusician.com/tutorials/emusic_mic_specs_demystified/ Mic Specs Demystified. Electronic Musician.Feb 1, 2007]
+
+
+[[category:tutorials]]
+
+[[category:microphones]]
