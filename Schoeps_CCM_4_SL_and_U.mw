@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	80Hz - 20kHz
+*Output Sensitivity 	13mV/Pa
+*Max SPL  	132dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	90Ω
+*Recommended Load 	0.6kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	4mA
+
+'''Physical Characteristics'''
+*Connector 	L-version: Lemo, U-version: XLR-3M	
+*Available Colours 	Grey
+*Weight 	33g (1.16oz)
+*Length 	45mm (1.77")
+*Max Diameter/Width 	20mm (0.78") 	
+
+'''Accessories'''
+*Included 	Miniature swivel mount, L-version: adapter cable Lemo/XLR-3M
+*Optional 	See our website/catalogue
+
+|}
+
+The '''Schoeps CCM 4 SL/U''' is a condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Schoeps|CCM 4 SL and U]]
