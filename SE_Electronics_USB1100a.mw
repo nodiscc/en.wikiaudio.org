@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type ''The type of this microphone is unclear.Please add it's type.'' ( USB )
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*A/D conversion has a signal/noise ratio of 92dB
+*The D/A conversion (for headphone return) has a ratio of 96dB.
+*Sample rate 44.1khz or 48kHz
+*Output Sensitivity 	12.6mV/Pa
+*Self Noise (DIN/IEC) 	12dB-A 	
+*Powering 	Other
+*Alternative Powering 	USB
+
+'''Physical Characteristics'''
+*Connector 	USB-B
+|}
+
+
+The '''SE Electronics USB1100a''' is a " USB " cardioid microphone intended for use with computers
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:SE Electronics|USB1100a]]
