@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (lavalier)
+*Polar pattern cardioid
+*Output Sensitivity 	13mV/Pa
+*Max SPL  	132dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	15dB-A
+*Output Impedance 	15Ω
+*Recommended Load 	2kΩ
+*Powering 	Other
+*SupplyCurrent 	1mA		
+
+'''Physical Characteristics'''
+*Connector 	Various 	
+*Weight 	25g (0.88oz)
+*Length 	8mm (0.31")
+*Min Diameter/Width 	0mm (0")
+*Max Diameter/Width 	20mm (0.78")
+
+|}
+
+The '''Schoeps CMR''' is a condenser (lavalier) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Schoeps|CMR]]
