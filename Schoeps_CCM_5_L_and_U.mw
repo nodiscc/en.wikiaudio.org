@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: omni and cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	11mV/Pa
+*Max SPL  	133dB for 0.5%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	90Ω
+*Recommended Load 	0.6kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	4mA
+
+'''Physical Characteristics'''
+*Connector 	L-version: Lemo, U-version: XLR-3M	
+*Available Colours 	Grey
+*Weight 	41g (1.44oz)
+*Length 	50mm (1.96") 	
+*Max Diameter/Width 	20mm (0.78") 	
+
+'''Accessories'''
+*Included 	Miniature swivel version-version: adapter cable Lemo/XLR-3M
+*Optional 	See our website/catalogue
+
+|}
+
+The '''Schoeps CCM 5 L/U''' is a condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Schoeps|CCM 5 L and U]]
