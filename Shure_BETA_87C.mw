@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized)
+*Polar pattern cardioid
+*Frequency Response	50Hz - 20kHz
+*Output Sensitivity 	2mV/Pa
+*Max SPL  	139dB for 0.25%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	1.2mA 	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Metallic blue
+*Weight 	207g (7.28oz)
+*Length 	192mm (7.55")
+*Min Diameter/Width 	21mm (0.82")
+*Max Diameter/Width 	51mm (2.00")
+
+'''Accessories'''
+*Included 	Swivel adapter, storage bag
+*Optional 	Phantom PSU PS1A, A53M isolation mount, A85WS windscreen
+
+|}
+
+The '''Shure BETA 87C''' is a condenser (electric) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|BETA 87C]]
