@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized)
+*Polar pattern cardioid
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	4mV/Pa
+*Max SPL  	129dB for 1%THD
+*Self Noise (CCIR) 	20dB
+*Self Noise (DIN/IEC) 	24dB-A
+*Output Impedance 	600Ω
+*Recommended Load 	0.8kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+*Alternative Powering 	AA Battery 	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	250g (8.80oz)
+*Length 	191mm (7.51")
+*Min Diameter/Width 	24.1mm (0.94")
+*Max Diameter/Width 	27.8mm (1.09")
+
+'''Accessories'''
+*Included 	Swivel adaptor, padded carrying case
+*Optional 	Phantom power supply, windscreen
+
+|}
+
+The '''Shure BG4.1''' is a condenser (polarized) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|BG4.1]]
