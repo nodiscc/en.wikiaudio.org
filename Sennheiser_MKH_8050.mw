@@ -1,0 +1,38 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns supercardioid
+*Frequency Response	30Hz - 50kHz
+*Output Sensitivity 	20mV/Pa
+*Max SPL  	142dB for 1%THD
+*Self Noise (CCIR) 	22dB
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	25Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3.3mA 	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	Proprietary capule connector	
+*Weight 	55g (1.93oz)
+*Length 	74mm (2.91") 	
+*Max Diameter/Width 	19mm (0.74")
+
+|}
+
+The '''Sennheiser MKH 8050''' is a condenser microphone with a supercardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|MKH 8050]]
