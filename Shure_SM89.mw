@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern shotgun (long rifle)
+*Frequency Response	60Hz - 20kHz
+*Output Sensitivity 	2.2mV/Pa
+*Max SPL  	127dB for 0.5%THD 	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	0.8kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA	
+
+'''Switchable Options'''
+*Filter/EQ 	160Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	195g (6.86oz)
+*Length 	524mm (20.62")
+*Min Diameter/Width 	20mm (0.78")
+*Max Diameter/Width 	23mm (0.90")	
+
+'''Accessories'''
+*Included 	Windscreen, case
+*Optional 	Shockmount
+|}
+
+The '''Shure SM89''' is a condenser microphone with a shotgun (long rifle) polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|SM89]]
