@@ -1,0 +1,46 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern figure-of-8
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	25mV/Pa
+*Max SPL  	134dB for 1%THD
+*Self Noise (CCIR) 	22dB
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	150Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA 	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	100Hz -5dB
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Available Colours 	Black
+*Weight 	110g (3.87oz)
+*Length 	174mm (6.85") 	
+*Max Diameter/Width 	25mm (0.98") 	
+
+'''Accessories'''
+*Included 	Case, MZS80 shock mount, MZW41 windshield
+*Optional 	MZD30 dual clip (for MS)
+
+|}
+
+The '''Sennheiser MKH 30''' is a condenser microphone with a figure-of-8 polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|MKH 30]]
