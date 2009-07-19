@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized) lavalier
+*Polar pattern omni
+*Frequency Response	80Hz - 20kHz
+*Output Sensitivity 	7mV/Pa
+*Max SPL  	120dB for 1%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	90Ω
+*Recommended Load 	0.8kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	0.33mA
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Available Colours 	Black, tan
+*Length 	9.4mm (0.37")
+*Min Diameter/Width 	5.84mm (0.22")
+*Max Diameter/Width 	6.1mm (0.24")
+*Depth 	3.81mm (0.15")
+
+'''Accessories'''
+*Included 	Windscreen, clips
+|}
+
+The '''Shure SM93''' is a condenser (polarized) lavalier microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|SM93]]
