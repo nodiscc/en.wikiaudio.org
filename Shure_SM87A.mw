@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern supercardioid
+*Frequency Response	50Hz - 18kHz
+*Output Sensitivity 	2.4mV/Pa
+*Max SPL  	140dB for 0.25%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	24dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	0.8kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	1.1mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	200g (7.04oz)
+*Length 	192mm (7.55")
+*Min Diameter/Width 	21mm (0.82")
+*Max Diameter/Width 	50.8mm (2")
+
+'''Accessories'''
+*Included 	Swivel adapter
+*Optional 	Windscreen
+|}
+
+The '''Shure SM87A''' is a condenser microphone with a supercardioid polar pattern
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|SM87A]]
