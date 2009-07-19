@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type tube condenser
+*Polar pattern omni, wide cardioid, cardioid,sub cardioid,supercardioid,hypercardioid,figure 8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	20mV/Pa
+*Max SPL  	130dB for 0.5%THD	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	200Ω	
+*Powering 	Proprietary unit
+ 	
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	8-pin on microphone 	
+*Length 	192mm (7.55")	
+*Max Diameter/Width 	60mm (2.36")
+
+'''Accessories'''
+*Included 	PSU, cables, shockmount, case
+|}
+
+
+The SE Electronics Z5600A is a tube condenser microphone with 9 different polar patterns switchable from the power supply
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:SE Electronics|Z5600A]]
