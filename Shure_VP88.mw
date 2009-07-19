@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized)
+*Polar patterns: cardioid and figure-of-8
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	0.5mV/Pa
+*Max SPL  	129dB for 1%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	24dB-A
+*Output Impedance 	100Ω
+*Recommended Load 	0.8kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2.6mA
+*Alternative Powering 	Battery 6V 4LR44
+
+'''Switchable Options	'''
+*Filter/EQ 	80Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Weight 	417g (14.68oz)
+*Length 	280mm (11.02")
+*Min Diameter/Width 	27mm (1.06")
+*Max Diameter/Width 	38.7mm (1.52")	
+
+'''Accessories'''
+*Included 	Multi-connector Y-splitter cable, foam windscreen, swivel stand adaptor
+*Optional 	A88SM isolation mount, microphone extension cable,PS1A phantom power supply
+|}
+
+The '''Shure VP88''' is a condenser (polarized) microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|VP88]]
