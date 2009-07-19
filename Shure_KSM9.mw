@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized)
+*Polar patterns: cardioid and supercardioid
+*Frequency Response	50Hz - 20kHz
+*Output Sensitivity 	2.75mV/Pa
+*Max SPL  	152dB for 1%THD	
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	150Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	5.2mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	300g (10.56oz)
+*Length 	191mm (7.51")	
+*Max Diameter/Width 	49mm (1.92")
+
+|}
+
+The '''Shure KSM9''' is a condenser (polarized) microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Shure|KSM9]]
