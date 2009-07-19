@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Tube condenser
+*Polar pattern 9 steps through omni, cardioid and figure of eight patterns
+*Frequency Response: 20Hz-20KHz
+*Sensitivity: 14.1mV/Pa - 37 ± 1dB(0dB=1V/Pa 1000Hz)
+*Polar Pattern: Cardioid, Omni, Figure 8 and 6 intermediate stages, all *selectable on AC power unit.
+*Impedance: ≤ 200 Ohms
+*Equivalent Noise Level: 12dB(A weighted)
+*Max SPL for 0.5% THD@1000Hz: 135dB
+*Power Requirement: External Power Supply Unit (PSU) included.
+*Connector: 8-pin army connector
+|}
+
+The '''SE Electronics Z5600a II''' is a tube condenser microphone with multiple polar patterns 
+
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:SE Electronics|Z5600a II]]
