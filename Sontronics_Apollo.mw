@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type ribbon
+*Polar pattern figure-of-8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	18mV/Pa	
+*Self Noise (DIN/IEC) 	12dB-A
+*Output Impedance 	150Ω	
+*Powering 	Phantom 48 only	
+
+'''Physical Characteristics'''
+*Connector 	6-pin
+*Connector Notes 	2 x XLR3M adapter cable supplied	
+|}
+
+The '''Sontronics Apollo''' is a ribbon microphone with a figure-of-8 polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sontronics|Apollo]]
