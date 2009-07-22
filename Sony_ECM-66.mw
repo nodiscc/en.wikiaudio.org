@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret) lavalier
+*Polar pattern cardioid
+*Frequency Response	70Hz - 14kHz
+*Output Sensitivity 	15mV/Pa
+*Max SPL  	130dB for 1%THD
+*Self Noise (CCIR) 	29dB 	
+*Output Impedance 	100Ω	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	0.3mA
+*Alternative Powering 	Internal battery or wireless TX
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	pigtailSMC9-4P
+*Available Colours 	Black
+*Weight 	167g (5.88oz)
+*Length 	24.2mm (0.95") 	
+*Max Diameter/Width 	10.6mm (0.41")
+
+'''Accessories'''
+*Included 	Single horizontal holder clip, single vertical holder clip, urethane wind screen
+|}
+
+The '''Sony ECM-66''' is a condenser (electret) lavalier microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-66]]
