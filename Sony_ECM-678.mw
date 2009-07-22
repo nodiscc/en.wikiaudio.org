@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern shotgun (short rifle)
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	35mV/Pa
+*Max SPL  	127dB for 	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	200Ω	
+*Powering 	Phantom 48 only	
+
+'''Switchable Options'''
+*Filter/EQ 	Low cut
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	200g (7.04oz)
+*Length 	252mm (9.92") 	
+*Max Diameter/Width 	20mm (0.78")
+|}
+
+The '''Sony ECM-678''' is a condenser (electret) microphone with a shotgun (short rifle) polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-678]]
