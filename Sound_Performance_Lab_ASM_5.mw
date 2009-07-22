@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: omni, cardioid, and figure-of-8
+*Frequency Response	20Hz - 22kHz
+*Output Sensitivity 	28mV/Pa
+*Max SPL  	142dB for 0.3%THD
+*Self Noise (CCIR) 	18dB
+*Self Noise (DIN/IEC) 	8dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	10kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4mA	
+
+'''Switchable Options'''
+*Filter/EQ 	50Hz, 100Hz
+
+'''Physical Characteristics''' 	
+*Weight 	2200g (77.46oz)
+*Length 	750mm (29.52") 	
+*Max Diameter/Width 	650mm (25.59")
+*Depth 	150mm (5.90")
+|}
+
+The '''Sound Performance Lab ASM 5''' is a condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sound Performance Lab|ASM 5]]
