@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type tube condenser
+*Polar pattern cardioid
+*Frequency Response	20Hz - 16kHz
+*Output Sensitivity 	22mV/Pa
+*Max SPL  	116dB for 0.5%THD
+*Self Noise (CCIR) 	25dB
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1.2kΩ
+*Powering 	Proprietary unit	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	694g (24.43oz)
+*Length 	203mm (7.99")	
+*Max Diameter/Width 	51mm (2.00") 	
+
+'''Accessories'''
+*Included 	Shock mount
+|}
+
+The '''Soundelux E250''' is a tube condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Soundelux|E250]]
