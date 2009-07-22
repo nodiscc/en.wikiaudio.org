@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	4mV/Pa
+*Max SPL  	130dB for 1%THD
+*Self Noise (CCIR) 	26dB 	
+*Output Impedance 	480Ω	
+*Powering 	Internal battery
+*SupplyCurrent 	11mA	
+
+'''Switchable Options'''
+*Filter/EQ 	Low cut
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Available Colours 	Black with silver
+*Weight 	366g (12.88oz)
+*Length 	246mm (9.68")	
+*Max Diameter/Width 	40mm (1.57")	
+
+'''Accessories'''
+*Included 	W/scrn, mic holder, cable XLR-5-F to XLR-3M, stand adaptor
+|}
+
+The '''Sony ECM-999PR''' is a condenser (electret) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-999PR]]
