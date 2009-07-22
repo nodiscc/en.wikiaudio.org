@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret) lavalier
+*Polar pattern omni
+*Frequency Response	30Hz - 18kHz
+*Output Sensitivity 	12mV/Pa
+*Max SPL  	126dB for 1%THD
+*Self Noise (CCIR) 	28dB	
+*Output Impedance 	100Ω	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	3.5mA
+*Alternative Powering 	Internal battery
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	pigtailSMC9-4P
+*Available Colours 	Black
+*Weight 	127g (4.47oz)
+*Length 	21mm (0.82")
+*Min Diameter/Width 	10.6mm (0.41")
+*Max Diameter/Width 	10.6mm (0.41")	
+
+'''Accessories'''
+*Included 	Single horizontal holder clip, single vertical holder clip, metal wind screen, microphone case
+|}
+
+The '''Sony ECM-55''' is a condenser (electret) lavalier microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-55]]
