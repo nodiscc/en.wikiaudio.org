@@ -1,0 +1,19 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:200px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''[[File:MaxMSP Patches.png|center]]''' </big>
+''Below are the Max patches that accommodate this article''
+----
+|-
+| style="background: " | 
+[[File:Simple feedback loop patch .maxpat]]
+|}
+
+
+'''Instructions'''
+
+Just download the patch (right click and save as) in the column to the right and open it in MaxMSP
+
+[[File:Max MSP basic feedback loop patch.png]]
+
+
+[[category:MaxMSP|Feedback patch]]
