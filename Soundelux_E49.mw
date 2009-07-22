@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type tube condenser
+*Polar patterns: omni, wide cardioid, subcardioid, cardioid, supercardioid, hypercardioid, and figure-of-8
+*Frequency Response	30Hz - 16kHz
+*Output Sensitivity 	13mV/Pa
+*Max SPL  	119dB for 0.5%THD
+*Self Noise (CCIR) 	30dB
+*Self Noise (DIN/IEC) 	19dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1.2kΩ
+*Powering 	Proprietary unit	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	666g (23.45oz)
+*Length 	158mm (6.22") 	
+*Max Diameter/Width 	76mm (2.99")
+
+'''Accessories'''
+*Included 	Stand adapter, wooden storage box, P99E power supply
+|}
+
+The '''Soundelux E49''' is a tube condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Soundelux|E49]]
