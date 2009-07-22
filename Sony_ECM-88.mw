@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret) lavalier
+*Polar pattern omni
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	12.6mV/Pa
+*Max SPL  	125dB for 1%THD	
+*Self Noise (DIN/IEC) 	26dB-A	
+*Powering 	Phantom 48 only
+*Alternative Powering 	1xAA cell, 1.1 - 10V DC 	
+
+'''Physical Characteristics'''
+*Connector 	Hirose SMC9-4P	
+*Available Colours 	Black
+*Weight 	20g (0.70oz)
+*Length 	16mm (0.62")	
+*Max Diameter/Width 	3.5mm (0.13") 	
+
+'''Accessories'''
+*Included 	Clips, windshield
+*Optional 	DC-78 powering unit
+|}
+
+The '''Sony ECM-88''' is a condenser (electret) lavalier microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-88]]
