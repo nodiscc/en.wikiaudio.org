@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized)
+*Polar pattern omnidirectional
+*Frequency Response	50Hz - 18kHz
+*Output Sensitivity 	22.5mV/Pa
+*Max SPL  	115dB for 1%THD	
+*Self Noise (DIN/IEC) 	27dB-A
+*Output Impedance 	4400Ω	
+*Powering 	Other
+*SupplyCurrent 	0.024mA
+*Alternative Powering 	0.9 - 1.6V	
+
+'''Physical Characteristics'''
+*Connector 	Various	
+*Available Colours 	Black, beige
+*Weight 	17g (0.59oz)
+|}
+
+The '''VT700''' is an omnidirectional headset microphone 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Voice Technologies|VT700]]
