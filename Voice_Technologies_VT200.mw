@@ -1,0 +1,35 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (polarized)
+*Polar pattern omnidirectional
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	10mV/Pa 	
+*Output Impedance 	3000Ω	
+*Powering 	Other
+*SupplyCurrent 	0.03mA
+*Alternative Powering 	1.3V DC (1-20V permissible)	
+
+'''Physical Characteristics'''
+*Connector 	Open ends	
+*Weight 	15g (0.52oz)
+*Length 	16mm (0.62")
+*Min Diameter/Width 	
+*Max Diameter/Width 	7mm (0.27")
+*Depth 	4mm (0.15")
+|}
+
+The '''VT200''' is an omnidirectional lavalier microphone 
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Voice Technologies|VT200]]
