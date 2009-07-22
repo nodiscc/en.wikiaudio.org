@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern omni
+*Frequency Response	40Hz - 17kHz
+*Output Sensitivity 	3.2mV/Pa
+*Max SPL  	126dB for 1%THD
+*Self Noise (CCIR) 	29dB 	
+*Output Impedance 	250Ω	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+*Alternative Powering 	Internal battery (AA)
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Available Colours 	Black
+*Weight 	125g (4.40oz)
+*Length 	364mm (14.33")
+*Min Diameter/Width 	8.5mm (0.33")
+*Max Diameter/Width 	23mm (0.90")
+
+'''Accessories'''
+*Included 	Wind screen, microphone holder, stand adaptor
+|}
+
+The '''Sony ECM-510''' is a condenser (electret) microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-510]]
