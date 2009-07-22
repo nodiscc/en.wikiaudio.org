@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern cardioid
+*Frequency Response	70Hz - 20kHz
+*Output Sensitivity 	10mV/Pa
+*Max SPL  	130dB for 1%THD
+*Self Noise (CCIR) 	20dB 	
+*Output Impedance 	150Ω	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+*Alternative Powering 	Battery operation with optional DC-MS5
+
+'''Switchable Options'''	
+*Filter/EQ 	250Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M 	
+*Available Colours 	Black
+*Weight 	215g (7.57oz)
+*Length 	212mm (8.34") 	
+*Max Diameter/Width 	47.5mm (1.87")
+
+'''Accessories'''
+*Included 	W/scrn, mic holder, cable XLR-5F to XLR-3M, stand adaptor
+*Optional 	DC-MS5 battery unit
+|}
+
+The '''Sony ECM-MS5''' is a condenser (electret) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-MS5]]
