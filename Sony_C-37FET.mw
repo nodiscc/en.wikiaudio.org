@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: omni and cardioid
+*Frequency Response	30Hz - 16kHz
+*Output Sensitivity 	1.29mV/Pa
+*Max SPL  	134dB for 1%THD
+*Self Noise (DIN/IEC) 	24dB-A
+*Output Impedance 	50Ω	
+*Powering 	Internal battery
+*SupplyCurrent 	1mA
+*Alternative Powering 	External 9V
+
+'''Switchable Options'''
+*Filter/EQ 	M1, V1, V2, Hi-cut
+
+'''Physical Characteristics'''
+*Connector 	Proprietary	
+*Length 	214mm (8.42")	
+*Max Diameter/Width 	60.4mm (2.37")
+*Depth 	45.6mm (1.79")
+|}
+
+The '''Sony C-37FET''' is a condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|C-37FET]]
