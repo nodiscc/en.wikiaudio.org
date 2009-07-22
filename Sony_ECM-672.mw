@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern shotgun (short rifle)
+*Frequency Response	50Hz - 16kHz
+*Output Sensitivity 	7.9mV/Pa
+*Max SPL  	114dB for 1%THD
+*Self Noise (CCIR) 	22dB	
+*Output Impedance 	250Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	0.5mA
+*Alternative Powering 	Internal battery 1.5V
+
+'''Switchable Options'''
+*Filter/EQ 	180Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black
+*Weight 	230g (8.09oz)
+*Length 	304mm (11.96")
+*Min Diameter/Width 	24mm (0.94")
+*Max Diameter/Width 	24mm (0.94")	
+
+'''Accessories'''
+*Included 	Windscreen
+|}
+
+The '''Sony ECM-672''' is a condenser (electret) microphone with a shotgun (short rifle) polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sony|ECM-672]]
