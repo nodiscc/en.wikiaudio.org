@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern supercardioid
+*Frequency Response	50Hz - 16kHz
+*Output Sensitivity 	4.5mV/Pa
+*Max SPL  	137dB for 1%THD	
+*Self Noise (DIN/IEC) 	25dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black
+*Weight 	182g (6.40oz)
+*Length 	165mm (6.49") 	
+*Max Diameter/Width 	29mm (1.14") 	
+
+'''Accessories'''
+*Included 	Stand adapter
+|}
+
+The '''Superlux PRA-268A''' is a condenser (electret) microphone with a supercardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Superlux|PRA-268A]]
