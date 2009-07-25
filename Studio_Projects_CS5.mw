@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: omni, wide cardioid, subcardioid, cardioid, hypercardioid, and figure-of-8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	14mV/Pa
+*Max SPL  	136dB for 1%THD
+*Self Noise (DIN/IEC) 	13dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	4mA	
+
+'''Switchable Options'''
+*Pad 	5, 10, 15, 20dB
+*Filter/EQ 	50, 75, 150, 300Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Length 	215mm (8.46") 	
+*Max Diameter/Width 	52mm (2.04")	
+
+'''Accessories'''
+*Included 	Shockmount, foam w/s
+|}
+
+The '''Studio Projects CS5''' is a condenser microphone with multiple polar patterns 
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Studio Projects|CS5]]
