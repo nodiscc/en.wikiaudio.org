@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern omni
+*Frequency Response	5Hz - 20kHz
+*Output Sensitivity 	12mV/Pa
+*Max SPL  	142dB for 1%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	80Ω 	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2.5mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Available Colours 	Chrome/rhodium plate
+*Weight 	135g (4.75oz)
+*Length 	188mm (7.40") 	
+*Max Diameter/Width 	20.5mm (0.80")
+|}
+
+The '''Taylor Hohendahl Engineering TT-3M''' is a condenser (electret) microphone with an omni polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Taylor Hohendahl Engineering|TT-3M]]
