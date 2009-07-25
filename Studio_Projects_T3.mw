@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: omni, subcardioid, wide cardioid, cardioid, supercardioid, hypercardioid, and figure-of-8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	14mV/Pa
+*Max SPL  	132dB for 1%THD
+*Self Noise (CCIR) 	28dB
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	(7-pin on microphone)	
+*Weight 	764g (26.90oz)
+*Length 	226mm (8.89") 	
+*Max Diameter/Width 	53.3mm (2.09") 	
+
+'''Accessories'''
+*Included 	Foam windscreen, elastic suspension, power supply and cable
+|}
+
+The '''Studio Projects T3''' is a condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Studio Projects|T3]]
