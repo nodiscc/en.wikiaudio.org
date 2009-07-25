@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar patterns: omni and cardioid
+*Frequency Response	40Hz - 20kHz
+*Output Sensitivity 	12mV/Pa
+*Max SPL  	140dB for	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1.2kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA 	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	250Hz 6db/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	92g (3.23oz)
+*Length 	124.5mm (4.90")	
+*Max Diameter/Width 	20mm (0.78")
+|}
+
+The '''Studio Projects C4''' is a condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Studio Projects|C4]]
