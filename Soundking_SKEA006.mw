@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Tube condenser
+*Polar patterns: omni, subcardioid, wide cardioid, cardioid, supercardioid, hypercardioid, and figure-of-8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	22.4mV/Pa
+*Max SPL  	131dB for 1%THD 	
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit	
+
+'''Switchable Options'''
+*Pad 	10dB
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	XLR-7 on microphone	
+*Weight 	560g (19.71oz)
+*Length 	186mm (7.32") 	
+*Max Diameter/Width 	53mm (2.08")	
+
+'''Accessories'''
+*Included 	Foam windscreen, EE203 suspension, PSU
+|}
+
+The '''Soundking SKEA006''' is a tube condenser microphone with multiple polar patterns
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Soundking|SKEA006]]
