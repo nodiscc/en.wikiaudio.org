@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern cardioid
+*Frequency Response	40Hz - 18kHz
+*Output Sensitivity 	22.4mV/Pa
+*Max SPL  	136dB for 1%THD 	
+*Output Impedance 	200Ω 	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	3mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Weight 	245g (8.62oz)
+*Length 	170mm (6.69") 	
+*Max Diameter/Width 	54mm (2.12") 	
+
+'''Accessories'''
+*Included 	Swivel adapter
+|}
+
+The '''Superlux ECO-H6A''' is a condenser (electret) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Superlux|ECO-H6A]]
