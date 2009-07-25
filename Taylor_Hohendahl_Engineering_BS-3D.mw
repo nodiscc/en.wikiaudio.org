@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type unknown (binaural)
+*Polar pattern binaural
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	10mV/Pa
+*Max SPL  	136dB for 0.5%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	90Ω	
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2.5mA
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M 	
+*Available Colours 	Natural hardwood
+*Weight 	1400g (49.29oz) 	
+*Max Diameter/Width 	160mm (6.29") 	
+
+'''Accessories'''
+*Included 	XLR-5 to 2x XLR-3 adapter
+|}
+
+The '''Taylor Hohendahl Engineering BS-3D''' is a microphone with a binaural polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Taylor Hohendahl Engineering|BS-3D]]
