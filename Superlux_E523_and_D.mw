@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser (electret)
+*Polar pattern cardioid
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	4.4mV/Pa
+*Max SPL  	126dB for 1%THD 	
+*Self Noise (DIN/IEC) 	24dB-A 	
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+*Alternative Powering 	1.5V AA battery
+
+'''Switchable Options'''	
+*Filter/EQ 	150Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Weight 	340g (11.97oz)
+*Length 	218mm (8.58")
+*Min Diameter/Width 	20mm (0.78")
+*Max Diameter/Width 	64mm (2.51") 	
+
+'''Accessories'''
+*Included 	XLR5-F to 2x XLR3-M cable
+|}
+
+The '''Superlux E523/D''' is a condenser (electret) microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Superlux|E523 and D]]
