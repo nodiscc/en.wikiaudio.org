@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	50Hz - 20kHz
+*Output Sensitivity 	14mV/Pa
+*Max SPL  	134dB for 0.5%THD
+*Self Noise (CCIR) 	24dB
+*Self Noise (DIN/IEC) 	12dB-A
+*Output Impedance 	80Ω
+*Recommended Load 	10kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2.5mA 	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Silver 	
+*Length 	120mm (4.72")
+*Min Diameter/Width 	20.5mm (0.80")
+*Max Diameter/Width 	21.5mm (0.84")
+|}
+The '''Taylor Hohendahl Engineering KR-2C''' is a condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Taylor Hohendahl Engineering|KR-2C]]
