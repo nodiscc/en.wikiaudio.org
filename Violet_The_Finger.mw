@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser 
+*Polar pattern cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	11mV/Pa
+*Max SPL  	140dB for 0.5%THD
+*Self Noise (CCIR) 	23dB
+*Self Noise (DIN/IEC) 	12dB-A
+*Output Impedance 	50Ω
+*Recommended Load 	0.5kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	200g (7.04oz)
+*Length 	207mm (8.14")	
+*Max Diameter/Width 	24mm (0.94")	
+
+'''Accessories''' 	
+*Optional 	P-SS shockmount, F-WS windscreen, F-RR reflection ring
+|}
+
+The '''Violet The Finger''' is a condenser microphone with a cardioid polar pattern
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Violet|The Finger]]
