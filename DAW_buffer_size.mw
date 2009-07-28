@@ -1,0 +1,13 @@
+A [[DAW]]'s  '''buffer size''' controls the size of the hardware cache used to handle host based tasks.
+
+
+
+'''What this means in practical terms:'''
+
+*Lower buffer sizes reduce monitor [[latency]] when recording and monitoring live input.
+*Higher buffer settings allow for more real-time audio processing such as plug in effects.
+
+
+
+
+{{stub}}
