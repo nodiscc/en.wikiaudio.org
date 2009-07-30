@@ -1,0 +1,3 @@
+In acoustics and telecommunication, the '''harmonic''' of a wave is a component [[frequency]] of the signal that is an integer multiple of the fundamental frequency. For example, if the frequency is f, the harmonics have frequency 2f, 3f, 4f, etc, as well as f itself. The harmonics have the property that they are all periodic at the signal frequency. Also, due to the properties of Fourier series, the sum of the signal and its harmonics is also periodic at that frequency.
+
+{{stub}}
