@@ -1,0 +1,29 @@
+[[Image:Waveforms.png|thumb|400px|[[sine wave|Sine]], square, triangle, and sawtooth waveforms]]
+
+'''Waveform''' means the shape and form of a [[signal (information theory)|signal]] such as a wave moving in a solid, liquid or gaseous medium.
+
+In many cases the medium in which the wave is being propagated does not permit a direct visual image of the form. In these cases, the term 'waveform' refers to the shape of a graph of the varying quantity against time or distance. An instrument called an [[oscilloscope]] can be used to pictorially represent the wave as a repeating image on a cathode ray tube or Liquid crystal display screen.
+
+By extension of the above, the term 'waveform' is now also sometimes used to describe the shape of the graph of any varying quantity against time.
+
+== Examples of waveforms ==
+Common [[Periodic function|periodic]] waveforms include (''t'' is time):
+
+*[[Sine wave]]: sin (2 π ''t''). The amplitude of the waveform follows a [[trigonometry|trigonometric]] sine function with respect to time.
+*[[Square wave]]: saw(''t'') − saw (''t'' − duty). This waveform is commonly used to represent digital information. It is square wave of constant [[frequency|period]] contains odd [[harmonic|harmonics]] that fall off at −6 dB/octave.
+*[[Triangle wave]]: (''t'' − 2 floor ((''t'' + 1) /2)) (−1)<sup>floor ((''t'' + 1) /2)</sup>. This is the [[integral]] of the square wave. It contains odd [[harmonic|harmonics]] that fall off at −12 dB/octave.
+*[[Sawtooth wave]]: 2 (''t'' − floor(''t'')) − 1. This looks like the teeth of a saw. Found often in [[time base]]s for display scanning. It is used as the starting point for [[subtractive synthesis]], as a sawtooth wave of constant [[frequency|period]] contains odd and even [[harmonic|harmonics]] that fall off at −6 [[decibel|dB]]/octave.
+
+Other waveforms are often called composite waveforms and can often be described as a combination of a number of sinusoidal waves or other [[basis functions]] added together.
+
+The [[Fourier series]] describes the decomposition of periodic waveforms, such that any periodic waveform can be formed by the sum of a fundamental component and harmonic components.  Finite-energy non-periodic waveforms can be analyzed into sinusoids by the [[Fourier transform]].
+
+
+
+==External links==
+* [http://www.floom.com/images/waveform_gallery.htm Waveform gallery] of vocal sounds, including a stereo track
+
+[[category:synthesis]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html| GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Waveform</small>
