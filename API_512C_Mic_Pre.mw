@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Rear Connector: 	Output on edge connector, MIC Input on edge connector, can be defeated
+*Front Connectors: 	XLR MIC Input, HI-Z 1/4" Unbal Input
+*Gain Range: 	MIC, 10 dB min, 65 dB max. Unbal HI-Z Input, 14 dB min, 50 dB max
+*Maximum Input Levels: 	MIC, +8 dBu, Unbal HI-Z Input, +36 dBu
+*Input Impedance: 	MIC Input, 1500 Ohms (150 Ohm mic), HI-Z Unbal Input, 20 K Ohms
+*Output Impedance: 	Less than 75 Ohms, Transformer Balanced
+*Clipping Level: 	+30 dBu
+*Frequency Response: 	+0, -.3, 30 to 20 kHz
+*Noise: 	Equivalent Input Noise: -129, Mic In. -125, Un-Balanced In.
+*Actual Metered Noise: Mic, -95 dBu, Un-Bal., -90 dBu
+*Distortion: 	Less than .05% @ +4 Out, Less than .1% @ +28 Out
+*Size: 	1.50" X 5.25" X 6" Deep
+*Shipping Weight/Actual Weight: 	2 lbs./1 lb. 7 oz.
+*Power Consumption: 	±12/18 Volts/DC, @40 ma.
+|}
+
+The''' API 512c''' is a small preamplifier for microphone and line (HI-Z 1/4" unbalance) signals. 
+
+
+{{stub}}
+
+
+[[category:amplifiers]]
+[[category:Preamplifiers]]
+[[category:API|512C Mic Pre]]
