@@ -1,0 +1,82 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''AUDIO'''  	   
+	 
+*Frequency Response 	+0, -0.5dB 30Hz - 30 kHz
+*EIN 	-129dBu (input shorted)
+*Crosstalk (10 Hz - 22kHz) 	-79 dB or better
+*THD (10 Hz-22kHz at -11dBfs) 	< 0.18%
+*Tube Type 	12AT7 / ECC81 Dual Triode
+
+'''MIC INPUT''' 
+	
+*Connector 	XLR-3F 	same
+*Type 	Transformerless, NPN active balanced 	
+*Balanced 	2k ohms nominal 	
+*Maximum Level at +4 dBu is 0 dBu 	
+*Maximum Level at  -10dBv (-7.8dBu) is +12.5 dBV (+14.8 dBu) 
+*CMRR 	Greater than 70dB @ 60 Hz 	
+*Nominal Preamp Gain 	
+** At +4 dBu it is  20 to 65dB minus OUTPUT TRIM loss
+** At -10dBv (-7.8dBu) it is 8 to 53 dB minus OUTPUT TRIM loss
+
+'''INSTRUMENT INPUT''' 	
+  	 
+*Connector 	1/4" Phone Jacks 	
+*Type 	Unbalanced JFET amp 	
+*Input Z 	1M ohm nominal 	
+*Maximum Level 	10V RMS 	
+*Nominal Preamp Gain 	
+** At +4 dBu is infinity to 65dB minus OUTPUT TRIM loss
+** At -10dBv (-7.8dBu) is infinity to 38dB minus OUTPUT TRIM loss
+
+
+'''OUTPUT''' 	 
+  	
+*Connector 	XLR-3M and 1/4" TRS Phone Jacks 	 
+*Type 	Impedance balanced (may be used unbalanced)
+*Output Z Balanced 	XLR: 66 ohms - TRS: 1200 ohms 	 
+*Output Z Unbalanced 	XLR: 33 ohms - TRS: 600 ohms 	 
+*Nominal Level 	+4 dBu 	-10dBv (316 mVRMS)
+*Maximum Level 	+21dBu Unloaded 	+6.75 dBV Unloaded
+*Output Trim 	0 to -12 dB 	same
+
+'''INSERT''' 
+	  	 
+*Connector 	1/4" TRS Phone Jack 	 
+*Send 	Tip 	 
+*Return 	Ring 	 
+*Nominal Operating Level 	-10dBv (316 mVRMS) 	 
+*Point of Insertion 	Between front-end and Tube Output Stage
+
+'''OTHER SPECIFICATIONS'''
+
+*Power requirements 	90-250 VAC 50-60 Hz 12W 	 
+*Dimensions 	19"W x 1.75"H x 8.25" D   1 Rack U  (482.6mm x 44.5mm x 209.6mm)
+*Depth behind front panel 	7.5" (190.5 mm)
+*Net Weight 	6 lbs (2.73 kg) 	 
+*Shipping Weight 	9 lbs (4.1 kg)
+|}
+
+The '''Aphex Model 207D''' is a tube microphone and instrument preamplifier 
+
+
+
+
+
+{{stub}}
+
+
+
+[[category:A-Designs|207D]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
