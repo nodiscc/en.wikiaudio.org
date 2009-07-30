@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Input Impedance: 1500Ω (mic), 470KΩ (Hi-Z)
+* Output Impedance: Less than 75Ω Channel Outputs
+* Nominal Levels: XLR Channel Output +4dBu
+* Stereo Output Level: Nominal -2 (unbalanced), +4 (balanced)
+* Clipping Level: XLR Channel Output better than +28dBm
+* Frequency Response: +0, -5, 10Hz - 20kHz (-0.5 at 10Hz)
+* Noise EIN: -129 (mic), -125 (unbalanced) Actual
+* Measured Noise: Better than -91dBm/below Nominal +4
+* Distortion: All outputs at +4 out, 0.03%, at +22, 0.09% Max
+* Gain Range: 150Ω input 10dB - 65dB (including Pad), unbalanced input 14dB - 50dB
+* VU Meter: Calibrated for XLR Outputs, OVU=+4 dBu (-12, -6, -3, 0, +3, +6, +18)
+* Controls: Gain, Pad (20dB), 48V, Polarity Switch, Mic/Line, VU meter 
+|}
+
+The '''API 3124+''' is a 4 channel mic preamp in a rack mountable frame.
+
+
+
+
+{{stub}}
+
+
+
+[[category:microphones]]
+
+[[category:API|3124+]]
