@@ -1,0 +1,104 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Mic Input'''
+*Connector  	XLR-3F
+*Type 	Transformerless, NPN active balanced, tube second stage
+*Input Z 	2k ohms nominal
+*Maximum Input Level (MIL) 	+25dBu
+*CMRR 	>70 dB @ 60 Hz
+*Nominal Preamp Gain 	20 to 65 dB
+*Phantom Power 	+48VDC
+*Pad 	20dB
+*EIN 	-127dBu (Input Shorted)
+*Tube Type 	12AT7/ECC81 Dual Triode
+
+'''OUTPUT''' 
+*Connector 	XLR-3M and 1/4" TRS Phone Jacks
+*Type 	XLR is Impedance Balanced (may be used unbalanced); TRS is unbalanced
+*Out Z Balanced 	XLR 66 ohms
+*Out Z Unbalanced 	XLR 33 ohms; TRS 600 ohms
+*Nominal Level 	XLR +4dBu; TRS -10dBV
+*Maximum Output Level 	+25dBu Unloaded; TRS +11dBV
+
+'''COMPRESSOR'''
+*Attack / Release 	Program dependent, user variable release baseline
+*Ratio 	4:1
+*Threshold 	Fixed
+*Knee 	Medium Hard
+
+'''GATE'''
+*Attack 	0.1 millisecond
+*Hold / Release 	300 milliseconds / 400 milliseconds
+*Threshold 	Variable -50 to +20dB
+*Depth 	Variable, 1 to 58dB
+
+'''DE-ESSER'''
+*Attack 	0.1 millisecond
+*Release 	100 milliseconds
+*Threshold 	Variable -20 to +20dB
+*Ratio 	5:1
+*Active Band 	4 kHz to 20kHz Linkwitz-Riley 24 db/octave crossover
+
+'''INSERT'''
+*Connector type - Send 	1/4” TRS Phone Jack, Balanced
+*Connector type - Return 	1/4” TRS Phone Jack, Balanced
+*Nominal Operating Level 	0 dBu
+*Point of Insertion 	Between dynamics processing and equalizers
+
+'''BIG BOTTOM'''
+*Frequency 	50 Hz to 280 Hz
+*Tune 	Off to +12dB
+*PARAMETRIC EQ
+*Frequency Tune 	240 Hz to 8 kHz
+*Peak / Dip 	±12dB
+*Q Range 	0.5 to 5
+
+'''AURAL EXCITER'''
+*Frequency Tune 	500 Hz to 5kHz
+*Mix 	Off to +12dB
+
+'''ANALOG AUDIO'''
+*THD 	<.01% @ +4dBu Out
+*IMD 	<.01% @ +4dBu Out
+*Freq Response (Flat) 	18 Hz to 24kHz ±1dB
+
+'''DIGITAL AUDIO'''
+*Internal Sample Rates 	44.1KHz, 48KHz, 88.2KHz, 96KHz
+*External Sample Rates 	Automatically syncs to any word clock between 32KHz and 96KHz
+*Resolution 	24 bits
+*Word Clock Input 	BNC Jack, High Z, Captures <1Vp-p to 5Vp-p
+*Word Clock Output 	BNC Jack, 75 Ohms, 5Vp-p
+*Dynamic Range 	Digital dynamic range greater than analog front end
+*Noise Dither 	Dithered by analog preamp noise floor. Equivalent to 16-bit digital audio dither.
+*Level Equivalency 	-20dBFS Digital = +4dBu Analog
+
+'''OTHER SPECIFICATIONS'''
+
+*Power requirements 	90-250 VAC 50-60 Hz 12W
+*Dimensions 	19"W x 1.75"H x 8.25" D   1 Rack U  (482.6mm x 44.5mm x 209.6mm)
+*Depth Behind Front Panel 	7.5" (190.5mm)
+*Net Weight 	6 lbs (2.73 kg)
+*Shipping Weight 	9 lbs (4.1 kg)
+
+
+|}
+
+The '''Model 230''' is a dual channel tube microphone preamplifier 
+
+
+{{stub}}
+
+
+
+[[category:A-Designs|Model 230 Master Voice Channel]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
