@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Description'''
+
+Multi-channel summing mixer with stereo master compressor intended for use in D/A and A/D applications
+* 8 balanced stereo inputs
+* Mono fuction for channels 1/2 and 3/4
+* Balanced stereo analog outputs
+* Frequency Response: 22Hz-22kHz +/- 0.1dB (-3dB @ 135kHz)
+* Noise: < -92dBu
+* Maximum Input Level: > +28dBu
+* Dynamic Range: 120dB
+* Headroom (overload margin): > 24dB ref +4dBu, 27dB ref +4dBu in mix amp
+* Distortion: < 0.003% @ 1kHz, +28dBu
+* Crosstalk: < -80dB @ 1kHz
+* Input Impedance: > 10k ohm differential
+* Output Impedance: < 75O electronically balanced
+* Dimensions: 480mm x 278mm x 44mm
+* Weight: 4.5kg
+* Power Consumption: 40 watts
+
+|}
+
+
+The '''Audient Sumo''' is a multi-channel summing mixer with a stereo master compressor intended for use in d/a and a/d applications
+
+
+{{stub}}
+
+
+[[category:Audient|Sumo]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
