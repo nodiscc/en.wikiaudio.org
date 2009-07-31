@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type tube mic/line preamplifier and compressor 
+*Attack Time	6.5ms
+*CMRR	90dB (typical)
+*Compression Ratio	2.3:1 (comp) 6:1 (lim)
+*Dimensions	5.25" D x 8.5" W x 1.65" H
+*Dynamic Range	>90dB (no weighting)
+*Equivalent Input Noise	-129dBu (XLR to XLR, ‘A’ weighted)
+*Frequency Response	20Hz to 20kHz
+*Input Impedance	1.67k ohms (XLR), 1M ohm (1/4")
+*Maximum Gain	67dB (1/4" to 1/4")
+*Maximum Gain XLR to XLR	70dB
+*Maximum Input Level	+15dBu (XLR), +21dBu (1/4")
+*Maximum Output Level	+27dBu (XLR), +22dBu (1/4")
+*Output Impedance	600 ohms (XLR), 300 ohms (1/4")
+*Phantom Power	+48v DC (switchable)
+*Power Requirements	100-125 VAC, 16W (Export units configured for country of destination)
+*Release Time	200ms (fast), 70ms-1sec (auto)
+*Total Harmonic Distortion	<0.1% (typical)
+*Tubes	Two Hand-Selected 12AX7a
+*Weight	6.0 lbs
+|}
+
+
+The '''ART Tube PAC''' is a tube microphone /instrument amplifier and compressor in one module 
+
+{{stub}}
+
+[[category:ART|Tube PAC]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
