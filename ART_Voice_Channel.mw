@@ -1,0 +1,59 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Description'''  
+
+Single channel strip incorporating a microphone preamplifier, equalizer and compressor/limiter 
+
+'''Preamp''' 
+* Microphone Gain: 0 dB to +60 dB
+* Instrument Gain: +3 dB to +40 dB
+
+'''EQ''' 
+*Boost/Cut: +12 dB on each band
+* Low Freq. Tuning: 50/150 Hz Selectable
+* MID 1 Freq. Tuning: 100 Hz to 3 KHz continuously variable
+* MID 2 Freq. Tuning: 500 Hz to 15 KHz continuously variable
+* High Freq. Tuning: 5K/15 KHz Selectable
+
+'''Compressor/Limiter''' 
+*Attack Time: 250 uSec. to 100 mSec.
+* Release Time: 100 mSec to 3 Sec.
+* De-esser Tuning: .5 KHz to 15 KHz continuously variable
+* Compression Ratio: 1:1 to 20:1
+* Expander Slope: 1:1.5
+
+'''Frequency Response''' 
+*Analog In to Analog Out: 12 Hz to 100 KHz +0, -1 dB
+* Analog In to Digital Out: 12 Hz to 20 KHz +0, -1 dB @ 44.1 KHz sample rate 16 Hz to 42 KHz +0, -1 dB @ 96 KHz
+* THD: 1 KHz < .015% typical 20 to 20 KHz < .033% typical
+
+'''Equivalent Input Noise''' 
+* Mic/Line: -130 dBu, Input shorted, Max gain, “A” weighted
+* Instrument: -105 dBu, Input shorted, Max gain, “A” weighted
+
+'''Digital section''' 
+* Wordclock Range: 30 KHz to 204 KHz
+* Sample Rates: 44.1 KHz, 48 KHz, 88.2 KHz, 96 KHz, 176 KHz, 192 KHz
+* USB Minimum System Requirements: USB 1.1 compliant, Windows 98SE or newer, Mac OS 9.1 or newer
+
+
+|}
+
+
+The '''ART Voice Channel''' is a single microphone preamplifier incorporating an equalizer and compressor/limiter  
+
+{{stub}}
+
+
+[[category:ART|Voice Channel]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
