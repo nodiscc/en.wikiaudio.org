@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Single Channel tube microphone preamplifier 
+* Attack Time: Fast: 2ms (optical), 0.5ms (tube); Slow: 15ms (for 20dB of comp)
+* Boost and Cut/Frequency Band: ±12dB (wide), ±20dB (narrow)
+* Compression Ratio: Variable: 2:1 to >10:1
+* Dimensions: 6.5"D x 19"W x 3.50"H
+* Dynamic Range: >100dB (20-20KHz)
+* EQ Frequency Bands: 
+**Low Shelf: 40Hz/120Hz (selectable) 
+**Low-Mid: 20Hz to 200Hz/200Hz to 2KHz (sweepable) 
+**Low-Mid Q: Wide/Narrow (selectable) 
+**High-Mid: 200Hz to 2KHz/2KHz to 20KHz (sweepable) 
+**High-Mid Q: Wide/Narrow (selectable) 
+**High Shelf: 6KHz/18KHz (selectable)
+* Equivalent Input Noise: -130dBu (XLR to XLR, A weighted)
+* Frequency Response: 10Hz to 20KHz (± .5dB)
+* Input Impedance: 1.67k ohms (XLR), 1M ohm (1/4")
+* Input/Output Connections: XLR (balanced) & 1/4" (unbalanced)
+* Insert Connections: 1/4" (unbalanced)
+* Low-Cut Filter: -3dB@10Hz to 250Hz (Variable)
+* Maximum Compression: 30 dB (optical), 23dB (tube)
+* Maximum Gain: 65dB (1/4" to 1/4")
+* Maximum Gain XLR to XLR: 83dB (XLR to XLR)
+* Maximum Input Level: +15dBu (XLR), +21dBu (1/4")
+* Maximum Output Level: +27dBu (XLR), +22dBu (1/4")
+* Output Impedance: 600 ohms (XLR), 300 ohms (1/4")
+* Phantom Power: +48v DC (switchable)
+* Power Requirements: 100-125 VAC, 30W (Export units configured for country of destination)
+* Release Time: Fast: 300ms, Auto: 100ms-3sec
+* Total Harmonic Distortion: <0.1% (typical)
+* Tubes: Three Hand-Selected
+* Weight: 12.0 lbs
+
+|}
+
+The '''ART Pro Channel''' is a single channel tube preamplifier 
+
+{{stub}}
+
+
+[[category:ART|Pro Channel]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
