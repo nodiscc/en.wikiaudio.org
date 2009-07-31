@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type single channel tube microphone preamplifier 
+*Dimensions	5.0in D x 5.5in W x 2.0in H
+*Dynamic Range	>100dB (20Hz to 20kHz)
+*Equivalent Input Noise	-129dBu ('A' weighted XLR to XLR)
+*Frequency Response	10Hz to 20kHz (+0,-1dB)
+*Input Impedance	2k ohms (XLR), 840K ohms (1/4 in.)
+*Maximum Gain	70dB (XLR to XLR typical)
+*Maximum Input Level	+14dBu (XLR), +22dBu (1/4 in.)
+*Maximum Output Level	+28dBu (XLR), +22dBu (1/4 in.)
+*Output Impedance	600 ohms (XLR), 300 ohms (1/4 in.)
+*Phantom Power	+48 Volts
+*Power Requirements	9 VAC @ 700ma (typ)
+*Total Harmonic Distortion	<0.1% (typical) >CMMR: >75dB (typ @1kHz)
+*Tube Type	Hand Selected 12AX7A, provides over 70dB of Gain
+*Weight	1.5 lbs.
+|}
+
+
+The '''ART Tube MP Studio V3''' is a single channel tube microphone preamplifier  
+
+
+{{stub}}
+
+
+[[category:ART|Tube MP Studio V3]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
