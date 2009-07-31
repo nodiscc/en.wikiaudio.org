@@ -1,0 +1,59 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Discription'''
+*8 channel solid state microphone preamplifier with AES/EBU, S/PDIF, and ADAT
+'''Controls'''
+* 48V: Phantom Power On/Off with 'soft start' feature to avoid thumps
+* INST/DI: Ch 1&2 only. Selects instrument jack with input impedance > 1M ohm
+* -20dB: 20dB Pad (CH1 &2 ONLY)
+* LINE: Selects Line level input with input impedance of 10k ohm
+* Polarity: Polarity invert
+* Filter: Selects 12dB/octave Hi-Pass filter - range 25Hz to 250Hz
+* PK: Indicates signal levels within 4dB of clipping
+* SIG: Indicates signal levels above -25dBu
+* I/P Z: Input impedance select; 200/1200/5000 ohms
+* GAIN: MIC/DI 0 to 60dB. LINE -20 to 40dB
+* Sample Rate: Selectable 44.1/48/88.2/96 kHz
+* Dither: Selectable 16/20/24-bit
+
+'''Interfaces'''
+* MIC Input: Electronically balanced XLR with variable input impedance
+* LINE Input: Electronically balanced 25 pin D wired to DA88 
+* INST/DI Input: Unbalanced front panel mounted 
+* LINE Output: Electronically balanced 25 pin D wired to 
+* Digital output: 48/96kHz AES, S/PDIF and 48kHz ADAT light-pipe.
+* Ext Word Clock: BNC
+
+'''Specs'''
+* Maximum input/output level: +21.5dBu
+* THD: Typically better than 0.007% at 1kHz any gain setting
+* EIN: Better than -127.5dB @ 60dB gain/ref 150 ohms
+* Frequency Response: -0.3dB @10Hz to -3dB @300kHz at unity gain
+* CMRR: Better than 75dB at 1kHz and 60dB gain
+* Dimensions (W x H x D): 18.9" x 1.73" x 10.94", (480mm x 44mm x 278mm)
+* Weight: 4.5Kg
+* Power consumption: 40 watts
+
+
+
+|}
+
+
+The '''Audient ASP008-AES 8''' is an 8 channel solid state microphone preamplifier with AES/EBU, S/PDIF, and ADAT
+
+
+{{stub}}
+
+
+[[category:Audient|ASP008-AES]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
