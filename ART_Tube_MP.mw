@@ -1,0 +1,48 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Type tube microphone preamplifier 
+* Input Connections: XLR (balanced), ¼"TS (unbal)
+* Output Connections: XLR (balanced), ¼"TS (unbal)
+* Input Impedance XLR: ¼" 2K ohms, 840k ohms
+* Output Impedance XLR: ¼" 600 ohms, 300ohms
+* Maximum Input Level: XLR +14dBu
+* Maximum Input Level, ¼" +22dBu
+* Maximum Output Level: XLR +28dBu
+* Maximum Output Level: " +22dBu
+* CMRR >75dB (typical @ 1kHz)
+* Frequency Response: 10Hz to 30kHz, ±5dB
+* Dynamic Range: >100dB (20-20kHz) typical
+* Total Harmonic Distortion (THD): <0.1% (typical)
+* Maximum Gain:
+* XLR to XLR 60dB (typical)
+* ¼" to ¼" 44dB (typical)
+* XLR to ¼" 54dB (typical)
+* ¼" to XLR 50dB (typical)
+* Equivalent Input Noise (EIN):
+* XLR to XLR -129dBu (A weighted)
+* ¼" to ¼" -105dBu (A weighted)
+* Dimensions 5.0"H x 5.5" W x 2.0"H
+* Weight 1.5 lbs.
+
+|}
+
+
+The '''ART Tube MP''' is a tube microphone preamplifier 
+
+
+{{stub}}
+
+
+
+[[category:ART|Tube MP]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
