@@ -1,0 +1,48 @@
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Type Two channel tube microphone preamplifier 
+* Frequency Response 15Hz to 48 kHz (+0, -1dB) @ normal plate voltage
+* 15Hz to 120 kHz (+0, -1dB) @ high plate voltage
+* Dynamic range: >110dB ("A" weighted)
+* CMRR: >90dB
+* THD: <0.005% (typical)
+* Equivalent Input Noise: -129dBu (XLR, "A" weighted)
+* Maximum Input Level: +19dBu (cannon)
+* Maximum Instrument Input: +17dBu
+* Input Impedance: 150-3000 Ohms adjustable (XLR)
+* >800K Ohms (Instrument)
+* Maximum Output Level: +27dBu (XLR)
+* Output Impedance: < 47 Ohms (XLR)
+* Maximum Gain: 75dB
+* Meter Calibration: 0 VU = +4dBu output (+4dB mode)
+* 0 VU = -10dBV output (-10dB mode)
+* High Pass Filter: single pole, 10-200 Hz adjustable
+* Power Requirements: USA - 105 to 125 VAC / 60 Hz Export units configured for country of destination
+* Dimensions: (H x W x D in) 3.50 x 19.0 x 8.75
+* Dimensions: (H x W x D mm) 88 x 482 x 222
+* Weight: (lb/kg) 10.5 / 4.7
+
+
+|}
+
+
+The '''ProMPA II''' is a 2 channel tube microphone preamplifier 
+
+
+
+{{stub}}
+
+
+[[category:A-Designs|ProMPA II]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
