@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type single channel solid state DI preamplifier
+*Circuit Topology: 	100% discrete, high-voltage Class A
+*Gain: 	Switched 3dB steps, maximum gain +30dB
+*Input Impedance: 	3 ,000,000 ohm unbalanced (single ended)
+*Maximum Input Level 	+24dBu unbalanced, 400w speaker input
+*Output Connectors (2): 	XLR type, pin 2 hot electronic balanced
+*Maximum Output Level (Class A): 	+30dBu DC coupled, balanced 600 ohms (mic and line out)
+*Headphone Output: 	0.5w into 600 ohms
+*Noise 20kHz Unweighted: 	-100dBu minimum gain position
+*Distortion THD, IMD: 	0.1% at +10dB
+*Frequency Response, -/+0.5dB: 	5Hz to 100kHz
+*Frequency Response, -3dB: 	1Hz to 500kHz (input band limited)
+*High Cut Filter: 	-3dB at 8kHz minimum phase design
+*Tone Selector: 	Six position rotary switch, all passive filters
+*AC Power: 	Internal toroidal AC supply
+*Dimensions: 	8.5 x 3.5 x 12 in (216 x 88 x 305mm)
+*Weight-Packed: 	12lbs (5.4kg)
+*Rack mount kit (1) RM-1: 	Single U5 19 inch rack mount kit (holds one half rack unit)
+*Rack mount kit (2) RM-2: 	Dual U5 19 inch rack mount kit (holds two half rack units)
+|}
+
+The '''Avalon U5''' is a single channel DI instrument preamplifier 
+
+
+{{stub}}
+
+[[category:Avalon|U5]]
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
