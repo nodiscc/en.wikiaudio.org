@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Input Impedance
+**Mic:Selectable 300Ω/600Ω/1200Ω 
+**Balanced Line:20kΩ 
+**Instrument:22MΩ(no attenuator), 
+**500kΩ(with 20dB attenuator) 
+
+*Maximum Input Level 
+**Mic (1200Ω,-30dB pad in):+18dBu
+**Mic (1200Ω,pad out):+3dBu 
+**Balanced Line:+28dBu 
+**Instrument:+4dBu (no attenuator),+24dBu (with 20dB attenuator) 
+
+*Gain Range 
+**Mic:18dB - 72dB 
+**Balanced Line:-40dB - +32dB 
+**Instrument:36dB (no attenuator) 
+
+*Frequency Response (XLR) 10Hz - 50kHz,+0/-1dB 
+*Equivalent Input Noise -126dB A-weighted 
+*Maximum Output Level (XLR) +27dBu (@1% THD+N)
+*Output Source Impedance (XLR) 600Ωmin,>2.5kΩrecommended 
+*Output Source Impedance (TRS) 150Ωmin,>1.2kΩrecommended
+*Dimensions 19”W x 17”D x 5.25”H (3U rack) (48cm W x 43cm D x 13cm H) 
+*Weight  29 lbs.(13.2kg) 
+
+|}
+
+
+The '''SuPRE''' is a dual microphone and instrument preamplifier 
+
+
+{{stub}}
+
+
+[[category:Groove Tubes|SuPRE]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
