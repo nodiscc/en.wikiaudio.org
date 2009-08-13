@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Mic Input: 150 ohms
+*Input Load Impedance: 1.5k ohms
+*Minimum Input Level: -65 dBm nominal
+*Maximum Input Level @ 20 cps: -30 dBm without pad, -5 dBm with 20 dB pad
+*Instrument Input impedance: 1 Megohm
+*Line Input Load Impedance: 40k ohms
+*Maximum Line Input Level @ 20 cps: +25dBm (+35dBm with pad)
+*Gain: <60 dB optimum (capable of 75dB)
+*Frequency Response:± 0.25 dB 20 cps to 20 kc, ± 0.5 dB 11 cps to 28 kc, -3 dB @ 0.5 cps & 50 kc
+*THD + Noise: <0.25% 20 cps to 20 kc
+*Intermodulation Distortion SMPTE: <0.80%
+*Signal to Noise Ratio: 72 dB typical operation
+*Equivalent Input Noise: -124 dbm typical operation
+*Output: low-Z, transformer balanced
+*Maximum Output Level: +22 dBm unterminated
+*Compression Range: up to 30dB
+*Compression method: Pulse-width modulator
+*Equalizer:
+*Low-frequency Boost 100 cps, shelving
+*Low-frequency Cut 80 cps, shelving
+*High-frequency Boost 9.8 kc, peaking
+*High-frequency Q 0.6 to 1.7
+*High-frequency Cut
+*12 kc, shelving
+*Power Requirements: 100, 120, or 220 VAC 50/60Hz, 50 W
+*Dimensions: 19" (48.26cm) W x 5.25" (13.34cm) H x 9" (22.86cm) D
+*Weight 18 lbs (8.16kg)
+|}
+
+The '''D.W. Fearn VT-15''' is a single channel strip that includes a preamplifier, compressor and equalizer
+
+{{stub}}
+
+
+[[category:D.W. Fearn|VT-15]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
