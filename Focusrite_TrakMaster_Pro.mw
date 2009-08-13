@@ -1,0 +1,105 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+Mic Input Response
+*Gain = +13dB to +60dB
+*Input impedance = 2.5k Ohm (150 Ohm in Lo Z mode)
+*EIN = 126dB @ 60dB gain with 150 Ohm termination & 22Hz/22kHz filter
+*THD+N @ min gain (+13dB) = 0.001% with 0dBu input & 22Hz/22kHz filter
+*THD+N @ max gain (+60dB) = 0.009% with -38dBu input & 22Hz/22kHz filter
+*THD+N @ max input (+8dBu) = 0.001% with 22Hz/22kHz filter
+*Frequency response @ min gain (+13dB) with -13dBu input = -3dB @ 10Hz & -2.3dB @ 200kHz
+*Frequency response @ max gain (+60dB) with -60dBu input = -3dB @ 13Hz & -3dB @ 78kHz
+*CMRR @ max gain (+60dB) = 80dB
+
+'''Line Input Response'''
+*Gain = -10dB to +36dB
+*Input impedance = 24k Ohm
+*Noise @ unity gain (0dB) = -88dBu with 22Hz/22kHz filter
+*S/N ratio relative to max headroom (+36dBu) = 124dB
+*S/N ratio relative to 0dBFSs (+22dBu) = 110dB
+*THD+N @ unity gain (0dB) = 0.001% with 0dBFS (+22dBu) input and 22Hz/22kHz filter
+*Frequency response @ unity gain (0dB) = -2.8dB @ 10Hz & -3dB @ 200kHz
+
+'''Instrument Input Response'''
+*Gain = +13dB to +60dB
+*Input impedance = 1M Ohm
+*Noise @ min gain (+13dB) = -87dBu with 22Hz/22kHz filter
+*Noise @ max gain (+60dB) = -45dBu with 22Hz/22kHz filter
+*THD+N @ min gain (+13dB) = 0.004% with 0dBu input & 22Hz/22kHz filter
+*Frequency response @ min gain (+13dB) with -13dBu input = -3dB @ 10Hz & -2.3dB @ 200kHz
+
+'''Level Meter'''
+*Peak Level Moving Coil Meter
+*Input & Output: -24dBFS to +2dBFS (-2dBu to +24dBu), +22dBu = 0dBFS
+*Gain Change: 0dB to 24dB
+
+'''Hi Pass Filter'''
+*Roll-off = 12dB/octave 2-pole filter
+*Cutoff frequency = -3dB @ 120Hz, -6dB @ 85Hz, -12dB @ 56Hz
+
+'''Mid Scoop EQ'''
+*EQ shape = peak
+*Centre frequency = variable between 120Hz and 2kHz
+*Cut (DEEP switch out) = -5dB
+*Cut (DEEP switch in) = -10dB
+*Q (DEEP switch out) = 0.7
+*Q (DEEP switch in) = 2
+
+'''Compressor'''
+*Threshold range (SQUASH switch out) = -54dBFS (-32dBu) to -18dBFS (+4dBu)
+*Threshold range (SQUASH switch in) = -37dBFS (-15dBu) to -4dBFS (+18dBu)
+*Compressor ratio (SQUASH switch out) = 2.5:1
+*Compressor ratio (SQUASH switch in) = 35:1
+*Noise = -90dBu measured with a 22Hz/22kHz bandpass filter
+*Make-up gain = 0 to +30dB
+
+'''ADC Performance'''
+*Sample Frequency = 44.1kHz, 48kHz, 88.2kHz & 96kHz
+*Bit Depth = 24bit
+*Maximum analogue input level = +22dBu (0dBfs)
+*Dynamic Range = 109dB 'A' Weighted
+
+'''Ext Wordclock Input'''
+*BNC connector
+
+'''ADC Ext In'''
+*Balanced 1/4" TRS jack socket input (+4dBu)
+
+'''Monitor In'''
+*2 x balanced 1/4" TRS jack socket inputs (+4dBu)
+
+'''Monitor Out'''
+*2 x balanced 1/4" TRS jack socket outputs (+4dBu)
+
+'''Line Out'''
+*Balanced 1/4" TRS jack socket output (+4dBu)
+*Unbalanced 1/4" TRS jack socket output (-10dBV)
+
+'''Weight'''
+*2.38kg
+*5.2Ibs
+
+'''Dimensions'''
+*484mm (W) x 44mm (H) x 183mm (D)
+*19" (W) x 1.7" (H) x 7.2" (D)
+|}
+
+
+
+The '''TrakMaster Pro''' is a single channel strip incorporating a compressor and a mid-scoop EQ.
+
+
+{{stub}}
+
+
+[[category:Focusrite|TrakMaster Pro]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
