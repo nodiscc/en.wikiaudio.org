@@ -1,0 +1,60 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Inputs
+* Transformer-based Rupert Neve ISA design
+* Gain range:
+* Line: +/-18dB
+* Mic: 0 to 60dB (6dB steps)
+* Inst: +10 to +40dB variable
+* Input impedance:
+* Line: 10kOhm
+* Mic: Variable - 600, 2.4k, and 6.8kOhm plus original ISA 110 settings
+* Inst: >1M ohm
+
+'''Analog performance'''
+* Noise:
+* Line: -96dB
+* Mic: -128dB (EIN with 150 ohm input resistance at 60dB of gain)
+* THD:
+* Line: 0.003% with 0dBu, 1kHz input and 20Hz-22kHz band-pass filter
+* Mic: 0.003%
+* Analog I/O connectors
+* DI inputs: 1/4" jack (unbalanced)
+* Mic inputs: XLR (balanced)
+* Line: 1/4" TRS jack (balanced)
+* Insert sends and returns: 1/4" TRS (balanced)
+* Additional ADC inputs: XLR (balanced) line level
+* Analog outputs: XLR (balanced)
+
+'''Digital output option'''
+* AES/EBU and S/PDIF dual 9-pin D-types
+* Optical ADAT lightpipe
+* Bit depths: 16-, 20-, or 24-bit
+* Sample rate options: 44.1, 48, 88.2, 96, 176.4 and 192kHz
+* Clock options: standard or 256X
+
+'''Meter: 0 dBFS = +22dBu'''
+
+'''Digital performance'''
+* SNR: 120dB A-weighted
+
+|}
+
+
+The '''Focusrite MH441 ISA428''' is a four channel microphone preamplifier 
+
+
+{{stub}}
+
+
+[[category:Focusrite|MH441 ISA428]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
