@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Input: 150 ohms
+*Input Load Impedance: 1.5k ohms
+*Minimum Input Level: -65 dBm nominal
+*Maximum Input Level @ 20 cps: -30 dBm without pad, -5 dBm with 20 dB pad
+*Gain: 53 dB
+*Frequency Response: ±0.25 dB 20 cps to 20 kc; -3 dB @ 0.5 cps and 55 kc
+*THD+Noise: less than 0.25% 20 cps to 20 kc
+*Intermodulation Distortion: SMPTE less than 0.02%
+*Signal to Noise Ratio: 74 dB minimum
+*Equivalent Input Noise: -124 dBm maximum
+*Output: low-Z, transformer-balanced
+*Maximum Output Level: +22 dBm, 20k ohm load
+*Power Requirements: 100, 120, or 220 VAC, 50/60 Hz
+*Dimensions: 19" (48.26cm) W, 5.25" (13.34cm) H, 14" (35.56cm) D
+*Weight: 18 lbs (8.16kg)
+|}
+
+
+
+The '''D.W. Fearn VT-1''' is a single channel vaccum tube microphone preamplifier 
+
+{{stub}}
+
+
+[[category:D.W. Fearn|VT-1]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
