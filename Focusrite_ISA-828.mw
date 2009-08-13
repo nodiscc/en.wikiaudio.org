@@ -1,0 +1,77 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Mic Input Response
+* Gain range = 0dB to 60dB in 10dB steps
+* Input Impedance, variable as follows:-
+
+'''Switched Impedance setting Equivalent Input Impedance at 1kHz'''
+* Low 600
+* ISA 110 1400
+* Med (Medium) 2400
+* High 6800
+
+'''EIN (equivalent input noise) = -126dB measured at 60dB of gain with 150 Ohm terminating impedance and'''
+* 22Hz/22kHz bandpass filter
+* Noise at main output with gain at unity (0dB) = -97dBu measured with a 22Hz/22kHz bandpass filter
+* Signal-to-noise ratio relative to max headroom (9dBu) = 106dB
+* THD at medium gain (30dB) = 0.0008% measured with a 1kHz -20dBu input signal and with a 22Hz/22kHz bandpass filter
+* Frequency response at minimum gain (0dB) = -0.5dB down at 10Hz and 3dB down at 110kHz
+* Frequency response at maximum gain (60dB) = 3dB down at 16Hz and 3dB down 85kHz
+* CMRR=91.8dB (Channel 1, 1kHz, maxiumum gain)
+* Crosstalk Channel to Channel: with 10dB@1kHz input to chA, chB output =102dBrA. With 10dB@10kHz input to chA,
+* chB output = 84dBrA
+
+'''Line Input Response'''
+* Gain range = -20dB to +10dB in 10dB steps
+* Input Impedance = 10k
+* Ohms from 10Hz to 200kHz
+* Noise at main output with gain at unity (0dB) = -96dBu measured with a 22Hz/22kHz bandpass filter
+* Signal-to-noise ratio relative to max headroom (24dBu)=120dB
+* Signal-to-noise ratio relative to 0dBFS(+22dBu) = 118dB
+* THD at unity gain (0dB) = 0.001% measured with a 0dBu input signal and with a 22Hz/22kHz bandpass filter
+* Frequency Response at unity gain (0dB) = 0.3dB down at 10Hz and 3dB down at 122kHz
+
+'''Instrument Input Response'''
+* Gain range = 10dB to 40dB continuously variable
+* Input Impedance:
+* High >1M Ohms
+* Low > 300k Ohms
+* Noise at minimum gain (+10dB) = -90dBu measured with a 22Hz/22kHz bandpass filter
+* Noise at maximum gain (+40dB) = -62dBu measured with a 22Hz/22kHz bandpass filter
+* THD at minimum gain (+10dB) = 0.002% measured with a 10dBu input signal and with a 22Hz/22kHz bandpass filter
+* Frequency Response at 10dB gain with -10dB input = 10Hz-200kHz ± 0.6dB
+* Frequency Response at 40dB gain with -40dB input = -2.5dB down at 10Hz and 0dB at 200kHz
+
+'''High Pass Filter'''
+* Roll off = 18dB per octave 3 pole filter
+* Fixed Frequency 75Hz measured at the 3dB down point
+
+'''Input Meter'''
+* Calibrated in the detent position for 0dBFS = +22dBu and indicates the level after the High Pass Filter and before the
+* Insert Send output. LED levels are as follows:
+* 0 = +22dBu
+* -2 = +20dBu
+* -6 = +16dBu
+* -12 = +10dBu
+* -18 = +4dBu
+* -42 = -20dBu
+* Calibration is adjustable to allow 0dBFS to equal +10dBu to +26dBu
+|}
+
+
+The '''Focusrite ISA-828''' is an eight-channel microphone pre-amplifier 
+
+{{stub}}
+
+
+[[category:Focusrite|ISA-828]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
