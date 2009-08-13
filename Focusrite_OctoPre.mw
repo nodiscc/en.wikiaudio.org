@@ -1,0 +1,65 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Inputs'''
+*Electronically balanced 20kW
+*Nominal level +4dBu / -10dBV
+
+'''Input Connectors'''
+*1/4" jack (channels one and two only)
+*25 pin D-type 8 channel line level analogue connector
+*8 XLR inputs for Mic
+
+'''Front Panel Controls'''
+*Phantom Power: On/Off: +48V
+*Gain (mic): 0dB to 60dB
+*Gain (line): -10dB to +10 dB
+*Gain (instrument): 0dB to 60dB (Impedance > 1MOhm)
+*Phase Reverse: On/Off (Channel 1 & 2 only)
+*High Pass filter: On/Off: -12dB / octave. ?6dB at 75Hz
+*Dynamics: Limiter threshold is fixed at 20dBu. Compressor threshold and ratio is variable
+*Frequency select: Switchable (44.1, 48, 88.2, 96kHz)
+*Dither: 24-, 20- or 16-bit
+
+'''Metering'''
+*Signal Present: -20dBFS (green LED)
+*Overload: +22dBu (red LED)
+*Compressor mode: Yellow LED intensity increases with compression
+*Hard Limit mode: Red LED on when limiting (threshold = +20dBu)
+
+'''Analogue Output'''
+*25-pin D-type 8 channel analogue connector
+
+'''Performance specifications'''
+*THD: 0.001% @ 20dBu input, mic and line at 0dB gain
+*Noise: -96dB at unity gain through the unit
+*Mic EIN: -128 dBu @ 6dB of gain with 150Ohm termination impedance
+*Frequency response: -1dB at 10Hz to 200kHz
+
+'''Weight'''
+*4.2kg
+*9.3Ibs
+
+'''Dimensions'''
+*484mm (W) x 44mm (H) x 330mm (D)
+*19" (W) x 1.7" (H) x 13" (D)
+|}
+
+
+
+The '''Focusrite OctoPre''' is an 8 channel microphone preamplifier with a compressor on each channel 
+
+{{stub}}
+
+
+[[category:Focusrite|OctoPre]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
