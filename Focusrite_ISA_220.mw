@@ -1,0 +1,53 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Mic'''
+* Noise: 123dB EIN with 150 Ohms input resistance at 60dB of gain
+* THD: 0.0008%
+
+'''Inst. Hi Z I/P'''
+* Noise: -96dBu
+* THD: 0.003% with 0dBu
+
+'''Compressor'''
+* Threshold Range: -28dB to +12dB
+* Ratio: 1.5:1 to 10:1
+* Slope: Soft knee
+* Attack: 500 microseconds to 25 milliseconds
+* Release 100mS to 4S, variable or auto (program dependent)
+
+'''Equalizer'''
+*Four band eq
+
+'''De-Esser'''
+* Threshold Range: 22dB
+* Frequency Range: 2K2 to 9K2
+* Ratio at Centre
+* Frequency: 2:1
+
+'''Limiter'''
+* Threshold Range: 20dBu
+* Ratio: infinite (Brick Wall)
+* Attack: Frequency dependent
+
+|}
+
+
+The '''Focusrite ISA 220''' is a single channel mic/line preanplifier with a four band eq, de-esser and compressor
+
+
+
+{{stub}}
+
+
+[[category:Focusrite|ISA 220]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
