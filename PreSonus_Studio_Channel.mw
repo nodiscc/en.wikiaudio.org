@@ -1,0 +1,81 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Channels: One
+* Dynamic Range: >115dB
+* Headroom: +22dB
+* Frequency Response: 10Hz to 50kHz
+* Internal Operating Level: 0dBu = 0B
+
+'''Microphone Preamp:'''
+* Gain: -6dB to +66dB (+/-10dB Trim on line input)
+* Noise Floor: -96dBu
+* EIN: -126dB
+* THD + Noise (0% Tube Drive): <0.050%
+* THD + Noise (100% Tube Drive): <0.10%
+* Microphone Input Connector: XLR
+* Microphone Input Impedance: 1.3KOhm
+* Instrument Input Connector: 1/4" TS
+* Instrument Input Impedance: 1 Meg Ohm
+* Line Input Connector: 1/4" TRS
+* Line Input Impedance: 10 kOhm
+* Phantom Power (switchable): +48V
+* Pad (switchable): 0dB/-20dB
+* Phase (switchable): 0, 180 degrees
+* Hi-pass filter (switchable): -3dB at 80Hz
+
+'''Compressor:'''
+* Threshold (variable): -40dBu to +20dBu
+* Ratio (variable): 1-10 (1:1 to 2:1)
+* Attack (variable): 0.1 to 200 ms
+* Release (variable): 0.05 ms to 3 S
+* Gain Make-up: -10dB to +10 dB
+* Metering: Analog VU (gain reduction / Output)
+
+'''Equalizer:'''
+* Low Band (+/-13dB): 40Hz to 500Hz
+* Mid Band (+/-13dB): 200Hz to 3kHz
+* High Band (+/-13dB): 2kHz to 20kHz
+* Q (variable all bands): Q=0.7 to 2.5
+
+'''Master:'''
+* Output Fader: -70dB to +10dB
+* Output Connectors: XLR balanced and 1/4" TRS
+* balanced/unbalanced
+* Output Impedance: 51 ohms
+* Metering (output level): Analog VU (-20dBu to
+* +6dBu)
+* Meter (gain reduction): Analog VU (-20dB to 0dB)
+* Output headroom: +22dBu
+
+'''Power Supply:'''
+* Type: Linear
+* Input: 16VAC / 1000mA
+* Power: 16 Watts
+* Transformer: External (country specific)
+
+'''Physical:'''
+* Size: 1U Rack
+* Dimensions: 19W" x 1.75"H x 5.5D"
+* Weight: 5lb.
+
+
+|}
+
+
+The '''PreSonus Studio Channel''' is a rack mountable audio channel strip encompassing a tube microphone/instrument preamplifier, compressor and equalizer 
+
+
+{{stub}}
+
+[[category: PreSonus|Studio Channel]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
