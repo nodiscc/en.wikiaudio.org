@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Frequency response: @ 40dB gain ±3dB 50ohms source - 4.5Hz-350KHz; @ 40dB gain ± 0.2dB 50ohms source - 18Hz-65KHz
+*THD+N: @ 20dB gain +20dBu out, 1kHz, <.0008%; @ 40dB gain +20dBu out, 1kHz, <.0009%; @ 60dB gain +20dBu out, 1kHz, <.0070%
+*Intermodulation distortion (@40dB gain +20dBu out): SMPTE/DIN 1:1 (50Hz, 7kHz), <.0020%; SMPTE/DIN 4:1 (50Hz, 7kHz), <.0030%
+*Noise - referred to input: @60dB gain 50ohms source , -130dB; @60dB gain; 150ohms source, -127dB; @60dB gain 600ohms source, -123dB
+*Phase deviation: 100-20KHz @40dB gain, <3 degrees
+*Crosstalk: Any Channel @40dB gain, 1kHz -125dB; Any Channel @40dB gain 10kHz, -115dB
+*CMRR: @60dB gain, 3.5Vcm, 1KHz - >70dB; @60dB gain, 3.5Vcm, 10KHz - >70dB
+*Phantom power: Voltage +48V+0.9/ -0.0
+*6.8kohms resistor match tolerance±0.1%
+*Maximum output level (1kHz, 100Kohms load): +28dBu
+*Impedance: Input, 8100ohms; Input, ribbon mode; 20Kohms; Output,190ohms
+*Dimensions (H x W x D): 2U x 19" x 10"
+*Weight: 16.5lbs (7.5kg)
+*Power consumption: 100-240VAC 50/60Hz - 20 Watts max
+
+|}
+
+The '''Grace Design m201''' is a microphone preamplifier . It has dual parallel XLR outputs for each channel and a built in M/S decoder  
+
+
+{{stub}}
+
+
+[[category:Grace Design|m201]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
