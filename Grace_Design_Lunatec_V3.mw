@@ -1,0 +1,79 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*A/D CONVERTER
+*Dynamic range:
+*44.1kHz-192kHz, 22Hz-20kHz bandwidth @107dB
+*44.1kHz-192kHz, A-weighted @110dB
+
+'''THD+N:'''
+*44.1kHz-192kHz, -3dBFS, 22Hz-20kHz bandwidth @-101dB
+
+'''Frequency Response:'''
+*Fs 44.1kHz +0.1/-0.4dB @20Hz-21kHz
+*Fs 48kHZ +0.1/-0.4dB @20Hz-22kHz
+*Fs 88.2kHz +0.1/-0.4dB @20Hz-42kHz
+*Fs 96kHz +0.1/-0.4dB @20Hz-45kHz
+*Fs 176.4kHz +0.1/-0.4dB @20Hz-75kHz
+*Fs 192kHz +0.1/-0.4dB @20Hz-82kHz
+
+'''AMP'''
+*Frequency Response
+*@60dB gain -3dB: 6Hz-250kHz
+
+'''THD+N'''
+*@20dB gain +20dBu out: 0.0011%
+*@40dB gain +20dBu out: 0.0011%
+*@60dB gain +20dBu out: 0.0046%
+
+'''Intermodulation Distortion'''
+*@40dB gain +20dBu out
+*SMPTE/DIN 4:1 50Hz,7k: <.0025%
+
+'''Noise - Referered to Input'''
+*@60dB gain 50 Ohm source: <-130dB
+
+'''Phase Deviation'''
+*50Hz-20kHz: <8 degrees
+
+'''Crosstalk'''
+*Either Channel: -109dB
+
+'''CMRR'''
+*@60dB gain, 3.5Vcm, 1kHz: 70dB
+*@60dB gain, 3.5Vcm, 10kHz: 80dB
+*Output CMRR: 60dB
+
+'''Maximum Output Level'''
+*Balanced: +25dBu
+*Unbalanced: +19dBu
+
+'''Impedance'''
+*Input: 3k
+*Output: 300
+*Minimum Load Impedance: 600
+
+'''Power Consumption'''
+*6-12VDC (depending on A/D settings and microphone type)
+*600-1000mA
+*2.6 lbs
+*8.25"W x 1.7"H x 5.5"D
+
+|}
+
+The '''Grace Design Lunatec V3''' is a two channel microphone preamplifier 
+
+
+{{stub}}
+
+
+[[category:Grace Design|Lunatec V3]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
