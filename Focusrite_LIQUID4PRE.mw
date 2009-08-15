@@ -1,0 +1,91 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Converter Performance
+*Sample Rates: 44.1, 48, 88.2, 96, 176.4 and 192 kHz
+*Bit Depth: 24-bit
+
+'''A/D'''
+*Signal-to-Noise Ratio: 120dB measured with 20 Hz/22 kHz bandpass A-weighted filter
+*Frequency Response: ±0.05 dB between 20 Hz and 20 kHz
+*Maximum input level: +22 dBu
+*THD+N: 0.0007% (-103 dB) 
+
+'''D/A'''
+
+*Dynamic Range: 118 dB measured with 20 Hz/22 kHz bandpass A-weighted filter
+*Frequency Response: ±0.05 dB between 20 Hz and 20 kHz
+*Maximum output level: +22 dBu
+*THD+N: 0.001% (-100 dB)
+
+'''Jitter'''
+*Internal Clock: <1 ns
+*AES Output: <1 ns
+*External Clock: <3 ns
+
+'''Analogue and digital paths'''
+*Mic Pre
+*Gain Range: +14 dB to +80 dB, switched in 1 dB steps
+*Frequency Response and harmonic distortion: Variable, set by pre-amp emulation and harmonics settings chosen
+*THD+N at analogue out: 0.001% measured with a +1 dBu 1 kHz input signal with 20 Hz/22 kHz bandpass filter, gain +14dB
+*THD+N at AES out: 0.0007% measured with a +1 dBu 1 kHz input signal with 20 Hz/22 kHz bandpass filter, gain +14dB
+*Mic Noise: EIN = -128 dB measured at >60 dB of gain with 150 Ohm source impedance and 20 Hz/22 kHz bandpass filter
+*Noise Analogue Out: -92 dBu measured at +14 dB gain with 20 Hz/22 kHz bandpass A-weighted filter
+*Noise AES Digital Out: -119 dBFS measured at +14 dB gain with 20 Hz/22 kHz bandpass A-weighted filter
+*Maximum Input Level: +8 dBu
+*Input Impedance: Variable, set by pre-amp emulation chosen
+
+'''CMRR'''
+*Electronic: >85 dB @ 60 dB of gain
+
+'''Line Input'''
+*Gain Range: +32 dB to 10 dB, switched in 1 dB steps
+*Frequency Response: 0 dB ±0.1 dB between 20 Hz and 20 kHz
+*THD+N at analogue out: 0.001% measured with a +18 dBu 1 kHz input signal with 20 Hz/22 kHz bandpass filter
+*THD+N at AES out: 0.0007% measured with a +18 dBu 1 kHz input signal with 20 Hz/22 kHz bandpass filter
+*Noise Analogue Out: -92 dBu measured at 0 dB gain with 20 Hz/22 kHz bandpass A-weighted filter
+*Noise AES Digital Out: -120 dBFS measured at 0 dB gain with 20 Hz/22 kHz bandpass A-weighted filter
+*Maximum Input Level: +22 dBu
+
+'''High Pass Filter'''
+
+*Roll-off frequency: 75 Hz, frequency measured at 6 dB down point. 12 dB per octave roll-off
+
+'''Harmonics'''
+*Distortion Range: 0 to 15 where maximum (15) = 10% of 2nd-, 20% of 3rd- and 10% of 5th-order at 0dBfs (level-dependant distortion)
+
+'''Rear Panel Connections'''
+*Mic Inputs 1 to 4 - XLR female
+*Line Inputs 1 to 4 - XLR femaleLine Outputs 1 to 4 - XLR male
+*AES Digital Input - XLR female
+*AES Digital Outputs (CH 1+2 and CH 3+4) - XLR male
+*Wordclock Input - BNC, hi Z or 75 ohm input impedance (soft switchable)
+*Wordclock Output - BNC, Low Z input impedance
+*ADAT From Slave - Toslink optical Input socket
+*ADAT Main Output and Aux Output - 2 x Toslink optical Output socket
+*Ethernet Control - Ethernet (10baseT on CAT5)
+*Ethersound (optional) - Ethernet (CAT5)
+
+'''Weight: 5.3 kg'''
+
+'''Dimensions'''
+*484 mm (W) x 85 mm(H) x 270 mm (D)
+*2U rackmount
+|}
+
+
+The '''Focusrite LIQUID4PRE''' is a four channel analog microphone preamplifier with digital processing intended to emulate the sound of other microphone preamplifier 
+
+{{stub}}
+
+
+[[category:Focusrite|LIQUID4PRE]] 
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
