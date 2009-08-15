@@ -1,0 +1,66 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Microphone Preamplifier
+* Type: XLR Female Balanced
+* Frequency Response (+/-0.5 dB): 20 Hz to 50 kHz
+* Frequency Response (+/-3.0 dB): 20 Hz to 150 kHz
+* Input Impedance (Balanced): 1600 Ohms
+* THD+N (unwtd, 1 kHz @ +4 dBu Output, Unity Gain): < 0.003%
+* EIN (unwtd, 55dB Gain, 150 Ohms Input, 20Hz to 22 kHz): -126 dBu
+* S/N Ratio (Unity Gain, unwtd, Ref. = +4 dBu, 20Hz to 22 kHz): > 101 dB
+* Common Mode Rejection Ratio (1 kHz, 55 dB Gain): > 55 dB
+* Gain Control Range (+/- 1dB): -4 dB to 50 dB
+* Maximum Input Level (Unity Gain, 1 kHz @ 0.5% THD+N): +14 dBu
+* Signal Level LEDs: +10 dBu (0 dBFS)
+* Red / Clip (+/-0.5 dBu): +10 dBu (0 dBFS)
+* Yellow (+/-0.5 dBu): +4 dBu (-6 dBFS)
+* Green (+/-0.5 dBu): 8 dBu (-18 dBFS)
+* Green (+/-0.5 dBu): 14 dBu: (-24 dBFS)
+* Phantom Power (+/-2 VDC): +48 VDC
+
+'''Instrument Input (channels 1 and 2 only)'''
+* Type: ¼" TRS Female Unbalanced
+* Input Impedance: 1 MOhms
+
+'''Line Outputs'''
+* Type: ¼" TRS Balanced
+* Output Impedance51 Ohms
+
+'''Digital Audio'''
+* ADC Dynamic Range (AWTD, 48 kHz Sample Rate): 107dB
+* Bit Depth: 24
+* Reference Level for 0dBFS: +10 dBu
+* Internal Sample Frequency Selections (kHz):44.1, 48
+* External Sample Frequency Input: 75 Ohms BNC
+
+'''Power'''
+* Input Connector Type: IEC
+* Input Voltage (factory configured): 90 to 230 VAC
+* Power Requirements (Continuous): 20W
+
+'''Physical'''
+* Package Type: 1U - steel chassis
+* Dimensions: 19(W) X 1.75(H) X 7(D) inches
+* Weight: 6 lbs. (2.72 KG)
+
+
+|}
+
+
+The '''PreSonus DigiMax D8''' is an 8 channel microphone/instrument preamplifier 
+
+
+{{stub}}
+
+[[category:PreSonus|DigiMax D8]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
