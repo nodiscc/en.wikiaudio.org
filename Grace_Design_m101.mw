@@ -1,0 +1,78 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*GAIN RANGE (5dB steps)
+*Mic input: 10-65dB
+*Hi-Z input: -10-45dB
+*Output trim control: 0 to +10dB
+
+'''THD+N'''
+*@ 20dB Gain +20dBu out: <0.00085%
+*@ 40dB Gain +20dBu out: <0.0010%
+*@ 60dB Gain +20dBu out: <0.0050%
+
+'''INTERMODULATION DISTORTION'''
+*@ 40dB Gain +20dBu out
+*SMPTE/DIN 4:1 7kHz/50Hz: <0.0020
+
+'''NOISE - REFERRED TO INPUT'''
+*50 Ohm source: <-130dB
+*150 Ohm source: <-128dB
+*600 Ohm source: <-124dB
+
+'''CMRR'''
+*100Hz: >68dB
+*1kHz: >75dB
+*10kHz: >65dB
+
+PHASE DEVIATION (HPF off)
+*50Hz-25kHz: <6°
+
+'''FREQUENCY RESPONSE'''
+*Mic input @ 40dB Gain -3dB: 4.5Hz-390kHz
+*Mic input @ 40dB Gain -0.5dB: 10.5Hz-140kHz
+*Hi-Z input @ 20dB Gain -3dB: 2.5Hz-195kHz
+*Hi-Z input @ 20dB Gain -0.5dB: 6Hz-74kHz
+
+'''IMPEDANCE'''
+*Mic input: 8.1kOHM
+*Mic input, Ribbon mode: 20k Ohm
+*Hi-Z input (unbalanced): 1M Ohm
+*Hi-Z input (balanced): 2M Ohm
+*Balanced Output: 300 Ohm
+*Balanced Output: 150 Ohm
+
+'''PEAK LED METER'''
+*Green threshold: -14dBu
+*Red threshold: +16dBu
+
+'''MAXIMUM OUTPUT LEVEL'''
+*100k Ohm load, 0.1% THD: +25dBu
+
+'''WEIGHT and DIMENSIONS'''
+*2.4 lbs: H1.7" x W8.5" x D9.0"
+*1.09 kg: H4.3cm x W21.6cm x D22.8cm
+
+'''POWER CONSUMPTION'''
+*100-240VAC: 5 Watts Max
+
+
+|}
+
+
+The '''Grace Design m101''' is a single channel microphone preamplifier  
+
+{{stub}}
+
+
+[[category:Grace Design|m101]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
