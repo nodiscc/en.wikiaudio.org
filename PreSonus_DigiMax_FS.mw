@@ -1,0 +1,94 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Microphone Preamp (XLR Balanced)'''
+
+''All measurements Microphone Input to Direct Output''
+
+*Frequency Response (+0,- 0.5dB)	20Hz to 40KHz
+*Frequency Response (+0/-3.0 dB) 	20Hz to 100KHz
+*Input Impedance	1600 Ohm
+*THD+N (unwtd, 1KHz @ +4dBu Output, Unity Gain) 	<0.003%
+*EIN (unwtd, 55dB Gain, 150 Ohm Input, 20Hz to 22KHz)	-126dBu
+*S/N Ratio (Unity Gain, unwtd, Ref. = +4dBu, 20Hz to 22KHz) 	>101dB
+*Common Mode Rejection Ratio (1KHz, 55dB Gain) 	>55dB
+*Gain Control Range (+/-1dB)	0dB to 55dB
+*Maximum Input Level (Unity Gain, 1KHz @ 0.5% THD+N)	+11dBu
+*Phantom Power (+/- 2VDC) 	+48VDC
+
+
+'''Instrument Input (1/4” TRS, Preamps 1 & 2)'''
+*Input Impedance 	1 Mega Ohm
+
+
+'''Line Inputs (1/4” TRS, Preamps 3 to 8)'''
+''All measurements Line Input to Direct Output''
+	
+*Frequency Response (+0,- 0.5dB)	20Hz to 60KHz
+*Frequency Response (+0/-3.0 dB) 	20Hz to 150KHz
+*Input Impedance (Balanced)	10 KOhm
+*THD+N (unwtd, 1KHz @ +4dBu Output, Unity Gain) 	< 0.0015%
+*S/N Ratio (Unity Gain, unwtd, Ref. = +4dBu, 20Hz to 22KHz)	>101dB
+*Gain Control Range (+/-1dB)	-12dB to +10dB
+*Maximum Input Level (Unity Gain, 1KHz @ 0.5% THD+N)	+22dBu
+
+
+'''Insert Jacks (1/4” TRS)'''
+*Send Output Impedance (Unbalanced, Ring) 	51 Ohm
+*Return Input Impedance
+
+''(Unbalanced, Tip) 	10KOhm''
+
+'''Direct Outputs/DAC Outputs (1/4” TRS)'''
+*Output Impedance (Impedance Balanced) 	51Ohm
+
+'''Signal Level LEDs'''
+*Clip (+/- 0.5dBu) 	+18dBu
+
+'''Digital Audio'''
+*ADC Dynamic Range (Awtd, 48KHz Sample Rate) 	107dB
+*DAC Dynamic Range (Awtd, 48KHz Sample Rate) 	110dB
+*Bit Depth 	24
+*Reference Level for 0dBFS 	+18dBu
+*Digital Audio Output (2-Toslink™ Connectors, 8 channels) 	ADAT/SMUX
+*Digital Audio Input (2-Toslink™ Connectors, 8 channels) 	ADAT/SMUX
+*Internal Sample Frequency Selections (KHz) 	44.1, 48, 88.2, 96
+*External Sample Frequency Inputs 	BNC, ADAT (SMUX)
+*BNC Word Clock Output Level (75 Ohm load) 	4.5V
+*BNC Word Clock Input Level Range 	3.0 to 5.5V
+*Jitter Specification	<20ps RMS, 20Hz-20kHz
+*Jitter Attenuation	>60dB; 1ns in approx.1ps out
+
+'''Power'''
+*Input Voltage (factory configured) 	18 to 30VDC
+*Power Requirements (Continuous) 	15W
+*DC Input Connector Type 	5.5mm OD/2.5mm ID Barrel, Center Positive
+*External Switching Power Supply 	90-230VAC/35W
+
+'''Physical'''
+''Main Chassis''
+*Package Type	13U - steel chassis
+*Dimensions	19(W) X 1.75(H) X 7(D) inches
+*Weight	7.0lbs
+
+
+|}
+
+
+The '''PreSonus DigiMax FS''' is an 8-channel microphone preamp with optical digital I/O 
+
+
+
+{{stub}}
+
+[[category:PreSonus|DigiMax FS]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
