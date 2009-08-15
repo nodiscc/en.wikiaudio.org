@@ -1,0 +1,101 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Converter performance'''
+
+*Sample rate: 44.1, 48, 88.2, 96, 176.4 and 192kHz
+*Bit depth: 24-bit
+
+'''ADC'''
+*SNR: 120dB measured with 20 Hz/22 kHz bandpass A-weighted filter
+*Frequency response: ±0.05 dB between 20Hz — 20kHz
+*Maximum input level: +22dBu
+*THD+N: 0.00035% (-109dB)
+
+'''DAC'''
+*Dynamic range: 116dB measured with 20Hz/22kHz bandpass A-weighted filter
+*Frequency response: ±0.05dB between 20Hz — 20kHz
+*Maximum output level: +22dBu
+*THD+N: 0.0007% (-103 dB)
+
+'''Jitter'''
+*Internal clock: <20 pico-seconds
+*AES digital output: <200 pico-seconds
+*External clock: <1 nano-second
+
+'''Mic pre'''
+*Gain range: +6dB to +80dB, switched in 1dB steps
+*Frequency response: variable, set by preamp chosen
+*THD+N at analogue out: 0.001% measured with a +4dBu 1kHz input signal with 20Hz/22kHz bandpass filter
+*THD+N at AES digital out: 0.0005% measured with a +4dBu 1kHz input signal with 20Hz/22kHz bandpass filter
+*Mic noise: EIN = -126dB measured at 80dB of gain with 150 ohms source impedance and 20Hz/22kHz bandpass filter
+*Noise at analog out: -92dBu measured at +6dB gain with 20Hz/22kHz bandpass A-weighted filter
+*Noise at AES digital out: -119dBfs measured at + 6dB gain with 20Hz/22kHz bandpass A-weighted filter
+*Maximum input level: +16dBu
+*Input impedance: variable, set by preamp chosen
+*CMRR: Transformer: 123dB @ 60dB of gain
+*Electronic: 102dB @ 60dB of gain
+
+'''Line input'''
+*Gain range: —10dB to +10dB, switched in 1dB steps
+0dB ±0.1dB between 20Hz and 20kHz
+*THD+N at analog out: 0.001% measured with a +18dBu 1kHz input signal with 20Hz/22kHz bandpass filter
+*THD+N at AES digital out: 0.0004% measured with a +18dBu 1kHz input signal with 20Hz/22kHz bandpass filter
+*Noise at analogue out: -92dBu measured at 0dB gain with 20Hz/22kHz bandpass A-weighted filter
+*Noise at AES digital out: -120dBfs measured at 0dB gain with 20Hz/22kHz bandpass
+A-weighted filter
+*Maximum input level: +22 dBu
+
+'''High pass filter'''
+
+*Roll off frequency: switchable between 75Hz and 120Hz, frequency measured at —6dB down point, 12dB per octave roll-off
+
+'''Harmonics'''
+*Distortion range: 0 to 15 where 15 (maximum) = 10% of 2nd-, 20% of 3rd- and 10% of 5th-order at 0dBfs (level-dependent distortion)
+
+'''Compressor'''
+*In As Original mode the parameter ranges will be the same as on the original unit being replicated. In Free mode the parameter ranges are as follows:
+*Threshold range: -40dB to 20dB switched in 1dB steps.
+*Ratio range: 1:1 to limit
+*Attack range: 0.1 mS to 2.5 S
+*Release range: 0.1 mS to 2.5 S
+*Make-up gain: -20dB to +20dB switched in 0.5dB steps
+
+'''EQ'''
+
+*High Shelf
+*Frequency range: 200Hz to 20kHz
+*Gain: +/-18dB
+
+*Mid Band
+*Frequency range: 100Hz to 10kHz
+*Gain: +/-18dB
+*Q: variable between 0.8 and 2.5
+
+*Low Shelf
+*Frequency range: 10Hz to 1kHz
+*Gain: +/-18dB
+
+*Weight: 19 lbs./8.6 kg
+*Dimensions: 19"W x 3-1/3"H x 10-5/8"D/484mm W x 85mm H x 270mm D
+*2U rackmount
+
+|}
+
+The '''Focusrite MH445 Liquid Channel''' is an analog microphone preamplifier with digital processing designed to emulate the "sound" of different preamp and channel strip models 
+
+
+{{stub}}
+
+
+[[category:Focusrite|MH445 Liquid Channel]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
