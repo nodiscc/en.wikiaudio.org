@@ -1,0 +1,12 @@
+Below is a diagram of a '''MIDI star configuration'''.
+This configuration requires that all MIDI channels of all receiving devices be set to the "on" value.
+
+
+[[image:MIDI_STAR_.jpg]]
+
+==Also See==
+[[MIDI thru configuration]]
+
+
+[[category:tutorials]]
+[[Category:MIDI|Star configuration]]
