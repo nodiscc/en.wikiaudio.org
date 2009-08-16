@@ -1,0 +1,70 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+'''Audio inputs - mic pre section'''
+* Microphone: female XLR
+* Balanced line: female XLR
+* Unbalanced line/instrument: 1/4" jack on front panel
+
+'''Audio inputs - compressor section'''
+* Balanced line: female XLR for use in Split Mode
+
+'''Audio outputs - mic pre section'''
+* Balanced line: male XLR for use in Split Mode
+
+'''Audio outputs - compressor section'''
+* Balanced line: male XLR
+
+'''Front panel controls - pre-amp section'''
+* Impedance selector
+* Mic: selectable - 500 ohms or 2kOhms
+* Line: fixed - 13.8kOhms
+* Hi-Z: selectable, 2.2 Meg ohms or 47kOhms
+
+'''HF Shelf EQ'''
+* Switchable boost/cut at 1.5, 3, 4.5, 6, and 9dB
+* Corner frequency select: 4.5kHz, 7kHz, 10kHz
+
+'''LF Shelf EQ'''
+* Switchable boost/cut: 1.5, 3, 4.5, 6, and 9dB
+* Corner frequency select: 70Hz, 100Hz, 200Hz
+
+'''Polarity Reverse Switch'''
+* 48-volt phantom power
+* Join/Split switch for joint or independent compressor/pre-amp operation
+
+'''Front panel controls - compressor section'''
+* Input gain
+* Output gain
+* Attack
+* Release
+* Compression ratio: bypass, 1:1, 4:1, 8:1, 12:1, 20:1 and "All Button" mode
+* Meter Select: Pre-amp output, compressor gain reduction, and compressor output
+
+'''Additional Features'''
+* Stereo interconnection - with 1176 SA Network accessory
+* Vacuum tubes: one 12AX7A and one 12BH7 per channel
+
+|}
+
+
+
+The '''Universal Audio 6176''' is a channel strip with mic,line and instrument inputs as well as an eq and compressor section.
+
+
+
+{{stub}}
+
+
+[[category:Universal Audio|6176]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
