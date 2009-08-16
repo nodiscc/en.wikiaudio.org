@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''Manufacturer and model go here''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Monophonic
+*Oscillators - 1004p & 1004t: Voltage Controlled Oscillators,
+**1023: Dual Voltage Controlled Oscillator,
+**1016 & 1036: Dual Noise/Random Voltage Generator
+*LFO - 1005: Modamp
+*Filter - 1047: Multimode Filter/Resonator, 1006: Filter-amp
+*VCA - 1003: Dual Exponential Envelope Generator,
+**1046: Quad Envelope,
+**1033 Dual Delayed Exponential Env Generator
+*Keyboard - 3222: Remote Keyboard (61 keys)
+*Arpeg/Seq - 1027: Ten-position Sequencer, 1050: Sequencer
+*Control - CV/GATE
+*Date Produced - 1970 - mid 70's
+
+|}
+
+The '''2500''' is a monophonic synth manufactured in the 1970's by ARP
+
+{{stub}}
+
+[[category:synths]]
+[[category:ARP|2500]]
