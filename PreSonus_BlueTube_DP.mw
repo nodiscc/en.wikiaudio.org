@@ -1,0 +1,59 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+'''Input'''
+* Connector Type: Neutrik combo
+* XLR Impedance: 1.3K Ohms
+* Hi-Z, 1/4": 1 Meg Ohms
+
+'''Output'''
+* Connector Type: XLR and 1/4" TS
+* Impedance: 51 Ohms
+
+'''Panel Controls'''
+* Gain: 0dB to +54dB
+* Tube Drive: 0% to 100%
+* Phase Reversal
+* -20dB Pad
+* Phantom Power
+
+'''Meters'''
+* Analog VU: -2odBu to +6dBu
+* Clip Indicator: +22dBu
+
+'''Performance'''
+* THD Noise (unweighted) solid state: < 0.005%
+* THD Noise (unweighted) tube stage: 0.01% to 30%
+* Signal To Noise: >95dB
+* Power Supply Rejection: >98dB
+
+'''Physical'''
+* Weight: 4 lbs.
+* Dimensions: 8"W x 1.75"H x 5"D
+* Mounting: Universal rack tray insert
+
+'''Power Supply'''
+* Type: Linear
+* Input: 16VAC / 1000mA
+* Power: 16 Watts
+* Transformer: External
+
+|}
+
+the '''PreSonus BlueTube DP''' is a dual channel stereo microphone/instrument preamplifier.the module has an option for tube or solid state operation  
+
+
+
+{{stub}}
+
+
+[[category:PreSonus|BlueTube DP]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
