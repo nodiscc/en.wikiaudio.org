@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Input impedence:'''
+* Microphone: Selectable, 150/300/900/1500 ohm
+* Balanced line: 2k ohm
+* Instrument: 100k ohm
+
+'''Maximum input level:'''
+* Microphone (1500 ohm, +20dB pad out): +5dBu
+* Microphone (1500 ohm, +20dB pad in): +25dBu
+* Balanced line: +30dBu
+* Instrument: +30dBu
+
+'''Gain range:'''
+* Microphone (1500 ohm, +20dB pad out): +5dBu
+* Balanced line: -12dB to 40dB
+* Instrument: -5dB to 42dB
+* Noise floor (all inputs, minimum gain): -95dBu (A-weighted)
+* Microphone equivalent input noise (EIN): -125dBu (A-weighted)
+* Frequency response: 10Hz to 45kHz ±1dB
+* Maximum output level: +23dBu @ 0.5% THD+N
+* Output impedance: 600 ohm
+* Tube complement (per channel): 1 - 12AT7A, 2 - 6922
+
+'''General:'''
+* Power (factory-configured): 115 or 230V AC/100 watts
+* Dimensions: 19"W x 3-1/2"H x 17"D
+* Weight: 28 lbs.
+|}
+
+
+The '''PreSonus ADL 600''' is a two channel analog tube microphone/instrument preamplifier 
+
+{{stub}}
+
+
+[[category:PreSonus|ADL 600]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
