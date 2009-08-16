@@ -1,0 +1,96 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Channels	One
+*Dynamic Range	>115dB
+*Headroom	+22dB
+*Frequency Response	10Hz to 50kHz
+*Internal Operating Level	0dBu = 0B
+
+'''Microphone Preamp'''	 
+*Input Impedance, XLR Input	1.3k Ohms
+*Input Impedance, Line Level Input	10k Ohms
+*Connectors	Neutrik™ Combo
+
+'''Microphone Preamp'''	 
+*Gain	+12dB to +52dB
+*Noise Floor	-112dBu (+12dB gain)
+*EIN	-127dB
+*THD + Noise (0% saturation)	<0.005%
+*THD + Noise (full saturation)	<0.5%
+*Microphone Input Connector	XLR
+*Microphone Input Impedance (selectable)	2.5k, 1.5k, 600, 150, 50 Ohms
+*Instrument Input Connector	1/4" TS
+*Instrument Input Impedance	1 Meg Ohm
+*Send Connector	1/4" TRS balanced/unbalanced
+*Send Output Impedance	51 Ohms
+*Return Connector	1/4" TRS balanced/unbalanced
+*Return Input Impedance	10k Ohms
+*Metering (3-LED)	-20dBu, 0dBu, Clip
+*Line Input (switchable)	1/4" TRS, 10k Ohm Input Impedance
+*Phantom Power (switchable)	+48V (pin 1, pin 2 XLR)
+*Pad (switchable)	0dB/-20dB
+*Phase (switchable)	0, 180 degrees
+*Hi-pass filter (switchable)	-3dB shelf at 80Hz
+
+'''Compressor'''	 
+*Threshold (variable)	-40dBu to +20dBu
+*Ratio (variable)	1-10 (1:1 to 2:1)
+*Attack (variable)	0.1 to 200 ms
+*Release (variable)	0.05 ms to 3 S
+*Gain Make-up	-20dB to +20 dB
+*Hi-pass Side Chain Filter (variable)	10Hz to 10kHz
+*Metering	Analog VU (gain reduction / Output Level)
+
+'''Equalizer'''	 
+*Low Band (+/-13dB)	20Hz to 300Hz
+*Mid Band (+/-13dB)	200Hz to 3kHz
+*High Band (+/-13dB)	2kHz to 20kHz
+*Q (variable all bands)	Q=0.4 to 2 (3 octave to 2/3 octave)
+
+'''Master'''	 
+*Output Fader	-70dB to +10dB
+*Output Connectors	XLR balanced and 1/4" TRS balanced/unbalanced
+*Output Impedance	51 Oms
+*Metering (output level)	Analog VU (-20dBu to +6dBu)
+*Meter (gain reduction)	Analog VU (-20dB to 0dB)
+*Output Headroom	+22dBu
+
+'''Physical'''	 
+*Power Supply	Internally Regulated Linear Type
+*Power Requirements (factory configured)	100VAC to 120VAC, 200VAC to 240VAC
+*Size	1U Rack
+*Dimensions	19" x 1.75" x 7"
+8Weight	8lbs.
+
+'''AD192 - Optional Digital Output Card''' 	 
+*Bit Resolution	up to 24-Bit
+*Sample Rates Supported	44.1, 48, 88.2, 96, 176.4, 192
+*Word Clock	In / Out via BNC Connector
+*Supported Digital Formats	Professional, Consumer
+*Simultaneous Digital Ouputs	AES/EBU and SPDIF
+*Analog Line Input (one AD192 card supports two Eureka's)	1/4" Balanced TRS
+*THD + N	0.002 %
+*Signal to Noise Ratio	114 dB
+*Dynamic Range 	114 dB
+
+|}
+
+
+The '''PreSonus Eureka''' is a single channel strip preamplifier , compressor and equ
+
+
+
+{{stub}}
+
+[[category:PreSonus|Eureka]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
