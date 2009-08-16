@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Input impedance:
+* Microphone 300 & 1,200 ohms
+* Line 10,000 ohms
+* D.I. 100,000 ohms
+
+'''Sensitivity:'''
+* Microphone -80dBm to -20 dBm in 5dB steps for 0 dBm output.
+* Line -20 dBm to +10 dBm in 5 dB steps for 0 dBm output.
+
+'''Noise:''' Measured at 80 db of gain with 200 ohm input termination, without 20Hz to 20kHz to assist in filtering out noise.
+
+* -49dbu with final output stage at 50% EIN -129 dbu;
+* -46dbu with final output stage at unity EIN -126 dbu;
+* -56dbu without final output stage EIN -136 dbu
+* Controls either "flat" or switched out.
+
+'''Output:''' Balanced and floating to feed a 600 ohm load. Maximum output +26 dBm into 600 ohms, or +20dBm into 150 ohms.
+* Output impedance: 600 ohms, balanced (source impedance 75 ohms).
+* Frequency Response: 11 Hz 77.65 kHz 3 dB. Level variation is less than 0.2%.
+* Distortion: 1k Hz = 0.0245%
+
+
+|}
+
+
+The '''Chameleon Labs 7602 MKII''' is a mic,line and instrument preamplifier and equalizer 
+
+
+
+{{stub}}
+
+
+[[category:Chameleon Labs|7602 MKII]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
