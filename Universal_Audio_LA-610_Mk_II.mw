@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Microphone Input Impedance: Selectable, 500 Ohms or 2k Ohms
+* Balanced Line Input Impedance: 20k Ohms
+* Hi-Z Input Impedance: Selectable, 2.2M Ohms or 47k Ohms
+* Maximum Microphone Input Level: -8 dBu (2K input Imp. & 15 dB Pad in)
+* Maximum Output Level: 80 Ohms
+* Recommended Minimum Load: 600 Ohms
+* Frequency Response: 20 Hz to 20 kHz ± 0.5dB
+* Maximum Gain: 40 dB (Line), +77dB (Mic)
+* Noise Floor: -72 dBu 20 - 20kHz (Line In, unity Gain)
+* Compressor Ratio: 3:1, soft knee, program dependent
+* Limiter Ratio: : 1, soft knee, program dependent
+* Attack Time: 10 ms, program dependent
+* Release Time: Dual stage: 60 ms for 1st release, then 1 - 15 sec.
+* Tube Complement: (3) 12AX7, (1) 12AT7, (1) EL84
+* Power Requirements: 100V / 120V / 240V
+* Power Consumption: 30 Watts
+* Power Connector: Detachable IEC power cable
+* Dimensions: 19" W x 3.5" H x 12.25" D (two rack spaces)
+* Weight:12 lbs.
+
+|}
+
+The '''Universal Audio LA-610 Mk II''' is a preamplifier with microphone,instrument and line inputs. It also has a fully bypass-able opto-compressor
+
+{{stub}}
+
+
+[[category:Universal Audio|LA-610 Mk II]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
