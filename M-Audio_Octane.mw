@@ -1,0 +1,58 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''microphone inputs (analog)'''
+*variable gain:	50dB
+*frequency response:	20-20kHz, +/- 0.11dB; mid gain
+*signal-to-noise ratio:	120dB, A-weighted; mid gain
+*dynamic range:	120dB, A-weighted; mid gain
+*THD+N:	0.00041% -107dB, 1dB below clipping, 22Hz-22kHz; mid gain
+*EIN noise rating:	-129dBu @ max gain, 600 ohms, 22Hz-22 kHz (unweighted)
+*input impedance:	2.85k ohms, no pad; 3.600k ohms, pad engaged
+
+'''instrument inputs (analog)'''
+*input impedance:	3M ohms
+*variable gain:	44dB
+*frequency response:	20Hz-20kHz, +/- 0.03dB; min gain
+*signal-to-noise ratio:	133dB, A-weighted; min gain
+*dynamic range:	133dB, A-weighted; min gain
+*THD+N:	0.0018% -95dB, 1 dB below clipping, 22Hz-22kHz; min gain
+*system throughput gain:	6dB to 50dB (balanced out); 0dB to 44dB (unbalanced out)
+
+'''line inputs (analog to digital)'''
+*line input impedance:	20K Ohms (balanced), 13.3k ohms (unbalanced)
+*frequency response:	20Hz-20kHz, +/- 0.04dB
+*signal-to-noise ratio:	110dB, A-weighted
+*dynamic range:	110dB, A-weighted
+*THD+N:	0.00067% -103dB, -1dBFS, 22Hz-22kHz
+
+'''additional features'''
+*maximum rated analog output (digital clip):	+26dBu (balanced), +20dBu (unbalanced)
+*output impedance:	600 ohms (balanced)
+*M/S matrix:	L=M+S/3 and R=M–S/3
+*digital clip level at line inputs:	+20dBu
+*channel quasi-peak level indicators	light 3dB, 10dB and 20dB below digital clip
+*word clock range (switchable):	44.1kHz, 48kHz and external
+*word clock slave sync range:	33kHz to 59kHz
+*word clock impedence:	75 ohms
+*power:	18 VAC (16.5 VAC minimum) @ 3.5A inline power adapter
+*size:	17" x 5" x 3.5" 7.1 lbs
+|}
+
+
+The '''M-Audio Octane''' is an 8-channel preamp and A/D converter with ADAT lightpipe
+
+{{stub}}
+
+
+[[category:M-Audio|Octane]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
