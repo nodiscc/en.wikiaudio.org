@@ -1,0 +1,33 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*frequency response:	20Hz – 80kHz, +/-0.5dB @ max gain
+*SNR:	-120dB, A-weighted, 20Hz to 20kHz
+*THD+N:	0.00035% (-109dB), 20Hz to 20kHz, @ +13.6dBu input
+*max input:	+14.6dBu
+*max output:	+27.5dBu
+*input impedance:	3k Ohms balanced
+*EIN:	-128dBm @ 600 Ohms, max gain
+*gain range:	
+**13.5dB to 46.5dB, low gain range
+**39.5dB to 72.5dB, high gain range
+*low-cut filter:	-3dB @ 72Hz (18dB/Octave)
+
+|}
+
+The '''M-Audio DMP3''' is a 2 channel microphone/instrument preamplifier 
+
+
+{{stub}}
+
+
+[[category:M-Audio|DMP3]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
