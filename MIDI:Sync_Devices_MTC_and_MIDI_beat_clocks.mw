@@ -1,0 +1,34 @@
+== The connections you need are as follows: ==
+[[image:MIDI_STAR_.jpg|thumb|Star configuration]]
+[[image:MIDI_THRU.jpg|thumb|Thru configuration]]
+
+
+* If you will be using a computer and have a MIDI interface, then set your devices up as shown in this image: [[MIDI star configuration]]
+* If you will not be using a computer set them up like this: [[MIDI thru configuration]]
+
+== Synchronizing devices with MIDI time code ==
+
+
+First, it's important to understand what [[MTC_(MIDI_timecode)|MTC]] is. The easiest way to describe it is a digitized form of SMPTE time code.
+
+Midi Time code does not transmit tempo information. If you would like to transmit tempo information you must use MIDI beat clocks. Also, typically you would only use MTC to sync MIDI devices (usually MIDI sequencers) when you want to slave them to analog tape that has been striped with SMPTE time code. You would do this using a SMPTE to MTC converter. 
+
+
+To sync multiple MIDI modules/MIDI sequencers using MTC you must first determine which device will be the MTC generator (the master ) and which devices will sync to that device (slave). Now you must  find the parameters on your master device that allow it to generate MTC. Look in your devices manual or at the Wikiaudio ''Tutorials'' list for how to access the respective parameters for different types of devices.  There are two different ways to connect your MIDI devices which can be viewed to the right.
+
+Now on the master device set the generate MTC parameter to the "on" or "transmit" value and select the midi output port you wish to send the time code out of. This should be the same port that is connected to the device(s) you wish to sync to the master.
+
+Set the MTC parameters of the receiving device(s) to receive MTC.
+
+== Synchronizing devices with MIDI beat clocks ==
+
+
+Unlike MTC, MIDI beat clocks transmit tempo information. In other words if you have a master MIDI sequencer that is playing at a tempo of 100bpm then the slave devices will sync to that tempo. Look at the manuals for your respective devices on how to access the MIDI beat clock parameters of each.
+On the master device set the transmit beat clocks parameter to the "on" or "transmit" value and select the midi output port you wish to send the beat clocks out of. This should be the same port that is connected to the device(s) you wish to sync to the master.Set the receiving device(s) to slave to the MIDI beat clocks by turning the "receive MIDI beat clocks" function to "on".
+
+
+[[Category:MIDI|Sync devices (MTC & MIDI beat clocks)]]
+
+
+[[Category:tutorials]]
+[[category:synchronization]]
