@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Input impedances: Mic: 1.2kohm; Line: 20kohm
+* Preamp overall gain: 0dB to 60dB
+* Common mode rejection: 70dB
+* Equivalent input noise: -128.5dBu (unweighted)
+* Distortion: 0.001% (below Compressor threshold)
+* Frequency response: 10Hz to 70kHz (-3dB)
+* Maximum input before clipping: Mic: +19.5dBu; Line: +44.5dBu
+* Headroom before clipping: +19.5dBu
+* Compressor threshold: -6dBu to +20dBu (variable)
+* Compressor ratio: 5:1 (typical)
+* Compressor attack time: 1 msec to 100 msec (adaptive)
+* Compressor release time: 0.1 sec to 3 sec (adaptive)
+* Nominal output levels: +4dBu/-10dBv
+* Output impedance: 75ohm
+* Output Level switch: 12dB attenuation
+* Noise Floor: -85dBu (typical, with ~40dB mic gain)
+* VU Meter: 8 segment bargraph
+* Power supply: 12V ac mains adaptor
+* Power consumption: 12W
+* Mechanical: 220W x 44H x 180D (overall)
+* Weight: 1 kilo
+* EQ Boost and Cut: +/-15dB (zero phase-shift bell response)
+* LF Frequency : 80Hz fixed
+* MID Frequency : 300Hz to 5kHz variable
+* HF Frequency : 12kHz fixed
+|}
+
+The '''Joemeek ThreeQ''' is a microphone/instrument preamplifier with an equalizer and compressor 
+
+
+
+
+
+{{stub}}
+
+
+[[category:Joemeek|ThreeQ]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
