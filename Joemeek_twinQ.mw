@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Input impedances: Mic: 1.2kOhm; Line: 20kOhm
+* Preamp overall gain: 0dB to 60dB
+* Common mode rejection: 70dB
+* Equivalent input noise: -128.5dBu (unweighted)
+* Distortion: 0.001% (below Compressor threshold)
+* Frequency response: 10Hz to 70kHz (-3dB)
+* Maximum input before clipping: Mic: +21dBu; Line: +45dBu
+* Headroom before clipping: +21dBu
+* Compressor threshold: -6dBu to +22dBu (variable)
+* Compressor ratio: 1:1 to 10:1 (variable)
+* Compressor attack time: 1 msec to 100 msec (adaptive)
+* Compressor release time: 0.1 sec to 3 sec (adaptive)
+* Nominal output levels: +4dBu/-10dBv
+* Output impedance: 75 ohm
+* Output Level switch: 12dB attenuation
+* Noise Floor: -85dBu (typical, with ~40dB mic gain)
+* VU Meter: Analogue movement
+* Power supply: 115V / 230V ac mains, 50/60Hz
+* Power consumption: 30W
+* Mechanical: 482W x 88H x 220D (overall)
+* Weight: 3 kilos
+* High Pass Filter: 12dB per octave cut below 80Hz
+* EQ Boost & Cut: +/-15dB (zero phase-shift bell response)
+* LF Frequency : 40Hz to 650Hz variable
+* MID Frequency : 300Hz to 5kHz variable
+* HF Frequency : 6kHz/12kHz switchable
+|}
+
+
+The '''Joemeek twinQ''' is a Dual Channel EQ/Compressor/Mic Preamplifier 
+
+{{stub}}
+
+
+[[category:Joemeek|twinQ ]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
