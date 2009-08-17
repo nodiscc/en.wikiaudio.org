@@ -1,0 +1,30 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*  Controls include fifteen position input switch, output fader, high impedance DI, phase reverse, and 48 volt switching.
+* Input gain 5db to 75db
+* Input impedance switchable between 300 Ω and 1200Ω
+* Output impedance 600Ω
+* Maximum Output +28db
+* Frequency response Flat from 20hz to 3khz rising to +1.8db @ 16khz
+* Noise -85dbm
+|}
+
+
+
+The Chandler Limited TG-2 is a microphone preamplifier and is a recreation of the EMI TG12428 pre amp.
+
+
+{{stub}}
+
+
+[[category:Chandler Limited|TG-2]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
