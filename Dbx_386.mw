@@ -1,0 +1,142 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Connector: Female XLR Pin 2 Hot
+
+*Type: Electronically balanced/unbalanced
+
+*Impedance: 330Ω
+
+*Max Input Level: -9 dBu or +11 dBu with 20 dB pad engaged
+
+*CMRR: >40dB, Typically 55dB
+
+*Equivalent Input Noise: Typically 120 dBu with a 150Ω, source load 20 Hz to 20kHz Bu 
+
+'''LINE INPUT (REAR PANEL)'''
+
+*Connectors: TRS 1/4" Jack
+
+*Type: Electronically balanced/unbalanced
+
+*Impedance: 20kΩ unbalanced, 40kΩ balanced
+
+*Maximum Input Level: +21dBu balanced or unbalanced
+
+*CMRR: >40dB, Typically 55dB
+
+*Gain (Drive Control): -15dB to +15dB 
+
+'''INSTRUMENT INPUT (FRONT PANEL)'''
+
+*Connector: TS 1/4" Jack
+
+*Type: Unbalanced
+
+*Impedance: 470kΩ
+
+*Maximum OutputLevel: >+21 dBu unbalanced
+
+*Insert Connector: TRS 1/4"
+
+*Type: Unbalanced
+
+*Impedance: 100Ω, send -20Ω return 
+
+'''ANALOG OUTPUTS'''
+
+*Connector: Male XLR Pin 2 Hot and TRS 1/4"
+
+*Type: Servo-balanced/unbalanced
+
+*Impedance: Balanced 120Ω, unbalanced 60Ω
+
+*Maximum Output Level: >+21 dBu, >+20 dBm (into a 600Ω load) 
+
+'''DIGITAL OUTPUTS'''
+*Connector: XLR for AES/EBU RCA for S/PDIF
+
+*Impedance: 110Ω for AES/EBU 75Ω for S/PDIF 
+
+'''WORD SYNC INPUT/OUTPUT'''
+
+*Connectors: BNC
+
+*Input Impedance: 75Ω terminated by internal jumper
+
+*Input: 96, 88.2, 48, or 44.1kHz word clock
+
+*OUTPUT: 96, 88.2, 48, or 44.1kHz word clock 
+
+'''SYSTEM PERFORMANCE'''
+
+*DRIVE Control Range: +30dB to +60dB for Mic Input -15dB to +15dB for Line and Instrument Inputs 
+
+
+*LEVEL Control Range Analog and Digital): -15dB to +15dB
+
+*LINE: Selects between microphone and line inputs
+
+*Phantom Power: +48V
+
+*PAD: 20dB pad
+
+*PHASE: Reverses pins 2 and 3 of the microphone input XLR
+
+*LOW CUT: 75Hz, 12dB/octave high pass filter
+
+*Frequency Response: <10Hz to 75kHz
+
+*THD + Noise: 0.35% typical at +4dBu out, 1kHz, 40 dB gain
+
+*Interchannel Crosstalk: Typically –80dB, 20Hz to 20kHz
+
+'''ANALOG TO DIGITAL CONVERSION'''
+
+*Type: dbx® Type IV™ A/D Conversion System
+
+*Sample Rate: 96, 88.2, 48, or 44.1kHz selectable
+
+*Wordlength: 24, 20, or 16 bit selectable
+
+*Dither Type: TPDF, SNR2, or none
+
+*Noise Shape: Shape 1, Shape 2, or none
+
+*Output Format: S/PDIF or AES/EBU
+
+*Convertor DynamicRange: 107dB typical, A-weighted, 22kHz bandwidth
+
+'''POWER SUPPLY'''
+
+*Operating Voltage: DO: 120VAC 60Hz, 100VAC 50/60Hz
+EU: 230VAC 50/60 Hz
+
+*Power consumption: 35W
+
+'''PHYSICAL'''
+
+*Dimensions: 1.75'' x 7.75'' x 19'' (4.5cm x 19.7cm x 48.5cm)
+
+*Power consumption: 6.89 lbs (3.17kg) Note: 0dBu = -16dFS, 0dBu-0.775Vms 
+
+|}
+
+
+The '''Dbx 386''' is a dual vacuum tube preamp w/digital out
+
+{{stub}}
+
+
+[[category:Dbx|386]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
