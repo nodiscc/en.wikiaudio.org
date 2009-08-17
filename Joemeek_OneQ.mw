@@ -1,0 +1,60 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Input impedances: Mic: 1.2kohm; Line: 20kohm
+* Pre-amp overall gain: 10dB to 60dB (variable)
+* Common mode rejection: 70dB
+* Equivalent input noise: 128.5dBu (unweighted)
+* Distortion: 0.001% (below Compressor threshold)
+* Frequency response: 15Hz to 70kHz (-3dB)
+* Maximum input before clipping: Mic: +21dBu; Line: +45dBu
+* Headroom before clipping: +21dBu
+* Compressor threshold: infinity dBu to -20dBu (variable)
+* Compressor ratio: 1:1 to 10:1 (variable)
+* Compressor attack time: 1 msec to 100 msec (adaptive)
+* Compressor release time: 0.1 sec to 3 sec (adaptive)
+* Nominal output levels: +4dBu/-10dBv
+* Output impedance: 100ohm
+* Output Level switch: 12dB attenuation
+* Noise Floor: 85dBu (typical, with ~40dB mic gain)
+* VU Meter: Analogue movement
+* Power supply: 115V / 230V ac mains, 50/60Hz
+* Power consumption: 30W
+* Mechanical: 482W x 88H x 220D (overall)
+* Weight: 3 kilos
+* High Pass Filter: 12dB per octave cut below 80Hz
+* EQ Boost & Cut:+/-15dB (zero phase-shift bell response)
+* LF Frequency: 80Hz/120Hz switchable
+* LMF Frequency: 200Hz to 2kHz variable
+* HMF Frequency: 1kHz to 6kHz variable
+* HF Frequency: 7kHz/14kHz (selectable)
+* EQ "Q": 0.9 (1.6 octaves)
+
+'''Digital Output Specifications'''
+* Sampling: 24 Bit
+* Sampling Rate: 44.1kHz, 48kHz, 88.2kHz or 96kHz selectable
+* Output Formats: AES3 compliant (balanced), S/PDIF electrical, S/PDIF optical
+* External Word Clock input: 75ohm, 1.25V - TTL level, 44.1kHz to 96kHz (auto synchronizing)
+
+
+
+|}
+
+
+The '''Joemeek OneQ''' is a mono equalizer, compressor and microphone preamplifier 
+
+
+{{stub}}
+
+
+[[category:Joemeek|OneQ]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
