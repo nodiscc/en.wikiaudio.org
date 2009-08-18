@@ -1,0 +1,85 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Minimum Gain'''  	
+*8.5 dB
+'''Maximum Gain''' 	 
+*(1.5 dB per step, 36 steps) 65 dB (up to 75 dB on request)
+'''Frequency Response''' 	 
+*+0 / -3 dB
+*sub 3 Hz to beyond 300 kHz
+'''Noise''' 	 
+*60 dB Gain, 10 Hz - 30 kHz, Inputs common
+*-133 dB EIN
+
+'''Total Harmonic Distortion + Noise''' 	 
+*35 dB Gain, 10 Hz - 20 kHz bandwidth, +27 dBu Out
+*< .001%, Typ. < .0005% (< 5 ppm)
+
+'''Intermodulation Distortion''' 	 
+*(50 Hz & 7 kHz) 35 dB Gain, +27 dBu Out
+*< .0009%
+
+'''Phase Response''' 	 
+*35 dB Gain, 50 Hz - 20 kHz bandwidth, +27 dBu Out
+*< 2 degrees deviation
+
+'''Common Mode Rejection Ratio''' 	 
+
+*35 dB Gain, 10 Hz - 20 kHz bandwidth, 100 mV C.M.
+*> 65 dB, Typ > 85 dB
+
+'''Slew Rate''' 	 
+*35 dB Gain, +27 dBu Out
+*> 25 Volts per microsecond
+
+'''Maximum Input Level''' 	 
+*20 Hz - 40 kHz
+*+23 dBu (no attenuator pads required)
+
+'''Maximum Output Level''' 
+*20 Hz - 40 kHz
+*+32 dBu
+
+'''Phantom Input Impedance''' 	 
+*1 kHz
+*6,750 ohms
+
+'''Output Impedance'''	
+*24.3 Ohms (x2)
+
+'''DPA (B&K) Mic Powering''' 	
++130 V dc max, (non-phantom)
+
+'''Phantom Powering''' 	
++48 V dc, +/- 2 V dc
+
+'''Power Consumption'''
+*12 watts maximum
+
+'''Power Requirements''' 	
+'''Selectable''' 
+*100-120, 200-240 V ac, 50/60 Hz
+
+'''Dimensions/Shipping Weight''' 	
+*19” W x 1.75” H x 12” D, 15 lbs..
+
+|}
+
+
+The '''Millennia HV-3C''' is a stereo microphone preamplifier 
+
+{{stub}}
+
+
+[[category:Millennia|HV-3C]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
