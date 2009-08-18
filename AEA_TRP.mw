@@ -1,0 +1,66 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Gain 	>83 dB at 1 kHz, balanced in to balanced out
+*Positive polarity	pin 2 on XLRs, tip on ¼ “ stereo jacks
+*Balanced outputs clip	above +28 dBu, 100k load
+*Unbalanced xlr output load reduces max level	~ 6 dB
+*Unbalanced ¼ “ TRS outputs clip	+22 dBu, 100k load
+*Frequency response	-3 dB at 6 Hz and 300 kHz
+*THD at 1 KHz	.005% with 22 Hz to 22 kHz bandwidth
+*EIN, A weighted noise figure	-130 dBu, 150 ohm input
+*Balanced mic input impedance	>30,000 ohm
+*Microphone input electronics	
+**DC coupled 
+**zener protected from external P48 DC
+**shut off while external DC is present
+*Signal LEDs	
+**Green LED snaps on at ~ - 5 dBu
+**Yellow LED is variable brightness from ~ 0 to +20 dBu
+**Red LED snaps on at ~ +20 dBu
+*High Pass Filter	12 dB per octave and -3 dB at 100 Hz
+*Power supply	Two 17.25 VAC outputs
+*Physical
+*Gain switch	12 position Grayhill series 71
+*Output level control	detent at 12 noon
+*Switches	Polarity reverse & High-pass pushbutton switches
+*Power supply	
+**external for minimum noise
+**input & output cords are each 6 feet long
+**115 VAC P.S. uses male grounded Edison power plug
+**230 VAC P.S. uses male recessed IEC power plug
+**Chassis P.S. input is a female 7 pin circular DIN jack
+**Power-on indication is by a front panel LED
+*Finish and styling	tough, textured, black & gray powder coat
+*Legends & single line schematic are laser engraved
+*Chassis is aluminum with rugged extruded endcaps
+*Dimensions	
+**Half-rack wide, rack unit high 8.5” x 8.5” x 1.7”
+**Metric: Chassis is 36.7 cm wide & deep, by 4.3 high
+*Weight	
+**English: Chassis is 2 pounds, P.S. is 1.5 pounds
+**Metric: Chassis is .9 Kg, power supply is .7 Kg
+
+*Options
+**Dual TRP steel rackshelf mounting option is 1 RU high
+
+
+|}
+
+
+The '''AEA TRP''' is a two channel ribbon microphone preamplifier  
+
+{{stub}}
+
+
+[[category:AEA|TRP]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
