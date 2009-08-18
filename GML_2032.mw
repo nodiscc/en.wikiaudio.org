@@ -1,0 +1,55 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+* One channel, multi-input, gain, filter, parametric equalizer with insert capability and internal power supply
+* Inputs: Mic (balanced, XLR), MI (Musical Instrument; unbalanced, 1/4" TS)
+* Gain control: +15dB to +7dB, 5dB steps
+* Fine control: -5dB to +5dB, continuously variable
+* Phase switch, Phantom power (P48) switch
+* Filter - Second-order Butterworth active high-pass filter; 100Hz, flat, 40Hz
+* Insert control: split parametric equalizer from preamplifier
+* EQ section: four bands, fully parametric, continuously variable controls
+* EQ IN switch
+* Overload (OL) indicator: peak indication, preamplifier and equalizer 
+
+'''INPUT'''
+* Microphone: 1k ohms balanced, >80dB CMRR, +17dBu max input before clipping
+* Insert In: 20 k ohms balanced bridging, >40dB CMRR, +21dBu max input before clipping
+* MI: 1 M ohms unbalanced, +8.5dBu maximum input before clipping
+
+'''THROUGHPUT'''
+* Bandwidth: -0.1dB / +0.002dB, <10Hz to >30kHz, worst-case;
+* -3dB, >300kHz and <<10Hz, typical; <0.003% Harmonic distortion, 20Hz to 20kHz, typical: <0.006% SMPTE Intermodulation distortion, typical; 30v/usec discrete low-noise precision operational amplifiers, GML 9202
+* Noise: -80dBu broadband, EQ engaged, typical; -112dBu EIN, MI input; -120dBu EIN, Microphone input (Rs = 150!, 30kHz BW), worst-case; -80dB crosstalk, 20Hz to 20kHz, worst case
+
+'''OUTPUT'''
+* +27.0 dBu clipping
+* < 3 mV output offset, stabilized by DC servo correction, direct coupled
+* Wired pin 2 "hot", 3-wire unbalanced
+
+'''OTHER'''
+* Internal linear power supply, 110V/220V switch, 50/60Hz; +/-28 VDC, +/-18 VDC, +48VDC
+* Approx. power consumption: 28W; 500mA/250V slo-blo fuse installed (110V operation)
+* Separate Ground and Chassis connections at rear
+* 19" W x 1.75" H x 10" D rack mount chassis, black anodized aluminum, silver legend
+* Weight: 11 lbs., approximate; shipping weight may vary
+|}
+
+
+The '''GML 2032''' is a single channel microphone preamp with parametric EQ
+
+{{stub}}
+
+
+[[category:GML|2032]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
