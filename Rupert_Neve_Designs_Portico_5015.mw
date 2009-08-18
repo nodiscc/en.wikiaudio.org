@@ -1,0 +1,114 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Preamp:'''
+* Input:
+* Balanced, using TLA (transformer-like-amplifier) with toroidal, common-mode-rejection, low-pass filter that excludes frequencies above 150kHz.
+* The TLA is followed by an actual input transformer permitting a full +26dBu input signal to be handled at unity gain without an input pad over the whole audio spectrum.
+* Combines the advantages of both an electronically balanced and true transformer input.
+* When the phantom power is disabled, this input serves as a very high-quality line input.
+
+*Input Impedance: 10k ohm &plusmin; 20%
+
+*Noise (measured at main output): Input terminated with 150 ohms, measured over band-limited 22Hz - 22kHz, unweighted with gain at unity: Better than100dBu; with gain at 66dB: better than 62dBu
+
+*Equivalent Input Noise (EIN): Better than 128dBu
+
+'''Frequency Response (main output, no load):'''
+* @ 10Hz, 0.2dB
+* @ 160kHz 3dB
+
+'''Buss Output @ 10 Hz: 0.2 dB @ 160 kHz: 3 dB'''
+* High-Pass Filter: Swept frequency continuously variable from 20Hz to 250Hz.
+* Slope: 12dB/octave.
+
+'''Gain: Switched from unity to +66dB in 6dB steps.'''
+* Trim: Continuously adjustable potentiometer from 6dB to +6dB with reference to setting on the gain switch.
+* Maximum Output Level: Balanced and floating transformer output from 20Hz to 40kHz: +25dBu (clips at just over +26dBu)
+* Mute: Mutes main output only. (Monitor remains live)
+
+'''Total Harmonic Distortion and Noise:'''
+* Main output @ 1kHz, +20dBu output level, and no load: Better than 0.001%
+* (no high order harmonics)
+* SILK Engaged: Approximately 0.2% second harmonic
+* Main Output @ 20Hz, +20dBu output level, and no load: Better than 0.01%
+* Bus Output @ 1kHz, +20 dBu output level, and no load, measured at the output: Better than 0.002%.
+
+*SILK: The 5012 uses mainly single-sided amplifier circuitry that excludes any possibility of crossover distortion. The "SILK" button reduces negative feedback and adjusts the frequency spectrum to provide a very sweet and musical performance.
+
+*Bus Output: The bus output is designed to feed other Portico Series modules with bus inputs.
+
+*Crosstalk (measured channel to channel): Better than 90dB @ 15kHz
+
+*Phantom Power: +48VDC &plusmin; 1%
+
+*Main Power Required: (From External Power Unit) Voltage Range, 9 to 18 Volts DC.
+
+'''Current consumption:'''
+* @ 9VDC = 1.3 A typical
+* @12VDC = 1A typical
+* @15VDC= 800 mA typical
+* @18VDC= 650 mA typical
+
+'''Compressor:'''
+* Gain Range: Continuously variable from 6dB to +20dB
+* Threshold Range: Continuously variable from 36dB to +22dB
+* Ratio Range: Continuously variable from 1.1:1 to limit (40:1)
+* Attack Range: Continuously variable from 20ms to 75ms
+* Release Range: Continuously variable from 100ms to 2.5 sec
+* FF/FB: Feed-forward or feedback VCA control
+
+'''S/C or Link:''' 
+
+Multiple 5043s may be daisy chained via the rear-panel jacks. When an individual channel is engaged, its control voltage appears at the rear panel link jack. When both channels are engaged they are linked together internally and their control voltage also appears at the rear panel link jack.
+
+*Line or Bus input select: Selects rear XLR input or 1/4" bus input jacks to accept Portico series bus outputs.
+
+*Maximum Output Level: Balanced and floating transformer output
+* +25dBu.
+
+*Total Harmonic Distortion and Noise: @ 1kHz, +20 dBu output level, and no load
+* Main output, compressor bypassed: Better than 0.0006%.
+* Main output, compressor engaged: Better than 0.02%
+* Noise (measured at main output, unweighted, 22Hz-22kHz, terminated 40 ohms:
+* With gain at unity, compressor disengaged: Better than 103dBu.
+* With gain at unity, compressor engaged: Better than 92dBu
+
+*Frequency Response (main output, unity gain):
+* @ 18Hz, 3dB.
+* @ 150kHz 3dB.
+
+*Crosstalk (measured channel to channel): Better than 80dB @ 16kHz.
+* Meters: A/B monitors input level and gain reduction of either channel A or channel B
+
+'''Power:'''
+* Voltage Range: 9 to 18VDC, 9W
+* Connector: 5.5mm X 2.5mm DC jack, center positive
+
+'''Current consumption (typical input impedance output impedance):'''
+* @ 9VDC = 1.0A typical
+* @12VDC = 730mA typical
+* @15VDC= 570mA typical
+* @18VDC= 480mA typical
+
+
+|}
+
+
+The '''Rupert Neve Designs Portico 5015''' is a microphone preamplifier and compressor module 
+
+
+{{stub}}
+
+
+[[category:Rupert Neve Designs|Portico 5015]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
