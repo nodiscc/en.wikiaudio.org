@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Input Impedance: Mic In 1500 Ohms
+* Output Impedance: 85 Ohms, Transformer coupled, Balanced
+* Maximum Input Level: +2 dBu, No Pad, +18 dBu, with Pad In Gain: 55 dB max.
+* PAD: 20 dB, 1500/150 ohm load
+* Clipping Level: +28 dBu
+* Frequency Response: 0, -.3, 30 to 20 kHz
+* Noise: Actual Measured Noise: -102 dBu Unweighted, -125 dBu "A"
+* Weighted 20-20KHz
+* Distortion:THD + N:
+**.02% (+4 dB @ 2 KHz),
+**.01% (+15 dB @ 2 KHz),
+**.05% (-15 dB @ 2 KHz)
+* Connectors: .100 spaced ELCO
+* Power Consumption: 16 Volts DC, 40mA max at +24 dBu out 
+|}
+
+The '''API 212L''' is a microphone preamplifier 
+
+
+{{stub}}
+
+
+[[category:API|212L]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
