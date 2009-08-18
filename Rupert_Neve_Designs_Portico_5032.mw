@@ -1,0 +1,54 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Frequency Response: Main Output, no load, 0.2 dB @ 10Hz; 3dB @ 160 kHz
+* Noise: Measured at Main Output, unweighted, 22Hz-22kHz,
+* Terminated 150 ohm.
+* With gain at unity better than 100 dBu
+* With gain at 66 dB better than 62 dBu
+* Equivalent Input Noise better than 128 dBu
+* High Pass Filters: Continuously variable swept frequency from 20 Hz to 250 Hz.
+* Slope: 12 dB/Octave
+* Gain: Unity to +66dB in 6 dB steps,
+* Trim continuously adjustable from 6dB to +6dB
+* Buss Output: Output is designed to feed a Buss-mix Amplifier (ie. Buss inputs on 5043) at the
+* internal system level of -2.5 dBu.
+* Maximum Output Level: Maximum output from 20 Hz to 40 kHz is +25 dBu.
+* Mute: Mutes Main Output only.
+* Total Harmonic Distortion and Noise: @ 1kHz, +20 dBu output:
+* Main Output: Better than 0.001% @ 20Hz, +20 dBu output:
+* Main Output: Better than 0.002%
+* Silk Engaged: Better than 0.2% Second harmonic
+* Equalization:
+* Low Shelving EQ:
+* &plusmin; 15dB boost or cut. Corner frequency 160Hz
+* High Shelving EQ:&plusmin; 15dB boost or cut. Corner frequency 8kHz 16kHz switch selectable
+* Mid Peak EQ: &plusmin; 15dB boost or cut. Continously variable frequency, 80 to 800Hz or
+* 800Hz to 8000Hz switchable
+* Phantom Power: +48 Volts DC &plusmin; 1%
+* Power requirements: Voltage range: 9 to 18 Volts DC
+* Current consumption:
+* @ 9VDC Current is 910 mA typical: Power = 11.7W
+* @ 12VDC Current is 670 mA typical: Power = 12.0 watts
+* @ 15VDC Current is 530 mA typical: Power = 12.0 watts
+* @ 18VDC Current is 450 mA typical: Power = 11.7 watts
+* Connector: 5.5mm X 2.1mm DC jack, Center Positive
+|}
+
+The '''Rupert Neve Designs Portico 5032''' is a single channel microphone preamplifier and equalizer
+
+
+
+{{stub}}
+
+
+[[category:Rupert Neve Designs|Portico 5032]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
