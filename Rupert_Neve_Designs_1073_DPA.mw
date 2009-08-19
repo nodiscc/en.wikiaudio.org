@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Input Impedance:
+**Mic - Switchable, 300 or 1200 ohms
+**Line - 20k ohms
+
+* Frequency Response:
+**60dB gain into 600 ohms 20Hz to 20kHz (+/-0.5dB)60dB gain into 600 ohms 20Hz to 40kHz (-3dB)
+
+* EIN:
+**Mic 60dB gain <-125dB
+
+* THD+Noise: +20dBu into 600 ohms <0.07% (50Hz to 10kHz)
+
+* Dimensions - mm (inches) / kg (lbs)
+**The 1073DPA & DPD are supplied in a 1U, 19” rack-mounting unit.
+**Height: 45 (1.75)
+**Depth: 254 (10)
+**Approx. Weight: 5 (11) 
+|}
+
+
+The '''Neve 1073 DPA''' is a stereo microphone preamplifier.
+
+{{stub}}
+
+
+[[category:Rupert Neve Designs|1073 DPA]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
