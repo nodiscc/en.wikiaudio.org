@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Circuit Topology: Twin cascode FET and bipolar low level signal amplifiers,high-voltage, 100% discrete, symmetrical Pure Class A
+*Input Type and Load:	Transformer balanced low-ratio, 50, 150, 600 and 1k5 ohm input load selection 
+*Maximum Mic Level:	+36dB balanced XLR pin 2 hot (with -20dB passive attenuator)
+*Maximum Instrument Level	+18dB at 100k ohms instrument input level, standard mono 1/4 inch jack
+*Input Attenuator:	-20dB resistive pre transformer primary, sealed silver relay
+*Phantom Power:	+48v regulated 50mA capability, sealed silver relay
+*High Pass Filter:	Passive, variable from 30Hz to 185Hz @ 6dB per octave, sealed silver relay.
+*Polarity Reverse:	Sealed silver relay on microphone input
+*Gain Range Input:	+20dB to +64dB in 4dB steps
+*Gain  Output Range:	+/- 3dB variable conductive plastic potentiometer
+*Maximum Output Level:	+36dB balanced 600 ohms, DC coupled, discrete symmetrical Pure Class A
+*Output Type:	XLR connector, pin 2 hot
+*Noise EIN Unweighted:	-126dB 150 ohm
+*Noise 20kHz Unweighted:	-102dB
+*Distortion THD, IMD:	0.05% nominal
+*Frequency Response -3dB:	1Hz to 120kHz transformer limit
+*System Bandwidth:	DC to 1MHz
+*Output Meter:	High quality, illuminated analog VU meter 0dB = +4dB.
+*Peak Meter:	Bi-color LED's 0dB and +20dB peak detection circuit.
+*AC power supply B2T:	External toroidal 100V to 240V, 50-60Hz selectable,150 watts maximum.
+*Cables:	90V ac, 4 pin male power input connector, B2T required, internal DC regulation 
+*Dimensions:	19 x 12 x 3.5 in (482 x 305 x 89mm)
+*Weight:	15lbs (6.8kg)
+*Dimensions - Shipping Carton:	24 x 21.5 x 7.5 in (610 x 546 x 190mm) 
+*Weight - Packed:	25lbs (11.4kg)
+
+
+|}
+
+The '''Avalon AD2022''' is a dual microphone/instrument preamplifier 
+
+{{stub}}
+
+
+[[category:Avalon|AD2022]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
