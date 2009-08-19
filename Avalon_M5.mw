@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Circuit Topology:	Twin cascode FET and bipolar low level input signal stages. High-voltage,100% discrete, symmetrical high-bias Pure Class A amplifiers.
+*Input Type and Load:	Superior transformer, balanced low-ratio 1500 ohm input load.
+*Maximum Mic Level:	+36dB balanced XLR pin 2 hot (with -20dB passive attenuator).
+*Maximum Instrument Level	+30dB balanced 600 ohms, DC coupled, discrete Class A.
+*Input Attenuator:	-20dB resistive pre transformer primary, sealed silver relay.
+*Phantom Power:	+48v regulated 50mA capability, sealed silver relay.
+*High Pass Filter:	Passive, variable from 30Hz to 185Hz @ 6dB per octave, sealed silver relay.
+*Polarity Reverse:	Sealed silver relay on  microphone input.
+*Gain Range Input:	+20dB to +64dB in 2dB steps.
+*Maximum Output Level:	+30dB unbalanced 600 ohms, DC coupled, discrete symmetrical Pure Class A.
+*Output Type:	XLR connector, pin 2 hot (optional balanced JT-1 transformer).
+*Noise EIN Unweighted:	-126dB 150 ohm.
+*Noise 20kHz Unweighted:	-100dB
+*Distortion THD, IMD:	0.05% nominal
+*Frequency Response -3dB:	1Hz to 120kHz transformer limit.
+*System Bandwidth:	DC to 1MHz
+*Output Meter:	High quality, illuminated analog VU meter 0dB = +4dB.
+*Peak Meter:	Bi-color LED's 0dB and +20dB peak detection circuit.
+*M5 Dimensions:	8.5 x 3.5 x 12 in (216 x 88 x 305mm) half rack width.
+*Weight:	15lbs (6.8kg)
+*Dimensions of Shipping Carton:	24 x 21.5 x 7.5 in (610 x 546 x 190mm)
+*Weight-Packed:	25lbs (11.4kg) includes B2T power supply and cables.
+*AC power supply B2T:	External toroidal 100V to 240V, 50-60Hz selectable,
+150 watts maximum.
+*Cables:	1 x 8ft 4 pin ac cable, 1 x 8ft standard IEC cable included.
+*Dimensions:	5 x 7 x 3.25 in (127 x 177 x 83mm)
+*Weight:	7lbs (3.2kg)
+*Rack mount kit (1) RM-1:	Single M5 19 inch rack mount kit (holds one half rack unit).
+*Rack mount kit (2) RM-2:	Dual M5 19 inch rack mount kit (holds two half rack units).
+|}
+
+The '''Avalon M5''' is a Class A microphone and instrument preamplifier 
+
+{{stub}}
+
+
+[[category:Avalon|M5]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
