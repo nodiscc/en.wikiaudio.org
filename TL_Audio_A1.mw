@@ -1,0 +1,56 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Mic Input:'''
+*Discrete Class A circuitry from input to output (unless Tube stage In).
+*Gain Range: +16dB to +60dB (-14dB to +30dB with pad)
+*Maximum Input level: +10dBu (without pad), +30dB (with pad)
+*Frequency Response: 10Hz to 40KHz, +0, -0.5dB, @ 40dB gain
+*Distortion (THD + Noise): 0.025%, 20Hz to 20KHz @ 40dB gain
+*Noise (EIN): -127dBu unweighted, 22Hz to 22KHz, 150 ohm source termination.
+'''Instrument Input:'''
+*Tube input stage, plus discrete Class A circuitry to output.
+*Gain Range: +8dB to +40dB (“High”), -10dB to +22dB (“Low”)
+*Input Impedance: 1Mohm (“High”), 70Kohm (“Low”).
+*High Pass Filter: -3dB @ 90Hz, second order.
+'''Output Gain:'''
+*Maximum Gain +15dB.
+'''Output:'''
+*Maximum Level: +22dBu (2Kohm load), +26dBu (10Kohm load)
+*Noise at minimum gain: -90dBu (22Hz to 22KHz).
+* Tube Stage:
+*Typical Distortion: 1% to 10%, depending on “Drive” level, predominately second harmonic.
+*Noise: -80dBu (22Hz to 22KHz), output gain @ 0dB.
+'''Metering:'''
+*Tube “Drive” LED: Variable intensity over 10dB level range, typically corresponding to 1% to 5% THD.
+*Tube “Peak” LED: Dependant on level and drive, typically corresponding to 10% THD.
+*Output “Peak” LED: +19dBu on output. VU Meter: Switchable to Channel 1 or 2, and Input or Ouput.
+*Nominal calibration: 0VU = +4dBu. +10dB switch calibration: 0VU = +14dBu.
+'''Power Requirements:'''
+*Internally set to 230V 50Hz or 115V 60Hz operation
+*Detachable IEC power cord
+*Power consumption 34VA.
+'''Dimensions:''' 
+*2U, rack mounting or free-standing.
+*W x H x D = 483mm x 88mm x 200mm (19.0” x 7.9” x 3.5”), behind front panel.
+|}
+
+
+The '''TL Audio A1''' is a Discrete Class A Dual preamp with an optional Tube stage
+
+
+
+{{stub}}
+
+
+[[category:TL|Audio A1]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
