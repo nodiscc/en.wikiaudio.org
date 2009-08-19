@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Input Impedence'''
+
+*     Microphone    Selectable, 150/300/900/1500 Ohm
+*     Balanced Line     2KOhm
+*     Instrument    100KOhm
+
+'''Maximum Input Level'''
+
+*     Microphone (1500Ohm, +20dB Pad out)     +5dBu
+*     Microphone (1500Ohm, +20dB Pad in)     +25dBu
+*     Balanced Line     +30dBu
+*     Instrument     +30dBu
+
+'''Gain Range'''
+
+*     Microphone (1500Ohm, +20dB Pad out)    18dB to 72dB
+*     Balanced Line     -12dB to 40dB
+*     Instrument    -5dB to 42dB
+*     Noise Floor (all inputs, minimum gain)     -95dBu (A-weighted)
+*     Microphone Equivalent Input Noise (EIN)    -125dBu (A-weighted)
+*     Frequency Response    10Hz to 45KHz +/- 1dB
+*     Maximum Output Level    +23dBu (@ 0.5%THD+N)
+*     Output Impedance    600 Ohm
+*     Tube Complement (per channel)    1-12AT7A, 2-6922
+
+'''General'''
+
+*     Input Voltage (factory configured)     115 or 230 VAC / 100Watts
+*     Dimensions     3.5" (H) X 17.0" (D) X 19.0" (W)
+*     Weight     28 lb
+|}
+
+
+The '''Presonus ADL600''' is a high voltage microphone preamplifier 
+
+
+{{stub}}
+
+[[category:Presonus|ADL600]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
