@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* INPUT: The input is electronically balanced with an input impedance of 10 k
+* OUTPUT: +4 dBu corresponds to 0 VU.. Output impedance is 50. The recommended output load is 50 or more. Maximum output level is +32 dBu. 
+* DISTORTION: 0.05%, at +4 dBu (unweighted) 
+* FREQUENCY RESPONSE: 5 Hz to 100 kHz 
+* NOISE: Better than -80 dB relative to 0 VU 
+* HIGH FREQUENCY ATTENUATE: 2, 3, 4, 5, 8,1 0, 16 y 20 kHz; 0 to -17 dB 
+* MID – HIGH FREQUENCY BOOST: 1, 1.5, 2,  3, 4, 5, 8, 10, 12, 14 y16 kHz; 0 to 20 dB 
+* LOW FREQUENCY BOOST: 20, 30, 60, 100, 180 Hz; 0 to 16 dB 
+* LOW FREQUENCY ATTENUATE: 20, 30, 60, 100, 180 Hz; 0 to -20 dB 
+* PANEL SIZE: Standard 19" by 3.5" (2 units of rack space) 
+* DEPTH: 10.5" in addition to user's I/O cabling 
+* Fully transformerless 
+* All tube, short signal path design 
+* Custom toroidal power transformer with shield for minimum hum 
+* Gold-plated Neutrik XLR I/O connectors  switch contacts, and ceramic tube sockets 
+* Transformerless tube output stage.
+* Single-sided audio pc boards to minimize capacitive interaction
+|}
+
+
+The '''Edax Audio Labs EQP-2E''' is a dual channel tube equalizer 
+
+{{stub}}
+
+
+[[category:Edax Audio Labs|EQP-2E]]
+
+[[category:Equalizers]]
+[[category:outboard processors]]
