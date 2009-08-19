@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Microphone Input: Gain +80db to +20dB in 5dB steps.
+* Line Input: Input impedance 10,000W bridging, gain +20dB to -10dB in 5dB steps.
+* Output: Maximum output is >+26dBu into 600W.
+* Output is transformer balanced and earth free.
+* Distortion: Not more than 0.07% from 50Hz to 10kHz at +20dBu output.
+* 80kHz bandwidth) into 600W.
+* Freq Response: +/-0.5dB 20Hz to 20kHz, -3dB at 40kHz. EQ Out
+|}
+
+
+The '''Neve 1073''' is a mono microphone preamplifier and three band equalizer 
+
+{{stub}}
+
+
+[[category:Rupert Neve Designs|1073]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
