@@ -1,0 +1,49 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*'''Total Harmonic Distortion and Noise:''' @ 2 kHz, +20 dBu output level, unity gain. Main Output, *Width bypassed: Better than 0.0015%. Main Output, Width engaged: Better than 0.0015%.
+
+*'''Noise:''' Measured at Main Output, un-weighted, 22Hz-22 kHz, Terminated 40 Ohms. With Gain at *Unity, Width disengaged: Better than ˇ˝100 dBu. With Gain at Unity, Width engaged: Better than ˇ˝96 dBu.
+
+*'''Frequency Response:''' Main Output, Unity Gain @ 18 Hz, ˇ˝3 dB. @ 150 kHz ˇ˝3 dB.
+
+*Crosstalk Measured Channel to Channel, Width disengaged: Better than ˇ˝100 dB @ 16 kHz. *'''Insert:''' The Insert is only active within the WIDTH circuit when it is engaged. The SEND carries the Left-Right difference information only (pre-EQ). Return is half-normaled.
+
+*'''Total Harmonic Distortion and Noise:''' @ 2 kHz, +20 dBu output level. Better than 0.0015%. 
+
+*'''Frequency Response:''' Main Output, Unity Gain 10Hz ˇ˝ 100 kHz, +/- 0.50 dB.
+
+'''SEND''' 
+
+*'''Maximum Output Level:''' Balanced TRS +28 dBu. Unbalanced +22 dBu.
+
+*'''Send Amplifier Noise:''' Un-weighted, 22Hz-22kHz, E.I.N. (Equivalent input noise, Terminated 40 Ohms -100 dB
+
+'''RETURN'''
+
+*Maximum Input Level: Transformer balanced, floating +25 dBu. Input Impedance: >10K Ohms 5014 *Power Requirements: Voltage Range, 9 to 18 Volts DC, 12 Watts
+
+*'''Connector:''' 5.5mm X 2.5mm DC jack, Center Positive 
+
+*'''Current consumption:''' @ 9VDC = 1.25 A typical @12VDC = 1000 mA typical @15VDC= 780 mA typical @18VDC= 643 mA typical
+
+*External 15V Supply included with every Portico Series module. 
+
+|}
+
+The '''Neve Portico 5014''' is a stereo field editor and equalizer intended for recording,mixing and mastering applications 
+
+{{stub}}
+
+[[category:Rupert Neve Designs|Portico 5014]]
+
+[[category:outboard processors]]
+
+[[category:equalizers]]
