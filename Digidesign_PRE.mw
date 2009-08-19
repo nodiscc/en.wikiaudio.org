@@ -1,0 +1,53 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Input Stage'''
+
+* Circuit Topology: Discrete Matched Transistor Hybrid
+* Input Gain: 0 dB to +69 dB in ~3 dB steps, with -18 dB pad engaged; -18 dB to +51 dB
+* Maximum Input Level: +47 dBu, pad in, @ 1 kHz, < 0.1% THD
+* Mic E.I.N (unweighted): -128 dB @ 66 dB gain (20 Hz to 20 kHz) 150 ohm
+* THD+N: < 0.0005% @ 1 kHz, 0 dB gain @ 20 dB signal; < 0.001% (20 Hz to 20 kHz), 0 dB gain @ 0 dB signal
+* CMMRR: < -75 dB @ 1 kHz, 140 mVcm, +6 dB gain
+* Crosstalk: < -90 dB (20 Hz - 20 kHz)
+* Frequency Response: ±0.1 dB; 20 Hz to 20 kHz, @ +48 dB gain
+* Input Impedance (Input Z): 1.5 kohm (low); 15 kohm (mid); 1.5 Mohm (high)
+* Phantom Power: 48V +/- 1V
+* High Pass Filter: -3 dB @ 85 Hz, 18 dB/octave
+* Maximum Output Level: +29 dBu, balanced, @ 1 kHz, < 0.1% THD
+
+'''Output Stage'''
+
+* Maximum Output: +26 dBu, balanced; 600 ohms, DC-coupled
+* Output Impedance: ~50 ohms
+* Nominal Level: +4 dBu
+* Trim level: -10 db
+* Remote Mode: MIDI, IN/OUT/THRU
+
+'''Dimensions'''
+
+* Width: 19 in / 48.26 cm
+* Height 3.5 in / 8.89 cm
+* Depth: 15.63 in / 39.69 cm
+* Weight: 14.53 lbs / 6.59 kg 
+
+|}
+
+
+The '''Digidesign PRE''' is an 8 channel microphone preamplifier for Digideisgn Pro Tools
+
+
+{{stub}}
+
+
+[[category:Digidesign|PRE]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
