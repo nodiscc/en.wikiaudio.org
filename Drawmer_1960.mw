@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* INPUT IMPEDANCES
+**LINE 20K Ohm
+**MIC 150 Ohm to 600 Ohm
+**AUX 2.2M Ohm
+* MIC INPUT NOISE -128.5dB (@ +60dB gain)
+* MAXIMUM INPUT LEVEL +20dBu
+* OUTPUT IMPEDANCE 50 Ohm
+* MAXIMUM OUTPUT LEVEL +22dBm (balanced)
+* BANDWIDTH <10Hz to 22KHz -1dB
+* COMPRESSOR NOISE AT UNITY GAIN
+**Wideband        22Hz - 22KHz       CCIR ARM      IEC A      Q-Pk CCIR
+**AV             -82dB                 -88dB                -88dB          -91dB          -77dB
+**RMS          -81dB                 -87dB                -87dB          -90dB              -
+* DISTORTION (THD & NOISE)    @          1KHz
+**Line Input with BYPASS selected          < 0.1%
+**Line Input with NORMAL selected          < 0.3%
+* POWER REQUIREMENTS 100-120Volt or 195-250Volt at 50-60Hz, 38 Watts
+* FUSE RATING 250mA for 240Volt, 500mA for 120Volt 
+**CONFORMING TO BS EN 60127-2:1991 SHEET III
+* FUSE TYPE 20mm x 5mm, Class 3 Slo-Blo, 250Volt working
+* CASE SIZE 482mm (w) x 88mm (h) x 250mm (d)
+* WEIGHT (incl packaging) 6.0 Kgs
+* RELEASE TIMES
+**1 400 ms
+**2 1 sec
+**3 2 sec
+**4 4 sec
+**5 Automatic 400 ms to 2 sec signal dependant
+**6 Automatic 200 ms to 20 sec signal dependant
+|}
+
+
+The '''Drawmer 1960''' is a dual channel compressor preamplifier module 
+
+
+{{stub}}
+
+
+[[category:Drawmer|1960]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
