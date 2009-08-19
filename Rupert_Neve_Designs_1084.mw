@@ -1,0 +1,25 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Output: Maximum output is >+26dBu into 600W. Output impedance is 75W @1kHz
+* Output is transformer balanced and earth free.
+* Distortion: Not more than 0.07% from 50Hz to 10kHz at +20dBu output
+* Freq Response: +/-0.5dB 20Hz to 20kHz, -3dB at 40kHz. EQ Out.
+* Noise: Not more than -83dBu at all Line gain settings EQ In/Out
+|}
+
+The '''Neve 1084''' is a modular microphone preamplifier and equalizer 
+
+{{stub}}
+
+[[category:Rupert Neve Designs|1084]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
