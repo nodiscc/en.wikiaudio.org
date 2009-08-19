@@ -1,0 +1,36 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Frequency Response: ±0 dB 10 Hz to 20 KHz
+* <0.05% THD @ 1Khz S/N ratio: 103dB
+* EIN: -124dB
+* Gain: 38dB to 53dB (adjustable)
+* MIC Input Impedance: 2400ohm BALANCED TRANSFORMER COUPLED
+* DIRECT Input Impedance: 23Kohm UNBALANCED 1/4"
+* Output Impedance: 11ohm XLR, 6ohm 1/4" all-discrete outputs
+* Maximum output: +31dBv 
+* Power Consumption (120/240 VAC): 12 watts
+* Factory set for 100V, 120V or 220-240VAC operation for original destination country's mains voltage.
+* Operating Mains Voltage changeable with power transformer changeover switch and fuse value change.
+* Mains Voltage Frequency: 50~ 60Hz
+* Dimensions: 19" X 1 3/4" X 10" (occupies 1u)
+* Shipping Weight: 9 lbs.
+|}
+
+
+The '''Langevin Dual mic pre''' is a dual microphone preamplifier 
+
+{{stub}}
+
+
+[[category:Langevin|Dual mic pre]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
