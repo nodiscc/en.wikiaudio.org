@@ -1,0 +1,53 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Inputs:       Balanced XLR Mic jack (rear) 
+* Un-Balanced 1/4" Instrument jack (front)
+* Outputs:       Balanced XLR and 1/4" parallel jacks
+*  Microphone Input
+**Max Gain:       +55db (no pad), +36db (w/pad)
+**Min Gain:       +9db (no pad), -10db (w/pad)
+*  Pot Gain Range:       46db
+*  Pad:       -20db
+*  Input Impedance:       6.8K Ohms
+*  Bandwidth:       +/- 0.5db, 20Hz - 50kHz
+*  THD+N @ 1kHz, +4dbu:       0.013%
+*  Maximum Level:       +20dbu
+*  Signal-to-Noise Ratio:       -90db
+*  Instrument Input
+**Max Gain:       +31db (no pad), +21db (w/pad)
+**Min Gain:       +10db (no pad), 0db (w/pad)
+*  Pot Gain Range:       21db
+*  Pad:       -10db
+*  Input Impedance:       500K Ohms
+*  Bandwidth:       +/- 0.5db, 20Hz - 20kHz
+*  THD+N @ 1kHz, +4dbu:       0.002%
+*  Maximum Level:       +20dbu
+*  Signal-to-Noise Ratio:       -80db
+*  Current:       65mA, 7.3VoltAmps
+*  Dimensions:       2U EIA 19" Rack
+*  Height:       3.5 Inches
+*  Width:       19 Inches
+*  Depth:       10 inches
+*  Weight:       12 lbs 
+|}
+
+
+The '''Arsenal Audio R20''' is a two channel microphone/instrument microphone preamplifier 
+
+
+
+{{stub}}
+
+
+[[category:Arsenal Audio|R20]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
