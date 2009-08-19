@@ -1,0 +1,134 @@
+'''BUILDING A MIDI TRIGGERED FX BOX IN REAKTOR'''
+
+In this exercise, you will learn how to build an FX box, that is MIDI note triggered by using a simple button and a crossfade. When you play a MIDI note, audio will pass through the effect, when the note is released audio passes through dry. The end result can by multiplied as many times as you like to create a complex FX box in series, that is triggered by MIDI notes. First, we'll build the basic structure.
+
+
+
+
+
+
+
+'''Step 1:''' Open Reaktor
+
+'''Step 2:''' Make sure your Audio/MIDI settings are all set ok by going to System>Audio/MIDI Setup and choosing the your soundcard and MIDI input settings.
+
+First thing you see is an empty ensemble. If not, choose File>New Ensemble.
+
+In the window titled "Panel" you should see a thin bar that says 'Ensemble'. An ensemble contains one or many instruments that make up your device.
+
+'''Step 3:''' Control-click the empty background of your ensemble
+
+'''Step 4:''' Choose Instrument>New 2in2out 
+
+'''Step 5:''' Double-click the empty background of ensemble
+
+'''Step 6:''' Cable the Audio Ins to the instrument
+
+'''Step 7:''' Cable the Outs from the instrument to the Audio out 1-2
+
+'''Step 8:''' Control-click the instrument and choose properties
+
+'''Step 9:''' In the Label text field, name the instrument 'My Fx Box' in the label area and close the properties window
+
+'''Step 10:''' Double-click the instrument
+
+'''Step 11:''' Delete the "Voice Combiners" which are the boxes with a "}" symbol (these are only necessary if you plan to use this fx box as part of a reaktor polyphonic synthesizer)
+
+'''Step 12:''' Control-click the background and choose Macro>New 2in2out
+
+'''Step 13:''' Control-click the Macro, choose properties and name the macro FX 1 in the label section and close the properties
+
+'''Step 14:''' Copy the Macro 1 times by selecting the Macro and pressing command+d 
+
+'''Step 15:''' Name the copied Macro in the properties and label it 'crossfade'.
+
+'''Step 16:''' Double-click the Crossfade Macro to enter it and then control-click the background and choose Built-In Module>Signal Path and choose Crossfade
+
+'''Step 17:''' Double-click the Crossfade and change the 'Min Number of Port Groups to say 2 and change the 'curve' to linear
+
+'''Step 18:''' Label the ports DL/R and WL/R as indicated in the picture below
+
+'''Step 19:''' Control-click the background and choose Built-in module>Panel>Button
+
+'''Step 20:''' Connect the button to the crossfade, double-click the button and change the button from Toggle to Gate
+
+'''Step 21:''' Create two inputs for the 'wet' signal by right-clicking the background and choosing Built-in Module>Terminal>In and then it by control-clicking and selecting duplicate. Name them WL and WR
+
+[[image:Reaktor_BUILDING_A_MIDI_TRIGGERED_FX_BOX_IN_REAKTOR_image_1.png‎]]
+
+'''Step 22:''' Connect the WL and WR inputs to the crossfade WL and WR.
+
+'''Step 23:''' Control click a crossfade module and choose 'set selection to mono'. This doesn't make the audio mono, but simply reduces cpu load since we won't be using a polyphonic synthesizer with this fx box.
+
+'''Step 24:''' Go back to the panel to organize things by clicking on the 'panel' button at the top of the instrument [[image:Reaktor_panel_button.png‎ ]]
+
+'''Step 25:'''  Control click the ensemble header (My FX Box) and choose 'unlock' to unlock the panel so that you can move the objects around and move the 'crossfade' frame with the button inside of it to the right.
+
+[[image:Reaktor_unlock_window.png]]‎
+
+[[image:Reaktor_Panel_window.png‎ ]]
+
+'''Step 26:''' Lock the panel by clicking the wrench icon. This prevents items from being moved now that you've placed them.
+
+'''Step 27:''' Double-click the background of the ensemble to get back to the instrument structure
+
+'''Step 28:''' Double-click FX1 macro 
+
+'''Step 29:''' Right-click and choose Macro>Building Blocks>Effects and select any effect (try the "Dual Sync Delay")
+
+'''Step 30:''' Connect the effect you created to the macro's inputs and outputs.
+
+'''Step 31:''' Double-click the background of the panel to jump out one level and connect the modules as depicted in the picture below.
+
+
+[[image:Reaktor_FX_modules_1-MIDI_controlled_efx_box_tutorial.png‎ ]]
+
+
+'''Step 32:''' Control click the FX module and make it 'mono', then control-click the Crossfade module and make it mono. The yellow boxes should turn orange.
+
+
+[[image:Reaktor_FX_modules_2-MIDI_controlled_efx_box_tutorial.png_.png‎ ]]
+
+
+
+'''Step 33:''' Click the panel button [[image:Reaktor_panel_button.png‎ ]]  , and arrange the panel by clicking the wrench icon to unlock it and move your effect macros around by grabbing the outlined border of the fx so that it doesn't overlap your button. See the picture below. Then lock the panel when through by clicking on the wrench icon.
+
+
+[[image:Instrument_image_3_BUILDING_A_MIDI_TRIGGERED_FX_BOX_IN_REAKTOR.png‎]]
+
+
+'''Step 34:''' Right-click button #1, select MIDI learn and play a note on your MIDI keyboard or press a key on your laptop QWERTY keyboard to learn a note to trigger an effect.
+
+'''Step 35:''' Choose File>Save
+
+'''Step 36:''' Open Logic, instantiate a 'Software Instrument' and load Reaktor in it.
+
+'''Step 37:''' Drag the ensemble you saved onto the Reaktor plug-in interface.
+
+'''Step 38:''' Create an audio track and add an Apple Loop to it.
+
+'''Step 39:''' Change the 'output' in the I/O of the audio channel strip to 'no output'.  Since the Audio track channel is set to 'no output', you'll only hear the audio that we will send through Reaktor in the next step.
+ 
+'''Step 40:''' Feed audio into Reaktor's sidechain input, record enable the Software Instrument with Reaktor on it and trigger your fx box with the MIDI note you assigned when designing the instrument.
+
+
+
+[[Image:Reaktor-Logic screenshot.png]]
+
+
+What makes this simple ensemble very fun, is to use several fx in series and trigger them with different notes. You've already built the basic structure, so just duplicate it 'x' number of times, replace the effect inside the FX macro, arrange the panel display and MIDI learn notes to the buttons. 
+
+See the pictures below to get the idea.  If button 1 is down, then audio passes through fx 1. If button 1 and 2 are down, then audio passes through fx 1 then 2, etc.
+
+
+
+[[Image:Reaktor FX blocks 1.png]]
+
+Be sure to label things in the structure (macros, buttons, etc) before adjusting the panel to make it easy. See labeled panel below.
+
+[[Image:Reaktor instrument for Building a MIDI triggered FX Box tutorial.png]]
+
+
+[[category:tutorials]]
+[[category:Logic]]
+[[category:Reaktor]]
