@@ -1,0 +1,72 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Impedance'''
+
+* Input, Mic. Preamp:     >1,2 kohm
+* Input, DI:     1 Mohm/82pF
+* Output:     < 60 ohm
+
+'''Frequency response''' @ -3 dB:     15 Hz to 80 kHz
+
+'''Distortion''' THD+N @ 40 Hz
+
+* 0 dBu:     < 0,10 %
+* +10 dBu:     < 0,10 %
+
+'''Noise''' Rg=200 ohm
+* Output Gain @     20 dB     60 dB
+* 22 Hz-22 kHz:     < -82 dBu     < -60 dBu
+* CCIR-468-4:     < -72 dBu     < -50 dBu
+
+'''CMRR''' @ 10 kHz:     < -60 dB
+
+'''Max. output''' @ 1 % THD+N:     > +26 dBu
+
+'''Gain'''
+* Mic. Preamp:     20 dB to 70 dB
+* DI:     10 dB to 60 dB
+
+'''Compressor'''
+* Ratio:     1,5:1 to 10:1
+* Threshold:     off to -20 dBu
+* Attack:     1 ms to 100 ms
+* Release:     60 ms to 2 s
+
+'''Tubes'''
+* ECC 81     3 pcs
+* ECC 82     1 pcs
+* ECC 83     3 pcs
+
+'''Dimensions'''
+* Height:2 units     88 mm     3,5"
+* Width:     483 mm     19,0"
+* Depth:     205 mm     8,1" 
+
+'''Weight'''
+* Net:     5,5 kg     12,1 lbs.
+* Shipping:     6,9 kg     15,2 lbs.
+
+'''Power requirements''' @ 115 V/230 V, 50-60 Hz:     30 W
+
+
+|}
+
+
+The '''Tubetech MEC 1A''' is a microphone preamplifier , EQ and compressor
+
+
+{{stub}}
+
+
+[[category:Tubetech|MEC 1A]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
