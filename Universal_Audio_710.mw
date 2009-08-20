@@ -1,0 +1,98 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Twin-Finity™ Tone-Blending Mic/Line Preamp & Hi-Z Instrument DI
+* Dual-Path 310 volt Class-A Tube and Transimpedance Solid State Preamp
+* Phase-Aligned "Tone-Blending" of Tube and Solid State
+* Dual Gain Stages: Wire with Gain to Creamy to Crunchy
+* Discrete JFET DI with 2.2M ohm Ultra Hi-Z impedance
+* Monolithic Balanced Output Stage
+* 70dB+ of gain, +48V Phantom, Pad(-15dB), Phase Invert, and Low Cut Filter(75Hz)
+* Output and "Drive" backlit VU metering
+* Portable, Rack-Mountable design for Studio, Desktop or Stage
+* 19" Rack Kit Included, Optional Desktop Handle Kit also available
+* Front Panel Hi-Z Input (switched from Mic/Line automatically via Jack Detect)
+* Rear Panel XLR Mic Input, XLR Line Input and XLR Line Output
+* Universal Internal Power Supply
+* Heavy-Duty Metal Construction, Designed and Made in the USA
+
+'''TECHNICAL SPECIFICATIONS'''
+*General
+*Inputs
+
+* Microphone (Female XLR)
+* Balanced Line (Female XLR)
+* Unbalanced Instrument (1/4" jack) (D.I.)
+
+'''Outputs'''
+
+* Balanced Line (Male XLR)
+
+'''Type'''
+
+* Tube & Solid-State Phase-Aligned Tone-Blending Mic Pre & DI
+
+* Tube Complement 12ax7
+* Pad -15dB
+* High Pass Filter 75Hz
+* Maximum Power Consumption
+**160mA @120VAC
+**20W
+* Power Requirements 100-240VAC
+* Dimensions 8.45W x 3.5H x 10.25D
+* Weight 5.25 lb
+
+'''Impedance'''
+
+* Mic Input Impedance 2K ohms
+* Line Input Impedance 10K ohms
+* Hi-Z Input Impedance 2.2M ohms
+* Internal Output Impedance 600 ohms
+
+'''Gain/Levels'''
+
+* Gain Range for Unit -Infinity to 70dBu
+* Mic Range Gain Pot 10 ~ 60 dBu
+* Line Range Gain Pot -10 ~ 40 dBu
+* Hi-Z Range Gain Pot -10 ~ 40 dBu
+* Maximum Mic Input Level Gain @min SS +18 dBu
+* Maximum Mic Input Level Gain @min Tube 1% THD -7 dBu dBu +8 dBu w/pad
+* Maximum Line Input Level Gain @ Min SS +30
+* Maximum Line Input Level Gain @ Min Tube 1% THD +8 dBu
+* Maximum Hi-Z Input Level Gain Min SS +18
+* Maximum Hi-Z Input Level Gain Min Tube 1% THD +8 dBu
+* Maximum Output Level into 600 ohms +18 dBu
+* Maximum Output Level into 100k ohms +28 dBu
+* Tube Clipping Level Same as Max In
+* Solid-State Clipping Level Same as Max In
+
+'''Frequency Response'''
+
+* Mic Frequency Response 20Hz to 100kHz +/- 0.2 dBu
+* Line Frequency Response 20Hz to 100kHz +/- 0.2 dBu
+* Hi-Z Frequency Response 20Hz to 100kHz +/- 0.2 dBu
+
+'''Distortion'''
+*Min THD+Noise @ +4dBU 0.1% tube 0.005% solid-state
+
+|}
+
+
+The '''Universal Audio 710''' is a microphone preamplifier and DI
+
+
+
+{{stub}}
+
+
+[[category:Universal Audio|710]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
