@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Mic Input:'''
+*Impedance: > 1.5k. Switchable input gain 20-50dB in 10dB steps, with + / - 12dB variable trim control.
+*Input noise (EIN): -122dBu (22Hz to 22kHz).
+*Distortion at 20dB of gain and 0dBu output: 0.05%.
+*Max input level: +6dBu. Balanced XLR connector.
+'''Instrument Input:'''
+*Impedance 50k.
+*Nominal sensitivity for 0dBu output: -35dBu.
+*Unbalanced jack connector.
+'''Output:'''
+*Balanced output impedance: < 10. Max level: +22dBu into 600. XLR connector.
+*Unbalanced output impedance: 47. Max level: +20dBu into 10k. Jack connector.
+*Frequency response: 30Hz to 40kHz +0 / -2dB.
+*Power supply: 110-120v or 220-240v AC.
+*Power consumption: 35VA typical.
+*Dimensions: 483 x 205 x 88mm (19" 2U)
+*Weight: 6 kg.
+*Shipping Weight: 7 kg. 
+
+|}
+
+The '''{{PAGENAME}}''' is a 2-Channel [[Pentode]] Tube Preamplifier
+
+
+{{stub}}
+
+
+[[category:TL Audio|PA-1]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
