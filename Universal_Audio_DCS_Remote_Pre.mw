@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Frequency Response 4Hz to 150kHz, +0/-3dB
+* Distortion 0.002%, 1kHz, 40dB gain, +14dBu out
+
+'''Microphone Inputs'''
+
+* Connection XLR balanced, transformer-less
+* Impedance 2 k ohms
+* Noise -130dBu EIN, 50 ohms 20Hz to 20kHz, 69 dB gain
+
+'''Direct Inputs'''
+
+* Connection TRS balanced or TS unbalanced, transformer-less
+* Impedance 4 M ohms balanced, 2 M ohms unbalanced
+* Noise -102dBu EIN, 50 ohms 20Hz to 20kHz, 42 dB gain
+
+
+|}
+
+
+The '''Universal Audio DCS Remote Pre''' is a dual microphone preamplifier combined with a DAW control interface
+
+
+
+{{stub}}
+
+
+[[category:Universal Audio|DCS Remote Pre]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
