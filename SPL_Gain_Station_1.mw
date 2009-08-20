@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Frequency response (Clean Gain 30dB, Tube Gain off, output level 0dB, +/- 0.5dB): ‹1Hz-125kHz
+* Frequency response (Clean Gain 30dB, Tube Gain off, output level 0dB, +/- 3dB): ‹1Hz-310kHz
+* Frequency response (Clean Gain 30dB, Tube Gain 1dB, output level 0dB, +/- 0.5dB): ‹1Hz-125kHz
+* THD+N (Clean Gain 24dB, Tube Gain off, output level +6dB, 20-22kHz, +25dBu out): 0.0005%
+* THD+N (Clean Gain 23dB, Tube Gain 1dB, output level +6dB, 20-22kHz, +25dBu out): 0.032%
+* Noise (Clean Gain 10dB, Tube Gain off, output level 0dB, 20-22kHz, A-weighted) -95.4dBu
+* Noise (Clean Gain 30dB, Tube Gain off, output level 0dB, 20-22kHz, A-weighted)-91.8dBu
+* Noise (Clean Gain 60dB, Tube Gain off, output level 0dB, 20-22kHz, A-weighted):-67.2dBu
+* Noise (Clean Gain 20dB, Tube Gain 10dB, output level 0dB, 20-22kHz, A weighted): -86.4dBu
+* EIN (Clean Gain 60dB, Tube Gain off, output level 0dB, 20-22kHz, A-weighted,40Ohm): 127.2dB
+* Dynamic response (20-22kHz, A-weighted): ›130dB
+* Common Mode Rejection (Clean Gain 30dB, Tube Gain off, 1kHz, Input -30dBu, output level 0, w/o transformer): ›80dB
+* Maximum Output Level: +34dBu
+* Max. Input Level (Mic Input, Hi-Z Input): +17dBu
+* Input Impedance (Instrument input): ›1MOhm
+* Output impedance: ›75Ohm
+* Slew Rate (Clean Gain 30dB, Tube Gain off, Output Level +6dB): ›40V/µs
+* Phantom power: 48V +/-2V
+* Power consumption (w/0 AD-Converter): 25W
+|}
+
+
+
+The '''SPL Gain Station 1''' is a microphone preamplifier 
+
+{{stub}}
+
+
+[[category:Ridge Farm|Gas Cooker]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
