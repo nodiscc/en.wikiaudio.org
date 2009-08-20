@@ -1,0 +1,65 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Impedance'''
+
+* Input, Mic. Preamp:     >1,2 kohm
+* Input, DI:     1 Mohm/82pF
+* Output:     < 60 ohm
+
+'''Frequency response @ -3 dB:'''     5 Hz to 60 kHz
+
+'''Distortion''' THD+N @ 40 Hz
+* 0 dBu:     < 0,20 %
+* +10 dBu:     < 0,20 %
+
+'''Noise''' Rg=200 ohm
+* Output Gain @     20 dB     60 dB
+* 22 Hz-22 kHz:     < -85 dBu     < -60 dBu
+* CCIR-468-4:     < -75 dBu     < -50 dBu
+
+'''CMRR''' @ 10 kHz:     < -60 dB
+
+'''Max. output''' @ 1 % THD+N:     > +26 dBu
+
+'''Gain'''
+* Mic. Preamp:     0 dB to 70 dB
+* DI:     10 dB to 60 dB
+
+'''Tubes'''
+* ECC 82     2 pcs
+* ECC 83     4 pcs
+
+'''Dimensions'''
+* Height:2 units     88 mm     3,5"
+* Width:     483 mm     19,0"
+* Depth:     165 mm     6,5"
+
+'''Weight'''
+* Net:     4,3 kg     9,5 lbs.
+* Shipping:     6,1 kg     13,4 lbs.
+
+'''Power requirements'''
+@ 115 V/230 V, 50-60 Hz:     30-45 W
+
+
+|}
+
+
+The '''Tubetech - MP 1A''' is a two channel microphone preamplifier 
+
+
+{{stub}}
+
+
+[[category:Tubetech|MP 1A]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
