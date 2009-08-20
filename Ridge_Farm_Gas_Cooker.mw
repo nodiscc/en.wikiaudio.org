@@ -1,0 +1,58 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Front panel controls'''
+*Output gain controls with unity gain markings
+*Earth lift switches
+*-20dB pad switches
+
+'''Front panel in/outs'''
+*Unbalanced jack outputs (pre gain control)
+*Balanced XLR outputs
+
+'''Rear panel controls'''
+*Illuminated power on/off switch
+*IEC mains input
+*Voltage selector 120v/240v
+*Unbalanced line outputs (post gain control)
+
+'''Max gain'''
+*30x to unbalanced output
+*3x to balanced output
+
+'''Frequency response'''
+*28Hz to 25kHz (-3dB)
+
+'''Input impedance'''
+*1 M ohm
+
+'''Output impedance'''
+*500 ohms balanced
+*1.5 k ohms unbalanced
+
+'''Noise at max gain'''
+*Better than -65 dB
+
+'''Dimensions'''
+*305 mm (w)
+*190 mm (d)
+*72mm (h)
+
+|}
+
+The '''Ridge Farm Gas Cooker''' is an all valve twin channel microphone preamplifier and DI box.
+
+{{stub}}
+
+
+[[category:Ridge Farm|Gas Cooker]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
