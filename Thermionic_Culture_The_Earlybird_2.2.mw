@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Input Impedance: 300 or 1200 ohms, switchable , balanced.
+* Output Impedance:
+**A)output level control at max: 55 ohms balanced
+**B) output level control at min: 500 ohms balanced
+* Maximum Gain: 62dB
+* Maximum Output Level (MOL) (MOL) +34dBv @1kHz, +33dBv @100Hz
+* Phase Shift at 10kHz 18 degrees (5%)
+* Distortion (THD), 1kHz/100Hz 0.007%/0.012%
+* Frequency response +/-0.5 dB 10Hz to 38kHz
+* Signal to Noise (weighted)
+**Ch.1 115 dB
+**Ch.2 112 dB below MOL
+
+'''Eq, dB each active control at max:'''
+
+* Bass +15dB @60 Hz & 100Hz
+* Mid +15dB @800Hz & 2.8kHz
+* Top +21dB @ 10 kHz
+
+* Mid frequency selector 800Hz & 2.5kHz
+* Bass frequency selector 60Hz & 100Hz
+* Gain settings, mic (line in brackets) dB dB 36( -8 ) 44( -0 ) 52( 8 ) 60(16)
+* Bass Cut, Hz 0, 40, 100, 800
+* Output trim -18 dB to 0 dB linear reverse attenuator
+* Input and output connectors 8 x 3pin XLRs, wired balanced. ( 2x mic in, 2x line in, 2x pullet in, 2x line out )
+* Valve complement
+**2 x 12AX7TC/ECC83
+**3 x 12AU7TC/ECC82 
+
+|}
+
+'''The Earlybird 2.2''' is a mic/lin preamplifier and eq
+
+{{stub}}
+
+
+[[category:Thermionic Culture|The Earlybird 2.2]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
