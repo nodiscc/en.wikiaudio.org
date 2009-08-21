@@ -1,0 +1,32 @@
+A '''sync point''' in [[Pro Tools]] is a point in an audio region that can be used as a spot point. In short you can spot a ''part of a region'' as opposed to just the beginning or ending.
+
+
+To create a sync point do these things.
+
+Use the [http://en.wikiaudio.org/Pro_Tools:Tools scrubber or selector tool] to find a place in a region you would like to place a sync point.When you find the place, take your hand off the mouse button but make sure the song position pointer is still placed where you want the sync point. If you are using the selector tool you can't do this making a "selection", you have to simply place the playhead where the sync point is to go.
+
+Go to '''Region/Identify Sync Point''' in the top menu.  This will create the sync point.
+
+
+
+
+[[File:Pro Tools sync point menu .png]]
+
+
+
+The sync point will be displayed via blue triangle in the region.
+
+
+
+[[File:Pro Tools sync point.png]]
+
+
+
+Now if you select the [http://en.wikiaudio.org/Pro_Tools:Tools grabber tool] and use [http://en.wikiaudio.org/Pro_Tools:_Edit_modes#Spot spot mode] you can choose '''sync point''' as the part to spot your region.
+
+
+[[File:Pro Tools spotting window highlighted sync point.png]]
+
+
+[[category:tutorials]]
+[[category:Pro Tools|Sync point]]
