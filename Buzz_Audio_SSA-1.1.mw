@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''MIC INPUT.'''
+*Gain Range = +9dB to +50dB (+25dB to +65dB with +15dB Boost enabled)
+*Input Impedance = 1k2 ohms
+*Frequency Response = 4Hz to 200kHz @ 30dB gain (-3dB).
+*Harmonic Distortion = less than 0.01%100Hz to 10kHz.
+*Input EIN =  -132.5dB A wtg, 150ohm source Z.
+*Signal to Noise Ratio = -72dB A wtg, input shorted.
+*CMNR = 100Hz-80dB, 1kHz -80dB, 10kHz-70dB internal trims.
+*Maximum Input Level = +14dBu
+
+'''PICKUP INPUT.'''
+*Gain Range = 0dB to +40dB
+*Input Impedance = 1 Million ohms
+*Frequency Response = 4Hz to 200kHz @ 30dB gain (-3dB).
+*Harmonic Distortion = less than 0.015%100Hz to 10kHz.
+*Signal to Noise Ratio =  -76dB A wtg, input shorted
+*Maximum Input Level = +10dBu (0.1% THD)
+
+'''COMMON SPECS.'''
+*Maximum Output Level = +24dBu balanced into 3k ohm load.
+*Slew Rate = better than 20V/uS
+*HPF = -3dB @ 50Hz, 18dB/oct Bessel filter.
+*Channel to Channel Crosstalk = below noise.
+*Controls = Gains, Mute, Mic Gain Boost, High Pass Filter, Phase Reverse, Phantom pwr.
+*Indicators = Peak Level @ +18dBu, Power On.
+*Connectors = In-XLR3F (MIC), In-1/4" Jack (PU), Line Out-XLR3M and TRS 1/4" jack Direct Out.
+*Size = 1 Unit rack mount, (482Wx44Hx250D).
+*Power requirements = 230V/115V selectable. 
+|}
+
+The '''Buzz Audio SSA-1.1''' is a two channel microphone preamplifier 
+
+
+{{stub}}
+
+
+[[category:Buzz Audio|SSA-1.1]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
