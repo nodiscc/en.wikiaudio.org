@@ -1,0 +1,32 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* High EQ points 16k, 12k, 6k8, 4k7, 3k3
+* Mid EQ points 270hz, 390hz, 560hz, 820hz, 1k2, 1k8, 2k7, 3k9, 5k6, 8k2
+* Low EQ points 220hz, 110hz, 60hz, 35hz
+* Filter Points 300hz, 160hz, 80hz, 50hz
+* Mic impedance 1200Ω
+* Line impedance 10kΩ
+* Output impedance 600Ω
+* Noise Better than -85 dbm at -35dbm sensitivity.
+* Output Maximum output +28dbm
+* Frequency response flat 15hz-20khz
+* -3db 7hz 35khz
+|}
+
+The '''Chandler Limited LTD-1''' is a microphone preamplifier and equalizer module 
+
+
+{{stub}}
+
+
+[[category:Chandler Limited|LTD-1]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
