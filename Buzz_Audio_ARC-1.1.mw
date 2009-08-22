@@ -1,0 +1,63 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Main Path Frequency Response (measured without EQ, Comp/Limiter or Tranny switched IN)'''
+*Mic Input to Mic Direct Out - 3Hz to 400kHz (-3dB)
+*Mic Input to Main Out - 4Hz to 400kHz (-3dB)
+*Bal Line Input to Main Out - 3Hz to 250Khz (-3dB)
+*Bal Line In with Tranny selected - 12Hz to 100kHz (+/-1dB),+5 @ 250Khz, -3dB @ 400Khz
+*Instrument Input to Main Out - 9Hz to 300kHz (-3dB)
+
+'''External Path Frequency Response'''
+*Compressor External Path (no Limiter) - 5Hz to 250kHz (-3dB)
+*Compressor External Path (with Limiter) - 5Hz to 80kHz (-3dB)
+*Equaliser External Path (with all EQ zeroed and no HPF) - 5Hz to 200kHz (-3dB)
+
+'''Total Harmonic Distortion'''
+*Mic Input to Mic Direct Out - 100Hz=0.005% 1kHz=0.005% 10kHz=0.015%
+*Compressor External Path (no Limit, no GR) - 100Hz=0.01% 1kHz=0.004% 10kHz=0.006%
+*Compressor External Path (with Limit, no GR) - 100Hz=0.01% 1kHz=0.01% 10kHz=0.02%
+*Compressor External Path (10dB of GR @ 20:1, Release at16, +10dB Make Up Gain)
+- 100Hz=0.15% 1kHz=0.15 10kHz=0.18%
+*Limiter in External Path (10dB GR, Release Slow) - 100Hz=0.2% 1kHz=0.08% 10kHz=0.18%
+*Bal Line Input to Main Out - 100Hz=0.0015% 1kHz=0.001% 10kHz=0.001%
+*Bal Line Input to Main Out with Tranny - 100Hz=0.3% 1kHz=0.05% 10kHz=0.015
+*Instrument Input to Main Out - 100Hz=0.08% 1kHz=0.025% 10kHz=0.025%
+
+'''Noise (all measured A weighted ref to 0dBu = 775mV RMS)'''
+*Mic Input (65dB gain, 150 ohm source impedance) -71dBu (EIN 132.5dB)
+*Bal Line In (10dB gain, 150 ohm source impedance) -95dBu
+*Unbal Line In (10dB gain, 0 ohm source impedance) -100dBu
+*Compressor External Path (no Limiter) -90dBu
+*Compressor External Path (with Limiter) -80dBu
+*Equaliser External Path (no cut/boost) -90dBu
+
+'''Levels (0dBu = 775mV RMS)'''
+*Maximum Mic input level = +14dBu
+*Maximum Bal Line input level = +23dBu (+33dBu with -10dB Pad engaged)
+*Maximum Unbal Line input level = +10dBu
+*Maximum Output level (all outputs) = +23.5dBu
+
+'''General'''
+*Power requirements 115V/230V selectable on rear panel
+*Dimensions 2U rack mount, 300mm deep
+|}
+
+
+
+The '''Buzz Audio ARC-1.1''' is a channel strip that includes a mic/line preamp,equaliser,compressor and limiter.
+
+{{stub}}
+
+
+[[category:Buzz Audio|ARC-1.1]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
