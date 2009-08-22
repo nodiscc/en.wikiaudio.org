@@ -1,0 +1,18 @@
+This is a technique to add reverb processing that doesn't accentuate sibilance to a vocal track.
+
+'''1.''' Split the vocal track to two channels
+
+'''2.''' Use a de-esser on one of them and send ''that'' one to a reverb unit (and remove it from the stereo mix)
+
+'''3.''' Mix the processed vocal back in with the dry vocal.
+
+
+
+
+
+== References ==
+'''Tape OP The Book About Creative Music Recording Vol II'''
+
+
+[[category:mixing techniques]]
+[[category:tutorials]]
