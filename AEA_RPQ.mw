@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* 80 dB of gain at 1 kHz, balanced-in to balanced-out
+* Noise figure A-weighted < 2 dB, EIN < 129 dBu Aweighted
+* Frequency response -3 dB <1 Hz and >200 kHz
+* <.02 % THD at 1 kHz, 22 Hz to 22 kHz bandwidth
+* Balanced mic input impedance >10 kΩ
+* DC-coupled inputs protected from external P48 DC
+* AC-coupled inputs with switchable P48 phantom power
+* Twelve position stepped gain control from 7 to 55 dB
+* Trim gain continuously adjustable from 0 to +19 dB
+* Switched LF trim: -3dB points tuneable from 18 to 350 Hz
+* Switched HF boost peak +6 dB at 12 noon, +16 dB max
+* HF max boost +3dB points tuneable from 2 to 18 kHz
+* XLR out has 6 dB gain, balanced or unbalanced load
+* XLR max output+28 balanced, +22 unbalanced, 600 Ω
+* ¼” TRS max output unbalanced +22 dBu, 100 kΩ load
+* Pin 2 high on XLRs, tip high on ¼” TRS jacks
+* Green LED snaps on at ~ -5 dBu, Red at ~ +20 dBu
+* Yellow LED brightens from ~ 0 to +20 dBu
+|}
+
+
+The '''AEA RPQ''' is a ribbon microphone preamplifier 
+
+{{stub}}
+
+
+[[category:AEA|RPQ]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
