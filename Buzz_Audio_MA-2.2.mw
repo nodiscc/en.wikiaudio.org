@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Min Gain = +16dB (-4dB with pad in)
+*Max Gain = +65dB
+*Maximum Output Level = +24dBu unbalanced.
+*Frequency Response = 2Hz to 250kHz @ 20dB gain (-3dB).= 20Hz to 250kHz @ 65dB gain (-3dB).
+*Harmonic Distortion = less than 0.008% 100Hz to 10kHz.
+*Slew Rate = typically 140 V/uS, @ +20dBu output level.
+*EIN =  -133.5dB A wtg, 150ohm source Z.
+*Signal to Noise Ratio = -74dBu A wtg, input shorted.
+*CMNR = 100Hz-80dB, 1kHz -80dB, 10kHz-70dB internal trims.
+*Channel to Channel Crosstalk = below noise.
+*Input Impedance = 3k ohms/1k2 ohms switchable.
+*Controls = Gain, Mute, Input Impedance, 20dB input Pad, Phase Reverse, Phantom pwr.
+*Indicators = Peak Level @ +18dBu, Power On.
+*Connectors = In-XLR3F, Out on 1/4" jack and XLR3M.
+*Size = 1 Unit rack mount, (482Wx44Hx300D).
+*Power requirements = 230V/115V selectable.
+|}
+
+The '''Buzz Audio MA-2.2''' is a two channel microphone preamplifier 
+
+
+
+{{stub}}
+
+
+[[category:Buzz Audio|MA-2.2]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
