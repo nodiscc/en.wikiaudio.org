@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*'''Min Gain Mic''' = +22dB (-2dB with pad in) 
+*'''Max Gain Mic''' = +70dB 
+*'''Min Gain Instrument''' = +12dB (-3dB with pad in) 
+*'''Max Gain Instrument''' = +60dB 
+*'''Maximum Output Level''' = +34dBu into 3k ohm load. 
+ 
+'''Frequency Response''' 
+*'''Mic''' = 10Hz to 300kHz @ 20dB gain (-3dB). 
+*'''Instrument''' = 10Hz to 120kHz @ 20dB gain (-3dB). 
+ 
+'''Total Harmonic Distortion''' 
+**(measured at -20dBu input, gain adjusted for +10dBu output level) 
+*'''Mic''' = 0.15% @ 100Hz, 0.01% @ 1kHz, 0.005% @ 10kHz 
+*'''Instrument''' = 0.15% @ 100Hz, 0.015% @ 1kHz, 0.015% @10kHz 
+ 
+'''Noise''' 
+*'''EIN Mic''' =  -132.5dB A wtg, 150ohm source Z. 
+*'''Signal to Noise Ratio Mic''' = -74dB A wtg, input shorted. 
+*'''Signal to Noise Ratio Instrument''' = -76dB A wtg, input shorted. 
+ 
+*'''CMNR Mic''' = -78dB @ 100Hz, -100dB @ 1kHz, -100dB @ 10kHz. 
+*'''Input Impedance Mic''' = 4k ohms/1k2 ohms switchable. 
+*'''Input Impedance Instrument''' = 1MEG ohms/20k ohms switchable. 
+ 
+*'''Size''' = (1.5”Wx5.25”H). Fits 1 space in APITM 500VPR Series rack format 
+*'''Power requirements''' = 150mA +/- 15-18 volts DC, and +48 volts 
+*DC phantom power, as supplied by rack power supply. 
+
+
+|}
+
+The '''Buzz Audio Elixir''' is a microphone / instrument preamplifier unit
+
+
+{{stub}}
+
+
+[[category:Buzz Audio|Elixir]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
