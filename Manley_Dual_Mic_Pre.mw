@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* MANLEY input & output transformers with nickel laminations in mu-metal cases
+* Flat frequency response from 10Hz-60KHz
+* Mic input PHASE REVERSE switch
+* 2400 ohm mic input Z; 48V phantom power built-in
+* Hi-Z (100Kohm) 1/4" DIRECT INPUT
+* Noiseless conductive plastic INPUT attenuators
+* <0.05% THD @ 1Khz S/N ratio: 80dB
+* EIN: -125dB
+* Adjustable FEEDBACK / GAIN switch selects 5dB steps between 40 to 60 dB of gain
+* Hi-current drive <50 ohm LO-Z 1/4" & XLR outputs
+* AUTO MUTE w/ warm-up delay for power up/down
+* Max. input (with input pad fully open): 450mV
+* Max. output: +32dBu
+* Max. output (into 600 ohm load): (+15dBm)
+* Power consumption Mono units: 18 watts; Dual Mono units: 36 watts
+* Operating mains voltage: Units are purpose built for original destination country's mains voltage:   100V, 120V, or 220-240VAC as indicated on the serial number badge. Power transformer must be replaced in order to change mains operating voltage. 120VAC units may NOT be rewired to put the primaries of the power transformer in series for 220-240V operation or a large radiated field of hum will develop. If changing locations/voltages, the power transformer must be replaced with the dedicated one for the voltage at which it will operate.
+* Mains Voltage Frequency: 50~ 60Hz
+* Dimensions: 19" x 1 3/4" x 10" (occupies 1u)
+* Shipping Weight: 12 lbs. 
+|}
+
+
+The '''Manley Dual Mic Pre''' is a dual channel microphone preamplifier intended for use with modern condenser microphones.
+
+
+
+{{stub}}
+
+
+[[category:Manley|Dual Mic Pre]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
