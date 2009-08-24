@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Equivalent Input Noise (66dB gain, 150Ω source)      -121dBu
+* Input Impedance     1200Ω
+* Recommended Source Impedance     150Ω
+* Maximum Input Level     +22dBu rms
+* Maximum Output Level     +25dBu rms
+* Output Impedance     <300Ω balanced
+* Recommended Load Impedance     >10kΩ balanced
+* Gain Range     3dB steps, 33-66dB
+* Input Attenuator     Variable, -10 to 0dB
+* Input Pad     Switchable, -20dB
+* Frequency Response     +/-1dB, 10Hz-50kHz
+* Power Requirements ..optional for optimal headroom     +/-16V @ 0.090A+48V @0.003A
+* Vacuum Tube     12DW7 / ECC832 / 7247 
+|}
+
+
+The '''Roll Music Tubule RMS5A7''' is a transformer-coupled tube microphone preamplifier.
+
+
+{{stub}}
+
+
+[[category:Roll Music Tubule|RMS5A7]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
