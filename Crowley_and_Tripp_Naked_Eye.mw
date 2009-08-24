@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Ribbon
+*Polar pattern figure 8
+*Frequency Response	30Hz - 15kHz
+*Output Sensitivity 	3mV/Pa
+*Max SPL  	126dB for
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+|}
+
+The '''Crowley & Tripp Naked Eye''' is a ribbon microphone with a figure 8 polar pattern.
+
+{{Stub}}
+
+
+[[category:microphones]]
+
+[[category:Crowley and Tripp|Naked Eye]]
