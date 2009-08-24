@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Gain Range: +8 to +64 dB in 24 steps
+* Frequency Response @ 45 dB gain: 1Hz-200 KHz, +0dB, -0.5 dB
+* EIN at +65 dB gain (22 Hz-22 KHz): < –127 dBu unweighted
+* Input Impedance: 13kΩ
+* Max Input Level at min gain: +18 dBu (output clipping)
+* Minimum output load: 600Ω
+* Max Output level: +26 dBu/dBm
+|}
+
+The '''Forssell Technologies SMP-500''' is a single channel microphone preamplifer
+
+
+{{stub}}
+
+
+[[category:Forssell Technologies|SMP-500]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
