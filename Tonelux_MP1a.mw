@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Gain control gain range: 35dB without PAD, 55dB with the pad
+*Minimum gain thru mic pre: 17dB (includes the input transformer and output transformer)
+*Maximum Gain thru Mic Pre: 55 dB
+*Maximum input level: 11.5 dBu @ 800Hz
+*Typical Distortion: .2% @ 50Hz, .019% @ 800Hz, .016% @ 20KHz -10 dBu IN
+*Output Clip Level: +29dBu
+*Input Pad: -20 dB
+*Input Impedance: 1500 OHM Bridging, for a 150 OHM Mic Source 
+
+|}
+
+
+The '''Tonelux MP1a''' is a single channel microphone preamplifier 
+
+{{stub}}
+
+
+[[category:Tonelux|MP1a]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
