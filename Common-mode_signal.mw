@@ -1,0 +1,14 @@
+'''Common-mode signal''' is the component of an analog signal which is present with one sign on all considered conclusions. In electronics where the signal is transferred with differential voltage use, the common-mode signal is called a half-sum of voltages:
+
+
+:<math>U_{cm} = \frac{U_1 + U_2}{2}</math>
+
+{{stub}}
+
+[[category:circuitry]] 
+
+
+
+
+
+<small> This article uses material from the Wikipedia article http://en.wikipedia.org/wiki/Common-mode_signal </small>
