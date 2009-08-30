@@ -1,0 +1,76 @@
+===Melodyne 3.2.2: Making a Tempo Map===
+
+This tutorial uses Melodyne version 3.2.2.
+
+A  [[tempo map]] is used to sync midi tempo information with variable tempo audio material.
+
+
+== Open the arrangement editor ==
+
+
+
+1. First Import or record your audio into Melodyne and open the arrangement editor. The image below is of a 4/4 4 bar drum performance that has a fill at the beginning and small fluctuations in tempo
+
+
+
+[[Image:melodyne Waveform_1.png]]
+
+== Check Variable Tempo Edit Mode ==
+
+2. Make sure Variable Tempo Editing Mode is checked. This option is available in the edit menu (shown below)
+
+
+[[Image:Variable_Tempo_Edit_Mode.png|200px]]
+
+== Turn Off Quantization ==
+
+3. Make sure quantize is turned off. you can do this by clicking the quantize function in the upper right corner until it is light grey.
+
+
+'''Quantize On'''
+
+[[Image:Quantize_On_(1).png]]
+
+
+'''Quantize Off'''
+
+[[Image:Quantize_off_(1).png]]
+
+
+
+
+== Line up Tempo Markers ==
+
+
+Now click on the bar line that is closest to the down beat of the audio. In our case it's bar 2 on the time display. Once you click you should see a blue line appear. Click and hold the blue line and move it to the down beat of the audio. In our case we have a fill before the down beat so we are going to put the blue line after the fill.
+
+'''Before    '''      and       '''   After    ''' 
+
+
+[[Image:Melodyne_Tempo_marker_before_and_after_2.png]]
+
+
+
+Now you simply need to continue repeating this pattern for evey bar of the audio material.
+
+
+'''Before'''
+
+[[Image:Melodyne Tempo marker repeat 1.png]]
+
+'''After'''
+
+[[Image:Melodyne Tempo marker repeat 2.png]]
+
+
+
+The end result in our case would look like the image below.
+
+Notice the tempo changes between bars
+
+
+[[Image:Melodyne tempo map Finished.png|700px]]
+
+
+[[category:tutorials]]
+[[category:melodyne|T]]
