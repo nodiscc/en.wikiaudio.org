@@ -1,0 +1,44 @@
+== Melodyne 3: Exporting audio as MIDI ==
+
+
+
+
+Melodyne has the ability to analyze the pitch of an audio performance and then export this information as a MIDI file with the respective note information.
+
+To do this follow these steps.
+
+Select '''File / Save Audio To MIDI'''
+
+[[Image:Melodyne_Save_audio_to_MIDI_Menu.png‎]]
+
+
+
+
+
+You will see a pop up window that looks like the image below.
+
+
+[[image:Melodyne_Audio_To_Midi_pop_up_window.png‎]]
+
+
+===Format===
+
+This determines if the MIDI file is quantized on export or not. You can choose to quantize the notes on export by clicking and holding this option and choosing "quantize for notation".
+
+===Range=== 
+This determines the range of the song that Melodyne will scan and create a MIDI file from. Click the menu to see the available options.
+
+===Channels and Save each track as a single file===
+These options determine if you want to convert individual tracks to MIDI files or the complete song.
+
+
+
+After you've made the appropriate settings click '''Save as'''.
+
+
+
+
+
+[[Category:Melodyne|Exporting]]
+
+[[Category:Tutorials]]
