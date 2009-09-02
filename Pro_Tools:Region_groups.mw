@@ -1,0 +1,37 @@
+'''Note'''
+This article pertains to region groups, not track groups. For track groups see [[Pro_Tools:Group_tracks|This article]]
+
+==Pro Tools 8 Region groups==
+
+
+Region groups allow regions ( MIDI, audio and video) in the edit window to be grouped according to time and other relationships to make editing easier under certain circumstances. 
+
+To create a region group:
+
+Select the regions you wish to group in the edit window and then go to '''Region > Group''' or press '''Command+Option+G''' (Mac Os) or '''Ctrl+Alt+G'''  windows.
+
+
+==Ungrouping regions==
+
+To ungroup a region group
+
+1. Select the region group.
+
+2.Go to '''Region > Ungroup'''  or press '''Command+Option+U''' (Mac Os) or '''Ctrl+Alt+U'''  windows.
+
+This will ungroup regions and reveal any nested region groups
+
+
+==Ungroup all==
+
+The ungroup all function  (  '''Region > Ungroup All'''  )
+allows the ungrouping of all nested regions simultaneously.
+
+
+
+==Regrouping regions==
+
+THe regroup command undoes the last ungroup command
+
+'''Region > Regroup'''
+'''Bold text'''
