@@ -1,0 +1,16 @@
+To display the data of a [[MIDI]] or Instrument track click the data display selector on the track header (image below)
+
+
+
+[[File:Pro Tools 8 instrument track header.png]]
+
+[[File:Pro Tools 8 Instrument track display menu dropped down.png]]
+
+
+
+The display parameters for a MIDI and Instrument track are nearly identical.The only difference is instrument tracks display additional audio-specific  parameters '''audio volume, volume trim, audio mute and audio pan'''
+
+
+[[category:Pro Tools|MIDI and Instrument track data display]]
+
+[[category:tutorials]]
