@@ -1,0 +1,13 @@
+A '''MIDI mockup''' is an extensive demo of a recording project built using MIDI sound module sounds and [[patch]]es to stand in for acoustic instruments.
+
+These extensive demos are frequently used in projects requiring large budgets to record, such as film scores. A MIDI mockup allows the director, or executive producer, to hear the compositions in a setting that approximates their final version, and thus to approve or alter the project before the budget has been committed to record the actual instruments.
+
+MIDI mockups first came into wide use in the 1980s, when synthesizer and sampler technology developed to the point where it could create approximate replicas of acoustic instruments. Large film-scoring studios would build systems with dozens of sound modules, all linked to a single sequencer that would play back the MIDI version of the score.
+
+With the development of faster computers, and better software environments for sampling and MIDI editing, most MIDI mockups today are done with software synthesizers. The replication of acoustic instruments has progressed steadily, to the point where MIDI mockups are occasionally included in the final score on films where time or money has run out.
+
+
+{{template:stub}}
+
+
+[[category:MIDI]]
