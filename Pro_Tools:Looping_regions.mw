@@ -1,0 +1,44 @@
+==Pro Tools loop regions==
+
+
+
+
+Select the region you wish to loop and go to the menu item:
+
+'''Region / Loop'''
+
+or use the key command 
+
+'''Command'''+'''Option'''+'''L'''
+
+A dialog box will appear, type in the number of loops and the length of the loops you want.
+
+
+
+'''Number of Loops''' is how many times the region will loop
+
+'''Loop length''' is the length of the loops
+
+'''Loop Until End of Session or Next Region:''' The looped region will be repeated all the way to the end of the session or until it is blocked by another region on the track.
+
+'''Enable Crossfade'''  will allow you to add a crossfade to region loops. The Settings button opens the crossfade parameters.
+
+
+[[File:Pro Tools 8 loop region dialog box.png]]
+
+
+===Unlooping regions.===
+
+To unloop regions select the region(s) and go to '''Region>Unloop'''
+
+[[File:Pro Tools unloop region dialog box.png]]
+
+'''Remove''' to unloop the region and delete all looped iterations
+
+'''Flatten''' will turn all loops to new regions.
+
+
+
+[[category:tutorials]]
+
+[[category:Pro Tools|Looping regions]]
