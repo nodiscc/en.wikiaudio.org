@@ -1,0 +1,14 @@
+To make Pro Tools automatically enable any newly created audio tracks to use Elastic Audio do these things.
+
+'''1.''' Go to '''Setup>Preferences''' then click the '''Processing''' tab
+
+
+[[File:Pro Tools enable Elastic Audio on New Tracks option.png]]
+
+
+'''2.''' Choose the plug in you want and check the box that says '''Enable Elastic Audio on New Tracks'''
+
+
+[[category:Pro Tools|Elastic audio enabling new tracks by default]]
+
+[[category:tutorials]]
