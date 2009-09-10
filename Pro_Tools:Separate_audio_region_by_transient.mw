@@ -1,0 +1,38 @@
+==Separate audio region by transient==
+
+To separate an audio region by transient you can do one of the following.
+
+===Separate using TAB to transient===
+
+'''1.''' [[Pro Tools:Select region by transient (TAB to transient)|Enable Pro Tools TAB to transient option]]
+
+'''2.''' Select an audio region using the [[Pro_Tools:Tools|grabber or selector tool]]
+
+'''3.''' Tap TAB and use the key command Command-E to make cuts on the transients you wish to split
+
+
+===Region separation using Beat Detective===
+
+
+'''1.''' Select an audio region then open Beat Detective and choose Region Separation
+
+'''2.''' Click analyze and move the sensitivity slider and other parameters to define the transients
+
+
+
+[[File:Pro Tools Beat Detective window with region separation highlighted.png]]
+
+
+
+Click '''separate''' to make the cuts.
+
+
+
+[[File:Pro Tools audio file with transient cuts.png]]
+
+
+
+
+[[category:Pro Tools|Separate audio region by transient]]
+
+[[category:tutorials]]
