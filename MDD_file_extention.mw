@@ -1,0 +1,4 @@
+'''MDD''' stands for Melodyne Definition Data. It is a file type the pitch correction software program Melodyne uses to store additional information pertaining to individually imported or recorded audio files. The MDD file resides in the same folder as the original audio file and stores any edits that are done in Melodyne,leaving the original audio file in it's original state. This information encompasses individual pitches including unique vibrato of all notes and timing.It also including note lengths and internal tempos, pitch transition times, the time it takes to go from note to note, individual note amplitudes (volume) and format information (resonant volume).
+
+
+[[category:Melodyne]]
