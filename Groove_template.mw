@@ -1,0 +1,11 @@
+A '''Groove template''' is a digital information snapshot of the transients, timing and dynamic information of an [[audio]] or [[MIDI]] region or file.This information can then typically be applied to other audio or MIDI regions or files to get a similar timing and dynamic feel of the original material.A basic example is to create a Groove template of an audio drum loop and then applying this information to a MIDI drum performance to get the "feel" of the original audio material while using different sounds and timing patterns
+
+{{stub}}
+
+
+
+
+
+
+
+[[category:MIDI|Groove template]]
