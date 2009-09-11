@@ -1,0 +1,31 @@
+Open an audio file you would like to affect. '''Open>File'''
+
+Make sure the '''toggle preview play''' button is enabled.
+
+[[File:Recycle toggle preview play icon.png]]
+
+Turn the sensitivity slider all the way up.
+
+[[File:Propellerhead Recycle sensitivity slider turned up.png]]
+
+
+
+You can now change the tempo of the file and it will now play faster or slower depending on how you set it.
+
+
+[[File:Propellerhead Recycle tempo.png]]
+
+
+Keep in mid that you can usually turn up the tempo quite a bit before the sound begins to sound too artificial, however you cannot slow the tempo down that much before the sound begins to "degrade'.
+
+
+You can now export the file by going to '''File>Export'''
+
+
+Make sure the export as one sample feature is enabled ('''Process > Export as One Sample''') or you will export a file for every "slice".
+
+
+
+[[category:Recycle|Changing tempo of audio file]]
+
+[[category:tutorials]]
