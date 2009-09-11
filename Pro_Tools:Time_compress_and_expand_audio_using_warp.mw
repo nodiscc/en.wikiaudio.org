@@ -1,0 +1,28 @@
+To time compress and expand audio in [[Pro Tools]] using Warp first you must enable [[Pro Tools: Enable Elastic audio|Elastic Audio]].
+
+Once you do this you can choose Warp from the track view header (image below)
+
+[[File:Pro Tools Warp in track header.png]]
+
+
+
+The region(s) can now be time-compressed and expanded by clicking the outer edges with the grabber tool and dragging left or right.
+
+You can also add markers to the regions with the pencil tool or grabber tool by clicking anywhere inside the region(s). These serve as dividers that can be grabbed and moved in a time compression/expanding manner.
+
+
+
+
+[[File:Pro Tools warp markers.png]]
+
+
+
+
+To '''remove a Warp Marker''' just right click on it and choose '''Remove Warp Marker'''
+
+
+
+
+[[category:Pro Tools|Time compress and expand audio using warp]]
+
+[[category:tutorials]]
