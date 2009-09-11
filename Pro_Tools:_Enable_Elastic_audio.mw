@@ -1,0 +1,35 @@
+To enable [[Elastic audio]] go to '''Pro Tools/Preferences/Processing''' and then check the box that says '''Enable elastic audio on new tracks.'''
+
+
+
+Then to enable elastic audio on an individual track click the elastic audio icon on the track header
+
+
+[[File:Pro Tools Elastic audio track icon .png]]
+
+
+
+
+[[File:Pro Tools elastic audio track header menu .png]]
+
+
+If you select a region you can then manipulate the elastic audio properties for it by going to '''Region/Elastic properties''' 
+
+[[File:Pro Tools Elastic audio menu.png]]
+
+
+
+
+
+
+[[File:Pro Tools elastic properties parameters .png]]
+
+
+[[category:tutorials]]
+
+[[category:Pro Tools|Enable Elastic audio]]
+
+
+==Also see==
+
+[[‎Pro Tools:conform region tempo to tempo map ]]
