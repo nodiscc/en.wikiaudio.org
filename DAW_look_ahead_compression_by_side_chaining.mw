@@ -1,0 +1,14 @@
+==DAW look-ahead compressor by side chaining==
+
+
+With a multitrack [[DAW]] program such as [[Logic]] or [[Pro Tools]] (or any program that allows a [[side chain]] compression scheme) you can set up a look-ahead compressor via using a side chain. This helps to mediate some of the "pumping and breathing" or "choppy" sounding elements of conventional compression.
+
+To do this set up a normal side chain compression scheme in your DAW.An example of how to do this in [[Logic:Side chain compression (ducking)|Logic is here]]. An example of how to do this in [[Pro Tools:Side chain|Pro Tools is here]]
+
+
+After you set up your side chain compression scheme you would then put the same audio file(s) on both tracks and make sure they are aligned.Then move the one(s) on the control signal track forward (to the left) a bit so that the compressor reads it a little ahead of time before the affected signal plays. You can then experiment with how far ahead to move the signal in relation to the settings of your compressor and the desired effect.
+
+
+[[category:mixing techniques]]
+
+[[category:tutorials]]
