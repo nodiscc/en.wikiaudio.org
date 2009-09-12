@@ -1,0 +1,5 @@
+'''ReCycle''' is a music loop editor that works by allowing users to manipulate (transient defined) "slices" of audio files.
+
+Propellerhead developed their own file format known as REX2 for this software, which is compatible with many third party programs and has become a standard for music loops. Propellerhead's Reason software has its own specialized REX2 playing device called the Dr Rex Loop Player. This device can play slices when requested or simply play the entire loop in sequence.
+
+[[category:Recycle]]
