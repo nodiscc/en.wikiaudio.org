@@ -1,0 +1,48 @@
+In [[Pro Tools]] you can delete unused regions from your session either destructively or non destructively.
+
+
+Go to '''Regions menu''' > '''Select''' > '''Unused''' 
+
+This will select all the unused audio files in your session.
+
+
+[[File:Pro Tools region select unused .png]]
+
+
+
+
+Then go '''Region menu > Clear'''
+
+
+[[File:Pro Tools region clear.png]]
+
+
+
+A dialog box will appear asking if you wish to Remove or Delete the files.
+
+
+
+
+[[File:Pro Tools Clear regions dialog box.png]]
+
+
+
+Removing them simply removes them from your session. Deleting them removes them from the hard drive which  deletes them permanently.
+
+----
+
+
+==Also See==
+
+
+[[Pro Tools:Compacting sound files]]
+
+
+
+
+
+----
+
+[[category:Pro Tools|Delete unused audio]]
+
+[[category:tutorials]]
