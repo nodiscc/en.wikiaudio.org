@@ -1,0 +1,32 @@
+[[Pro Tools]] allows you to save disk space by deleting portions of audio regions that are not in use.
+
+This is a destructive operation and will permanently delete audio that is not in use in the current session.If you are using any of the audio in your current session in any other Pro Tools session compacting is ''not'' advised.
+
+'''1.''' Select the whole file regions you wish to compact. If you would like to compact the entire session simply select all the audio in the regions menu.
+
+'''2.''' In the regions list pop up menu select '''Compact'''
+
+
+[[File:Pro Tools regions compact.png]]
+
+
+A dialog box will appear explaining what compacting is and asking if you would like to initiate the operation.
+
+If you would like to initiate the operation after reading it then click '''Compact'''
+
+
+
+
+----
+
+==Also See==
+
+[[Pro Tools:Delete unused audio]]
+
+
+----
+
+
+[[category:Pro Tools|Compacting sound files]]
+
+[[category:tutorials]]
