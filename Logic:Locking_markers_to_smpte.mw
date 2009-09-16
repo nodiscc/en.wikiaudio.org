@@ -1,0 +1,12 @@
+==Logic 8 locking markers to SMPTE==
+
+To lock markers to [[SMPTE time code|SMPTE]] in Logic Go to:
+
+'''List''' > '''Marker''' > '''Options''' > '''Lock SMPTE Position'''
+
+[[File:Logic lock markers.png]]
+
+
+==Also See==
+
+[[Logic:Creating and coloring markers]]
