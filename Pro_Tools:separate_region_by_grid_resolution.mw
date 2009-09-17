@@ -1,0 +1,31 @@
+To separate a region by the grid resolution follow these steps.
+
+'''1.''' Select the part of the region you wish to edit 
+
+'''2.''' Set the [[Pro_Tools:_Edit_modes#Grid|Grid Edit Mode]] to either [[Absolute_grid|absolute]] or [[Relative_grid|relative]] values.
+
+'''3.''' Go to '''Edit > Separate Region > On Grid'''.
+
+
+
+
+
+[[File:Pro Tools Edit menu separate regions on grid.png|275px]]
+
+
+
+
+'''4.''' The dialog box that appears will ask you to specify a Pre-Separate amount (space at beginning of each cut).To separate exactly on the grid leave this set to 0.
+
+
+
+'''5.''' Click '''OK'''
+
+
+
+
+----
+
+[[category:Pro Tools|Separate region by grid resolution]]
+
+[[category:tutorials]]
