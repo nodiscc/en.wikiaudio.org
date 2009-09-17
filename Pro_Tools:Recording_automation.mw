@@ -1,0 +1,22 @@
+{{In Progress}}
+
+==Recording automation in Pro Tools 8==
+
+To record Automation in [[Pro Tools]] Do these things.
+
+First choose one of the [[Pro Tools:automation modes|Pro Tools Automation modes]].
+
+Once you choose  a writable mode you can now write in realtime automation by simply pushing play on the transport and moving the parameters (volume, pan etc) you wish to automate.
+
+You can [[Pro Tools:Automating plug ins|automate Pro Tools plug ins as well]]
+
+----
+
+===Drawing in automation.===
+
+You can manually draw in automation by choosing the parameter you wish to draw in via the track display header and then using the [[Pro_Tools:Tools#Grabber_Tool|grabber tool]] or [[Pro_Tools:Tools#Pencil_Tool|pencil tool]] to draw the automation in on the track itself.
+
+[[File:Pro Tools track automation display.png]]
+
+
+===Automation Playlist===
