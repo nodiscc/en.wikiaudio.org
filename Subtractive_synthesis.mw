@@ -1,0 +1,8 @@
+'''Subtractive synthesis''' is a method of subtracting harmonic content from a sound via sound synthesis, characterised by the application of an audio filter to an audio signal. For example, taking the output of a sawtooth generator and using a low-pass filter to dampen its higher partials generates a more natural approximation of a bowed string instrument than using a sawtooth generator alone. Typically, the complexity of the source signal and the cut-off frequency and resonance of the filter are controlled in order to simulate the natural timbre of a given instrument.
+
+Subtractive synthesis is historically associated with analogue voltage controlled synthesizers such as the Moog synthesizer due to the simple circuitry required to generate the most common source signals: square waves, pulse waves, sawtooth waves and triangle waves. Modern digital and software synthesizers may include other, more complex waveforms or allow the user to upload arbitrary waveforms. Some synthesizers may use a form of pulse width modulation which dynamically alters the source for a richer, more interesting, more organic tone.
+
+{{stub}}
+
+
+[[Category:Synthesis]]
