@@ -1,0 +1,148 @@
+{{Template:More techniques}}
+{{Template:Instrument recording}}
+
+==Overview and general considerations==
+===Where does the Piano's sound come from?===
+
+====The Sound Board====
+
+While a piano may look like a harp on the inside, it is actually much more like a guitar.  While the hammer hitting the strings makes the tone, the sound board is what amplifies and resonates the tone.  On a grand piano the sound comes from the giant sound board on the bottom.  On an Upright piano, the sound resonates in a sound board on its back.
+
+===The Moving Parts===
+
+People often forget that music is not the only sound that comes out of a piano.  Not only the strings, but all the moving parts, including the pedals, hammers and keys also make noise.  In particular, the pedals can make a loud thumping noise that is resonated by the sound board.  Depending on how good the pianist is and the quality of the piano, this noise may be unnoticeable or annoyingly loud, and how you place the microphone can drastically change the loudness of these sounds to good effect or bad.
+
+==Microphone placement==
+===Ways to Mic a Piano===
+Depending on the setting, the type of piano, and the sound you want,  there are different ways to mic a piano.
+
+====Mic the Room====
+If you are recording just a piano, placing your microphones in the room at a distance from the piano may be your best option. Micing the room reduces the noise of the moving parts and gives the piano a "natural" sound. However you will lose attack. If the piano lacks attack, move the mic's in towards the piano or combine close micing and room micing to effect.
+
+However, if you are recording a singer who plays the piano or a piano in a band, you will lose the ability to change the level of the piano in a multi-track mix.
+
+To Mic the piano's room, first take into account the acoustics of the room. In general a smaller, boxy room would be less ideal, and a larger more diffuse room that has non parallel walls or angles that diffuse the sound will be more pleasurable. If you decide you want to try a room setup then spend some time moving the mic around the room to find the "sweet spot." Preferably, if the pianist is hard on the pedals, keeping the mic at a distance from the piano is a good idea. To learn about how the room could be affecting the sound of your recording check out Studio Acoustics.
+
+A good place to start for a mono room mic would be 4-8 ft out from the piano, and 4-8 ft in the air, keeping in mind that if it is a grand piano then changing the top deflector board will not only change the apparent loudness but also the amount of reflections both from the board and the other surfaces of the room.
+
+Using a stereo mic pair is also a good idea. To garner the most "accurate" portrayal of the piano's sound, two high quality omni-directional microphones placed in an AB pattern is a good first try. This will help to give the listener a sense of the space the piano is playing in. The AB Stereo Microphone Technique, XY Stereo Microphone Technique and the Mid-Side Microphone Technique could all work depending on what you want. 
+
+====Mic'ing the Piano Directly====
+
+Placing multiple Microphones close to the piano can help you gain a better control of the sound during the mixing process, and also gives you much better attack. An AB pattern about 6" off the strings of the grand piano with one mic on the lower strings and one higher can get a good tone with a nice amount of attack.  However, you are more likely to mic up the noise from the moving parts of the piano.
+
+====Where To Put the Microphones====
+
+=====Below the Piano=====
+
+Placing microphones below the piano allows you to mic the soundboard.  Try moving the mic around sound board to find the sound you are looking for.
+
+A Stereo pair underneath the piano should work well, but you can also try placing three mics at the extremes of the sound board in order to have control of the volumes of the lows, mids and highs.
+
+=====In the Piano=====
+
+By in the Piano, I mean under the hood.  Don't try sticking mics into the sound holes.  Place an XY pair at the edge of the lid, aimed in towards the center of the hammers.
+
+=====By the Pianist=====
+
+If you place the mics by the pianist, you will get more of what the pianist hears.
+
+=====Mix and Match=====
+
+If you have enough microphones and enough channels, you could mic the piano in several different ways and then LISTEN, as no manner of tutorial is ever going to replace a set of good ears and taking the time to try move the microphones around and grab a good sound. Another tip is to go into the room with the piano and listen to how it sounds in different parts of the room, and the move your mikes and  then when you listen you can try and capture what you just heard.
+
+
+
+===Grand Piano===
+
+
+{| style="width:100%; border="1" cellpadding = "5"
+|- 
+! style="background:#c0c0c0"| Microphone Placement
+! style="background:#c0c0c0"| Tonal Balance
+! style="background:#c0c0c0"| Comments
+|- style="height:30px" 
+| 12 inches above middle strings,  8 inches horizontally from the hammers with lid off or at full stick. (Diagram position #1)
+| Natural,  well-balanced.
+|Less pickup of ambience and leakage than 3 feet front.  Move microphones(s) farther from hammers to reduce attack and mechanical noises.  Good coincident-stereo placement. See [[#Stereo Microphone Techniques|Stereo Microphone Techniques]] section for other possibilities.
+|- style="height:30px" 
+| 8 inches above treble strings,  as above. (Diagram position #2)
+| Natural,  well-balanced,  slightly bright.
+| Place one microphone over bass strings and one over treble strings for stereo.  Phase cancellations may occur if the recording is heard in mono.
+|- style="height:30px" 
+| Aiming into sound holes. (Diagram position #3)
+| Thin,  dull,  hard,  constricted.
+| Very good isolation. Sometimes sounds good for rock music. Boost mid-bass and treble for more natural sound.
+|- style="height:30px" 
+| 6 inches over middle strings,  8 inches from hammers,  with lid on short stick. (Diagram position #4)
+| Muddy,  boomy,  dull,  lacks attack.
+| Improves isolation.  Bass roll-off and some treble boost required for more natural sound.
+|- style="height:30px" 
+| Next to the underside of raised lid,  centered on lid.(Diagram position #5)
+| Bassy,  full.
+| Unobtrusive placement.
+|- style="height:30px" 
+| Underneath the piano,  aiming up at the soundboard. (Diagram position #6)
+| Bassy,  dull,  full.
+| Unobtrusive placement.
+|- style="height:30px" 
+| Surface-mount microphone mounted on underside of lid over lower treble stirngs,  horizontally,  close to hammers for brighter sound,  futher from hammers for more mellow sound. (Diagram position #7)
+| Bright,  well-balanced.
+| Excellent isolation.  Experiment with lid height and microphone placement on piano lid for desired sounds.
+|- style="height:30px" 
+| Two surface-mount microphones positioned on the closed lid,  under the edge at its keyboard edge,  approximately 2/3 of the distance from middle A to each end of the keyboard. (Diagram position #8)
+| Bright,  well-balanced,  strong attack.
+| Excellent isolation.  Moving "low" mic away from keyboard six inches provides truer reproduction of the bass strings while reducing damper noise. By splaying these two mics outward slightly,  the overlap in the middle registers can be minimized.
+|- style="height:30px" 
+| Surface-mount microphones placed vertically on the inside of the frame,  or rim,  of the piano,  at or near the apex of the piano's curved wall.(Diagram position #9)
+| Full,  natural.
+| Excellent isolation.  Minimizes hammer and damper noise.  Best if used in conjunction with two surface-mount microphones mounted to closed lid,  as above.
+|}
+
+===Upright Piano===
+
+
+{| style="width:100%; border="1" cellpadding = "5"
+|- 
+! style="background:#c0c0c0"| Microphone Placement
+! style="background:#c0c0c0"| Tonal Balance
+! style="background:#c0c0c0"| Comments
+|- style="height:30px" 
+| Just over open top,  above treble strings. (Diagram position #1)
+| Natural (but lacks deep bass),  picks up hammer attack.
+| Good placement when only one microphone is used.
+|- style="height:30px" 
+| Just over open top,  above bass strings.  (Diagram position #2)
+| Slightly full or tubby,  picks up hammer attack.
+| Mike bass and treble strings for stereo.
+|- style="height:30px"
+| Inside top near the bass and treble strings. (Diagram position #3)
+| Natural,  picks up hammer attack.
+| Minimizes feedback and leakage. Use two microphones for stereo.
+|- style="height:30px" 
+| 8 inches from bass side of soundboard. (Diagram position #4)
+| Full,  slightly tubby,  no hammer attack.
+| Use this placement with the following placement for stereo.
+|- style="height:30px" 
+| 8 inches from treble side of soundboard. (Diagram position #5)
+| Thin,  constricted,  no hammer attack.
+| Use this placement with the preceding placement for stereo.
+|- style="height:30px" 
+| Aiming at hammers from front,  several inches away (remove front panel) (Diagram position #6)
+| Bright,  picks up hammer attack.
+| Mike bass and treble strings for stereo.
+|- style="height:30px" 
+| 1 foot from center of soundboard on hard floor or one-foot-square plate on carpeted floor,  aiming at piano (soundboard should face into room.)
+| Natural,  good presence.
+| Minimize pickup of floor vibrations by mounting microphone in low-profile shock-mounted microphone stand.
+|}
+
+==Reference==
+
+[http://www.wikirecording.org/Guide_to_Recording_Pianos Wikirecording guide to pianos]
+
+
+
+
+[[category:recording techniques|Piano]]
+[[category:tutorials]]
