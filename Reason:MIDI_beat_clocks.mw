@@ -1,0 +1,39 @@
+=Reason 3 & 4 : MIDI beat clocks=
+
+To set up Reason to sync to external device using [[MIDI beat clock]]s follow these steps
+
+1. Go to the Reason menu and select "preferences".
+
+
+
+
+[[File:Reason beatclock step one.JPG]]
+
+
+
+
+
+2. For Reason 3.0 Choose the advanced MIDI preference. For Reason 4.0 choose Advanced Control
+
+
+
+
+[[File:Reason beatclock step two.JPG]]
+
+
+
+
+3. In the Beat Clock Sync menu choose the MIDI port that will have the incoming beat clocks you want Reason to sync to.
+
+
+
+
+[[File:Reason beatclock step three.JPG]]
+
+
+4. For Reason 4.0 go to Options menu/sync/ and click MIDI clock sync. For Reason 3.0 Go to the Options menu and check the MIDI clock sync menu item.
+
+
+
+
+[[File:Reason beat clocks check.JPG]]
