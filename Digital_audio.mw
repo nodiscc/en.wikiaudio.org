@@ -1,0 +1,9 @@
+'''Digital Audio''' uses digital signals for sound reproduction. This includes analog-to-digital conversion, digital-to-analog conversion, storage, and transmission.
+
+Digital audio has emerged because of its usefulness in the recording, manipulation, mass-production, and distribution of sound. Modern distribution of music across the internet through on-line stores depends on digital recording and digital compression algorithms. Distribution of audio as data files rather than as physical objects has significantly reduced costs of distribution.
+
+From the wax cylinder to the compact cassette, analogue audio music storage and reproduction have been based on the same principles upon which human hearing are based. In an analog audio system, sounds begin as physical waveforms in the air, are transformed into an electrical representation of the waveform, via a transducer (for example, a microphone), and are stored or transmitted. To be re-created into sound, the process is reversed, through amplification and then conversion back into physical waveforms via a loudspeaker. Although its nature may change, its fundamental wave-like characteristics remain unchanged during its storage, transformation, duplication, and amplification. All analog audio signals are susceptible to noise and distortion, due to the inherent noise present in electronic circuits.
+
+{{stub}}
+
+[[category:signal processing]]
