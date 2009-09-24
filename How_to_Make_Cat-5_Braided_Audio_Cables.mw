@@ -1,0 +1,24 @@
+[[File:Cat 5.png|150px|alt=A cat-5 cable|left]]<br><br>Using Cat-5 wires may be a way of saving a few bucks and getting a few blisters to achieve a 10 gauge wire, if you're up to the task.<br clear="all">
+
+== Things you'll need ==
+* 14 lengths of cat-5 cable with '''Teflon''' insulation (cut 1/5 more than what you need)
+* The [[How to Make Cables|complete attire]] to make a normal cable
+
+== Steps ==
+# [[File:High-quality-RCA-bullet-plug-Eichmann.png|thumb|High quality RCA connectors]]Remove the blue/orange jacket on the cables. You now have 56 pairs of cables.
+# Discard one of the pair. You need only 54 pairs. Keep it for another project or recycle the metal at a local scrapyard for some bucks.
+# Braid three pairs of wire together. Repeat until you have 18 braids (54 pairs divided by 3).
+# Braid three trios of braided wire together. Repeat until you have 6 branches.
+# Braid three branches together. Repeat until you have a pair. One will be used for left, other for right channel.
+# Separate the solids and the striped wires in both branches, strip and twist them together. One twist will be used as ground.
+# Put some solder on the ends.
+# Put the heatshrink tubing.
+# Put the connectors on the ends and crimp them in place.
+# Put more solder.
+# Solder the ground pin.
+
+
+==Also see==
+
+*[[How to Make Cables]]
+[[Category:Tutorials]][[Category:Cables and connections]]
