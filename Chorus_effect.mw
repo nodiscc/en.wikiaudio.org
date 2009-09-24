@@ -1,0 +1,36 @@
+{{Unreferenced|date=September 2007}}
+
+A '''chorus effect''' is:
+* A condition in the way people perceive similar sounds coming from multiple sources.
+* A simulation of this effect created by signal processing equipment.
+* A signal processing device designed to produce this effect.
+
+== Methods ==
+To produce the effect, either naturally or in simulation, individual sounds with roughly the same [[timbre]] and nearly (but never exactly) the same pitch pitch converge and are perceived as one. When the effect is produced successfully, none of the constituent sounds is perceived as being out of tune. Rather, this amalgam of sounds has a rich, shimmering quality which would be absent if the sound came from a single source. The effect is more apparent when listening to sounds that sustain for longer periods of time.
+
+The chorus effect is especially easy to hear when listening to a choir or string ensemble. A choir has multiple people singing each part ([[soprano]], [[tenor]], etc.). A string ensemble has multiple violinists and possibly multiples of other stringed instruments. When individual singers or violins play the same part, the chorus effect can be heard. Some instruments produce the effect all on their own. Examples include:
+
+* Piano. Each hammer strikes multiple strings tuned to nearly the same pitch. The chorus effect is so intrinsic to the timbre of a piano that it is difficult to recognize.
+* 12 string guitar. The guitarist fingers two strings where only one string would be fingered on a standard 6 string [[guitar]]. Each pair of strings is tuned to nearly the same pitch, though the G, D, A and (usually) low E pairs are actually tuned an [[octave]] apart.
+* Synthesizer. The effect is achieved by assigning multiple, slightly detuned [[oscillation|oscillators]] to a voice. This is normally referred to as "Unison" by manufacturers.
+
+The chorus effect is enhanced when the sounds originate from slightly different moments in time and/or from different physical locations. Such additional variation is typical of a choir or a string ensemble, but would be lacking on a piano, for example, because a piano hammer strikes all its strings at the same instant and the difference in string location is negligible.
+
+==Electronic effect==
+
+The chorus effect can be simulated by signal processing equipment. The signal processor may be software running on a computer, a [[Read-only memory|ROM]]-encoded effect in a digital effect processor, or an analog effect processor. If the processor is hardware-based, it may be packaged as a [[effects pedal|foot pedal]], a [[19-inch rack|rack-mount]] module, a table-top device, or built in to an [[instrument amplifier]]. 
+
+Regardless of the technology or form factor, the processor achieves the effect by taking an audio signal and mixing it with one or more delayed, pitch-modulated copies of itself. The pitch of the added voices is typically modulated by an [[LFO]], which makes the overall effect similar to that of a flanger, except with longer delays and without feedback. 
+
+Stereo chorus effect processors produce the same effect, but it is varied between the left and right channels by offsetting the delay or phase of the LFO. The effect is thereby enhanced because sounds are produced from multiple locations in the stereo field. Used on instruments like "clean" (undistorted) electric guitar and keyboards, it can yield very dreamy or ambient sounds. Commercial chorus effect devices often include controls that enable them to be used to also produce delay, reverberation, or other related effects that use similar hardware, rather than exclusively as chorus effects.
+
+==External links==
+
+*[http://www.harmony-central.com/Effects/Articles/Chorus/ Harmony Central - Chorus effect explained, with sound samples]
+*[http://www.ehx.com/products/small-clone Electro-Harmonix: Small Clone]
+*[http://www.ehx.com/browse/chorus-phase-shifters-flangers Electro-Harmonix: Chorus Pedals]
+*[http://www.noiseon.com/Results.aspx?catid=9 Chorus effect sound samples]
+
+
+[[category:recording techniques]]
+[[category:mixing techniques]]
