@@ -1,0 +1,86 @@
+The digital audio standard frequently called '''AES/EBU''', officially known as '''AES3''', is used for carrying [[digital audio]] signals between various devices. It was developed by the [[Audio Engineering Society]] (AES) and the [[European Broadcasting Union]] (EBU) and first published in 1985, later revised in 1992 and 2003. Both AES and EBU versions of the standard exist. Several different physical connectors are also defined as part of the overall group of standards. A related system, [[S/PDIF]], was developed essentially as a consumer version of AES/EBU, using connectors more commonly found in the consumer market.
+
+==Hardware connections==
+The AES3 standard parallels part 4 of the international standard IEC 60958. Of the physical interconnection types defined by IEC 60958, three are in common use:
+
+* IEC 60958 Type I Balanced – 3-conductor, 110-ohm twisted pair cabling with an XLR connector, used in professional installations (AES3 standard)
+* IEC 60958 Type II Unbalanced – 2-conductor, 75-ohm coaxial cable with an RCA connector, used in consumer audio
+* IEC 60958 Type II Optical – optical fiber, usually plastic but occasionally glass, with an F05 connector, also used in consumer audio
+
+The AES-3id standard defines a 75-ohm BNC electrical variant of AES3. More recently, professional equipment (notably by Sony) has used this physical interconnection type. This uses the same cabling, patching and infrastructure as analogue or digital video, and is thus common in the broadcast industry.
+
+F05 connectors, 5mm connectors for plastic optical fiber, are more commonly known by their Toshiba brand name, TOSLINK. The precursor of the IEC 60958 Type II specification was the Sony/Philips Digital Interface, or S/PDIF. For details on the format of AES/EBU data, see the article on S/PDIF. Note that the electrical levels differ between AES/EBU and S/PDIF.
+
+For information on the synchronization of digital audio structures, see the AES11 standard. The ability to insert unique identifiers into an AES3 bit stream is covered by the AES52 standard.
+
+Other AES3 transport structures.
+
+AES3 digital audio format can also be carried over an Asynchronous Transfer Mode network. The standard for packing AES3 frames into ATM cells is AES47, and is also published as IEC 62365.
+
+==The Protocol==
+
+[[File:SPDIF AES EBU protocol colored.png|thumb|300px|right|Simple representation of the protocol for both AES/EBU and S/PDIF]]
+The low-level protocol for data transmission in AES/EBU and S/PDIF is largely identical, and the following discussion applies for S/PDIF as well unless otherwise noted.
+
+AES/EBU was designed primarily to support PCM encoded audio in either DAT format at 48 kHz or CD format at 44.1 kHz. No attempt was made to use a carrier able to support both rates; instead, AES/EBU allows the data to be run at any rate, and recovers the clock rate by encoding the data use Biphase mark code (BMC).
+
+The bit stream consists of the PCM audio data broken down into small samples and inserted into a larger structure that also carries various status and information data. The highest level organization is the audio block, which roughly corresponds to a number of samples of the PCM data. Each block is broken into 192 frames numbered 0 to 191. Each frame is further divided in 2 subframes (or channels): A (left) and B (right). Each subframe contains the information for one single sample of the PCM audio, or more simply, one channel of audio. Each subframe is organized into 32 time slots numbered 0 to 31, each of which corresponds roughly to a single bit. Not all of the time slots send actual audio data: a number of them are set aside for signaling use, and others for transmitting data about the channels. In normal use only 20 time slots are used for audio, providing a 20-bit sound quality (compare with a CD at 16 bits per sample). So a complete audio block basically contains 192 samples from two channels of audio and other data, containing 12288 bits in total.
+
+The 32 bits of the time slots are used as following:
+
+====Time slots 0 to 3====
+They do not actually carry any data but they facilitate clock recovery and subframe identification. They are not BMC encoded so they are unique in the data stream and they are easier to recognize, but they don't represent real bits. Their structure minimizes the DC component on the transmission line.
+Three preambles are possible :
+* X (or M) : 11100010 if previous time slot was "0", 00011101 if it was "1". Marks a word for channel A (left) that isn't at the start of the data block.
+* Y (or W) : 11100100 if previous time slot was "0", 00011011 if it was "1". Marks a word that isn't for channel A (eg a word for channel B (right) in a stereo signal).
+* Z (or B) : 11101000 if previous time slot was "0", 00010111 if it was "1". Marks a word for channel A (left) at the start of the data block.
+
+They are called X, Y, Z from AES standard; M, W,B from the IEC 958 (an AES extension).
+
+The 8-bit preambles are transmitted in the same time allocated to four time slots at the
+start of each sub-frame (time slots 0 to 3).
+
+====Time slots 4 to 7====
+These time slots can carry auxiliary information such as a low-quality auxiliary audio channel for producer talkback or studio-to-studio communication. Alternately, they can be used to enlarge the audio word-length to 24 bits, although the devices at either end of the link must be able to use this non-standard format.
+
+====Time slots 8 to 27====
+These time slots carry 20 bits of audio information starting with LSB and ending with MSB. If the source provides fewer than 20 bits, the unused LSBs will be set to the logical "0" (for example, for the 16-bit audio read from CDs bits 8-11 are set to 0).
+
+====Time slots 28 to 31====
+These time slots carry associated bits as follows:
+* V (28) Validity bit: it is set to zero if the audio sample word data are correct and suitable for D/A conversion. Otherwise, the receiving equipment may be instructed to mute its output during the presence of defective samples. It is used by most CD players to indicate that concealment rather than error correction is taking place.
+* U (29) User bit: any kind of data such as running time, song, track number, etc. One bit per audio channel per frame form a serial data stream. Each audio block has a single 192 bit control word. 
+* C (30) Channel status bit: its structure depends on whether AES/EBU or S/PDIF is used.
+* P (31) Parity bit: for error detection. A parity bit is provided to permit the detection of an odd number of errors resulting from malfunctions in the interface. If set, it indicates an even parity.
+
+===The Channel Status Bit in AES/EBU===
+
+As stated before there is one channel status bit in each subframe, making one 192 bit word for each channel in each block. This 192 bit word is usually presented as 192/8 = 24 bytes. The contents of the channel status bit are completely different between the AES3 and SPDIF standards. In the case of AES3, the standard describes in detail how the bits have to be used. Here is an overview showing the broad aims of the 24 bytes:
+
+* byte 0: basic control data: sample rate, compression, emphasis
+* byte 1: indicates if the audio stream is stereo, mono or some other combination
+* byte 2: audio word length
+* byte 3: used only for multichannel applications
+* byte 4: suitability of the signal as a sampling rate reference
+* byte 5: reserved
+* bytes 6 – 9 and 10 – 13: two slots of four bytes each for transmitting ASCII characters.
+* bytes 14 – 17: 4-byte/32-bit sample address, incrementing every frame
+* bytes 18 – 21: as above, but in time-of-day format (numbered from midnight)
+* byte 22: contains information about the reliability of the channel status bytes.
+* byte 23: [[Cyclic redundancy check|CRC]] for the previous 22 bytes of the channel status block. The absence of this byte implies interruption of the data stream before the end of the audio block, which is therefore ignored
+
+==References==
+* Watkinson, John (2001). The Art of Digital Audio Third Edition. Focal Press. ISBN 0240515870. 
+* Watkinson, John (August 1989). "The AES/EBU Digital Audio Interface". UK Conference: AES/EBU Interface. EBU-02. 
+* Emmett, John (1995). "Engineering Guidelines: The EBU/AES Digital Audio Interface" (PDF). EBU.
+* AES-2id-2006: AES information document for digital audio engineering -- Guidelines for the use of the AES3 interface. (Downloaded from the AES standards web site; see external links)
+
+== External links ==
+*[http://www.aes.org/standards/b_pub/aes-standards-in-print.cfm Download page for AES standards]
+
+
+[[category:standards and protocols]]
+[[category:audio formats]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia articlehttp://en.wikipedia.org/wiki/AES/EBU
