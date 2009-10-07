@@ -1,0 +1,27 @@
+{{Template:Instrument mixing}}
+
+==General considerations and guidelines==
+Generally when adding reverb the more you add the further "away" you make a sound source perceived in a mix.The less reverb you add the "closer" it will be perceived.
+
+
+
+====Referenced techniques====
+'''Each technique begins with a bullet point'''
+
+*To make an effect blend in EQ it by attenuating the higher frequencies.<ref name="MEHPG41">The Mix Engineers Handbook.Bobby Owsinski.Page41.ISBN 1598632515</ref>
+*To make an effect stand out EQ it by attenuating the lower frequencies and boost the highs.<ref name="MEHPG41"></ref>
+*If adding reverb to a part that is very busy (such as drums) roll off the low end of the effect to lend clarity.<ref name="MEHPG41"></ref>
+
+
+====Unreferenced techniques====
+
+This section needs content.
+
+
+==References==
+<references/>
+
+
+{{Template:More techniques}}
+[[category:Mixing techniques|Reverb]]
+[[category:tutorials]]
