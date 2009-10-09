@@ -1,0 +1,28 @@
+{{Template:Instrument mixing}}
+
+==General considerations and guidelines==
+
+
+
+
+====Referenced techniques====
+'''Each technique begins with a bullet point'''
+
+*To find the frequency "spot" of a snare track boost +5 or 6db of the upper mid range at roughly 2Khz. Open up the bandwidth parameter until the snare begins to "jump out", and then close (tighten) the bandwidth until you get only the part of the snare sound you want the most.Then fine tune the frequency until you need the least amount of EQ boost to make it jump out of the mix.<ref>The Mixing Engineers Handbook Second Edition. Bobby Owsinski. Page 32-33. ISBN 978-1-59863-251-4</ref>
+
+*If the snare has been mic'd from the bottom add a short slap delay between 50-125ms with a tad of feedback on the bottom head.Bring the slap back on a second channel.Now using an aux, send the top snare mic, the bottom snare mic and the slap to a short reverb of a second or less. Adjust the Eq, level and phase.<ref>The Mixing Engineers Handbook Second Edition. Bobby Owsinski. Page 51. ISBN 978-1-59863-251-4</ref>
+
+
+
+====Unreferenced techniques====
+
+This section needs content.
+
+
+==References==
+<references/>
+
+
+{{Template:More techniques}}
+[[category:Mixing techniques|Snare]]
+[[category:tutorials]]
