@@ -1,0 +1,34 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Frequency response (100 kHz = -3 dB): 10 Hz-100 kHz
+* Common mode rejection (at 0 dBu): 1 kHz: > 75 dB / 10 kHz: > 65 dB
+* THD & N (at 0 dBu): > 83 dB
+* S/N (A-weighted): 90 dBu
+* Input impedance Line: 20 kOhm
+* Max. input level Line: +22 dBu
+* Max. output level XLR/jack: +24 dBu
+* Output impedance: = 50 Ohm
+* Power supply Toroidal transformer: 30 VA
+* Fuses: 400 mA (230 V/50 Hz) / 800 mA (115 V/60 Hz)
+* Dimensions Stand.-EIA-19 inch/2U housing: 482 x 88 x 210 mm
+* Weight: 4.3 kg
+|}
+
+
+The '''SPL Kultube''' is a GainCell compression device with a thermionic valve (vacuum tube) used for coloration of the compressed signal.It also has a "decompress" function.
+
+
+{{stub}}
+
+
+[[category:SPL|Kultube]]
+
+[[category:outboard processors]]
+[[category:dynamics processors]]
