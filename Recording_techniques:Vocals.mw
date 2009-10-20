@@ -1,0 +1,68 @@
+{{Template:More techniques}}
+{{Template:Instrument recording}}
+
+===Considerations and guidelines===
+*One thing to keep in mind is the [[proximity effect]], as the vocalist gets closer to the microphone (under a foot) the sound will change resulting in an increase in bass frequencies.
+
+*Pop Filters can help remove the pops on "p" and "b" sounds. Usually setting the pop filter mid way inbetween the vocalist and the microphone is standard when using a large diaphragm condenser(apprx. 4" and 4").  A cheap trick for making your own pop filter and de esser is to tape a pencil on the front of the grill of a mic (works best on a large diaphragm condenser) by taping a pencil vertically on the font of the grill it acts as a diffuser and can help prevent pops and sybilance.
+*Also keep in mind that any instruments, Snare Drums, Guitars, and Pianos that are present in the room you are recordin in, will reverberate right along with the room, occasionally making substantial noise.  Make sure to remove or dampen any such instruments before recording.
+
+===Condenser Microphones===
+Condenser microphones have low distortion and a high signal to noise ratio, and tend to produce a more "true" reproduction of the voice. Condensers are more appropriate for singers on vocals where you want to reproduce the singers voice in a clear fashion as opposed to something edgier. Most vocal microphones use a large diaphragm because it is slower and more pleasant to the ear because it smooths out transients.  Keep in mind that condenser microphones need 48 volt phantom power though most mixing consoles or microphone inputs have this capability. Condenser microphones tend to be highly sensitive and can easily pickup small background noises like a squeaking of a chair, outside traffic noise, or an air vent.
+
+Examples:
+[[Neumann U87|U87]]
+[[Neumann TLM103|TLM 103]] 
+
+===Ribbon and Tube===
+
+[[Ribbon microphone|Ribbon]] and Tube microphones can reproduce an older style sound, and tend to be warmer than condensers especially when paired with tape and quality preamps.
+
+===Vocal Dynamic microphone=== 
+
+[[Dynamic microphone]] can handle sustained loud input volumes (screaming etc..) without a lot of distortion.  However, they have a higher level of distortion to begin with.  These can be more forgiving in some respects, most notably on your pocketbook.  For example, the [[Shure SM58]] sells for around $100 and is one of the most widely used dynamic vocal mics.
+
+Dynamic microphones are less sensitive and thus less sensitive to ambient noise than condensers, less reflections will also show up on the recording.  This can be particularly useful when recording loud bands at the same time as a vocalist, providing better, though by no means perfect, isolation.
+
+For a unique effect, you can tape or hold the side of the grill on a dynamic mic like a 57 or 58, you will sometimes see vocalists do this on stage at hardcore shows. It changes the frequency response when you do this and it can produce a more bassy "gutteral" vocal.
+
+
+
+==Vocal styles==
+
+===Smooth soft female R&B vocals===
+To record soft breathy female R&B vocals, use a large diaphragm condenser microphone and tell the singer to close her eyes and pretend the microphone is a baby's ear.<ref>The Recording Engineers Handbook.Page 182.ISBN 1-93292-900-2</ref>
+===Opera===
+
+Recording  an Opera, or any classically trained, singer can provide a plethora of new challenges.
+
+First of all, Opera sings have a notoriously wide dynamic range.  They often go from very quiet
+to impressively loud in a single song, it might help to minimize some of the dynamic range (and potential for peaks) by sending it through a [[Compressor| compressor]] even before sending it to tape (or your DAW) (note: you can't undo compression so make sure you have a setting you are sure to be happy with).
+
+Also, depending on the skill of the singer, they may be able to "play the acoustics" of the room.  That is to say, even when singing quietly, a skilled opera singer can make the room itself reverberate in a pleasing way.
+
+Taking these things into account, it is probably best to use a condenser microphone to record opera.  However, be sure to place the singer a good distance from the microphone, experimenting with anywhere from 6 inches to a foot away should work.  Also, consider using a room microphone setup along side the primary microphone to capture the sound of the room.  This should allow you to capture the full depth of the performance.
+
+===Voice over===
+
+Place the microphone 3-4 inches away from the speaker and move it off-axis by 45 degrees to inhibit popping. Compress at 9db to 12db at 4:1 ratio.Set the attack and release times as fast as possible.<ref>The Recording Engineers Handbook.Page 189.ISBN 1-93292-900-2</ref>
+
+
+==Unreferenced techniques==
+
+Please share your vocal recording techniques here if unreferenced.
+
+
+==References==
+<references/>
+
+==External links==
+
+[http://mixguides.com/microphones/tips_and_techniques/audio_recording_vocals_february/ Mix Magazines Article on Recording Vocals]
+
+[http://askasoundguy.com/home/2009/03/13/recording-101-processing-your-vocals/ AskASoundGuy.com Recording 101: Processing Your Vocals]
+
+
+
+[[category:recording techniques|Vocals]]
+[[category:tutorials]]
