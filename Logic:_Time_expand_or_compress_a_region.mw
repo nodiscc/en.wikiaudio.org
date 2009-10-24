@@ -1,0 +1,35 @@
+=Logic: Time expand or compress a region=
+
+==Logic 9==
+===Using Flex Tool===
+
+The flex tool allows for the time compression and expansion of specific areas of a region such as transients. This allows for easy movement to a specific time reference.
+
+'''1.''' Select the flex tool in the [[Logic: Tools|tools menu]]
+
+'''2.''' Click on the region you want to affect.
+
+'''3.''' A window will appear with a choice of a few different algorithms called "'''flex modes'''"(such as rhythmic, [[Polyphony|polyphonic]], [[monophonic]] etc) pick the one that reflects the qualities of the audio region the most.  
+4.Click the part of the audio file you want to expand or compress and move it to where you want it to land relative to the time grid.
+
+
+==Logic 8 and Logic 9==
+
+===Time stretch an entire region===
+
+
+'''1.''' Select a region in the arrange window.
+
+'''2.''' Hold down the '''Option''' key
+
+'''3.''' Click the lower corner of the region and move left or right (depending on desired effect)
+
+
+
+[[File:Logic Time Stretch.png]]
+
+
+[[category:logic|Time stretch a region]]
+
+
+[[category:tutorials]]
