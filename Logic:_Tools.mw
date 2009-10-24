@@ -1,0 +1,33 @@
+== Logic 9: Tools ==
+
+'''Logic 9''' has the same tools as logic 8 plus one additional tool. The "Flex tool" which is used to time compress and expand portions of audio regions.
+
+Logic 9 tools palette is displayed below
+
+[[File:Logic 9 tools.png]]
+
+
+== Logic 8: Tools ==
+
+
+[[image:Logic_8_Toolbar.PNG‎]]
+
+To open the '''tools''' The default key command  is the "Esc" key. 
+
+
+#'''Pointer:''' use as a pointer for click-and-drag style editing such as moving samples in the Arrange window, adjusting MIDI performance data in the Matrix window, and drawing automation and hyperdraw keyframes.
+#'''Pencil:''' use for drawing MIDI data, such as in the Score and Matrix windows (hold down the Apple key while clicking to immediately invoke for quick editing).
+#'''Eraser:''' use to erase regions, automation and other data
+#'''Text:''' use to label samples and tracks in the Arrange window.
+#'''Scissors:''' use to cut regions into smaller regions.
+#'''Glue:''' use to 'paste' together separate samples on the same track (choose and click to merge separate samples).
+#'''Solo:''' click to solo a track.
+#'''Mute:''' click to mute a track.
+#'''Zoom:''' click and drag to zoom in the Arrange window.
+#'''Audio Crossfade''': click and drag to draw crossfades between adjoining audio samples.
+#'''Automation:''' use to adjust automation planes to more complex shapes.
+#'''Marquee:''' drag to make marquee-style selections.
+
+
+[[category:tutorials]]
+[[category:Logic|T]]
