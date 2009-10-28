@@ -1,0 +1,38 @@
+Audio files dragged to Ableton Live tracks are automatically set to conform to any tempo changes that are made to the session. Sometimes , especially if you wish to use Abletone Live as a conventional [[DAW]] you might not want tracks to "conform" to the set tempo.
+
+
+Here's how you disable this feature.
+
+
+Go to the top menu '''Live / Preferences'''
+
+
+
+[[File:Ableton Live preference menu.png]]
+
+
+
+
+Then in the dialog box that appears select the side menu that says '''Record/Warp/Launch'''
+
+Then set '''Auto-Warp Long Samples''' to '''Off'''
+
+
+
+
+[[File:Ableton Live warp long regions preference.png]]
+
+
+
+
+
+Now if you drag and drop an audio file to a track (not a clip) it will retain it's original speed irrespective of the tempo live is set to.
+
+
+
+[[File:Ableton Live waveform on a track.png]]
+
+
+[[category:Ableton Live|S]]
+
+[[category:tutorials]]
