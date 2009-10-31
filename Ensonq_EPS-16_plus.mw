@@ -1,0 +1,25 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 7 to 20 voices
+*Sampler - 16-bit mono, 11.2kHz to 44.6kHz; (up to 11.5 seconds sample-time at 44.6kHz)
+*LFO - 7 shapes
+*Filter - 2 high, low, band pass 6dB to 24dB filters
+*Keyboard - 61 keys (velocity & pressure sensitive)
+*Memory - 1 MB (expandable to 2 MB)
+*Control - MIDI
+*Date Produced - 1990
+
+|}
+
+The '''EPS-16+''' is a 61 note keyboard sampler.
+
+{{stub}}
+
+[[category:Ensoniq|EPS 16+]]
