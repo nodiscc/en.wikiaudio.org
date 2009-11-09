@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+----
+|-
+| style="background: " | 
+<i>This entry needs an image. </i>
+
+<big>'''Specifications'''</big>
+
+*Frequency Response:
+**20Hz - 22kHz
+*Output Sensitivity:
+**28mV/Pa (cardioid)
+*Max SPL:
+**142dB for 0.3% THD
+*Output Impedance: 
+**200Ω
+
+<big><b>Physical</b></big>
+*Connector:
+**XLR-3M
+*Weight:
+**690g
+*Length:
+**160mm
+*Max Diameter:
+**50mm
+|}
+
+
+The <b>Brauner Phantom V</b> is a high-quality FET-based large diaphragm [[condenser microphone]], designed for studio work. Based on the Brauner VM1 capsule and circuitry, it features three polar patterns (omnidirectional, cardioid and figure-of-eight) and a 10dB pad switch. This microphone was the first in the Brauner line-up to require phantom power, rather than be powered by an external power supply.
+
+The Phantom V features prominent high-frequency boosts in its frequency response, centred at 10kHz in omnidirectional mode, 7kHz in cardioid mode and 6kHz in bidirectional mode. In cardioid mode it is exactly the same as the Phantom C model, as the rear of the dual capsule is switched off.
+
+
+==References==
+<ref name="http://www.brauner.com">Brauner Official Page</ref>
+<references/>
+
+==External links==
+*[http://www.brauner-microphones.de/en/products/phantom_v/ Brauner Phantom V official page]
+*[http://www.lasvegasproaudio.com/tedpechphv.html Ted Perlman chooses the Phantom V]
+
+[[Category:Microphones]]
