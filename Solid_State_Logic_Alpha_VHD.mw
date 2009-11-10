@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+'''Connections'''
+*Power Supply: IEC320 3-pin connector, 100 240 Vac, 50 60 Hz
+*Analog I/O:
+*Microphone Balanced, 3-pin XLR-F, Zin = 1k Ohms (10k Ohms for Hi Z)
+*Instrument Un-balanced, 1/4" Mono Jack, Zin = 1M Ohms
+*Output Balanced, 3-pin XLR-M, Zo = 40 Ohms
+*Power 5-pin 180ø DIN connector, +5Vdc, ñ15Vdc
+
+'''Physical'''
+*Depth: 9" casing only (230mm)
+*Height: 1.75" (1 RU) (44.5mm)
+*Width: 17.25" casing only (438mm)
+*482mm / 19" inc' rack ears
+*Weight 6 pounds (2.6kg)
+*Power < 20 Watts
+|}
+
+
+The '''Solid State Logic Alpha VHD''' is a four channel microphone/line preamp
+
+
+
+{{stub}}
+
+
+[[category:Solid State Logic|Alpha VHD]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
