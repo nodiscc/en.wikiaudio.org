@@ -1,0 +1,57 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+'''EQ Filters'''
+* LF (High Pass):
+* Frequency range: 50kHz 3kHz ( 3dB point)
+* Slope: 12dB/Octave
+* HF (Low Pass):
+* Frequency range: 30Hz 600Hz ( 3dB point)
+* Slope: 18dB/Octave
+
+'''Performance'''
+* Microphone Amplifier Performance
+* Gain: Continously variable from +12dB to +75dB; Independently switchable 20dB Pad available
+* Input Impedance: Continously variable from 1k2 OHMS to 10k OHMS
+* Output Headroom: > +26dBu at onset of clipping
+* THD + Noise (-18dBu applied, +28dB gain): < 0.003% at 1kHz; < 0.006% at 10kHz
+* Frequency Response: 20Hz to 20kHz: +0.05dB/-0.1dB; 150kHz: 3dB
+* Equivalent Input Noise (input terminated with 150 OHMS): < 127dB at maximum gain; < 90dB at 0dB gain (+20dB with Pad IN )
+* Common Mode Rejection (-10dBu applied, +30dB gain): > 75dB from 50Hz to 1kHz; > 70dB at 10kHz
+
+'''Instrument Input Performance'''
+* Gain: Continously variable from +12dB to +75dB; Independently switchable 18dB Pad available
+* Input Impedance: 1M OHMS
+* Output Headroom: > +26dBu at onset of clipping
+* THD + Noise (-18dBu applied, +28dB gain): < 0.03% at 1kHz; < 0.05% at 10kHz
+* Frequency Response:
+* 20Hz to 20kHz: +0.05dB/-0.1dB
+* 150kHz: 3dB
+* Equivalent Input Noise (Input terminated with 150 OHMS): < 82dB at +12dB (minimum) gain; < 88dB at +28dB gain (mid position)
+
+'''Line Input Performance'''
+* Gain: Continuously variable from 20dB to +20dB
+* Input Impedance: > 10k OHMS
+* THD + Noise (+24dBu applied, 0dB gain): < 0.005% from 20Hz to 20kHz
+* Frequency Response: 20Hz to 20kHz: ±0.1dB; 150kHz: 3dB
+* Equivalent Input Noise (Input terminated with 150 OHMS): < 90dB
+
+|}
+
+
+The '''Solid State Logic X-Rack''' is an single channel preamplifier module with the choice of microphone, instrument or line in.
+
+
+{{stub}}
+
+
+[[category:Solid State Logic|X-Rack]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
