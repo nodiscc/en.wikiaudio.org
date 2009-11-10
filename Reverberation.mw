@@ -1,0 +1,27 @@
+<b>Reverberation</b> (abbrev. <i>reverb)</i> is the persistence of sound in a particular space after the original sound is removed. When sound occurs in an acoustic space, a large number of echoes build up and then slowly decay.
+
+Reverberation is made up of two distinct phases: <i>early reflections</i> and the <i>reverberant tail</i>. Early reflections describe the first sound reflections that arrive at the listener's ears after the occurrence of the initial sound. The reverberant tail, or decay, refers to the later reflections that take more convoluted paths from multiple surfaces. As more reflections occur, the reverberant tail becomes more dense and decays more smoothly. 
+
+Reverberation time is measured by a standard called <b>RT60</b>. This refers to the amount of time (in seconds) that a reverb takes to die away by 60dB (a factor of one million). Reverberation time is affected by a large number of factors; the floor, wall and ceiling materials, the number of surfaces and their angular relationships to one another, the number and type of furnishings, the size of the physical space and so on. 
+
+
+== RT60 calculation formulae ==
+
+Two basic formulae are widely used to calculate RT60 times. Wallace Clement Sabine, a Harvard student, derived the following formula in the late 1890s:<br><br>
+<math>RT60=\frac{0.161V}{Sa}</math>
+
+where <math>V</math> = volume in m³, <math>S</math> total surface area of room in m², <math>a</math> is the average absorption coefficient of room surfaces, and the product <math>Sa</math> is the total absorption in Sabines.
+
+However, Sabine's equation is generally only accurate in particularly lively rooms, where the average absorption <math>a</math> is <0.3. In more absorbent rooms another, more complex equation called Norris-Eyring is more accurate:<br><br>
+<math>RT60=\frac{0.161V}{-S\ ln(1-a)}</math>
+
+This equation achieves an RT60 of 0.0 in a completely acoustically-dead space, which is correct, but it also assumes that all surfaces have the same absorption coefficient (<math>a</math>). A third equation, the Millington-Sette formula, works well for rooms containing different absorption coefficients: <br><br>
+<math>RT60=\frac{0.161V}{\Sigma-s_i\ ln(1-a_i)}</math>
+
+where <math>s_i</math> equals the surface area of the <math>i</math> material.
+<br>
+----
+
+== External Links ==
+* [http://askasoundguy.com/home/2009/02/25/big-red-button-real-life-reverb/ Real Life Reverb]
+* [http://askasoundguy.com/home/2009/03/16/mix-monday-q-a-vocal-reverb/ Q&A: Vocal Reverb]
