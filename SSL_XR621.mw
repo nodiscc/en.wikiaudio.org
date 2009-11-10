@@ -1,0 +1,105 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Physical'''
+
+* Depth    
+**200mm / 7.9 inches     including front panel knobs, excluding connectors
+**275mm / 10.9 inches     including front panel knobs and connectors
+* Height     171mm / 6.75 inches
+* Width    
+**35mm / 1.4 inches     front/rear panels
+**49mm / 1.9 inches     overall width (front and rear panels are offset)
+* Weight     260g / 9.5 ounces
+* Boxed size     190mm x 290mm x 70mm / 7.5" x 11.5" x 2.5"
+* Boxed weight     460g / 16.5 ounces
+
+''<nowiki>*All values are approximate</nowiki>''
+ 
+'''Environmental'''
+
+* Temperature     Operating:     +5 to 30 deg. C
+**Non-operating:     –20 to 50 deg. C
+**Max. gradient:     15 deg. C/hour
+* Relative Humidity     Operating:     20 to 80 %
+**Non-operating:     5 to 90 %
+**Max. wet bulb:     29 deg. C (non-condensing)
+* Vibration    
+**Operating:     < 0.2 G (3 – 100Hz)
+**Non-operating, power off:     < 0.4 G (3 – 100Hz)
+**Shock     Operating:     < 2 G (10ms max.)
+**Non-operating:     < 10 G (10ms max.)
+**Altitude     Operating:     0 to 3000m (above sea level)
+**Non-operating:     0 to 12000m 
+
+'''EQ Filters'''
+
+* Frequency range     Slope
+* HF (Low Pass):     50kHz – 3kHz (–3dB point)     12dB/Octave
+* LF (High Pass):     30Hz – 600Hz (–3dB point)     18dB/Octave
+
+'''Performance Specification'''
+
+* Microphone Amplifier Performance
+* Gain     Continously variable from +12dB to +75dB
+* Independently switchable 20dB Pad available
+* Input Impedance     Continously variable from ≅1k2Ω to ≅10kΩ
+* Output Headroom     > +26dBu at onset of clipping
+* THD + Noise     (-18dBu applied, +28dB gain)    
+< 0.003% at 1kHz
+< 0.006% at 10kHz
+* Frequency Response     20Hz to 20kHz     +0.05dB/-0.1dB 150kHz     –3dB
+* Equivalent Input Noise     (input terminated with 150Ω)    
+**< –127dB at maximum gain
+**< –90dB at 0dB gain (+20dB with Pad ‘IN’)
+* Common Mode Rejection     (-10dBu applied, +30dB gain)    
+**> 75dB from 50Hz to 1kHz
+**> 70dB at 10kHz
+
+'''Instrument Input Performance'''
+
+*Gain    
+**Continously variable from +12dB to +75dB
+**Independently switchable 18dB Pad available
+* Input Impedance     1MΩ
+* Output Headroom     > +26dBu at onset of clipping
+* THD + Noise     (-18dBu applied, +28dB gain)    
+**< 0.03% at 1kHz
+**< 0.05% at 10kHz
+* Frequency Response    
+**20Hz to 20kHz     +0.05dB/-0.1dB
+**150kHz     –3dB
+* Equivalent Input Noise     (Input terminated with 150Ω)    
+**< –82dB at +12dB (minimum) gain
+**       < –88dB at +28dB gain (mid’ position)
+
+ 
+'''Line Input Performance'''
+
+* Gain     Continuously variable from –20dB to +20dB
+* Input Impedance     > 10kΩ
+* THD + Noise     (+24dBu applied, 0dB gain)     < 0.005% from 20Hz to 20kHz
+* Frequency Response     20Hz to 20kHz     ±0.1dB 150kHz     –3dB
+* Equivalent Input Noise     (Input terminated with 150Ω)     < –90dB
+
+* See User Manual for measurement conditions & references
+
+
+|}
+
+The '''SSL XR621''' is a microphone/instrument/line preamplifier module 
+
+{{stub}}
+
+
+[[category:Solid State Logic|XR621]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
