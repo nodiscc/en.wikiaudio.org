@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |<big>'''{{PAGENAME}}''' 
+</big>''This entry needs an image.Please add one here''  
+
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ELEMENT 	Fixed-charge back plate, permanently polarized condenser
+*POLAR PATTERN 	Hypercardioid
+*FREQUENCY RESPONSE 	70-20,000 Hz
+*LOW FREQUENCY ROLL-OFF 	80 Hz, 18 dB/octave
+*OPEN CIRCUIT SENSITIVITY 	-41 dB (8.9 mV) re 1V at 1 Pa
+*IMPEDANCE 	200 ohms
+*MAXIMUM INPUT SOUND LEVEL 	155 dB SPL, 1 kHz at 1% T.H.D.
+*DYNAMIC RANGE (typical) 	131 dB, 1 kHz at Max SPL
+*SIGNAL-TO-NOISE RATIO 	70 dB, 1 kHz at 1 Pa
+*PHANTOM POWER REQUIREMENTS 	11-52V DC, 3 mA typical
+*SWITCHES 	Flat, roll-off; -10 dB pad
+*WEIGHT 	160 g (5.6 oz)
+*DIMENSIONS 	156.7 mm (6.17") long, 37.7 mm (1.48") head diameter
+*OUTPUT CONNECTOR 	Integral 3-pin XLRM-type
+*OPTIONAL INTERCHANGEABLE ELEMENTS 	UE-O omnidirectional (360°) UE-C cardioid (120°)
+*ACCESSORIES FURNISHED 	AT8405a stand clamp for 5/8”-27 threaded stands; AT8122 foam windscreen; protective pouch
+*AUDIO-TECHNICA CASE STYLE 	S2
+|}
+
+
+The '''Audio-Technica ES973''' is a hypercardioid condenser microphone intended for hand-held live vocal applications 
+
+According to the Audio-Technica website, the specifications of the ES973 appear to be exactly the same as the Audio Technica U873R.
+
+==References==
+[http://www.audio-technica.com/cms/wired_mics/242f8e752935c4f5/index.html U873R specifications]
+
+[http://www.audio-technica.com/cms/wired_mics/5b3899edbaac5626/index.html ES973 specifications]
+
+{{stub}}
+
+[[category:microphones]]
+
+[[category:Audio-Technica|ES973]]
