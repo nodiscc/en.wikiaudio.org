@@ -1,0 +1,24 @@
+When you select it a region on a track your selection will snap to a user defined grid value.
+
+
+[[File:Ableton Live track selection snap to grid lines.png]]
+
+
+To change this value or enable or disable it, right click on the audio track. A menu will appear.The bottom section of this menu will list different grid value options.
+
+[[File:Ableton Live grid snap menu.png]]
+
+
+The grid options are
+
+*'''Adaptive grid''' - This changes the grid based on zoom level and gives you five different choices from "widest" to "narrowest"., 
+
+*'''Fixed grid''' - This is a set grid value and a list of time divisions are gives from 8 bars to 1/32
+
+*'''Off''' - This turns off the grid value.
+
+
+
+[[category:Ableton Live|Grid snap enable or disable]]
+
+[[category:tutorials]]
