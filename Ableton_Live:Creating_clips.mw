@@ -1,0 +1,53 @@
+To edit an audio file into clips do these things.
+
+
+==From the arrangement window==
+
+First, make sure you are in the arrangement window view.You can do this by clicking the arrangement view icon [[File:Ableton Live arrangement track icon.png]].
+
+Then, import or drag and drop an audio file into an audio track if you haven't already done so.
+
+Then select a part of the file you would like to turn into a clip by '''Left clicking''' your mouse and dragging over the desired are of the track.The selection will appear orange (image below). You might want to customize the [[Ableton Live:Grid snap enable or disable|Ableton Lives grid settings]] for this.
+
+
+
+
+[[File:Ableton Live track selection.png]]
+
+
+
+
+Then right click on the upper part of the track selection where the color bar is and choose '''Split'''
+
+
+
+[[File:Ableton Live split menu.png]]
+
+
+Repeat this to create as many split regions as you want. When you are done select the region(s) you created. You can select multiple regions at a time by holding the '''Shift''' key.
+
+
+[[File:Ableton Live file with split regions.png]]
+
+
+
+
+Use the copy key command. '''Command C''' for Mac or '''CTRL C''' for Windows.
+
+Then switch to session view by clicking the session view selector icon. [[File:Ableton Live session view selector icon.png]]
+It is in the upper right of the arrangement window.
+
+Select a clips section of an audio track (highlighted in orange in the image below) and use the paste key command ('''Command V''' for Mac or '''CTRL V''' for Windows)
+
+
+[[File:Ableton Live empty track clips selection.png]]
+
+
+The end result should look similar to the image below
+
+[[File:Ableton Live clips on a track.png]]
+
+
+[[category:Ableton Live|Creating clips]]
+
+[[category:tutorials]]
