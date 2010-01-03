@@ -1,0 +1,14 @@
+A song template is a configuration of  Ableton Live that has custom settings saved to it and is set to launch by default when the program is started.
+
+To create a song template the first step is to configure Ableton Live with all the [[Ableton Live:Add new tracks|tracks]],[[Ableton Live:Creating clips|clips]],and other parameters you wish to include in your session.
+
+Then go to '''Live / Preferences'''
+
+
+[[File:Ableton Live preference menu.png]]
+
+
+Then in the menu that appears choose '''File Folder / Save Current Set As Default / Save'''
+
+
+[[File:Ableton Live save song as default menu.png]]
