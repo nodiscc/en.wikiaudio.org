@@ -1,0 +1,190 @@
+=Melodyne 3.2.2: Tools=
+
+This tutorial uses Melodyne version 3.2.2 but is is probably applicable to other versions
+
+== Tool bar overview ==
+ 
+
+The Melodyne toolbar looks like this and can be accessed by the holding down the Control key and clicking the mouse or "right clicking".
+
+[[image:Melodyne_tools.png]]
+
+
+
+
+
+== Pitch tool ==
+
+[[image:Melodyne_Pitch_correction_tool.png‎]]
+
+This tool is used for correcting pitch. When you click on the pitch tool the notes will be given a blue highlight which shows where Melodyne has assessed the correct notes should be. You can correct the note by simply double clicking on it. If you would like to fine tune where the note goes you can hold down the "alt" key and move the note. You can also fine tune a note by selecting it and moving the values in the box that looks like the image below.
+
+[[image:Melodyne_Fine_Tune_window.png‎ ]]
+
+Before and after using the pitch correction tool
+
+[[image:Melodyne_note_before_and_after_pitch_correction.png‎]]
+
+
+
+== Pitch modulation tool ==
+
+If you click and hold on the pitch tool you will see 2 other tools appear below it
+
+[[image:Melodyne_Pitch_Tools.png‎ ]]
+
+
+The one pictured below is the pitch modulation tool
+
+[[image:Melodyne_Pitch_Modulation.png‎ ]]
+
+what it is used for: 
+
+This tool is used to change the modulation of a note. To use simply select this tool and then click and hold the note and move the mouse up or down. The effect should look similar to the images below. 
+
+'''''Before''''' using the pitch modulation tool.
+
+[[Image:Melodyne Pitch modulation 1.png]]
+
+
+'''''After''''' using the pitch modulation tool
+
+[[Image:Melodyne pitch Modulation Tool 2 .png]]
+
+
+
+==Pitch drift tool==
+
+[[Image:Pitch_drift_tool.png]]
+
+
+Before and after using the pitch drift tool on a note 
+
+[[Image:Before and after pitch drift.png]]
+
+
+
+==Formant tool==
+
+This tool is used for moving the [[formant]] of a note.
+
+[[Image:Formant_.png]]
+
+
+'''What it is used for:'''
+
+Sometimes in Melodyne when you move a note, say for example to a higher pitch, it may begin to sound "chipmonk-ish". Moving the formant back down a little while keep the note in its new position can alleviate this unwanted characteristic. The formant is displayed as the solid bar in the middle of the note. This can be moved up or down to compensate for pitch shifts that sound too extreme.
+
+
+'''The formant is represented in this image by the line-bar through the middle of the note'''
+
+[[Image:Melodyne_Formant_tool_in_action.png‎ ]]
+
+
+
+
+The formant tool will only work on notes when in melodic mode, not in percussive or polyphonic mode. You can choose which mode your using under the Definitions menu as shown below by choosing "reset detection to" and then choosing Melodic,Percussive or Polyphonic mode
+
+
+[[Image:Definition_Menu.png]]
+
+== Amplitude tool ==
+
+
+
+[[Image:Amplitude_tool.png]]
+
+This tool is used to make notes louder or quieter. Below is a before and after picture displaying the notes amplitude.
+
+Below is a before and after picture displaying the notes amplitude.
+
+
+
+'''Before'''
+
+[[Image:Amplitude_tools before .png]]
+
+
+
+'''After'''
+
+[[Image:amplitude_tool_tool after.png]]
+
+
+
+If you double click on a note using this tool it will mute it. To unmute the note simply double click on it again.
+
+
+
+
+== Move notes tool ==
+
+
+[[Image:Move_notes_tool.png]]
+
+
+This tool allows you to move notes forward or backward. Simply select the "move notes" tool, select the note you wish to move and click and hold; and move the note forward or back. 
+
+If you click and hold on the "move notes tool" you can access another tool called the "edit time handle" tool.
+
+
+
+
+== Edit time handle ==
+
+[[Image:Edit_time_handle.png]]
+
+
+This tool allows you to edit the attack of a note and make the speed of the start of the note faster or slower.
+Simply choose the edit time handle tool and then drag the blue line that appears on the note you wish to edit.
+
+Below is the beginning of a note being changed from slower to faster using the edit time handle tool.
+
+
+
+'''Before time handle'''
+
+[[image:Edit time handle before.png | ]]
+
+'''After time handle'''
+
+[[image:Edit time handle after.png | ]]
+
+== Note separation tool ==
+
+
+[[Image:Note_seperation.png]]
+
+
+This tool allows you to separate individual notes into multiple notes by simply double clicking on the part of the note you would like to "separate" using this tool.
+
+Below is a visual example
+
+'''Before using the note separation tool''' 
+
+[[Image:before note_seperator.png]]
+
+
+'''After using the note separation tool'''
+
+[[Image:after Note_seperator_2.png]]
+
+== Segment separation ==
+
+[[Image:Segment_seperation.png]]
+
+
+This tool allows you to separate the notes into segments with gaps in between them.
+
+The way that it works is, first make a cut using the note separation tool, then double click on the cut you just created using the ''segment separation'' tool. A display of two back-to-back markers will then appear. These can be pulled apart from one another to create separation edits (as shown in the image below)
+
+
+
+
+[[image:Segment_separation_tool.png‎]]
+
+
+
+[[category:tutorials]]
+
+[[category:melodyne|T]]
