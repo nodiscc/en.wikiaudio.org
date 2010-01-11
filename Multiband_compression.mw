@@ -1,0 +1,14 @@
+'''Multiband compression''' is a form of dynamic range compression that acts upon different frequency bands in real-time. If you were to think of conventional [[dynamic range compression]] as a form of automatic volume control, multiband compression would be a form of automatic equalization. 
+
+
+{{stub}}
+
+==Multiband compression==
+
+Multiband (also spelled multi-band) compressors can act differently on different frequency bands. The advantage of multiband compression over full-bandwidth (full-band, or single-band) compression is that changing signal levels in one frequency band (such as from a sporadic low frequency kick drum) don't cause unneeded audible gain changes or "pumping" in other frequency bands.
+
+Multiband compressors work by first splitting the signal through some number of bandpass filters or crossover filters. The frequency ranges or crossover frequencies may be adjustable. Each split signal then passes through its own compressor and is independently adjustable for threshold, ratio, attack, and release. The signals are then recombined and an additional limiting circuit may be employed to ensure that the combined effects do not create unwanted peak levels.
+
+Software plug-ins or DSP emulations of multiband compressors can be complex, with many bands, and require corresponding computing power.
+
+Multiband compressors are primarily an audio mastering tool, but their inclusion in digital audio workstation plug-in sets is increasing their use among mix engineers. Hardware multiband compressors are also commonly used in the on-air signal chain of a radio station, either AM or FM, in order to increase the station's apparent loudness without fear of overmodulation. Having a louder sound is often considered an advantage in commercial competition. However, adjusting a multiband output compressor of a radio station also requires some artistic sense of style, plenty of time and a good pair of ears. This is because the constantly changing spectral balance between audio bands may have an equalizing effect on the output, by dynamically modifying the on-air frequency response. A further development of this approach is programmable radio output processing, where the parameters of the multiband compressor automatically change between different settings according to the current programme block style or the time of day.
