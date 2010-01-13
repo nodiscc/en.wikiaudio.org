@@ -1,0 +1,97 @@
+= Melodyne 3.2.2: recording and importing audio =
+
+
+
+== Creating a new arrangement ==
+
+
+
+Once you launch the program the first thing you need to do is create a new arrangement.
+You do this by going to "File/ New Arrangement" as show in the image below
+
+
+[[Image:Melodyne file menu arrangement.png]]
+
+
+You should now see a window that looks like this:
+
+[[Image:arrange window melodyne.png]]
+
+== Importing Audio ==
+
+
+
+The next thing you need to do is record or import your audio into the program. To import you can either drag and drop to one of the tracks or use the File/Import function. If you would rather record directly into Melodyne you can jump to the record section of this tutorial. After you have added audio to your track it should looks similar to the image below. The bright orange and yellow sections are called "blobs" and they represent the different notes of a performance.
+
+
+[[Image:Blobs melodyne.png]]
+
+
+Once the audio file is imported, Melodyne saves the tempo and pitch information of your file as a .[[MDD file extention|mdd]] file.
+You can now open up the editing window by double clicking on one of the tracks or "blobs". The result should look similar to the image below:
+
+
+[[Image:Melodyne imported audio.png]]
+
+==  Recording Audio ==
+
+
+
+To record audio into Melodyne the first thing you need to do is make sure your audio preferences are set properly. To do this you need to go to Melodyne/Preferences as shown in the image below
+
+
+[[Image:Melodyne preferences.png]]
+
+
+Once you click the preference option you should see the window below. Click and hold the menu to the left and make sure it is set to the "recording" option. Set the File Format and Resolution (Bit depth) to whatever settings you wish to use for your recordings.
+
+
+[[Image:melodyne Recording_Preferences.PNG]]
+
+Next, change the panel to the left to "Hardware". Set the device driver to the driver of the soundcard you will be using, then set the sample rate. You can also change the buffer size and file cache if you need to.
+
+
+[[Image:Melodyne recording_preferences 2 .PNG]]
+
+
+Now open up the mixer.  '''Window/Mixer'''
+
+
+[[Image:Melodyne Mixer_menu.JPG]]
+
+Choose the record input for the channels you will be using by clicking them and holding. The record inputs are underlined in red in the image below.
+
+[[Image:Melodyne Mixer .PNG]]
+
+
+A drop down menu will appear that looks like the image below.Choose your input.
+
+
+[[Image:Melodyne Mixer_input.JPG]]
+
+
+Once you've set up the inputs, open the transport bar.
+Windows/Transport Bar
+
+[[Image:melodyne Transport_menu.PNG]]
+
+Once the transport bar is open, record enable the track you wish to record to and push the record button on the transport. Depending on if you have or haven't already specified a directory for your audio files you might get a dialog box like the one pictured below. If you do, choose a directory for your recorded audio files to be placed by pushing the "choose folder" button and selecting a directory.
+
+
+[[Image:Melodyne choose folder.png]]
+
+Now push the record and play button on the transport to begin recording your performance.
+
+
+[[image:Recording_in_progress.PNG]]
+
+
+Once you're done recording push "stop" on the transport. You should see your audio file displayed as a series of orange and yellow sections called "blobs" similar to the image below
+
+
+[[Image:Melodyne Done_recording.PNG]]
+
+
+
+[[category:tutorials]]
+[[category:melodyne|R]]
