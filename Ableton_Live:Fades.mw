@@ -1,0 +1,54 @@
+==Arrange window==
+
+To add a fade to a track in Ableton Live you must first select the arrangement view selector (image below). Then click the drop down menu arrow next to the track(s) you wish to draw automation into. (image below)
+
+
+
+
+[[File:Ableton Live track header with display icon and fold down menu highlighted.png]]
+
+
+
+
+
+Then click the menu below the track drop down and set it to '''Fades''' {image below)
+
+[[File:Ableton live fade track header.png]]
+
+
+
+
+Two square nodes will appear at the beginning and end of your track. Click and drag them to create the fades you want.
+
+
+
+
+[[File:Ableton fade node display.png]]
+
+
+
+[[File:Ableton Live track with fade.png]]
+
+
+
+
+==Crossfades==
+
+Place two regions back-to-back and then drag one of the nodes in the direction of the ''other'' region
+
+[[File:Ableton Live crossfades.png]]
+
+
+
+Then click and drag the nodes to customize the crossfade.
+
+
+[[File:Ableton Live crossfade .png]]
+
+==Clips window==
+
+To add fades to individual clips, [[Ableton Live:Clip automation|use clip automation. See here]]
+
+[[category:Ableton Live|Fades]]
+
+[[category:tutorials]]
