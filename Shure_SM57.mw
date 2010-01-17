@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[Image:SM57&Beta57.JPG|center|150px|The Shure SM57 (left) and the Beta 57A]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: Dynamic
+*Frequency Response: 40 to 15,000 Hz
+*Polar Pattern: Unidirectional (cardioid), rotationally symmetrical about microphone axis, uniform with frequency.
+*Sensitivity (at 1,000 Hz) Open Circuit Voltage: -56.0 dBV/Pa* (1.6 mV)
+*Impedance: Rated impedance is 150 ohms (310 ohms actual) for connection to microphone inputs rated low impedance.
+*Polarity: Positive pressure on diaphragm produces positive voltage on pin 2 with respect to pin 3.
+*Connector: Three-pin professional audio connector (male XLR type).
+*Case: Dark gray, enamel-painted, die-cast steel with a polycarbonate grille and a stainless steel screen.
+*Net Weight (without cable) 284 grams (10 oz) 
+
+|}
+The '''Shure SM57''' is a common professional low [[impedance]] cardioid [[Microphone#Dynamic microphones|dynamic]] [[microphone]] in live sound reinforcement and studio recording applications. It is a popular choice among live users due to its sturdy construction. It is often used on instruments that produce high sound pressure levels, such as the snare drum and other percussion, electric guitar amplifier and even vocals. Introduced in 1967, the SM57 remains one of the best selling microphones in the world today.  The '''SM''' stands for Studio Microphone<ref>[http://www.shure.com/Corporate/CompanyOverview/History/index.htm History of Shure Incorporated]</ref>.
+
+
+The SM57's retail list price is between $99 - $160<ref>[http://www.musiciansfriend.com/product/Shure-SM57-InstrumentVocal-Mic?sku=270102 Musician's Friend]</ref> in the United States and £65 - £105 in the United Kingdom <ref>[http://www.google.co.uk/products?q=shure+sm57 Google Products]</ref>
+It uses an [[XLR connector]].  According to Shure the [[frequency response]] is from 40 Hz to 15kHz. <!-- what is the maximum SPL? --> 
+
+The SM57 is the microphone used on the lectern of the President of the United States. The microphone kit (two SM57 microphones, windscreens, microphone stands, and black right-angle XLR cables) is available online for $500, and is referred to as the VIP/high profile microphone kit.
+
+The capsule inside the SM57 is identical to the one in the [[Shure SM58|SM58]]. It is the windscreen that is different, which changes the sound. Although the capsules are similar, they are not interchangeable (an SM57 cannot be turned into an SM58 or vice versa) since the design of the top half of the outer casing is also different.
+
+The Shure A2WS is an accessory windscreen that gives the SM57 a distinctive shape and is always in use when the microphone is mounted on the presidential podium.  The cylindrical foam windscreen is available as an accessory from Shure as well as from aftermarket producers.  The A2WS windscreen cuts down on wind noise, attenuates the sound of [[plosives]] (i.e. popped sounds), and protects the microphone capsule during rough handling.
+
+There is a popular modification for this microphone which involves removing the output step-up transformer. This increases the bass response and creates a "smoother" sound. However the output of the microphone will decrease by approximately 10dB.
+
+
+
+==References==
+<references/>
+
+==See also==
+*[[Shure SM58]]
+
+==External links==
+*[http://www.shure.com/microphones/models/sm57.asp SM57 official page]
+
+[[Category:Microphones|SM57]]
+[[category:Shure|SM57]]
