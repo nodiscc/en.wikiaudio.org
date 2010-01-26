@@ -1,0 +1,40 @@
+{{Template:Instrument mixing}}
+
+==General==
+
+
+
+
+====Referenced techniques====
+'''Each technique begins with a bullet point'''
+
+*Try boosting the 800Hz area. This can provide clarity.<ref name="MEHPG35">The Mix Engineers Handbook.Bobby Owsinski.Page35.ISBN 1598632515</ref>
+*Add a low cut filter below between 50 and 125Hz.<ref name="MEHPG35"></ref>
+*If using NS-10M's try this. Turn up the NS-10M's where the surround of the woofer is "crinkling" and then bring up a high pass filter until the "crinkling" stops and the woofer looks normal.Then bring the volume down and mix as normal.<ref name="MEHPG35"></ref>
+*Any instruments that have low frequency content (below 500Hz) can interfere with the bass.Cut the low frequency content on any other instruments or sound sources that don't need a lot of bass.<ref name="MEHPG35"></ref>
+
+
+
+==Electric bass mixing techniques==
+
+====Referenced techniques====
+
+'''Each technique begins with a bullet point.'''
+
+*When mixing bass with lots of finger pops EQ out around 1khz for a "warm pillowy sound" <ref name="TEEORPage26">The Expert Encyclopedia of Recording Interview with David Z Page 26 ISBN 1-931140-11-1</ref>
+
+*Try splitting the signal in two possibly compressing and EQing them differently and blending the signals <ref name="TEEORPage26"></ref>
+
+*Try splitting the signal in two and compress one strongly with a strong (boosted) mid range (or cut the surrounding lows and high frequencies); with the other signal focus on lightly compressing it and emphasizing the low end with EQ <ref name="TEEORPage26"></ref>
+
+====Unreferenced techniques====
+
+This section needs content.Please add your techniques
+
+==References==
+<references/>
+
+
+{{Template:More techniques}}
+[[category:Mixing techniques|Bass]]
+[[category:tutorials]]
