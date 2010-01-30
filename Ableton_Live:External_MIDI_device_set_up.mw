@@ -1,0 +1,52 @@
+==External MIDI==
+
+To set up an [[MIDI:connecting devices|external MIDI device]] for [[Ableton Live]] follow these steps.
+
+
+
+1. Make sure your in the [[Ableton Live:Toggle between session and arrange windows|session view window]] and Load the External instrument device onto an empty MIDI track or drag and drop it to the device drop area.
+
+
+
+[[File:Ableton Live External instrument selector.png]]
+
+
+
+
+Set the '''MIDI To''' option to the [[MIDI:connecting devices|MIDI port your devices is connected to]]. Then set the '''Audio From''' menu to the audio input(s) that your MIDI devices are connected to.
+
+
+
+
+[[File:Ableton Live External MIDI instrument parameters.png]]
+
+
+
+
+Set the '''MIDI From''' (MIDI input) to receive on all inputs and channels.
+
+
+
+[[File:Ableton Live MIDI track input.png]]
+
+
+
+
+Make sure '''Auto''' monitoring and the '''Record enable''' buttons are both on.
+
+
+
+
+[[File:Ableton Live auto monitoring and record enable buttons .png]]
+
+
+
+
+If you play (trigger) your MIDI device you should now see the meter jump on the channel and hear the audio returning to Ableton Live.
+
+
+
+
+[[category:Ableton Live|External MIDI device set up]]
+
+[[category:tutorials]]
