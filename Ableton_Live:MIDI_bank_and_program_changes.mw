@@ -1,0 +1,31 @@
+==MIDI Clips bank and program changes==
+
+[[File:Ableton Live Notes box with patch and bank change highlighted.png]]
+
+
+The [[Patch|patch]] and bank change parameters for individual MIDI clips are available in the clip parameters under the '''Notes''' box.
+
+
+
+===Bank===
+
+This is used to change the bank settings of external MIDI instruments and other devices
+
+===Sub-Bank===
+
+This is used to change the sub-bank settings of external MIDI instruments and other devices
+
+===Program===
+
+
+This is used to send program change messages to external MIDI instruments and other devices
+
+
+==Multiple program and bank changes in arrange window==
+
+To manually add a program change in the arrange window to a MIDI track you must select the region and then change the program settings in the [[Ableton_Live:Clip_view_parameters#Notes_.28MIDI_clips_only.29|'''Notes''' box]]. If you recorded a performance and wish to have multiple patch changes on the same track, you must [[Ableton Live:Split|split the MIDI recording]] and then set a different program (and/or bank and sub bank) value in the '''Notes''' box
+
+
+[[category:Ableton Live|MIDI bank and program changes]]
+
+[[category:tutorials]]
