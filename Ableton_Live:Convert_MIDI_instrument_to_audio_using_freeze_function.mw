@@ -1,0 +1,14 @@
+You can convert a MIDI instrument track to audio using the freeze function by following these steps:
+
+
+
+'''1.''' [[Ableton Live:Freeze tracks|Freeze a MIDI track]] that uses a software instrument
+
+'''2.''' Create an empty audio track
+
+'''3.''' Drag the frozen MIDI regions or clips to the audio track.
+
+
+[[category:Ableton Live|MIDI instrument to audio using freeze function]]
+
+[[category:Tutorials]]
