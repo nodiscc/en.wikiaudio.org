@@ -1,0 +1,114 @@
+
+
+The '''Sample''' box is where certain parameters pertaining to audio clips can be accessed in [[Ableton Live]]
+
+Please see the [[Ableton Live:Clip view parameters|original article]] this material came from for more information. 
+
+
+==Sample display (audio clips only)==
+
+[[File:Ableton Live sample box.png]]
+
+
+===Audio file sample properties===
+
+The first line are the sample properties of the file. The name, sample rate, bit depth and stereo format
+
+===Edit===
+
+This button opens up a third party sample editor to edit the current clip.
+
+===Save===
+This is used to save the current settings of the clip.Doing this means everything you use the clip the saved settings will accommodate it.
+
+===Rev===
+This button will [[Ableton Live:Reverse audio|reverse the audio clip.]]
+
+===High quality mode===
+
+This changes the sonic quality of audio clips when you pitch shift them.This should always be set to '''on''' unless your computer is having processing issues.
+
+===Fade===
+The fade feature applies a 0-4 millisecond fade to the beginning and end of the audio clip.This is intended to hide any pops or clicks at the beginning or end of the clip.
+
+===RAM===
+This loads the clips audio file into RAM to reduce the load on the hard disk.
+
+===Transpose===
+This is used to pitch shift a clips playback by semitones.
+
+===Detune===
+
+The detune feature is a way to fine tune a file in cents (subdivisions of semitone)
+
+===Gain slider===
+
+This changes the volume of the clip.This will change the display size of the waveform.
+
+===Warp===
+
+When this is activated a time stretching algorithm is applied to the clips audio file allowing you to create [[Ableton Live:Creating warped loops|warped files and loops]]
+
+===Seq BPM===
+
+This is the BPM that Ableton Live interprets the clip based on it's length, warp marker placement and other settings.This value can be doubled or divided quickly by clicking the two buttons directly below it.
+[[File:Ableton Live double and divide tempo buttons.png]]
+
+===Warp modes===
+
+[[File:Ableton Live warp modes.png]]
+
+Ableton Live's Warp modes are a series of different granular resynthesis techniques useful to accommodate specific types of audio material.
+
+====Beats====
+
+This mode is intended to be used with rhythmic audio material.
+
+====Tones====
+
+This mode is specifically intended for monophonic material with a defined pitch structure such as bass lines and vocals
+
+=====Grain size=====
+
+Grain size provides some control over the average grain size used with the '''Tone Warp mode'''. This is done in a signal-dependant manner; this means for signals with a clear pitch contour a small grain size works best and larger grain sizes help avoid artifacts that can accommodate material with a pitch contour that is unclear.
+
+====Texture====
+This mode works well for sound textures with a polyphonic or ambiguous texture such as
+orchestral music.
+
+=====Grain size=====
+The Grain Size control determines the grain size used in the '''Texture''' mode. Unlike tones mode this grain size is not applied in a signal-dependent way
+
+====Re-Pitch====
+This mode doesn't [[time stretching|time stretch]] audio, it simply speeds it up or slows it down similar to how a variable speed turntable can speeds up/down or how a sample is transposed in a sampler.
+
+====Complex====
+Complex mode is intended to be used for audio material that incorporates multiple sonic elements of all the other individual warp modes. This mode is good for entire songs. Complex Mode is more CPU intensive than the other modes.
+
+====Complex Pro Mode====
+
+This mode is a variation of '''Complex Mode'''.This mode is more CPU intensive but is intended to give even better results than '''Complex Mode'''
+
+====REX Mode====
+This mode is specifically used for [[REX]] files and is unavailable for other file types.
+
+===Start and End===
+
+[[File:Ableton Live sample start and end time.png]]
+
+The start and end times designate where the audio file begins playback when it's respective clip is launched in the session (or arrangement) view. The end point is only relevant when the loop button is deactivated. The accommodating '''Set''' buttons can be clicked to set the start or end time while the clip is playing.
+
+===Loop===
+
+[[File:Ableton Live Loop position and length.png]]
+
+The Loop button enables looping for the selected clip.
+
+===Position and length===
+
+These parameters set the overall positioning and length of the loop
+
+
+[[Category:Ableton Live|Sample box display]]
+
+[[Category:Tutorials]]
