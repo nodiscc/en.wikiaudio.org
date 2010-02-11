@@ -1,0 +1,104 @@
+In [[Ableton Live]] the launch box is only available when in [[Ableton Live:Toggle between session and arrange windows|session view]]. It contains parameters that are used to customize the behavior of session clips when launched.
+
+Please see the original article this material came from
+[[Ableton Live:Clip view parameters]]
+
+
+==Launch==
+
+
+[[File:Ableton Live launch box.png]]
+
+
+===Launch modes===
+These options determine how a clip responds when it's play (launch) button is activated.
+
+[[File:Ableton Live launch modes.png]]
+
+
+====Trigger====
+This is the general default mode for launching clips. The down position simply plays the clip  all the way through.
+
+====Gate====
+This mode will play the clip when the play button is clicked ''and held'', and will stop the clip when ''the mouse is released''
+
+====Toggle====
+This mode requires a single click to start play and a single click to stop play
+
+====Repeat====
+This mode will play a clip repeatedly and will ignore additional clicks (to stop it)
+
+===Legato mode===
+[[File:Ableton Live legato mode.png]]
+
+Legato mode allows clips on the same track to smoothly transition from one to the other.When Legato mode is on and you launch one clip (we will call this clip "A") and then launch another clip mid-cycle on the same track ( Clip "B") the second clip will start where the last one left off, as oppose to starting from the beginning. 
+
+===Clip quantization===
+
+[[File:Ableton Live clip quantization menu.png]]
+
+This quantizes the clip launch.When the clip is launched it will play at the allotted quantization value set in this field.When it is set to '''global''' the clip will adhere to the [[Ableton Live:Global quantization‎|global quantization value]]
+
+===Velocity amount===
+
+[[File:Ableton Live clip velocity settings.png]]
+
+This sets the velocity sensitivity amount of clips launched via a MIDI controller.The higher the setting, the more sensitive the clip will be. 
+
+===Follow action===
+
+[[File:Ableton Live follow action.png]]
+
+The follow action defines what happens to other clips on the same track after one of them is launched. This feature allows the user to assign automated task to a clip or trigger clips in manner where they either play in a predefined succession or randomly.
+
+====Follow action time====
+The follow action time determines the duration (how much time passes) of when the follow action takes place in bars, beats and sixteenth notes.
+
+====Follow action modes====
+[[File:Ableton Live Follow Action modes.png]]
+
+=====No Action=====
+With this setting the follow action is moot
+
+=====Stop=====
+
+This stops the clip after it has played for the chosen Follow Action Time.
+
+=====Play Again=====
+
+This repeats the clip
+
+=====Previous=====
+
+This plays the clip directly above the one with this setting.
+
+=====Next=====
+
+triggers the next clip down in the group.If the last clip in the group has this setting, then the next clip played will be the first in the group.
+=====First=====
+
+This launches the  first (top) clip in a group.
+
+=====Last=====
+
+This launches the last (bottom) clip in a group.
+
+=====Any=====
+
+This setting will choose a random clip to play next.
+
+=====Other=====
+
+This setting is similar to '''Any''' except as long as the current clip is not alone
+in the group, no clip will play consecutively.
+
+====Follow Action Chance A and Chance B====
+
+These controls set the likelihood of each of the two
+Follow Actions occurring. If a clip has Chance A set to 0 and Chance B set to
+1, '''Follow Action B''' will occur every time the clip is launched.
+
+
+[[category:ableton Live|Launch box]]
+
+[[category:tutorials]]
