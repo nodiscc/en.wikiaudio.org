@@ -1,0 +1,47 @@
+==Envelopes==
+
+The envelope box is used to [[Ableton Live:Clip automation|draw in different automation types to specific clips]]. The audio and MIDI envelope boxes have slightly different parameters (which are specific to audio or MIDI file types), but both envelope boxes serve the same basic user functionality. 
+
+===Audio and MIDI===
+<gallery> 
+File:Ableton Live clip envelope editor.png|Ableton audio envelope editor
+File:Ableton Live MIDI clip envelope parameters.png|Ableton MIDI envelope editor
+</gallery>
+
+====Device chooser====
+The first fold down menu on the left hand side is called the '''Device chooser''' . This is where you choose what the envelope automation affects. You can choose between having it affect the clip itself, the actual mixer parameters it is assigned to, or plug-in and software instrumenth parameters.
+
+====Control chooser====
+
+The control chooser is the list of envelope parameters that are available from the device in the device chooser.
+
+====Clip envelope quick chooser (Transpose,volume,pan, etc)====
+
+The buttons right below the control chooser are '''quick chooser''' buttons used to quickly select different envelope parameters.
+
+====Linked/Unlinked====
+
+This button (when on) loops the envelopes with the clip and repeats the same automation with the clip until the clip is stopped.
+
+When unlinked, the envelope becomes becomes independent of the clips loop cycle. This will affect the loop from the start to end positions of the envelope.
+
+===Start and End===
+
+This sets the envelopes start and end points. This is only accessible when the '''Linked/Unlinked''' button is set to '''Unlinked'''.
+
+===Loop===
+
+This sets the current envelope (as defined by the '''Device Chooser''' and '''Control Chooser''') to repeat (loop).
+
+===Position===
+
+This sets the overall position of the loop for the envelope (as defined the current '''Device Chooser''' and '''Control Chooser ''' parameters)
+
+===Length===
+
+This sets the length of the loop of the current envelope as defined by the current '''Device Chooser''' and '''Control Chooser '''.
+
+
+[[category:ableton Live|Envelope box]]
+
+[[category:tutorials]]
