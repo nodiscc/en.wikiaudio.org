@@ -1,0 +1,50 @@
+{{Template:Instrument mixing}}
+
+==General considerations and guidelines==
+
+
+
+
+====Referenced techniques====
+Please add some referenced techniques to this section.
+
+
+
+
+
+
+
+
+====Unreferenced techniques====
+
+=====Steel tongue drum with distortion effect=====
+
+Below is a Logic Pro session run down of how the following audio file was mixed. 
+
+*<flashmp3>File:Hank drum with distortion.mp3</flashmp3>
+
+[[:File:Hank drum with distortion.wav|Wav file download]]
+
+
+The initial recording was done Inside the drum  using a [[Crowley and Tripp Naked Eye]] Ribbon microphone
+
+The same recording was then copied to three different tracks.
+
+The first two channels are mixed together using different compression and EQ settings. The third is strictly the distortion effect (with EQ) and the channel is muted until the effect is desired.
+
+<gallery>
+File:Steel tongue drum on floor.JPG|Rockcreek Steel tongue drum (AKA  Hank drum)
+File:Hank drum mixing and distortion session overview.png|Session overview
+File:Hank drum mixing first channel eq and compression settings.png|First channel eq and compression settings 
+File:Hank drum second channel eq and compression settings.png|Second channel eq and compression settings
+File:Hank drum distorted Pedal setting.png|Pedal distortion setting
+File:Hank drum Distortion EQ.png|Distortion EQ settings
+File:Hank Drum Grouped Track EQ settings.png|EQ seettings for bussed group</gallery>
+
+
+
+
+
+{{Template:More techniques}}
+[[category:Mixing techniques|Hank drum]]
+[[category:tutorials]]
