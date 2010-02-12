@@ -1,0 +1,30 @@
+To set up a DJ cueing system in Live follow these steps.
+
+'''1.''' Set up [[Ableton Live:Crossfader set up|Ableton Live's crossfader to be visible and operational]]
+
+'''2.''' On the master channel set the '''Cue out''' and '''Master out''' to different outputs  
+
+
+[[File:Ableton Live cue and master outs.png]]
+
+
+
+'''3.''' Make sure the headphone mix is set to Cue
+
+
+
+[[File:Ableton Live solo set to cue.png]]
+
+
+
+'''4.''' Click the headphone icon of the track you would like to monitor. [[Ableton_Live:Crossfader_set_up#A_and_B_buttons|The A and B options at the bottom of the track determine which side of the crossfader represents the Master out]]
+
+
+
+[[File:Ableton Live headphone cue icon.png]]
+
+
+
+[[category:Ableton Live|Cueing with the crossfader]]
+
+[[category:tutorials]]
