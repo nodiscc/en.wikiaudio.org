@@ -1,0 +1,17 @@
+To use the drum rack device follow these steps.
+
+First, [[Ableton Live:Add instrument device|add it to your session]].
+
+Then add any samples you want to the device ''pads''.You can do this by directly dropping any samples to it or by editing files in Live and then dropping them to the pads from the [[Ableton Live:Toggle between session and arrange windows|arrange view]].
+
+
+The pads say what [[MIDI]] key they are assigned to and the blocks to the right are a palette of additional notes that can be accessed by scrolling the blocks up or down.
+
+
+
+[[File:Ableton Live drum rack.png]]
+
+
+[[category:Ableton Live|Drum rack]]
+
+[[category:tutorials]]
