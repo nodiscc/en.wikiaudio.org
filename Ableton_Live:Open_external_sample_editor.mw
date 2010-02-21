@@ -1,0 +1,38 @@
+[[Ableton Live]] can launch and external program to edit audio files. To do this follow these steps.
+
+1. Go to '''Live/Preferences/File Folder/Sample Editor/'''
+
+Then click '''Browse''' and select the icon of the program you would like to use as your sample editor. Examples of wave editors include Bias Peak,Soundforge,Wavelab or Audacity.
+
+
+[[File:Ableton Live sample editor preference.png]]
+
+
+Then go to '''View/File Manager'''. Click '''Manage Set'''
+
+
+[[File:Ableton Live file manager.png]]
+
+
+
+Then Click '''View Files'''
+
+
+
+
+[[File:Ableton Live view files in manager browser.png]]
+
+
+
+Next to the audio file you would like to edit click '''Edit'''.
+
+Your sample editor should launch. You can now make edits to the file, save it and the edits should be reflected in the Ableton Live session.
+
+
+[[File:Ableton Live sample editor edit button.png]]
+
+
+
+[[category:Ableton Live|Sample editor]]
+
+[[category:tutorials]]
