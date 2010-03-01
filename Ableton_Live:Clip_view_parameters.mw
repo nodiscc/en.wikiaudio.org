@@ -1,0 +1,320 @@
+This is an overview of [[Ableton Live|Ableton Live's]] clip view display.The clip view display is used to edit audio and MIDI clips that have been either imported or [[Ableton Live:Creating clips|created in '''Live''']] as well as customize additional parameters such as clip-specific envelope automation.
+
+
+
+
+
+
+==Clip view==
+The clip view accommodates audio and MIDI clips in the session view display.
+
+<gallery widths=350px heights=150px>
+File:Ableton Live audio clip view.png|Audio clip view
+File:Ableton Live MIDI clip view.png|MIDI clip view
+</gallery>
+
+
+===Clip box===
+[[File:Ableton Live clip properties.png]]
+
+===Clip properties===
+
+[[File:Ableton Live clip box parameters.png]]
+
+The first area is the name of the clip and can be changes by clicking it and typing a new name.
+
+The next area is the color of the clip and can be changed by clicking and choosing a new one.
+
+The signature is the time signature that is given to the clip and can be changed by clicking and changing it.
+
+===Groove settings===
+This is the area where you can assign [[Ableton Live:Grooves‎|grooves]] from the [[Ableton_Live:Grooves#Groove_Pool| groove pool]]
+
+===Nudge===
+These buttons allow you to nudge a clip forward or backward ''while it is playing back''
+
+[[File:Ableton Live nudge.png]]
+
+==Launch==
+The launch box is only available when in session view.It contains parameters that are used to customize the behavior of session clips when launched.
+
+[[File:Ableton Live launch box.png]]
+
+
+===Launch modes===
+These options determine how a clip responds when it's play (launch) button is activated.
+
+[[File:Ableton Live launch modes.png]]
+
+
+====Trigger====
+This is the general default mode for launching clips. The down position simply plays the clip  all the way through.
+
+====Gate====
+This mode will play the clip when the play button is clicked ''and held'', and will stop the clip when ''the mouse is released''
+
+====Toggle====
+This mode requires a single click to start play and a single click to stop play
+
+====Repeat====
+This mode will play a clip repeatedly and will ignore additional clicks (to stop it)
+
+===Legato mode===
+[[File:Ableton Live legato mode.png]]
+
+Legato mode allows clips on the same track to smoothly transition from one to the other.When Legato mode is on and you launch one clip (we will call this clip "A") and then launch another clip mid-cycle on the same track ( Clip "B") the second clip will start where the last one left off, as oppose to starting from the beginning. 
+
+===Clip quantization===
+
+[[File:Ableton Live clip quantization menu.png]]
+
+This quantizes the clip launch.When the clip is launched it will play at the allotted quantization value set in this field.When it is set to '''global''' the clip will adhere to the [[Ableton Live:Global quantization‎|global quantization value]]
+
+===Velocity amount===
+
+[[File:Ableton Live clip velocity settings.png]]
+
+This sets the velocity sensitivity amount of clips launched via a MIDI controller.The higher the setting, the more sensitive the clip will be. 
+
+===Follow action===
+
+[[File:Ableton Live follow action.png]]
+
+The follow action defines what happens to other clips on the same track after one of them is launched. This feature allows the user to assign automated task to a clip or trigger clips in manner where they either play in a predefined succession or randomly.
+
+====Follow action time====
+The follow action time determines the duration (how much time passes) of when the follow action takes place in bars, beats and sixteenth notes.
+
+====Follow action modes====
+[[File:Ableton Live Follow Action modes.png]]
+
+=====No Action=====
+With this setting the follow action is moot
+
+=====Stop=====
+
+This stops the clip after it has played for the chosen Follow Action Time.
+
+=====Play Again=====
+
+This repeats the clip
+
+=====Previous=====
+
+This plays the clip directly above the one with this setting.
+
+=====Next=====
+
+triggers the next clip down in the group.If the last clip in the group has this setting, then the next clip played will be the first in the group.
+=====First=====
+
+This launches the  first (top) clip in a group.
+
+=====Last=====
+
+This launches the last (bottom) clip in a group.
+
+=====Any=====
+
+This setting will choose a random clip to play next.
+
+=====Other=====
+
+This setting is similar to '''Any''' except as long as the current clip is not alone
+in the group, no clip will play consecutively.
+
+====Follow Action Chance A and Chance B====
+
+These controls set the likelihood of each of the two
+Follow Actions occurring. If a clip has Chance A set to 0 and Chance B set to
+1, '''Follow Action B''' will occur every time the clip is launched. 
+
+
+==Sample display (audio clips only)==
+
+[[File:Ableton Live sample box.png]]
+
+
+===Audio file sample properties===
+
+The first line are the sample properties of the file. The name, sample rate, bit depth and stereo format
+
+===Edit===
+
+This button opens up a third party sample editor to edit the current clip.
+
+===Save===
+This is used to save the current settings of the clip.Doing this means everything you use the clip the saved settings will accommodate it.
+
+===Rev===
+This button will [[Ableton Live:Reverse audio|reverse the audio clip.]]
+
+===High quality mode===
+
+This changes the sonic quality of audio clips when you pitch shift them.This should always be set to '''on''' unless your computer is having processing issues.
+
+===Fade===
+The fade feature applies a 0-4 millisecond fade to the beginning and end of the audio clip.This is intended to hide any pops or clicks at the beginning or end of the clip.
+
+===RAM===
+This loads the clips audio file into RAM to reduce the load on the hard disk.
+
+===Transpose===
+This is used to pitch shift a clips playback by semitones.
+
+===Detune===
+
+The detune feature is a way to fine tune a file in cents (subdivisions of semitone)
+
+===Gain slider===
+
+This changes the volume of the clip.This will change the display size of the waveform.
+
+===Warp===
+
+When this is activated a time stretching algorithm is applied to the clips audio file allowing you to create [[Ableton Live:Creating warped loops|warped files and loops]]
+
+===Seq BPM===
+
+This is the BPM that Ableton Live interprets the clip based on it's length, warp marker placement and other settings.This value can be doubled or divided quickly by clicking the two buttons directly below it.
+[[File:Ableton Live double and divide tempo buttons.png]]
+
+===Warp modes===
+
+[[File:Ableton Live warp modes.png]]
+
+Ableton Live's Warp modes are a series of different granular resynthesis techniques useful to accommodate specific types of audio material.
+
+====Beats====
+
+This mode is intended to be used with rhythmic audio material.
+
+====Tones====
+
+This mode is specifically intended for monophonic material with a defined pitch structure such as bass lines and vocals
+
+=====Grain size=====
+
+Grain size provides some control over the average grain size used with the '''Tone Warp mode'''. This is done in a signal-dependant manner; this means for signals with a clear pitch contour a small grain size works best and larger grain sizes help avoid artifacts that can accommodate material with a pitch contour that is unclear.
+
+====Texture====
+This mode works well for sound textures with a polyphonic or ambiguous texture such as
+orchestral music.
+
+=====Grain size=====
+The Grain Size control determines the grain size used in the '''Texture''' mode. Unlike tones mode this grain size is not applied in a signal-dependent way
+
+====Re-Pitch====
+This mode doesn't [[time stretching|time stretch]] audio, it simply speeds it up or slows it down similar to how a variable speed turntable can speeds up/down or how a sample is transposed in a sampler.
+
+====Complex====
+Complex mode is intended to be used for audio material that incorporates multiple sonic elements of all the other individual warp modes. This mode is good for entire songs. Complex Mode is more CPU intensive than the other modes.
+
+====Complex Pro Mode====
+
+This mode is a variation of '''Complex Mode'''.This mode is more CPU intensive but is intended to give even better results than '''Complex Mode'''
+
+====REX Mode====
+This mode is specifically used for [[REX]] files and is unavailable for other file types.
+
+===Start and End===
+
+[[File:Ableton Live sample start and end time.png]]
+
+The start and end times designate where the audio file begins playback when it's respective clip is launched in the session (or arrangement) view. The end point is only relevant when the loop button is deactivated. The accommodating '''Set''' buttons can be clicked to set the start or end time while the clip is playing.
+
+===Loop===
+
+[[File:Ableton Live Loop position and length.png]]
+
+The Loop button enables looping for the selected clip.
+
+===Position and length===
+
+These parameters set the overall positioning and length of the loop
+
+==Notes (MIDI clips only)==
+
+[[File:Ableton Live Notes box.png]]
+
+
+===Orig BPM===
+
+This displays the MIDI files tempo.
+
+===Bank===
+
+This is used to change the bank settings of external MIDI instruments and other devices
+
+===Sub-Bank===
+
+This is used to change the sub-bank settings of external MIDI instruments and other devices
+
+===Program===
+
+
+This is used to send program change messages to external MIDI instruments and other devices
+
+===Start and End===
+
+[[File:Ableton Live sample start and end time.png]]
+
+The start and end times designate where the MIDI file begins playback when it's respective clip is launched in the session (or arrangement) view. The end point is only relevant when the loop button is deactivated. The accommodating '''Set''' buttons can be clicked to set the start or end time while the clip is playing.
+
+===Loop===
+
+[[File:Ableton Live Loop position and length.png]]
+
+The Loop button enables looping for the selected clip.
+
+===Position and length===
+
+These parameters set the overall positioning and length of the loop
+
+==Envelopes==
+
+The envelope box is used to [[Ableton Live:Clip automation|draw in different automation types to specific clips]]. The audio and MIDI envelope boxes have slightly different parameters (which are specific to audio or MIDI file types), but both envelope boxes serve the same basic user functionality. 
+
+===Audio and MIDI===
+<gallery> 
+File:Ableton Live clip envelope editor.png|Ableton audio envelope editor
+File:Ableton Live MIDI clip envelope parameters.png|Ableton MIDI envelope editor
+</gallery>
+
+====Device chooser====
+The first fold down menu on the left hand side is called the '''Device chooser''' . This is where you choose what the envelope automation affects. You can choose between having it affect the clip itself, the actual mixer parameters it is assigned to, or plug-in and software instrumenth parameters.
+
+====Control chooser====
+
+The control chooser is the list of envelope parameters that are available from the device in the device chooser.
+
+====Clip envelope quick chooser (Transpose,volume,pan, etc)====
+
+The buttons right below the control chooser are '''quick chooser''' buttons used to quickly select different envelope parameters.
+
+====Linked/Unlinked====
+
+This button (when on) loops the envelopes with the clip and repeats the same automation with the clip until the clip is stopped.
+
+When unlinked, the envelope becomes becomes independent of the clips loop cycle. This will affect the loop from the start to end positions of the envelope.
+
+===Start and End===
+
+This sets the envelopes start and end points. This is only accessible when the '''Linked/Unlinked''' button is set to '''Unlinked'''.
+
+===Loop===
+
+This sets the current envelope (as defined by the '''Device Chooser''' and '''Control Chooser''') to repeat (loop).
+
+===Position===
+
+This sets the overall position of the loop for the envelope (as defined the current '''Device Chooser''' and '''Control Chooser ''' parameters)
+
+===Length===
+
+This sets the length of the loop of the current envelope as defined by the current '''Device Chooser''' and '''Control Chooser '''.
+
+
+[[category:ableton Live|Clips view]]
+
+[[category:tutorials]]
