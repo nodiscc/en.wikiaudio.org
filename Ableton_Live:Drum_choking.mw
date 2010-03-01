@@ -1,0 +1,20 @@
+Choking is when one sound such as an open hi-hat is cut off by another sound , such as a closed hi-hat.
+
+You can manually set up samples to choke one another automatically in Live by following these steps.
+
+'''1.''' [[Ableton Live:Add instrument device|Open up an instance of the '''Drum Rack'''.]]
+
+'''2.''' Add a few sounds to the pads that you would like to have choke each other.
+
+'''3.''' Click the '''chain list''' and '''i/o''' icons to the left of the device (image below).
+
+'''4.''' Set the choke number the same on all drum samples that you would like to have choke each other. (image below)
+
+
+[[File:Ableton Live drum choke setting.png]]
+
+
+
+[[category:Ableton Live|Drum choking]]
+
+[[category:tutorials]]
