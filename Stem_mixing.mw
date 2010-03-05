@@ -1,0 +1,19 @@
+'''Stem-mixing''' is a method of mixing audio material based on creating groups of audio tracks and processing them separately prior to combining them into a final master mix. This technique originated in the sixties with the introduction of mixing boards that were equipped with abilities to assign individual inputs to a sub-group faders and then manipulate each sub-group (stem mix) independently from the others. This technique is widely used in recording studios to control, process and manipulate entire groups of instruments such as drums, strings, or backup vocals, in order to streamline and simplify the mixing process. Additionally, as each stem-bus usually has its own inserts, sends and returns, the stem-mix (sub-mix) can be processed independently through its own signal processing chain to achieve a different effect for each group of instruments. This technique is also practiced with [[DAW]] in a similar way where groups of audio tracks may be processed and manipulated digitally through a separate chain of plugins.
+
+'''Stem-mastering''' is a technique derived from stem mixing. Just like in stem-mixing the individual audio tracks are grouped together to allow for independent control and signal processing of each stem and can be manipulated independently from each other. Even though this method is not commonly practiced by  mastering studios it does have its proponents. The advantages and pitfalls of stem mastering are listed below:
+
+===Advantages===
+#More control over each group of instruments.
+#Ability to adjust mixes that are out of balance.
+#Ability to process each stem through a separate signal chain.
+
+===Disadvantages===
+#Stem mastering can alter balance of the mix.
+#Individual processing of stems may make them sound incongruent with the rest of material.
+#Processing of stems adds small amounts of distortions and noise to each stem and thus may magnify the distortions and noise on the entire master proportionally to the number of stems being processed.
+
+Generally well-done mixes do not need stem-mastering as this process potentially magnifies the noise floor and amount of [[total harmonic distortion]]s ([[Total harmonic distortion|THD]]).
+
+==References==
+[http://www.google.com/patents?vid=USPAT6772127&id=koUSAAAAEBAJ&dq=audio+mastering US Patent 6772127, Aug 3, 2004 referring to independent processing of vocals and audio program during digital mastering.]<br />
+[http://www.google.com/patents?vid=USPAT5930375&id=XesYAAAAEBAJ&dq=5930375 US Patent 5930375, May 16, 1996, Audio mixing console. The text of this patent refers to "grouped side chain processing".]
