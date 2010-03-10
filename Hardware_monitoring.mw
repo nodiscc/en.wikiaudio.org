@@ -1,0 +1,5 @@
+The phrase '''''hardware monitoring'''''   refers to the process of monitoring a signal in real-time (such as a microphone or line signal) "through" a computer audio interface or other audio monitoring hardware. The benefit of this is (unlike [[software monitoring]]) it rarely introduces any audible latency.The drawback to this method of monitoring (relative to software monitoring) is that software based audio effects are not included in the monitoring path and are inaudible.
+
+{{stub}}
+
+[[category:recording techniques]]
