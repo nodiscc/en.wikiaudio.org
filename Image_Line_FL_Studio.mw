@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:#000; color:white" |  '''Image Line FL Studio''' 
+This entry needs an image.Please add one here.
+|-
+| style="background:#cecece;" | 
+
+'''Specifications'''
+
+*Polyphony - Unlimited (depends on CPU Power, over 200MHz strongly reccomended)
+*Oscillators - 3xOSC has 3, but you can layer many instances of this or other plugin synths
+*LFO - 3xOSC has 5 (one each for Panning, Filter, Volume, Resonance, and Pitch)
+*VCF - 3xOSC has 1 (but you can layer as many instances of these as you like...)
+*VCA - 3xOSC has 1 (but you can layer as many instances of these as you like...)
+*Sampler - Onboard sampler with "layer" feature allows samples to be split across keyboard
+*Drums - Many electronic kits included. Some acoustic. Any .wav file can be used.
+*Arpeggiator - Each channel has an onboard arpeggiator
+*Effects - Supports VST&DXi plug-ins and ReWire. You get 64 FX tracks (reverb, compressor, procedural equalizer, distortion, phaser, flanger, bass boost, delay line and more)
+*Memory - Unlimited
+*Output - 16 or 32 bit and up to 96KHz stereo output, export to wav, mp3, MIDI file or clipboard
+*System Requirements - Pentium 133 MHz processor, Windows 95 or 98, Soundboard, DirectX, 32 MB Ram
+*Keyboard - Virtual Piano Keyboard
+*Control - MIDI, DirectSound
+*Date Produced - 2000
+
+|}
+
+
+
+
+
+
+
+'''FL studio''' is a multitrack [[DAW]] audio and [[MIDI]] sequencing program created by Image Line LTD.
+
+{{stub}}
+
+
+[[category:FL studio]]
+[[category:image Line|FL Studio]]
