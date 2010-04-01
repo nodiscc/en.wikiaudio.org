@@ -1,0 +1,9 @@
+To [[time stretching|time stretch]] audio files in [[Digital Performer]] first make sure the audio file is placed on a track, then go to the sequence editor ('''Project/Sequence Editor''') and then move the cursor to the edge of the audio file (image below) until you get a hand symbol.Then click and hold and move it to change it's speed. Move it in the direction of the regions edge to time expand it or toward the region body to time compress it.
+
+
+[[File:Digital Performer audio file time change.png]]
+
+
+[[category:Digital Performer|Time compression and expansion]]
+
+[[category:tutorials]]
