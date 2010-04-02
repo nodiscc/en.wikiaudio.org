@@ -1,0 +1,11 @@
+To cut a region in [[Digital Performer ]] by it's transients or beats first make sure your file is imported and placed on a track,then go to the sequence editor window ('''Project/Sequence Editor'''). Once in the sequence editor select the region you want to affect and then go to '''Audio/Create Soundbite From Beats'''. This will give you a menu slider. When you move the menu slider it will display lines that correspond to transients (beats) of the audio region you have selected. When you click '''Apply''' these lines will turn to cuts.
+
+
+
+[[File:Digital Performer cut region by beats.png]]
+
+
+
+[[category:Digital Performer|Cut regions by beat transients]]
+
+[[category:tutorials]]
