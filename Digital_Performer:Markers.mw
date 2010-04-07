@@ -1,0 +1,23 @@
+To place a marker in [[Digital Performer]] move the song position pointer where you would like the marker to be placed, then use the key command '''Control-M'''.
+
+You can access the Markers window by going to '''Project/Markers''' or using the key command '''Shift K'''.
+
+
+[[File:Digital Performer marker display.png]]
+
+
+
+===Edit or delete markers===
+
+To edit or delete markers go to the marker window mini menu (image below) and choose the options that you would like to use.
+
+
+
+[[File:Digital Performer marker edit window.png]]
+
+
+
+
+[[category:Digital Performer|Markers]]
+
+[[category:tutorials]]
