@@ -1,0 +1,15 @@
+To normalize an audio file in [[Digital Performer]] first you need to select the file in either the tracks window, sequence editor or soundbites window. Then go to '''Audio/Edit In Waveform Editor'''. Then select the area you want to normalize or '''Command A''' to select the entire file. Then go to '''Audio/Normalize'''
+
+[[File:Digital Performer waveform editor menu.png]]
+
+
+[[File:Digital Performer waveform editor.png]]
+
+
+[[File:Digital Performer normalize menu.png]]
+
+
+
+[[category:Digital Performer|Normalize]]
+
+[[category:Tutorials]]
