@@ -1,0 +1,14 @@
+To convert the [[sample rate]] of audio files in [[Digital Performer]] open the soundbites window, ('''Project/Soundbites''') then choose the audio files (soundbites) you want to convert. Then go to the soundbites window mini menu and choose '''Convert Sample Rate or Format'''
+
+[[File:Digital Performer change sample rate of soundbite.png]]
+
+
+
+Set the settings you want then click '''OK'''.
+
+
+[[File:Digital Performer sample rate conversion window.png]]
+
+[[category:Digital Performer|Audio file conversion]]
+
+[[category:tutorials]]
