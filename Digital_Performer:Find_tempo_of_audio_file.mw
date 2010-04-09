@@ -1,0 +1,17 @@
+To find the [[tempo]] of an audio region fist place it on a track and open up the '''Sequence Editor''' ('''Project/Sequence Editor'''). Then play the song and count the number of [[bar]]s or beats of the region. Then simply change [[Digital Performer]]s global tempo using the tempo slider or numerical value until the number of bars or beats falls within the same span of the time ruler. (image below) You can use the loop markers as a way to get a precise tempo by playing the region while looped and moving the tempo values. 
+
+
+
+[[File:Digital Performer 4 bar audio region.png]]
+
+
+
+
+
+[[File:Digital performer four bar loop tempo.png]]
+
+
+
+[[category:Digital Performer|Tempo]]
+
+[[category:tutorials]]
