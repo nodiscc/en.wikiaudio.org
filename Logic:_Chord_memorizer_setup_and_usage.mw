@@ -1,0 +1,43 @@
+===Using the Chord memorizer===
+The Chord memorizer object allows the user to assign and trigger an entire chord by playing only one note.
+
+----
+
+
+
+
+
+'''1.''' Open up a chord memorizer object by going to '''Windows/environment''' and selecting '''New/Chord memorizer'''
+
+
+'''2.''' Assign it either [[Logic:Environment MIDI effects destructive and non destructive|destructively or non destructively]] (click link and read first if you don't know how to do this)
+
+
+
+[[Image:Chord memorizer edit window.png]]
+
+
+
+'''3.''' Click the note you wish to assign the chord to. Then click the notes to make up the chord. 
+
+'''Note:''' You can only assign chords over the course of one octave of keys. 
+
+
+
+[[Image:Chord memorizer editor.png]]
+
+
+
+
+If you wish to play the chord using your MIDI keyboard controller click the '''Listen''' check box in the lower left corner. You will then be able to play the chord in. If you make a mistake, deactivate the '''Listen''' checkbox, then activate it again to start over.
+
+
+Click '''OK'''
+
+
+When you play the trigger note it should now play the other notes (chord) assigned to it.
+
+
+[[category:logic|Chord memorizer]]
+
+[[category:tutorials]]
