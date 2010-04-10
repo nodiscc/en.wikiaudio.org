@@ -1,0 +1,87 @@
+==Logic 9 export audio to movie==
+
+Go to '''File>Export audio to movie'''
+
+
+[[File:Logic 9 export audio to movie menu.png]]
+
+
+Set the sound settings pop up menu to reflect the settings you want for your export 
+
+
+
+
+[[File:Logic audio to movie parameters menu.png]]
+
+
+
+
+Choose the directory for the movie export
+
+
+
+
+[[File:Logic save movie directory menu.png]]
+
+
+
+
+The last menu is a display of the audio that accommodates the original audio for the movie clip. If you don't deselect this option your exported audio will be merged with the original audio. To deselect the original audio and hence removing it from the export simply click on the displayed sound file information.
+
+Example: ''Sound (2 channels,16bit,32.000 kHz)'''
+
+
+
+
+[[File:Logic export audio to movie original audio option.png]]
+
+
+==Logic 8 export audio to movie==
+
+To export your audio to a movie file follow these steps.
+
+Go to '''Options>Movie>Export to Movie'''.
+
+
+
+
+[[File:Logic export audio to movie option menu.png]]
+
+
+
+
+Set the sound settings pop up menu to reflect the settings you want for your export 
+
+
+
+
+[[File:Logic audio to movie parameters menu.png]]
+
+
+
+
+Choose the directory for the movie export
+
+
+
+
+[[File:Logic save movie directory menu.png]]
+
+
+
+
+The last menu is a display of the audio that accommodates the original audio for the movie clip. If you don't deselect this option your exported audio will be merged with the original audio. To deselect the original audio and hence removing it from the export simply click on the displayed sound file information.
+
+Example: ''Sound (2 channels,16bit,32.000 kHz)'''
+
+
+
+
+[[File:Logic export audio to movie original audio option.png]]
+
+
+
+
+[[category:Logic|Movie]]
+
+[[category:tutorials]]
