@@ -1,0 +1,37 @@
+===Logic 8:Recording tempo changes in realtime===
+----
+
+
+To create real time tempo events in Logic
+
+
+Go to the record settings ( '''Settings/Recording''' ) 
+
+
+[[Image:Logic Settings record menu.png]]
+
+
+
+In the dialog box that appears click '''Allow Tempo Change Recording'''
+
+
+
+[[Image:Logic allow tempo change recording check box.png]]
+
+
+
+
+
+Now if you record in real time and move the tempo display in the transport, these changes will get recorded to the tempo track.
+
+
+
+
+
+[[Image:Logic tempo display .png]]
+
+
+
+[[category:logic|Tempo]]
+
+[[category:tutorials]]
