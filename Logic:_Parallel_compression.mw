@@ -1,0 +1,18 @@
+[[Parallel compression]] can be done in Logic by either blending a heavily compressed signal with an uncompressed version of the same signal via a bussing scheme, having both signals on their own respective tracks with one compressed, or by the technique below.
+
+'''1.''' Add a compressor plug in on the track with the signal you wish to add "parallel compression" to.
+
+'''2.''' Compress it heavily.
+
+'''3.''' At the bottom of the compressor plug in click the small arrow in the left side. (image below).
+
+'''4.''' Then use the '''Output Mix''' option to blend the heavily compressed version with the uncompressed version.
+
+
+
+[[File:Logic compressor additional parameters fold down menu.png]]
+
+
+[[category:Logic|Parallel compression]]
+
+[[category:tutorials]]
