@@ -1,0 +1,28 @@
+'''1.''' Open Ultrabeat as a ''multi-output'' instrument
+
+
+[[Image:Ultrabeat multiout.png]]
+
+
+
+
+'''2.''' Open the mixer window and click on the star icon at the bottom of the channel strip as displayed in the image below.This will create an aux channel strip with ultra beat inputs. 
+
+[[Image:Ultrabeat channel strip .png]]
+
+
+
+
+'''3''' Now open the Ultrabeat and click and hold a sound where it says "main" which is the sounds output channels (for our example we are using Kick 1). Now reassign it to the input of the aux channel you just created as shown in the image below.
+
+
+
+[[Image:Ultrabeat sample output assign .png]]
+
+
+
+[[category:tutorials]]
+
+[[category:logic|Ultrabeat]]
+
+[[category:ultrabeat|A]]
