@@ -1,0 +1,29 @@
+===Logic:Creating a DJ style cross fader in the environment===
+
+====Method 1====
+
+
+#In Logics environment you must first add a fader object and a transform object ('''Environment / New''')
+#Cable one output of the fader to an audio channel and then cable the another output to the transformer object.
+#Double click the transformer object and set it's internal settings to reflect the image below (data byte two of the operations should be set to '''Reverse''')
+#Now cable the output of the transformer object to a different audio channel.
+#When you move the fader objects slider it should now cross fade the two audio channels 
+
+
+
+[[Image:Logic environment crossfader.png]]
+
+
+
+
+====Method 2====
+
+You can also create a crossfader tool using this method which will allow you to additionally set the initial volume of the source material.
+
+
+[[image:Logic crossfader version 2.png]]
+
+
+[[category:tutorials]]
+
+[[category:logic|DJ crossfader]]
