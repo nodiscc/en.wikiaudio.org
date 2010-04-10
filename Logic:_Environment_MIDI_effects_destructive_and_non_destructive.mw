@@ -1,0 +1,94 @@
+== Environment MIDI effects, destructive & non-destructive ==
+
+
+This is a tutorial on how to add destructive and non destructive MIDI effects to tracks by using the Logic environment.
+
+==Setup==
+
+
+Open Logic environment by going to '''Window/Environment.'''
+
+
+
+[[image:Logic_environment_window_menu.png‎]]
+
+
+
+In the '''Environment''' make sure you are in the '''Clicks and Ports''' layer.
+
+[[image:Logic_clicks_and_ports_environment_layer.png‎ |Clicks and Ports]]
+
+
+
+
+
+
+
+First thing to understand is the '''Physical input object''' is a virtual representation of your MIDI interface outputs. The '''Sequencer input object''' is a virtual representation of a MIDI input port going to Logic.<u>To get MIDI data to record into Logic you must have a physical input object connected to a sequencer input object.</u> If you don't have this basic connection 
+Logic can't record incoming MIDI data.
+
+
+'''A Physical input object connected to a Sequencer input object'''
+
+[[image:Logic_environment_physical_input_connected_to_sequencer_input.png‎]]
+
+== Destructive effects ==
+
+'''Destructive MIDI effects''' are MIDI effects that get recorded to the track when recording a MIDI performance. 
+
+===Basic===
+
+To set up the environment so you can add destructive MIDI effects follow these steps.
+
+#Go to the clicks and ports layer of the environment.
+#Add a MIDI effect object such as a '''delay line''' or '''arpeggiator'''. You can do this by going to the '''New''' menu in the environment and clicking on the respective object.For our example we will use a delay line.
+#Click on the virtual cables and put the Delay line in between the '''physical input''' and the '''sequencer input''' as shown in the image below.
+
+[[image:Logic_environment_Delay_line.png‎ ]]
+
+
+In order to hear the MIDI effect the transport needs to be playing.
+
+If you record onto a MIDI track the delay information will now be recorded as well.
+
+===Using the cable switcher===
+
+You can create a switch to conveniently control more than one effect by following these steps
+
+#Add a '''Cable switcher''' object to the clicks and ports layer of the environment.You can do this by going to '''new / fader / special / cable switcher'''.
+#Add a couple of effects objects of your choice, for our example we will use a delay line and an arpeggiator.
+
+
+Connect these objects as displayed in the image below.
+
+[[image:Logic_Environment_cable_switcher_layout.png‎]]
+
+
+If you click on the '''Cable Switcher''' it will now toggle between the different effects, or no effect if you use setting '''0'''
+
+== Non destructive MIDI effects ==
+
+A non destructive MIDI effect is one that you can hear, but doesn't get recorded to the track when recording.
+
+To set up a non destructive MIDI effect do the following.
+
+#Attach an effects object to the '''physical input'''. For our example we will use a '''delay line'''. Do NOT connect the Delay line output to anything - yet.
+#Click on the output cable of the Delay line while holding the "'''Option'''" key.
+A menu will appear that looks like the image below.
+
+[[image:Non_destructive_Logic_environment_delay.png‎]]
+
+
+
+From this menu choose the '''MIDI software Instrument track''' or '''Multi instrument''' you would like to trigger with the delay line. For our example we will use a software instrument.
+
+[[image:Logic_non_destructive_MIDI_environment_effect_assignment_.png‎ ]]
+
+
+
+To hear the effect you have to play some notes while playing the sequence.
+If you now record on the track that the Delay line (or any similarly connected MIDI effect object) is connected to, the MIDI effects will '''''not''''' be included in the playback of the performance
+
+
+[[category:logic|E]]
+[[category:tutorials]]
