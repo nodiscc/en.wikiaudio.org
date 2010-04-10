@@ -1,0 +1,14 @@
+== Loading REX file slices ==
+ 
+
+*Open the file select browser as if you were going to open a regular audio file  (not patch)
+[[Image:Redrum REX load.png|500px]]
+
+
+
+*Select the REX file and click “Open”. The browser will now display a list of all the separate slices
+*Select the desired slice and click open. The slices will now be loaded into the Redrum
+
+
+[[category:reason|Redrum]]
+[[category:tutorials]]
