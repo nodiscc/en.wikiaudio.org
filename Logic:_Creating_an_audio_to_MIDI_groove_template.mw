@@ -1,0 +1,56 @@
+===Logic 8 & 9:Creating an audio to MIDI groove template===
+----
+
+The audio to MIDI groove template feature of Logic allows you to convert the transients of an audio file into a quantization template as well as a series of note placements in a MIDI region.
+
+This is useful in that you can apply the timing of a real drummers performance (or other percussion instrument) to a MIDI drum/percussion track to get the "feel" of the live drummer. 
+
+'''Follow these steps to create a MIDI groove template'''
+
+
+'''1.''' Add an audio file to the arrange window of your session and create an additional MIDI or software instrument track and make sure it is selected. This is where the Groove template MIDI file will be imported to.
+
+
+[[Image:Logic audio and instrument track in arrange groove template tutorial.png]]
+
+
+
+
+
+
+
+'''2.''' Double click the audio file. In the Sample Editor go to '''Factory/Audio to MIDI Groove Template'''
+
+
+[[Image:Logic audio to MIDI groove template.png]]
+
+
+
+'''3.''' The groove template dialog box will appear.Set the [[Logic: Groove template settings  |Groove template settings]] 
+
+
+[[Image:Logic groove template dialog box.png]]
+
+
+Once your done making your settings then click '''Use'''
+
+
+
+A MIDI region will appear on the selected track. This MIDI region will be muted and have a series of notes placed that correlate with the transients of the audio material.You can take this MIDI region and assign the notes to your own drum sounds via a software instrument or [[Logic: MIDI device track setup (environment)|external MIDI device]]
+
+
+[[Image:Logic audio region and midi region groove template .png]]
+
+
+
+
+
+In addition to creating a MIDI region, a quantization template will be created. To access it simply select the MIDI region you want to quantize using the template and select your template from the region parameters quantize options ( image below)
+
+
+[[Image:Logic quantization template.png]]
+
+
+[[category:logic|Audio to MIDI Groove]]
+
+[[category:tutorials]]
