@@ -1,0 +1,34 @@
+To create a tempo curve in Logic first draw in tempo changes in the tempo track (using the pencil tool) so that it looks similar to the image below.
+
+Then click and hold the middle node and move it.
+
+
+
+[[File:Logic making a tempo curve by moving nodes.png]]
+
+
+The result should look similar to the image below.
+
+
+
+
+
+[[File:Logic tempo curve in tempo track.png]]
+
+
+
+
+To make a tempo curve that slows down , do the same procedure but add and move the nodes to correspond with that type of change. (image below)
+
+
+[[File:Logic tempo change slowed down curve.png]]
+
+
+
+==Also see==
+
+[[Logic: Tempo map (beat detection,beat mapping, tap tempo, etc.)]]
+
+[[category:Logic|Tempo curve]]
+
+[[category:Tutorials]]
