@@ -1,0 +1,10 @@
+#Use the patch browser and load the REX file.
+#Create a Dr. Rex loop player and load the same REX file into it. 
+#On the Dr. Rex Use the '''To Track''' feature. This will add the ''playback data'' to the track. 
+#Move that ''playback data'' to the track that plays the NN-XT. you should be able to now play it back.
+#Delete the Dr. Rex loop player.
+
+
+[[category:tutorials]]
+
+[[category:reason|NN-19]]
