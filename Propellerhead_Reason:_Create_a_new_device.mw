@@ -1,0 +1,77 @@
+'''1.''' Open Reason.
+
+You should see an empty default session. If not, click '''File / Close'''.
+Then click '''File / New'''.
+
+You should see a session that looks like the image below
+
+
+[[Image:Reason default new session.png|500px]]
+
+
+
+
+
+
+
+
+
+
+'''2.''' Now click the mixer. You should see a blue highlight around it indicating it has been selected.
+
+
+[[Image:Reason mixer selected.png|600px]]
+
+
+
+
+'''3.''' Now, click the "'''create'''" menu as shown in the image below. Choose a device. For our example we will use the Subtractor synth. Since we have selected the mixer the Subtractor synth  will automatically be cabled to it 
+
+
+[[Image:Reason creating a new device.png|600px]]
+
+
+
+
+
+
+
+
+
+
+
+You should now see a Subtractor synth in your rack like the one in the image below.
+
+[[Image:Reason Subtractor .png|600px]]
+
+
+
+
+== To see the cabled connections of your device(s) ==
+
+
+
+To see the cabled connections of your device(s) do the following:
+
+
+
+'''1.''' Unfold the top devices by clicking the arrows displayed in the image below
+
+
+[[image:Reason unfold device.png|600px]]
+
+
+
+
+
+
+
+Now push the '''TAB''' key on your keyboard. This will flip the rack around and allow you to see the connections as shown below
+
+
+[[image:Reason back of subtractor connected to mixer.png|600px]]
+
+
+[[category:tutorials|Reason create a new device]]
+
+[[category:reason|creating a new device]]
