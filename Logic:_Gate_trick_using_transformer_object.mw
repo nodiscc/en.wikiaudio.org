@@ -1,0 +1,26 @@
+In Logic [[Logic:Create a new track|create a software instrument track]] and add an instrument to it, such as a synth or piano.
+
+
+
+Then go the the environment ('''Windows/Environment''') and go to the mixer layer, then add a transformer object ('''New/Transformer''') and check the icon box. Set the Status in the conditions to '''= Note''' and then in the operations menu set the status to '''Fix Control'''. Then in the Third operations setting set it to '''Fix 7''' ( The image below is how all of your transformer settings should look)
+
+[[File:Logic environment gate with transformer.png|800px]]
+
+
+
+
+
+Then cable the transformer to the software instrument channel (See the above image)
+
+Then in the Arrange window ( Window/Arrange) set the transformer object to a track (image below)
+
+
+[[File:Logic assigning transformer to track.png]]
+
+
+
+Now if you add some notes to your Instrument track and then play the transformer track, the transformer track will open the gate.
+
+[[category:Logic|Gate trick using transformer object]]
+
+[[category:tutorials]]
