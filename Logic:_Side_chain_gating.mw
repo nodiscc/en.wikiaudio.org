@@ -1,0 +1,20 @@
+For this tutorial you will need a control signal and an affected signal.
+
+
+To accomplish this follow these steps:
+*Create 2 tracks (this can be done with audio or software instrument tracks but our example image below is done with audio tracks).
+*On the signal you wish to "open" with the gate insert a gate plug in.
+*Then in the upper right corner of the gate parameter window where it says "'''Side Chain None'''"  click and hold and choose the track that you wish to be your control signal.
+*Play both tracks back and modify the threshold and other gate parameters until you get the effect you want. 
+
+
+[[File:Logic side chain gating.png]]
+
+
+==Also see==
+[[Logic:Side chain compression (ducking)]]
+
+
+[[category:logic|Side chain gating]]
+
+[[category:tutorials]]
