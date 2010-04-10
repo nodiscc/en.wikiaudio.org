@@ -1,0 +1,15 @@
+Sometimes in [[Logic]] the fade files get corrupted adding undesirable pops and clicks to the end of audio regions in the arrange window. Sometimes deleting the fade files can remedy this.
+
+To delete fade files:
+
+Go to '''Options / Audio / Delete All Fade Files'''.
+
+To refresh the fade files after deletion, simply play the session from the beginning. 
+
+
+[[File:Logic delete fade files.png]]
+
+
+[[category:Logic|Delete fade files]]
+
+[[category:tutorials]]
