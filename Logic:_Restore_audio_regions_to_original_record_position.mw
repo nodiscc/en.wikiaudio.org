@@ -1,0 +1,8 @@
+In [[Logic]] you can move regions to their original record position. You can also [[Logic:Import track content and parameters from other sessions|import audio from different sessions]] and do this. 
+
+To move a region to the original record position simple add it to the arrange window and then use the key command called '''Move Region To Original Record Position'''. In Logic 9 the default key command is''' Shift/Opt/Command/R'''.
+
+
+[[category:Logic|Restore audio regions to original record position]]
+
+[[category:tutorials]]
