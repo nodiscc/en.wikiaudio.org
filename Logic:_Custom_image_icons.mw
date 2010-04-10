@@ -1,0 +1,19 @@
+In Logic image [[Logic:Assigning image icons to track headers|icons can be added to track headers]] to give a visual representation or identity to certain tracks.To make ''custom'' image icons follow these steps.
+
+==Logic 9==
+
+'''1.''' Find or create an image and scale it to '''128 x 128''' with an extension of '''.Png'''
+
+'''2.''' Right click on the Logic icon and choose '''Show package contents'''. If the Logic icon is in the dock then click it and choose Show in finder and then '''Show package contents'''
+
+'''3.''' Then go to '''Contents/Resources/Images/Icons'''
+
+'''4.''' Rename the icon mentioned in step 1 to a number. You will need to name it a number that none of the other icons in the Icons folder are using. Then put your new icon in the icon folder.
+
+
+Now when you [[Logic:Assigning image icons to track headers|assign icons to track headers]] your new icon should appear and you can use it.
+
+
+
+[[category:Logic|Custom image icons]]
+[[category:tutorial]]
