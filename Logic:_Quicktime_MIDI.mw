@@ -1,0 +1,22 @@
+To use the Quicktime musical instrument synthesizer is Logic follow these steps.
+
+'''1.''' Go the MIDI instr layer of Logics environment '''Window>Environment>[[Logic:_External_MIDI_device_track_setup_(environment)#Setting_up_custom_Multi_instruments|MIDI layer]]''' and create a Quicktime synth object '''New>Internal>Apple QuickTime'''. To change the patch you will need to double click on the QuickTime Synth object
+
+'''2.''' Go to the arrange window ('''Windows>arrange''') and create an External MIDI track.
+
+'''3.''' Select the new External MIDI track you just created and go to '''Media>Library>Other Objects>QuickTime Synth'''
+
+
+[[File:Logic Quicktime synth in library.png]]
+
+
+
+'''4.''' You can now play the synth
+
+
+
+[[category:Logic|Quicktime]]
+
+[[category:Quicktime]]
+
+[[category:tutorials]]
