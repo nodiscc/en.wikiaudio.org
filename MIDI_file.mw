@@ -1,0 +1,20 @@
+==Standard MIDI File (SMF) Format==
+
+[[MIDI]] messages (along with timing information) can be collected and stored in a computer file system, in what is commonly called a '''MIDI file''', or more formally, a '''Standard MIDI File (SMF)'''. The SMF specification was developed by, and is maintained by, the MIDI Manufacturers Association (MMA). MIDI files are typically created using computer-based sequencing software (or sometimes a hardware-based MIDI instrument or workstation) that organizes MIDI messages into one or more parallel "tracks" for independent recording and editing. In most sequencers, each track is assigned to a specific MIDI channel and/or a specific instrument patch; if the attached music synthesizer has a known instrument palette (for example because it conforms to the General MIDI standard), then the instrument for each track may be selected by name. Although most current MIDI sequencer software uses proprietary "session file" formats rather than SMF, almost all sequencers provide export or "Save As..." support for the SMF format.
+
+An SMF consists of one header chunk and one or more track chunks. There exist three different SMF formats; the format of a given SMF is specified in its file header. 
+
+===Format 0=== 
+This file contains a single track and represents a single song performance. 
+
+===Format 1===
+This format may contain any number of tracks, enabling preservation of the sequencer track structure, and also represents a single song performance. 
+
+===Format 2===
+This format may have any number of tracks, each representing a separate song performance. Sequencers do not commonly support Format 2. Large collections of SMFs can be found on the web, most commonly with the extension .mid but occasionally with the .smf. These files are most frequently authored with the (rather dubious) assumption that they will be only ever be played on General MIDI players.
+
+
+[[category:MIDI]]
+
+
+<small>This article article uses material from http://en.wikipedia.org/wiki/Musical_Instrument_Digital_Interface </small>
