@@ -1,0 +1,5 @@
+'''Lock to SMPTE position''' is a phrase used to describe the process of anchoring a sequenced audio file, midi region, marker or any sequenced information in a [[DAW]] or [[MIDI]] sequencer to a specific [[SMPTE time code]] position.This is usually done so that audio, midi regions, markers and other sequenced information can retain their SMPTE placement when tempo changes are initiated.
+
+[[category:Synchronization]]
+
+[[category:MIDI]]
