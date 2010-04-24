@@ -1,0 +1,16 @@
+==To set the time signature of a sequence==
+
+'''1.''' Open the '''Change Meter''' window ( '''Project / Modify Conductor Track / Change Meter''' ).
+
+'''2.''' Add the new meter by directly typing in the meter you want in the '''Change Meter'''.
+
+'''3.''' You can now specify the start and end locations for the meter changes. To change the entire sequence meter set the From Measure value to 1 and set the To setting to end of sequence. If you want to add a Meter change mid sequence simply specify the start and end points
+
+'''4.''' Choosing '''Only move bar lines''' will leave any existing data within the sequence unaffected. 
+
+'''5.''' Click Change and close the window 
+
+
+[[category:Digital Performer|Meter changes]]
+
+[[category:tutorials]]
