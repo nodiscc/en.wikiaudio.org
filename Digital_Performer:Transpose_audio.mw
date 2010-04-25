@@ -1,0 +1,26 @@
+Their are a few different ways to transpose audio in [[Digital Performer]].
+
+==Using the Transpose Command==
+
+
+'''1.''' Select the soundbite you want to transpose in the tracks window. You can also transpose portions of a soundbite using the [[Digital_Performer:Tools#I-Beam|I-beam tool]].
+
+'''2.''' Go to '''Region / Transpose'''. This will open the transpose window. 
+
+[[File:Digital Performer transpose window.png]]
+
+
+'''3.''' Enable the button that says '''Transpose Audio'''
+
+'''4.''' Choose between Transpose audio by adjusting pitch information or Transpose audio by creating new soundbite.The former will be based on any existing pitch information of the soundbite. The latter will transpose audio by creating a new soundbite
+
+'''5.''' Select the interval button and set the '''From''' and '''To''' values to reflect the amount of pitch change you would like to hear. The actual notes are irrelevant, the pitch shift is based on the intervals. So if you wanted to pitch a soundbite up a ''whole step'' you could type '''From''' C3 to D4 , but you could also type '''From''' G4 '''To''' A4.
+
+'''6.''' You can now use the fine tune option.!00 cents is a half-step.
+
+Click the '''apply''' button.
+
+
+[[category:Digital Performer|Transpose audio]]
+
+[[category:tutorials]]
