@@ -1,0 +1,5 @@
+'''Audio Units (AU)''' are a system-level plug-in architecture provided by Core Audio in Mac OS X developed by Apple Computer. Audio Units are a set of application programming interface services provided by the operating system to generate, process, receive, or otherwise manipulate streams of audio in near-real-time with minimal latency. It may be thought of as Apple's architectural equivalent to the other popular plug-in format, [[VST (Virtual Studio Technology)|Steinberg's VST]].
+
+{{stub}}
+
+[[category:Signal processing]]
