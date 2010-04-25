@@ -1,0 +1,7 @@
+When installing [[Audio units|Audio Unit plug-ins]] the installer should automatically place the plug in in the correct Directory. However, if adding AU's manually they should be placed '''Library / Audio / Plug-ins / Components folder'''. They can be placed in either the System or User library folder. When Digital Performer is first launched after the instalation of a new AU plug in it will initiate a scanning process to load it. If the scanning process fails then the plug-in will not be available.
+
+
+
+[[category:Digital Performer|Audio Unit]]
+
+[[category:tutorials]]
