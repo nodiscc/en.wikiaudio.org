@@ -1,0 +1,81 @@
+To turn on the click in [[Digital Performer]] go to '''Studio/Click'''. You might first need to go to '''Studio/Click Preferences''' and set the preferences (see below). You can also turn on/off the click by clicking the click icon and set it's preferences by double clicking it.
+
+
+
+==Click Options==
+[[File:Digital Performer Click preferences dialog.png]]
+
+==Type of click==
+
+===Audio=== 
+This will generate a click from various preset click sounds.These can be assigned to any audio outputs on your audio interface(s).
+
+===MIDI=== 
+This will transmit a MIDI note for each click sound. 
+
+===MIDI click===
+If you select '''MIDI''' as your click source you will need to set the MIDI instrument that will produce the click sounds as well as the note number and other parameters.
+
+====Accentuated====
+The Accentuated menu sets the source device for the click that will play on every downbeat 
+=====Pitch=====
+The pitch sets the MIDI note that will play
+=====Velocity=====
+The Velocity is the velocity of the MIDI note that will play.
+=====Gate=====
+The Gate is the duration of the MIDI note that will play
+
+====Normal====
+The Normal menu sets the source device for the click that will play on every beat of a measure not including the downbeat 
+=====Pitch=====
+The pitch sets the MIDI note that will play
+=====Velocity=====
+The Velocity is the velocity of the MIDI note that will play.
+=====Gate=====
+The Gate is the duration of the MIDI note that will play
+
+===Audio Click===
+This sets the output that the audio click will play from.
+
+====Accentuated====
+This sets the type of click and volume of all clicks that fall on beat 1 of a measure
+
+====Normal====
+This sets the type of click and volume of all clicks that fall on all beats except beat 1 of a measure.
+
+====Master volume====
+This sets the master volume for both clicks while retaining their independent volume relationship. 
+
+
+===Visual punches===
+These are visual flashes that appear on screen in conjunction with each click.In order for Visual Punches to work,  a movie must be imported into Digital Performer.
+
+
+====Accentuated====
+This is the color and size of the punches that fall on the first beat of each measure.
+====Normal====
+This is the color and size of the punches that fall on all except the first beat of each measure.
+====Punches output====
+
+This determines the output of the punches.
+
+===Options===
+
+These are a series of options that allow you to customize the click. They are self explanatory.
+
+*'''Always click'''
+
+*'''Only during countoff'''
+
+*'''Only when recording'''
+
+*'''No accent'''
+
+
+===Audition click===
+This allows you to hear the click before actually using it within a session.
+
+
+[[category:Digital Performer|Click]]
+
+[[category:Tutorials]]
