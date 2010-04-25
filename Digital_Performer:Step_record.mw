@@ -1,0 +1,22 @@
+
+===Step record===
+
+'''1.''' Open the step record window by going to the '''Studio / Step Record''' menu.
+
+[[File:Digital Performer step record box.png]]
+
+'''2.''' Choose the MIDI track you want to step record on from the '''Record Track''' pop up menu.
+
+'''3.''' Choose the note duration you want the step recorded notes to have.
+
+'''4.''' If you would like Digital Performer to automatically jump to the next step after you insert a MIDI note then click the '''Auto Step''' button.
+
+'''5.''' If you want the Step Record window to be linked to DP's main transport controls click the '''Lock To Transport''' button.
+
+
+Play notes and chords. If you accidentally play an incorrect note or chord then click the '''Backstep''' button. 
+
+
+[[category:Digital Performer|Step]]
+
+[[category:tutorials]]
