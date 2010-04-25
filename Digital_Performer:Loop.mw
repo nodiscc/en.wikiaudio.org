@@ -1,0 +1,27 @@
+There are a variety of different ways to loop data in [[Digital Performer]].
+
+==Multiple loops using Set Loop==
+
+A quick way to add multiple loops of a region or make a region loop indefinitely is to use the '''Set loop''' function. To access it go to '''Region / Set Loop'''. 
+
+A dialog box will appear asking you The exact start end time of the loop (this will default to the time span of the selected region) how many loops you want to loop it or if you would like to look it indefinitely (until the end of the song).
+
+Set these parameters to reflect what you want and click '''OK'''
+
+[[File:Digital Performer Set Loop dialog box.png]]
+
+
+A gray image will appear to the right of the region spanning the length of the loop.
+
+'''A region before and after looping'''
+[[File:Digital Performer audio region in sequence editor.png|left|thumb|500px|Before looping]] 
+
+[[File:Digital Performer region looped 3 times.png|left|thumb|500px|After looping a region 3 times]]
+
+
+
+
+
+[[category:Digital Performer|Loop]]
+
+[[category:tutorials]]
