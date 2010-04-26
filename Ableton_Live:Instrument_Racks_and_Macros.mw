@@ -1,0 +1,90 @@
+In [[Ableton Live]] the '''Instrument Rack''' device is used to make groupings of other devices that can be combined to create a "superdevice". '''Macros''' are fader knobs that can be assigned to multiple parameters on any combination of devices within an '''Instrument Rack''' hence allowing you to control multiple device parameters from one knob.
+
+The easiest way to look at an an '''Instrument Rack''' is simply as a "box" that you put other devices in, and the easiest way to look at '''Macros''' is as knobs you use to collectively control those devices.
+
+
+=Instrument Racks and Macros=
+
+==Creating Instrument Racks==
+
+To make a new Rack go to the device browser and under the '''Instruments''' menu choose '''Instrument Rack'''
+
+[[File:Ableton Live instrument rack.png]]
+
+
+
+
+
+
+
+
+
+	
+You can then drop any devices you want to use/combine in the '''Instrument Rack''' drop palette. 
+
+
+[[File:Ableton Live instrument Rack add device window.png]]
+
+
+
+
+
+
+
+
+
+
+
+To see all parameters click the display buttons on the left side of the '''Instrument Rack'''.This will open up the Macro window as well as the drop display and the devices you have added so far.
+
+
+
+
+[[File:Ableton Live instrument rack display buttons.png]]
+
+
+
+
+
+==Unfolding Instrument Rack groups==
+
+
+In the session view you can unfold Instrument Device channels which allows you to see all the embedded devices as channel representations 
+
+[[File:Ableton Live Instrument rack unfold arrow.png]]
+
+
+
+
+==Key mapping instrument racks==
+
+
+To keymap instrument racks click the icon that says '''Key''' and move the keymap display bars to span the note range(s) you want for each device.
+
+
+[[File:Ableton Live instrument rack key mapping.png]]
+
+
+
+==Macro assignments==
+
+
+To assign device parameters to Maco faders/knobs, click '''Map Mode''' then click a device parameters you want to assign, then click the '''Map''' button on one of the macros. You can then repeat the procedure adding new device parameters to the same (or different) '''Macro''',  hence the '''Macro''' fader/knob will control multiple parameters across different devices. 
+
+
+
+
+
+[[File:Ableton Live assigning paramters to macros.png]]
+
+
+
+
+
+
+
+
+
+[[category:Ableton Live|Instrument Racks and Macros]]
+
+[[category:tutorials]]
