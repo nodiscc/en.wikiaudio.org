@@ -1,0 +1,33 @@
+To access the undo history go to '''Edit / Undo History'''
+
+
+
+===Undo Window Display===
+
+
+[[File:Digital Performer undo window.png]]
+
+====Name====
+This is a description of the editing action that took place.
+====Time====
+This tells you when the action accurred
+
+====Date====
+This shows the day,month and year of the action.
+
+====Branch====
+A branch is a set of actions that are offshoots of a previous undo. In other words since Digital Performer lets you undo actions, you can initiate an action, undo it and initiate a different action and then revert back to the same undo point.This can continue over and over again hence creating offshoot "branches" of actions related to a single undo point.
+
+This column indicates whether a branch has taken place within an undo history timeline.It is displayed as an arrow which unfolds a sub menu of the "branched" edits.
+
+====Memory====
+
+This is the amount of RAM needed to remember the action. 
+
+====Disk====
+This is the amount of hard drive space the action needed to use to remember the action.
+
+
+[[category:Digital Performer|Undo]]
+
+[[category:Tutorials]]
