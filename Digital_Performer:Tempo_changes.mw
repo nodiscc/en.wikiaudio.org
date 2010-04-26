@@ -1,0 +1,8 @@
+To make tempo changes in [[Digital Performer]] go to the Sequence Editor ('''Project/Sequence Editor''') and then in the top most track ( called the '''Conductor Track''') set the display menu to Tempo and Insert (image below) then draw in your tempo changes using the [[Digital_Performer:Tools#Pencil|pencil tool]] ('''Studio/Tools'''). You can draw in different shapes using the [[Digital_Performer:Tools#Insert.2FReshape_Curve|reshape curve tool]]
+
+[[File:Digital Performer tempo change draw in.png]]
+
+
+[[category:Digital Performer|Tempo changes]]
+
+[[category:tutorials]]
