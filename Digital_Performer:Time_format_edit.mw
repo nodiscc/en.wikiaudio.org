@@ -1,0 +1,38 @@
+[[Digital Performer]] has a way to customize the time format of your session(s).
+
+
+
+
+
+==Setting the Time format==
+To change the time format of your session in Digital Performer go to '''Setup / Time Formats''' or use the key command '''Option / Command / T'''
+
+[[File:Digital Performer time formats menu.png]]
+
+
+
+[[File:Digital Performer time format window.png]]
+
+
+
+From this window you can choose the time format(s) you want.
+
+If you click the '''Details''' extension arrow you can access more options that are specific to various areas of Digital Performer.
+
+
+
+
+[[File:Digital Performer extended time format edit window.png]]
+
+
+
+===Example of multiple time formats===
+
+This is an example of how multiple time formats can be displayed.
+
+[[File:Digital Performer example of multiple time ruler displays.png]]
+
+
+[[category:Digital Performer|Time format edit]]
+
+[[category:tutorials]]
