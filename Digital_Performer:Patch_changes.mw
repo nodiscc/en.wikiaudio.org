@@ -1,0 +1,29 @@
+Prior to initiating [[MIDI]] patch changes from within [[Digital Performer]] you must first make sure your [[MIDI:_star_configuration|MIDI devices are connected properly]] and that the [[Mac OS:MIDI setup|MAC OS MIDI configuration is properly configured]].
+
+To make patch changes to a track you need to set the output device and then choose the patch from either the patch, or default patch menu. These options are at the header of the track in the tracks window.(You can also make patch changes from other editors such as the '''Sequence editor''').
+
+
+[[File:Digital Performer patch and default patch .png]]
+
+
+===Difference between the Patch and Default Patch===
+
+'''Default patch''' is the patch you want Digital Performer to always play first and revert to. This is the place to set your patch changes before you save your session!
+
+The '''Patch''' is a display of the current patch that is playing including those that have been triggered by inserting patch changes to a track.
+
+
+===Changing patches by drawing in changes in the Sequence Editor===
+
+You can quickly draw in patches using the sequence editor ('''project / Sequence editor''')
+
+Go to a track and click the mini menu arrow in it's upper right corner and choose patch change. You can then draw in patch changes with the pencil tool.
+
+[[File:Digital Performer patch change in sequence editor.png]]
+
+
+[[File:Digital Performer inserted patch changes.png]]
+
+[[category:Digital Performer|Patch changes]]
+
+[[category:tutorials]]
