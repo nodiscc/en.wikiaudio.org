@@ -1,0 +1,20 @@
+==Digital Performer MIDI track recording==
+
+To record [[MIDI]] into [[Digital Performer]] you must:
+
+#Setup the [[Mac OS:MIDI setup |MAC OS MIDI configuration]]
+#Make sure your [[MIDI: star configuration|MIDI devices are connected properly]].
+
+
+===Tracks Window===
+Open the Digital Performer tracks window and set the device output and channel (and possibly the MIDI patch).Then record enable the track and click the record button on the transport. Now you can begin play your MIDI input device. Click the stop button on the transport when you're done. 
+
+
+
+[[File:Digital Performer recording MIDI.png]]
+
+
+
+[[category:Digital Performer|MIDI recording]]
+
+[[category:Tutorials]]
