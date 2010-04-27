@@ -1,0 +1,32 @@
+[[File:Digital Performer consolidated window set.png|thumb|right|Example of a window set using [[Digital Performer:Consolidate or detach windows|Digital Performers consolidate windows feature]]]]
+
+[[Digital Performer]] allows the user to record their preferred window arrangements.These window arrangements are called '''Window Sets'''. These can be recalled at will to facilitate an easier work flow. 
+
+===Creating window sets===
+
+Arrange a layout of windows that you would like to save as a screen set.
+
+Go to '''Windows / Window sets / Capture Window Set'''
+
+Name the window set in the name field.
+
+[[File:Digital Performer window set name window set.png]]
+
+You can assign a keyboard or MIDI command that ''opens'' this window set by clicking on the '''Key Binding''' option and typing a key command (Such as '''1''' ) or sending a MIDI message via a MIDI controller.
+
+Click '''OK'''
+
+Your window set will then appear in the window set sub menu.
+
+
+[[File:Digital Performer window set select menu.png|Px400]]
+
+===Edit Window Set===
+
+Clicking on '''Edit Window Set''' will display a window that will allows you to rename, delete or change the order of selected window sets
+
+
+
+[[category:Digital Performer|Window sets]]
+
+[[category:tutorials]]
