@@ -1,0 +1,19 @@
+[[File:Digital Performer consolidated window set.png|thumb|right|Example of consolidated windows using [[Digital Performer:Window sets|Digital Performers window set feature]]]]
+
+Digital Performer defaults to keeping it's editing windows connected or ''consolidated''. If you would like to have the programs editing windows open in a stand-alone manner you need to deconsolidate them. 
+
+To unconnect (deconsolidate) windows in [[Digital Performer]] go to '''Digital Performer/Preferences''' then go to '''Consolidated Windows''' and then deselect the box next to '''Enable Consolidated Editing'''.
+
+
+
+
+
+[[File:Digital Performer consolidate windows menu.png]]
+
+
+
+
+
+[[category:Digital Performer|Detach windows]]
+
+[[category:tutorials]]
