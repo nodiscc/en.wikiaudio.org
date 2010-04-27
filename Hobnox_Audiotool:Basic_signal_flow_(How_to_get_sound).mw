@@ -1,0 +1,22 @@
+
+First you need to drag a sound source from the list of objects to the workspace. You can start with a synth or drum module.
+
+
+
+[[File:Audiotool Firestarter drag devices to workspace.png|500px]]
+
+
+
+Then you need to make sure the pointer icon is active and then drag the output of the sound module(s) to the input of the software main out object. The software main output can only recieve one device at a time, so if you want multiple devices you are going to have to add one or more of the various mixer objects available and use them to combine sound sources.
+
+
+
+[[File:Audiotool Firestarter audio set up.png|850px]]
+
+
+==Also see==
+
+[http://www.audiotool.com Audiotool Homepage]
+
+
+[[category:Audiotool Firestarter]]
