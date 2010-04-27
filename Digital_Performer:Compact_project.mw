@@ -1,0 +1,21 @@
+Compacting a project.
+
+[[Digital Performer]] allows you to '''Compact''' a project.This means Digital Performer will remove unused audio files and other digital information not being used in session sequence.
+
+To compact a project go to '''File / Compact Project'''. A window will open.
+
+
+
+
+
+[[File:Digital Performer compact project window.png]]
+
+Select the items you want to remove from the project.
+
+Click '''OK''', a warning will appear reminding you this action is permanent. Click '''OK''' again to initiate it.
+
+
+
+[[category:Digital Performer|Compact project]]
+
+[[category:tutorials]]
