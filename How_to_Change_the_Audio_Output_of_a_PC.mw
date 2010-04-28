@@ -1,0 +1,21 @@
+===Change audio output on a PC computer===
+
+'''1.'''If your PC has a rear audio port and front audio port usually they are connected and the front is typically used for headphones. If the front port does not work the cable assembly inside might have come lose or is not plugged in.
+
+'''2.'''If you have 2 audio cards and want to change the primary audio device click the volume icon in the task bar or go to control panel and click Sounds and Audio Devices. On the Audio Tab you will see Default device, this is your primary sound card. To change it click the drop down, change to the preferred sound card and click apply and ok.
+
+'''3.'''For multiple sound cards click the advanced tab in Sounds and Audio devices Properties and change the sound cards using the Options and Properties tab, click the mixer device drop down.
+
+
+
+
+
+----
+{{stub}}
+
+{{Wikihow|Change-the-Audio-Output-of-Your-PC|How to Change the Audio Output of Your PC}}
+
+
+
+
+[[category:tutorials]]
