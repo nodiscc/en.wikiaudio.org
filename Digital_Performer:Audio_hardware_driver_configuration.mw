@@ -1,0 +1,55 @@
+==Configuring the driver==
+
+To configure [[Digital Performer]]s hardware driver go to '''Setup/Configure audio system/configure hardware driver'''
+
+[[File:Digital Performer hardware driver.png]]
+
+
+
+
+
+In the window that appears you can choose the hardware driver you want. You can use multiple hardware devices by Control-Command-clicking on any additional devices in the list (you will have to resolve any clocking issues if you do this. See the [[Digital_Performer:Hardware_driver_configuration#Clock_Modes|Clocking Modes]] menu below).
+
+
+
+
+
+
+[[File:Digital Performer hardware driver select window.png]]
+
+
+===Master Device===
+
+The master device is needed only if you have multiple hardware drivers enabled.This device will be used to keep the digital signals of all devices locked together.
+
+===Sample Rate===
+This is the [[sample rate]] of the session. This sample rate will be applied to all hardware devices being used. 
+
+===Clock Modes===
+This is the digital time clock menu for the hardware devices. If you are only using one hardware device set it to Internal.If you are using multiple hardware devices set the master to internal and the slaves to the appropriate audio clock.This is determined by how each audio devices is physically connected/synced to the master.
+
+===Buffer Size===
+
+This menu sets the [[DAW buffer size|buffer size]].
+
+===Host Buffer Multiplier===
+
+This option helps improve Digital Performers performance. MOTU recommends these buffer settings.
+
+'''1.''' Use this setting if you have only one hardware device enabled in the driver list.
+
+'''2.''' Use this setting if you have 2 or more devices enabled in the hardware driver list. 
+
+'''3 & 4.''' Try these settings if you are having audio performance problems
+
+===Work Priority===
+
+This determines the priority the '''MOTU Audio System''' receives from '''MAC OS X'''. Generally you want to keep this as high as possible unless your system is having performance problems. 
+
+
+
+
+
+[[category:Digital Performer|Hardware driver]]
+
+[[category:tutorials]]
