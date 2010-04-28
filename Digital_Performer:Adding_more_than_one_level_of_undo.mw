@@ -1,0 +1,9 @@
+[[Digital Performer]] has multiple levels of undo however they require the use of the Key Command '''Shift Z Command'''.
+
+If you would like to make multiple levels on undo available by using the conventional '''Z Command''' , you can [[Digital Performer:Assigning key commands|reassign the key commands.]]
+
+Go to the Commands window  '''Setup / Commands''' and reassign the command '''undo previous action''' to '''Command Z''' and either change or remove the command assigned to '''Undo/Redo'''.
+
+
+[[category:Digital Performer|U|A]]
+[[category:tutorials]]
