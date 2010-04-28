@@ -1,0 +1,30 @@
+[[File:Digital Performer key commands window.png|right| Digital Performer Key commands window]] 
+
+To access a list of [[Digital Performer]]s key commands go to '''Setup / Commands''' or use the key command '''Shift-L'''
+
+1. In the search field type in the command you would like to find and click '''Search'''.
+Digital Performer will return the results highlighting the searched for command. 
+
+==To assign key commands==
+
+'''1.''' Find the command you want to change.
+
+'''2.''' Click the '''Mac Key 1''' column 
+
+'''3.''' Press the desired key combination. It will be entered into the '''Mac Key 1''' column. If you type a key binding that is already being used a dialog box will appear asking if you still want to use this assignment. 
+
+You can also use to groups of key commands by using the '''Mac Key 1''' and '''Mac Key 2''' 
+
+
+==To assign MIDI commands.==
+
+'''1.''' Find the command you want to change.
+
+'''2.''' Click the '''MIDI Event''' column 
+
+'''3.''' Enter the desired MIDI event by moving or pressing the key on your MIDI controller. You can also specify the MIDI source by clicking the source column and selecting the specific MIDI device.
+
+
+[[category:Digital Performer|Key commands]]
+
+[[category:Tutorials]]
