@@ -1,0 +1,17 @@
+To setup the outputs on Mac OS you have to open the Audio MIDI Setup.This defaults to being in the '''Utilities''' folder.
+Once open, choose the '''Audio Devices tab'''
+
+
+
+==Default inputs and Outputs==
+
+These are the default inputs and outputs that the Mac OS will read and send signal from. When you launch a DAW program such as Logic or Pro Tools, the internal hardware driver settings of the software will (usually) take precedence over these settings. 
+
+==Clock source==
+
+This is used to determine what device is the [[Word clock|digital clock]] source. 
+
+
+[[File:Mac_OS_AMS_audio_setup_window.png]]
+
+[[category:Mac OS|Audio setup]]
