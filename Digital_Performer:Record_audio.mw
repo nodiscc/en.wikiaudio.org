@@ -1,0 +1,19 @@
+You can record audio into [[Digital Performer]] in either the tracks window or sequence editor.
+
+==Recording Audio from the tracks window==
+
+#First you must make sure [[Mac OS:Audio setup|Mac OS Audio setup]] is configured properly and you must make sure [[Digital Performer:Audio hardware driver configuration‎|Digital Performers Audio driver and settings are configured]] properly.
+#Determine the track you wish to record on.If you don't have any audio tracks in your session you can make one by going to '''Project / Add track'''.
+#Set its inputs to reflect the input of the source signal and set the outputs to reflect the outputs of your monitoring setup.
+#Open the audio input monitor '''Studio / Audio monitor''' or use the key command '''Shift A'''.Set your source material levels.
+#Click the record button.Then click the stop button when you are done.
+
+
+
+
+[[File:Digital Performer recording audio.png]]
+
+
+[[category:Digital Performer|Record audio]]
+
+[[category:tutorials]]
