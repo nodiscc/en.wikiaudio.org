@@ -1,0 +1,24 @@
+To transfer sessions between digital audio workstations requires exporting and importing audio and/or MIDI files. Bother file types and the respective process is listed below.
+
+==Transferring sessions between DAW platforms==
+
+===Audio===
+
+If you would like to transfer an audio session between two different [[DAW]] programs you have two primary options.
+
+====Option 1====
+Export the session in a file format such as [[OMF]], [[AAF]], [[Open TL]] or [[Final Cut XML ]] (assuming the source program can export one or more of these format types and the receiving program can read them) and then import them into the receiving program. Keep in mind these file formats do not capture effects data. These file formats primarily retain ''placement'' of audio files in a session and not much else.
+
+====Option 2====
+Do a bounce to disk of every track in the source session starting at a set beginning point, then import and line up the files at a set start point  into the receiving session.Most multitrack or digital audio editors have a bounce or export function. Use it to export files one-by-one or en mass.
+
+===Software instruments===
+
+Software instruments can either be bounced as audio tracks or exported as MIDI. You could get more complicated and attempt to transfer various key mapping schemes,patches and raw audio files to different software instruments or samplers etc, but we are going to keep it simple and assume you either want to export the bounced audio track or export the tracks MIDI information for use in another program with the intent of triggering a different MIDI software instrument or hardware device. 
+
+===External hardware MIDI tracks===
+
+Hardware MIDI tracks can either be recorded as audio and exported as any other audio track or the MIDI track itself can be exported and then imported into the other program. If the latter option is chosen then the hardware device will have to be connected in a manner that the receiving software program can recognize or the MIDI will have to be reassigned to a different instrument.
+
+
+[[category:tutorials]]
