@@ -1,0 +1,25 @@
+[[ File:Digital Performer change velocity window.png|right]]
+[[Digital Performer]] has  a feature that can limit , expand and compress the velocity of note values en mass over time.
+
+==Velocity changes==
+
+Go to '''Region/Change velocity.'''
+
+In the top menu there are a few different option available.
+
+
+'''Set'''. This option sets selected notes to a specific velocity.
+
+'''Add.''' This allows you to add a set amount of velocity values to a selection of MIDI notes.
+
+'''Scale'''. This option uses a percentage value to scale a MIDI note selection
+'''
+Limit.''' This option allows you to limit note velocities by a specific range.
+
+'''Compress / Expand'''. This feature is similar to to an audio compressor / expander in that it will attenuate or turn up velocities based on its parameter settings.
+
+'''Smooth'''. This automates smooth velocity changes along a set curve. 
+
+[[category:Digital Performer|Velocity|right]]
+
+[[category:tutorials]]
