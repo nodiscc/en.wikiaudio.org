@@ -1,0 +1,13 @@
+In [[Digital Performer]] you can record multiple takes in one recording and then decide which one you want. To do this first go to the sequence editor ('''Project/Sequence editor''') enable the overdub and cycle buttons located at the bottom of the transport. Next set the cycle locators to span the range of the recording you wish to make.Record enable the track and then click record. The track will begin cycling and when you are done you can click the tracks mini menu and choose the take you want.
+
+
+[[File:Digital Performer Recording multiple takes (cycle and overdub on).png]]
+
+
+
+[[File:Digital Performer multitakes.png]]
+
+
+[[category:Digital Performer|Recording multiple takes]]
+
+[[category:tutorials]]
