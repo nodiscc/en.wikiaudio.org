@@ -1,0 +1,113 @@
+==Logic Moving a film cut to a point of time==
+
+
+
+
+This will allow you to move a film scene cut to correlate with a position on the time ruler. 
+'''Note''' This creates tempo change(s) so you might want to keep an eye on the tempo(s) of your song.
+
+
+
+First you need to [[Logic: Open movie|open a movie in Logic]]
+
+
+
+
+After you do this click and hold on the '''Global Tracks''' menu and choose '''Configure Global Tracks''' from the menu that appears.
+
+
+
+
+[[Image:Logic configure global tracks.png]]
+
+
+Next check the following boxes from the menu that appears
+
+*Marker
+*Video
+*Tempo
+*Beat Mapping
+
+
+
+
+[[Image:Logic Configure global tracks check box.png]]
+
+
+
+Next, click the menu arrows on each one of the global tracks that now appear in the arrange window.
+
+See the image below for clarification.
+
+
+
+[[Image:Logic with global tracks Marker,tempo,video,beat mapping.png]]
+
+
+To have Logic assign cuts to specific points on the time line we first must use a feature called "detect cuts".
+
+To do this use the marque tool and select a span of time on a track (any track, it doesn't matter) that encompasses the range of time that you want Logic to detect cuts. If you wish to Detect cuts for the entire film clip don't select anything. 
+
+Then click the detect cuts button on the video track. (image shown below)
+
+
+[[Image:Logic Scene cuts.png]]
+
+
+
+
+
+
+Now, Logic will create a series of markers that correlate to the cuts of the film clip.
+Select the marker that correlates to the cut you wish to move. 
+A "scene cut" marker should appear in yellow and blue as shown in the image below
+
+
+
+
+
+
+[[Image:Logic beat mapping scene cuts.png]]
+
+
+
+
+
+Now click the white beat map line that correlates with where you want your cut to land...and then move it to the scene cut marker. In the image below we are taking Bar #27 and moving it to Scene - 6
+
+
+
+
+[[Image:Logic moving a scene cut to grid.png]]
+
+
+
+
+'''Note'''
+
+If Logic won't let you move the grid lines to scene markers you might have to write in a tempo change and then delete it. It is a glitch in the program.
+
+
+
+
+
+
+The end result should be a scene cut that lands exactly on the timing reference we've specified.
+
+
+
+
+[[Image:Logic beatmap to cut complete.png]]
+
+
+
+
+
+
+==Also see==
+
+*[[Logic:Working with video]]
+
+[[category:tutorials]]
+
+[[category:logic|Moving movie scene cuts to downbeat]]
