@@ -1,0 +1,11 @@
+[[Digital Performer]] can create a global tempo based off rhythmically created user mouse clicks (also called a [[Tap tempo]]). To do this go to the tempo drop down menu in the transport window (image below). Then choose the '''Tap Pad''' option. Then simply click the '''Tempo Pad''' repeatedly and Digital Performer will generate a tempo based off the rhythm of your clicks.
+
+[[File:Digital Performer tempo drop down menu.png]]
+
+[[File:Digital Performer tap pad.png]]
+
+
+
+[[category:Digital Performer|Tap Tempo]]
+
+[[category:tutorials]]
