@@ -1,0 +1,12 @@
+#Add the song you want to make a ring tone out of to iTunes.Play the song and make a note of the start and end times of the part you would like to turn into a ring tone.
+#In the song list right click the song and choose '''Get Info''' and then type the start and end times you just made a note of, then click '''Ok'''
+#Right click the song again and choose '''Convert selection to AAC.'''
+#iTunes will create a copy of the file, you will need to find the directory the copy is located in on your computer. You can find this by right clicking on the copy, choosing '''Get Info''' and then going to '''Summary / Where'''.
+#Change the extension at the end of the file from m4a to m4r.
+#Double-click the ringtone file and ITunes will  add it to the  iTunes Music Library ringtones folder .
+#Now all you need to do is to connect your iPhone and sync your ringtones.
+
+
+[[category:iPhone|Ring ton creation]]
+
+[[category:tutorials]]
