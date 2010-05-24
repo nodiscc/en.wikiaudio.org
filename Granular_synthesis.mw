@@ -1,0 +1,58 @@
+'''Granular synthesis''' is a basic sound synthesis method that operates on the [[microsound]] [[Time scale (music)|time scale]]. It is often based on the same principles as [[sampling]] but often includes [[analog signal|analog]] technology. The samples are not used directly however, they are split in small pieces of around 1 to 50 [[Millisecond|ms]] in length, or the synthesized sounds are very short. These small pieces are called grains. Multiple grains may be layered on top of each other all playing at different speed, [[phase (waves)|phase]] and volume.
+
+The result is no single tone, but a [[soundscape]], often a [[cloud (music)|cloud]], that is subject to manipulation in a way unlike any natural sound and also unlike the sounds produced by most other synthesis techniques. By varying the [[waveform]], envelope, duration, spatial position, and density of the grains many different sounds can be produced. 
+
+The result is usable as music, sound effects or as raw material for further processing by other synthesis or [[digital signal processing|DSP]] effects. The range of effects that can be produced include amplitude modulation, time stretching, stereo or multichannel scattering, random reordering, disintegration and morphing.
+
+[[Dennis Gabor]] researched how human beings communicate and hear. The result of his investigations was the theory of granular synthesis, although Greek composer [[Iannis Xenakis]] claimed that he was actually the first inventor of this synthesis technique (Xenakis, Formalized Music, preface xiii).
+
+[[Curtis Roads]] is often credited as the first person to implement a digital granular synthesis engine. Canadian composer [[Barry Truax]] was one of first to implement real-time versions of this synthesis technique.
+
+==Books==
+
+
+*Roads, Curtis (2001). Microsound. Cambridge: MIT Press. ISBN 0-262-18215-7.
+
+*Miranda, E. R. (2002). Computer Sound Design: Synthesis Techniques and Programming. Oxford: Focal Press. ISBN 0-240-51693-1.
+
+* [http://www.artesonoro.net/tesisgran/indicegran.html "Les techniques granulares dans la synthèse sonore] by Manuel Rocha Iturbide. Doctoral Thesis. University of Paris VIII, Paris France, 1999.
+
+
+
+Credits and info about the software used.
+
+== Articles ==
+* [http://music.calarts.edu/~eric/gs.html Granular Synthesis] by Eric Kuehnl
+* [http://artesonoro.net/articulos/The%20development%20of%20GiST.pdf "The development of GiST, a Granular. Synthesis Toolkit Based on an Extension of the FOF Generator"] by Gerhard Eckel and [[Manuel Rocha Iturbide]]
+* [http://www.artesonoro.net/tesisgran/portadagran.html Searching for a global synthesis technique through a quantum conception of sound.] by Manuel Rocha Iturbide.
+
+
+== Software ==
+
+* [http://www.densitygs.com Density Granular Synthesis 1.x] (Mac/Win)
+* [http://www.lownorth.nl/software/products/RTGS-x.html RTGS-X] Real-Time Granular Synthesizer X (for Mac OS X).
+* [http://www.audioease.com/download/thOnk_0+2.sit.hqx thOnk_0+2] Granular synthesis without having to think at all. Free. Non-realtime. Mac OS 9.
+* [http://www.essl.at/works/replay.html REplay PLAYer] generative granular synthesis software for Mac
+* [http://hem.passagen.se/rasmuse/Granny.htm Granulab] real-time granular synthesizer for Win32
+* [[Chaosynth]] [http://x2.i-dat.org/~csem/UNESCO/9/ (link)] cellular automata granular synthesizer by [[Eduardo Reck Miranda]].
+* [http://www.mcrow.net/Vocal%20Modeler.htm Vocal Modeler] Special vocal effect for Reaktor that uses granular synthesis.
+* [http://www.crusher-x.de crusherX-Live!] granular synthesis system for Windows
+* [http://people.bath.ac.uk/masjpf/CDP/cgromody.htm CDP] granular synthesizer from the Composer's Desktop Project
+* [http://mffmtimescale.sourceforge.net/ WSOLA] time scale modification of audio using granular synthesis
+* [http://www.mcrow.net/White%20FX.htm White FX] White FX is a granular effect for Reaktor
+* [http://www.audiomulch.com Audiomulch] Audiomulch is a real-time audio processing tool which has some "contraptions" which offer granular synthesis.
+* [http://atomiccloud.gersic.com Atomic Cloud] Atomic Cloud is an easy to use real-time grain cloud generator for Windows
+* [http://www.csounds.com/cecilia/ Cecilia] / [ftp://ftp.musique.umontreal.ca/FTP_Musique/] Cecilia provides one of the best frontends available for employing granular synthesis and brassage techniques. It uses the CSound language (PC/Mac/Linux).
+* [[Reason_(program)|Reason]], from [[Propellerhead Software]] released a virtual device called the Malström. The device, dubbed a 'Graintable' synthesizer, combines granular and wavetable synthesis technologies.
+
+== Programming Languages ==
+* [[Csound]] comprehensive music software including granular synthesis ([http://www.csounds.com/manual/html/SiggenGranular.html overview] over granular synthesis opcodes)
+* [[SuperCollider]] programming language for real time audio synthesis
+* [[Reaktor]] visual programming environment for sampling, granular sampling, sequencing and modular synthesis
+* [[MaxMSP]] graphical authoring software for real-time audio and video
+* [[Puredata]] (Pd) graphical programming language for real-time audio and video
+* [[ChucK]] audio programming language for real-time audio synthesis
+* [[Real-time Cmix]] programming language for real-time audio synthesis, including several algorithms for granular synthesis.
+
+
+[[category:synthesis]]
