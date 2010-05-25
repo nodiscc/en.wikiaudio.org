@@ -1,0 +1,15 @@
+To use the spectrum analyzer in Logic do these things:
+
+#Open the channel EQ on the channel strip that the audio file you want to analyze is playing through. If you would like to analyze an entire mix or sub mix then place the EQ on the respective bus channel or master out. (image below)
+#Click the button titled Analyzer from the EQ display window. (image below).
+
+You can now see a frequency spectrum display of the audio material.
+
+
+
+[[File:Logic with spectrum analyzer EQ active.png]]
+
+
+[[category:Logic|Spectrum analysis]]
+
+[[category:tutorials]]
