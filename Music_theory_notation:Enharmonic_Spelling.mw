@@ -1,0 +1,43 @@
+In common notation, any note can be sharp, flat, or natural. A sharp symbol raises the pitch (of a natural note) by one half step; a flat symbol lowers it by one half step.
+    
+
+
+[[File:sharpflatnatural.png]]
+
+
+
+Why do we bother with these symbols? There are twelve pitches available within any octave. We could give each of those twelve pitches its own name (A, B, C, D, E, F, G, H, I, J, K, and L) and its own line or space on a staff. But that would actually be fairly inefficient, because most music is in a particular key. And music that is in a major or minor key will tend to use only seven of those twelve notes. So music is easier to read if it has only lines, spaces, and notes for the seven pitches it is (mostly) going to use, plus a way to write the occasional notes that are not in the key.
+    
+
+This is basically what common notation does. There are only seven note names (A, B, C, D, E, F, G), and each line or space on a staff will correspond with one of those note names. To get all twelve pitches using only the seven note names, we allow any of these notes to be sharp, flat, or natural. Look at the notes on a keyboard.
+    
+
+
+
+[[file:keyboard.png]]
+
+<small>Seven of the twelve possible notes in each octave are "natural" notes</small>
+
+
+Because most of the natural notes are two half steps apart, there are plenty of  pitches that you can only get by naming them with either a flat or a sharp (on the keyboard, the "black key" notes). For example, the note in between D natural and E natural can be named either D sharp or E flat. These two names look very different on the staff, but they are going to sound exactly the same, since you play both of them by pressing the same black key on the piano.
+    
+
+[[file:enharmonicfig3.png]]
+
+<small>D sharp and E flat look very different when written in common notation, but they sound exactly the same when played on a piano.</small>
+
+
+This is an example of enharmonic spelling. Two notes are enharmonic if they sound the same on a piano but are named and written differently.
+    
+
+
+
+
+
+===References===
+<small>Schmidt-Jones, C. Enharmonic Spelling, Connexions Web site. http://cnx.org/content/m11641/1.11/,  Apr 12, 2010.</small>
+
+
+[[category:Music theory|Enharmonic Spelling]]
+
+[[category:tutorials]]
