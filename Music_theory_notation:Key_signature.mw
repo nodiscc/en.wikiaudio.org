@@ -1,0 +1,84 @@
+==Key Signature==
+
+The key signature comes right after the clef symbol on the staff. It may have either some sharp symbols on particular lines or spaces, or some flat symbols, again on particular lines or spaces. If there are no flats or sharps listed after the clef symbol, then the key signature is "all notes are natural".
+
+In common notation, clef and key signature are the only symbols that normally appear on every staff. They appear so often because they are such important symbols; they tell you what note is on each line and space of the staff. The clef tells you the letter name of the note (A, B, C, etc.), and the key tells you whether the note is sharp, flat or natural.
+
+
+
+
+[[File:Keysig1.png]]
+
+
+
+
+
+The key signature is a list of all the sharps and flats in the key that the music is in. '''When a sharp (or flat) appears on a line or space in the key signature, all the notes on that line or space are sharp (or flat), and all other notes with the same letter names in other octaves are also sharp (or flat).'''
+
+
+
+
+[[File:Keysig2.png]]
+
+<small>This key signature has a flat on the "B" line, so all of these B's are flat.</small>
+
+
+
+
+
+The sharps or flats always appear in the same order in all key signatures. This is the same order in which they are added as keys get sharper or flatter. For example, if a key (G major or E minor) has only one sharp, it will be F sharp, so F sharp is always the first sharp listed in a sharp key signature. The keys that have two sharps (D major and B minor) have F sharp and C sharp, so C sharp is always the second sharp in a key signature, and so on. '''The order of sharps is: F sharp, C sharp, G sharp, D sharp, A sharp, E sharp, B sharp. The order of flats is the reverse of the order of sharps: B flat, E flat, A flat, D flat, G flat, C flat, F flat.''' So the keys with only one flat (F major and D minor) have a B flat; the keys with two flats (B flat major and G minor) have B flat and E flat; and so on. The order of flats and sharps, like the order of the keys themselves, follows a circle of fifths.
+
+
+
+
+
+[[File:Keysig3.png]]
+
+
+
+
+
+
+If you do not know the name of the key of a piece of music, the key signature can help you find out. Assume for a moment that you are in a major key. If the key contains sharps, the name of the key is one half step higher than the last sharp in the key signature. If the key contains flats, the name of the key signature is the name of the second-to-last flat in the key signature.
+
+
+
+
+
+
+[[File:Keysig4.png]]
+
+'''<small>This image demonstrates quick ways to name the (major) key simply by looking at the key signature. In flat keys, the second-to-last flat names the key. In sharp keys, the note that names the key is one half step above the final sharp.]]</small>'''
+
+
+
+
+The only major keys that these rules do not work for are C major (no flats or sharps) and F major (one flat). It is easiest just to memorize the key signatures for these two very common keys. If you want a rule that also works for the key of F major, remember that the second-to-last flat is always a perfect fourth higher than (or a perfect fifth lower than) the final flat. So you can also say that the name of the key signature is a perfect fourth lower than the name of the final flat.
+
+
+
+
+
+
+
+[[File:Keysig5.png]]
+
+<small>The key of C major has no sharps or flats. F major has one flat.</small>
+
+
+
+
+If the music is in a minor key, it will be in the relative minor of the major key for that key signature. You may be able to tell just from listening (see Major Keys and Scales) whether the music is in a major or minor key. If not, the best clue is to look at the final chord. That chord (and often the final note of the melody, also) will usually name the key.
+
+
+
+
+
+===References===
+<small>Schmidt-Jones, Catherine. "Key Signature." Connexions. April 12, 2010. http://cnx.org/content/m10881/2.13/.</small>
+
+
+
+[[category:Music theory|Key signature]]
+
+[[category:tutorials]]
