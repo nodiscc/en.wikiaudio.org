@@ -1,0 +1,83 @@
+=Duration: Note Lengths in Written Music=
+
+
+==The Shape of a Note==
+
+In standard notation, a single musical sound is written as a note. The two most important things a written piece of music needs to tell you about a note are its pitch - how high or low it is - and its duration - how long it lasts.
+    
+
+To find out the pitch of a written note, you look at the clef and the key signature, then see what line or space the note is on. The higher a note sits on the staff, the higher it sounds. To find out the duration of the written note, you look at the tempo and the time signature and then see what the note looks like.
+    
+
+'''The Parts of a Note'''
+
+[[File:notes1.png]]
+
+<small>All of the parts of a written note affect how long it lasts.</small>
+
+
+The pitch of the note depends only on what line or space the head of the note is on. (Please see pitch , clef and key signature for more information.) If the note does not have a head (see Figure 2), that means that it does not have one definite pitch.
+    
+
+
+-----
+
+
+'''Notes Without Heads'''
+        
+[[File:headless.png]]
+
+<small>If a note does not have head, it does not have one definite pitch. Such a note may be a pitchless sound, like a drum beat or a hand clap, or it may be an entire chord rather than a single note.</small>
+
+
+The head of the note may be filled in (black), or not. The note may also have (or not) a stem, one or more flags, beams connecting it to other notes, or one or more dots following the head of the note. All of these things affect how much time the note is given in the music.
+    
+<blockquote>
+'''Note:''' 
+A dot that is someplace other than next to the head of the note does not affect the rhythm. Other dots are articulation marks. They may affect the actual length of the note (the amount of time it sounds), but do not affect the amount of time it must be given. (The extra time when the note could be sounding, but isn't, becomes an unwritten rest.) If this is confusing, please see the explanation in articulation.</blockquote>
+
+    
+
+  
+==The Length of a Note==
+
+'''Most Common Note Lengths'''
+
+[[file:notes2.png]]
+
+The simplest-looking note, with no stems or flags, is a whole note. All other note lengths are defined by how long they last compared to a whole note. A note that lasts half as long as a whole note is a half note. A note that lasts a quarter as long as a whole note is a quarter note. The pattern continues with eighth notes, sixteenth notes, thirty-second notes, sixty-fourth notes, and so on, each type of note being half the length of the previous type. (There are no such thing as third notes, sixth notes, tenth notes, etc.; see Dots, Ties, and Borrowed Divisions to find out how notes of unusual lengths are written.)
+    
+
+
+[[file:notes3.png]]
+
+<small>Note lengths work just like fractions in arithmetic: two half notes or four quarter notes last the same amount of time as one whole note. Flags are often replaced by beams that connect the notes into easy-to-read groups.</small>
+                
+
+You may have noticed that some of the eighth notes in Figure 4 don't have flags; instead they have a beam connecting them to another eighth note. If flagged notes are next to each other, their flags can be replaced by beams that connect the notes into easy-to-read groups. The beams may connect notes that are all in the same beat, or, in some vocal music, they may connect notes that are sung on the same text syllable. Each note will have the same number of beams as it would have flags.
+	
+
+
+
+
+-----
+
+
+
+'''Notes with Beams'''
+
+[[File:notes4.png]]
+
+The notes connected with beams are easier to read quickly than the flagged notes. Notice that each note has the same number of beams as it would have flags, even if it is connected to a different type of note. The notes are often (but not always) connected so that each beamed group gets one beat. This makes the notes easier to read quickly.
+
+
+
+
+You may have also noticed that the note lengths sound like fractions in arithmetic. In fact they work very much like fractions: two half notes will be equal to (last as long as) one whole note; four eighth notes will be the same length as one half note; and so on. (For classroom activities relating music to fractions, see Fractions, Multiples, Beats, and Measures.)
+        
+
+
+
+[[category:Music theory|Duration]]
+
+[[category:tutorials]]
