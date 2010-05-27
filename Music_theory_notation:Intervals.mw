@@ -1,0 +1,125 @@
+==The Distance Between Pitches==
+
+The interval between two notes is the distance between the two pitches - in other words, how much higher or lower one note is than the other. This concept is so important that it is almost impossible to talk about scales, chords, harmonic progression, cadence, or dissonance without referring to intervals. So if you want to learn music theory, it would be a good idea to spend some time getting comfortable with the concepts below and practicing identifying intervals.
+
+Scientists usually describe the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using half steps and whole steps. For example, you can say "B natural is a half step below C natural", or "E flat is a step and a half above C natural". But when we talk about larger intervals in the major/minor system, there is a more convenient and descriptive way to name them.
+
+==Naming Intervals==
+
+The first step in naming the interval is to find the distance between the notes as they are written on the staff. Count every line and every space in between the notes, as well as the lines or spaces that the notes are on. This gives you the number for the interval.
+
+
+[[File:IntervalFig1.png|framed|center|'''Counting intervals.''' To find the interval, count the lines or spaces that the two notes are on as well as all the lines or spaces in between. The interval between B and D is a third. The interval between A and F is a sixth.
+Note that, at this stage, key signature, clef, and accidentals do not matter at all.]]
+
+
+<center>The simple intervals are one octave or smaller.</center>
+    
+
+[[File:IntervalFig2.png|framed|center|'''Simple intervals''']]
+
+
+
+
+<center>Compound intervals are larger than an octave.</center>
+
+
+[[File:IntervalFig3.png|framed|center|'''Compound Intervals''']]
+    
+
+
+==Classifying Intervals==
+
+So far, the actual distance, in half-steps, between the two notes has not mattered. But a third made up of three half-steps sounds different from a third made up of four half-steps. And a fifth made up of seven half-steps sounds very different from one of only six half-steps. So in the second step of identifying an interval, clef, key signature, and accidentals become important.
+	
+
+[[File:IntervalFig8.png|framed|center| A to C natural and A to C sharp are both thirds, but A to C sharp is a larger interval, with a different sound. The difference between the intervals A to E natural and A to E flat is even more noticeable.]]
+
+
+    
+
+So the second step to naming an interval is to classify it based on the number of half steps in the interval. Familiarity with the chromatic scale is necessary to do this accurately.
+    
+
+
+==Perfect Intervals==
+
+Primes, octaves, fourths, and fifths can be perfect intervals. 
+
+'''Note ''' These intervals are never classified as major or minor, although they can be augmented or diminished (see below).
+
+
+
+What makes these particular intervals perfect? The physics of sound waves (acoustics) shows us that the notes of a perfect interval are very closely related to each other. (For more information on this, see Frequency, Wavelength, and Pitch and Harmonic Series.) Because they are so closely related, they sound particularly good together, a fact that has been noticed since at least the times of classical Greece, and probably even longer. (Both the octave and the perfect fifth have prominent positions in most of the world's musical traditions.) Because they sound so closely related to each other, they have been given the name "perfect" intervals. 
+
+'''Note: ''' Actually, modern equal temperament tuning does not give the  harmonic-series-based pure perfect fourths and fifths. For the music-theory purpose of identifying intervals, this does not matter. To learn more about how tuning affects intervals as they are actually played, see Tuning Systems.
+
+
+A perfect prime is also called a unison. It is two notes that are the same pitch. A perfect octave is the "same" note an octave - 12 half-steps - higher or lower. A perfect 5th is 7 half-steps. A perfect fourth is 5 half-steps. 
+      
+
+
+
+[[File:Intervalfig9.png|framed|center|'''Perfect Intervals]]
+
+
+
+==Major and Minor Intervals==
+
+Seconds, thirds, sixths, and sevenths can be major intervals or minor intervals. The minor interval is always a half-step smaller than the major interval.
+      
+Major and Minor Intervals
+
+* 1 half-step = minor second (m2) 
+* 2 half-steps = major second (M2) 
+* 3 half-steps = minor third (m3) 
+* 4 half-steps = major third (M3) 
+* 8 half-steps = minor sixth (m6) 
+* 9 half-steps = major sixth (M6) 
+* 10 half-steps = minor seventh (m7) 
+* 11 half-steps = major seventh (M7)
+
+
+[[File:IntervalFig10.png|center|framed|Example of Major and Minor Intervals]]
+
+
+
+
+==Augmented and Diminished Intervals==
+
+If an interval is a half-step larger than a perfect or a major interval, it is called augmented. An interval that is a half-step smaller than a perfect or a minor interval is called diminished. A double sharp or double flat is sometimes needed to write an augmented or diminished interval correctly. Always remember, though, that it is the actual distance in half steps between the notes that determines the type of interval, not whether the notes are written as natural, sharp, or double-sharp.
+      
+
+
+
+[[File:IntervalFig11.png|center|framed|'''Example of Some Diminished and Augmented Intervals''']]
+
+
+
+
+
+==Inverting Intervals==
+
+To invert any interval, simply imagine that one of the notes has moved one octave, so that the higher note has become the lower and vice-versa. Because inverting an interval only involves moving one note by an octave (it is still essentially the "same" note in the tonal system), intervals that are inversions of each other have a very close relationship in the tonal system.
+     
+
+
+[[File:IntervalFig17.png|framed|center|Inverting Intervals]]
+
+
+'''To find the inversion of an interval'''
+
+#To name the new interval, subtract the name of the old interval from 9.
+#The inversion of a perfect interval is still perfect.
+#The inversion of a major interval is minor, and of a minor interval is major.
+#The inversion of an augmented interval is diminished and of a diminished interval is augmented.
+  
+   
+   
+[[File:Intervalfig18.png|center|framed|Example]]
+
+
+
+[[category:Music theory|Intervals]]
+
+[[category:tutorials]]
