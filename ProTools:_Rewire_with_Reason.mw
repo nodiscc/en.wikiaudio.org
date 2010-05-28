@@ -1,0 +1,19 @@
+== Pro Tools 7.3 Rewire with Reason ==
+
+
+
+#Open up Pro Tools. It's very important to remember to always open the host program (in this case PT, can be Logic, etc) before opening the slave program (Reason). When you open up Reason after PT, Reason will recognize itself as a slave program.
+#Open Reason
+#Create a new stereo audio track in Pro Tools (Shift+Command+N on a Mac, Shift+Ctrl+N on Windows). Note: You can also insert ReWire on an aux track.
+#Go to your mixer window (Cmd+= on Mac, Ctrl+= on Win). On your stereo audio track, insert Reason (it's under the Instrument sub-menu).
+#If you don't already have Reason open, once you insert Reason on your insert it'll open up for you. Once the ReWire window is open, choose an output for it.
+#On your MIDI track, click on the Input button. Then, choose a Reason instrument you want to be on your MIDI track.
+
+Now, hitting play in either program should sync up both and let you work without much effort. If you want to record, make an aux track and route your aux track out a bus. Then, on an audio track, make the input that bus.
+
+[[category:tutorials]]
+[[category:reason]]
+
+[[category:Pro Tools|Rewire with Reason]]
+
+[[category:Rewire|Pro Tools]]
