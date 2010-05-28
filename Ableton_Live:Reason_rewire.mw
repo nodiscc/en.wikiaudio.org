@@ -1,0 +1,24 @@
+To [[rewire]] [[Ableton Live]] with [[Reason]] first launch Ableton Live (This will make '''Live''' the "master") then launch '''Reason'''.
+
+In '''Reason''' [[Propellerhead Reason:Create a new device|add the modules you want]] and make note of the audio outputs they are cabled to.You can see by pushing the '''tab''' button on your keyboard.
+
+In '''Live''' [[Ableton Live:Add new tracks|Add a MIDI track]] for every device you would like to trigger via MIDI from Live and [[Ableton Live:Add new tracks|add an audio track]] for every device you would like to hear from Reason.
+
+On the respective MIDI tracks set '''MIDI To''' to be set to '''Reason''' and the setting right below it to be set to the device you would like to trigger.
+
+On the respective Audio tracks set '''Audio From''' to Reason and the setting right below it should be set to the audio output of the respective device in Reason.
+
+
+
+[[File:Ableton Live Reason rewire.png]]
+
+
+
+Make sure you have Audio monitoring enabled on the audio tracks you want to hear. You should now be able to trigger the respective reason modules via MIDI commands in Live and hear them back through audio in Live.
+
+
+[[category:Ableton Live|Reason rewire]]
+
+[[category:tutorials]]
+
+[[category:Rewire|Ableton with Reason]]
