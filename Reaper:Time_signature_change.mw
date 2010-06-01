@@ -1,0 +1,18 @@
+To add a time signature change to Reaper:
+
+#Place the song position pointer where you would like the change to take place.
+#Go to '''Insert/ Time signature [or] tempo change marker'''
+
+[[File:Reaper tempo and time signature menu.png]]
+
+
+In the box that appears you can customize the change, including its placement if you would like it somewhere else other than where the song position pointer is placed. 
+
+
+
+
+[[File:Reaper tempo and time signature display.png]]
+
+[[category:Reaper|Time signature change]]
+
+[[category:tutorials]]
