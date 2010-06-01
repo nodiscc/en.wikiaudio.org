@@ -1,0 +1,14 @@
+==Logic Make audio regions change with tempo==
+
+After you record regions into Logic, select the ones you wish to follow the tempo and click Follow Tempo in their inspector region parameters (image below). You can then make Tempo changes to the song and these regions will now conform to it.
+
+[[File:Logic follow tempo inspector options.png]]
+
+
+If the regions you wish to change were imported into the Logic session and not recorded directly, then you can record them to a track via a Bus.Their inspector parameters will then display a '''Follow Tempo''' option. 
+
+
+
+[[category:Logic|Tempo]]
+
+[[category:tutorials]]
