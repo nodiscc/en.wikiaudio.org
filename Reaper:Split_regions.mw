@@ -1,0 +1,31 @@
+To split a region in Reaper you must:
+
+#Select the track with the region (by clicking on the track so it's highlighted)
+#Place the cursor where you want the split, or if you want to split by locators place the locators where you want the split (image below)
+
+
+
+[[File:Reaper selecting region to split.png]]
+
+
+
+
+Then right click on the region and select either '''Split items at cursor''' (push '''S''') or '''Split items at time selection'''.( '''Shift-S''' )
+
+
+
+'''Note:'''
+
+*If no Item is selected, pressing S will split all Items on all Tracks at the Edit Cursor position.
+*If Item(s) are selected, pressing S will split all selected Item(s) at the Edit Cursor position.
+
+
+
+
+[[File:Reaper split menu.png]]
+
+
+
+[[category:Reaper|Split regions]]
+
+[[category:tutorials]]
