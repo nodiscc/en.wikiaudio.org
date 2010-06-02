@@ -1,0 +1,35 @@
+
+== Logic: Select and cut a region by transient ==
+
+
+
+
+*'''1.''' Choose the marque tool. Key command: '''ESC'''
+
+[[Image:Logic marque tool select.png]]
+
+
+*'''2.''' Make a selection on the region.
+
+[[Image:Logic selected region.png]]
+
+
+*'''3.''' Push the left and/or right arrow key(s)on your keyboard to move the selection by transient. If you hold down '''Shift''' and push the left arrow this should toggle the beginning and end of the s''elections'' to the transients.
+
+
+
+
+*'''4.'''  If you want to make a cut based on an individual transient that isn't a "selection", just hold down control and click the region.
+if you wish to make a cut based on your selection select the pointer tool and click on the selection you just made. This should make a cut.
+
+[[Image:Logic pointer tool select.png]]
+
+
+
+[[Image:Completed logic transient cut.png]]
+
+
+
+[[category:logic|Transient]]
+
+[[category:tutorials]]
