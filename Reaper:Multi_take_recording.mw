@@ -1,0 +1,20 @@
+In [[Reaper]] to do multiple takes :
+
+#[[Reaper:Cycle loop playback|Turn on the playback/record cycle.]] If you want to do multiple takes without cycling you can do that as well, in that case you would simply record "over" your previous take.
+#Begin recording , when you are done you should see a series of takes represented in the track you recorded on. (image below)
+
+
+[[File:Reaper multi takes.png]]
+
+
+
+To toggle takes you can push '''T''' on your keyboard.
+
+
+{{inprogress}}
+
+
+
+[[category:Reaper|Multi takes]]
+
+[[category:tutorials]]
