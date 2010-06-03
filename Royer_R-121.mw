@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+<big>'''Specifications'''</big>
+*Type: Ribbon
+*Acoustic Operating Principle: Electrodynamic pressure gradient
+*Polar Pattern: Figure-8
+*Generating Element: 2.5-micron aluminum ribbon
+*Magnets: Rare Earth Neodymium
+*Frequency Response: 30 -15,000 Hz +/- 3dB
+*Sensitivity: -50 dBv Re. 1v/pa
+*Output Impedance: 300 Ohms @ 1K (nominal)
+*Rated Load Impedance: >1500 Ohms @ 300 Ohms
+*Maximum SPL: >135dB @ 20 Hz
+*Output Connector: Male XLR 3 pin (Pin 2 Hot)
+*Dimensions: 58mm L, 25mm W (6.13" L, 1" W)
+*Weight: 244g (8.6 oz)
+*Finish: Dull Satin Nickel/Matte Black Chrome optional
+
+|}
+
+[[category:royer]]
+[[category:microphones]]
+
+The '''Royer 121''' is a ribbon microphone.
+
+{{stub}}
