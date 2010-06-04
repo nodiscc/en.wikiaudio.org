@@ -1,0 +1,40 @@
+Open an EXS24 as you would any software instrument in Logic, but make sure you choose "Multi Output"
+
+[[File:Logic EXS24 multi out.png]]
+
+
+
+In the mixer window click the '''+''' sign to create additional AUX tracks with EXS24 inputs. (see image below)
+
+
+
+[[File:Logic Pro EXS24 multi out aux channels.png]]
+
+
+
+Open the patch editor by clicking the edit button on the exs24.
+
+
+[[File:Logic 8 Esx-24 tutorial Picture 8 (1).JPG]]
+
+
+
+Inside the keymap window of the EXS24 you can specify specific outputs for individual samples. This is available under the '''routing''' menu (see image below)
+
+
+
+
+[[File:Logic EXS24 multi out sample routing .png]]
+
+
+==Also see==
+
+[[Logic:Create a new track]]
+
+[[Logic:EX24 drum loop mapping with strip silence]]
+
+
+
+[[category:Logic|EXS24:Assigning samples to multiple outs]]
+
+[[category:tutorials]]
