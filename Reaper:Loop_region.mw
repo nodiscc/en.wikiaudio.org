@@ -1,0 +1,19 @@
+To loop a region in [[Reaper]]:
+
+If the imported file is already edited to the correct length then simply  '''left-click''' the edge of the region and drag.
+
+If the area to be looped needs to be edited out of an existing region then follow these steps:
+
+*First edit  the (region to) loop to the size you want. You can do this by splitting the region (Key command '''S''' or to split at locators use '''Shift-S''')
+*Then right click the edited region and choose '''Glue selected items'''.
+*Place the cursor at either end of the region and '''left-click''' and drag to create the loop.
+
+
+
+==Video example==
+
+[[File:Reaper_looping_regions.mov]]
+
+[[category:Reaper|Loop]]
+
+[[category:tutorials]]
