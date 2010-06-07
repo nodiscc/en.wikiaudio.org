@@ -1,0 +1,37 @@
+This  article documents how to use automation in [[Reaper]]. This article needs accommodating documentation to the video tutorials on this page.
+
+
+to enable automation click (or right-click) the '''env''' option on the track you would like to automate. (image below).
+
+[[File:Reaper automation modes.png]]
+
+
+Choose the automation mode you want from the choices of:
+
+*Trim/Read
+*Read
+*Touch
+*Latch
+*Write
+
+
+If you choose any option other than read or trim/read you will be able to automate fader and other moves by simply playing the song and changing the respective parameters. See the tutorial videos for more information on specific settings.
+
+
+==To draw in Automation ==
+
+Hold down '''Command''' (Mac) and left click on the track automation lane/nodes.
+
+
+
+
+-----
+==Reaper Automation video tutorials==
+{{#evp:youtube|R2IrKkQROas|<big>{{videodisclaimer}}</big>}}
+{{#evp:youtube|eBVzxo306wY|<big>{{videodisclaimer}}</big>}}
+{{#evp:youtube|EEHJRDFJVt4|<big>{{videodisclaimer}}</big>}}
+
+
+[[category:Reaper|Automation]]
+
+[[category:tutorials]]
