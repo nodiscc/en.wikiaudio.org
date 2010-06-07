@@ -1,0 +1,21 @@
+==Recording Audio==
+
+To record audio  into [[Reaper]] do these things.
+
+*Go to '''Reaper/Preferences''' menu and choose '''Audio/Devices''' and set the input signal input source.
+
+[[File:Reaper audio options.png]]
+
+
+
+
+Click the arm button for the track you wish to record to and check the input level of the signal. Then click the record button in the transport (image below).
+
+
+
+[[File:Reaper recording audio.png]]
+
+
+[[category:Reaper|Record audio]]
+
+[[category:tutorials]]
