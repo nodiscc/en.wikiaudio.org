@@ -1,0 +1,12 @@
+
+To change the start time and SMPTE frame rate click the project settings icon (it is a wrench icon in the top left corner).
+Then in the window that appears go to the '''Project settings''' panel. SMPTE and start settings are changeable there. (see image below).
+
+
+[[File:Reaper SMPTE and start time.png]]
+
+
+
+[[category:Reaper|Frame rate]]
+
+[[category:tutorials]]
