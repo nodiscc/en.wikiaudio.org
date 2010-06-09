@@ -1,0 +1,29 @@
+To manually draw in [[track automation]] into a track in Ableton Live you must first select the '''arrangement view''' selector. Then click the drop down menu arrow next to the track(s) you wish to draw automation into.
+
+[[File:Ableton Live track header with display icon and fold down menu highlighted.png]]
+
+
+
+Click the menus under the drop down menu and set them to the parameters you would like to automate. In our example we will be automating volume. So set the top menu to mixer and the bottom one to track volume.
+
+
+[[File:Ableton live with automation menu highlighted.png]]
+
+
+
+Right click on the waveform and choose '''Draw mode''' from the dialog box that appears.You can also choose a grid value from this menu or turn the grid off.
+
+You can then click and draw-in automation on the track. 
+
+
+[[File:Ableton Live right click menu on track.png]]
+
+
+==Also See==
+
+[[Ableton Live:Clip automation]]
+
+
+[[category:Ableton Live|Track automation]]
+
+[[category:tutorials]]
