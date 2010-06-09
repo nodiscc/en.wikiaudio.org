@@ -1,0 +1,49 @@
+An '''equalization''' ('''EQ''') '''filter''' is a [[filter (signal processing)|filter]], usually adjustable, chiefly meant to compensate for the unequal [[frequency response]] of some other [[signal processing]] circuit or system. 
+
+An EQ filter typically allows the user to adjust one or more parameters that determine the overall shape of the filter's [[transfer function]]. It is generally used to improve the fidelity of sound, to emphasize certain instruments, to remove undesired noises, or to create completely new and different sounds.
+
+Equalizers may be designed with peaking filters, shelving filters, bandpass filters, plop filters or high-pass and low-pass filters.
+
+There are three primary types of equalizers with peaking filters:
+*[[parametric equalizer]]s
+*graphic equalizers
+*notch filters
+
+All equalizers with peaking filters have three variables:
+*[[Frequency]] - All equalizers built on peaking filters use a [[bell curve]] which allows the equalizer to operate smoothly across a range of frequencies. The center frequency occurs at the top of the bell curve and is the frequency most affected by equalization. It is often notated as f<sub>c</sub> and is measured in Hz.
+
+*'''Q''' - This is a variable ([[quality factor]]) which refers to the width of the bell curve. The higher the Q, the narrower the bandwidth. A high Q means that only a few frequencies are affected, whereas a low Q affects many frequencies.
+
+:The formula for conversion from bandwidth in octaves to Q is:
+[[image:Bandwidth to octave .png]]
+
+*Boost/Cut - Also called gain, this determines how much of the selected frequencies should be present. A boost means that those frequencies will be louder after being equalized, whereas a cut will soften them. The amount of boost/cut or gain is measured [[decibel]]s, such as +3 dB or -6 dB. A boost or gain of +3dB generally amounts to the sound being twice as loud after equalization.
+
+A parametric equalizer uses independent parameters for Q, frequency, and boost/cut. Any frequency or range of frequencies can be selected and then processed. This is the most powerful EQ because it allows control over all three variables. This EQ is predominantly used in recording and mixing.
+
+A graphic equalizer uses predetermined Q and frequencies which are equally spaced according to the musical intervals, such as the [[octave]] (12-band graphic EQ) or one third of an octave (36-band graphic EQ). These frequencies can then be independently boosted or cut. This type of EQ is often used for live applications, such as concerts.
+
+A notch filter is an EQ with a very high fixed Q. The frequency and boost/cut remain variable. This kind of EQ is useful in multimedia applications and in audio mastering.
+
+== Shelving filters ==
+Shelving filters, unlike those described above, boost or cut from a determined frequency until they reach a preset level which is applied to the rest of the [[frequency spectrum]]. This kind of filter is usually found on the treble and bass controls of home audio units. These filters are also used in audio mastering.
+
+High pass and low pass filters boost or cut frequencies above or below a selected frequency, called the cutoff frequency. A high pass filter allows only frequencies above the cutoff frequency to pass through unaffected. Frequencies below the cutoff frequency are then attenuated at a constant rate per octave. Low pass filters operate similarly, except that only frequencies below the cutoff are allowed to pass through. Common attenuation rates are 6, 12, and 18 dB per octave. These filters are used to reduce noise and hiss, eliminate pops, and remove rumble. It is common to use a high pass filter (at about 60 to 80 Hz) when recording vocals to eliminate rumble.
+
+Almost all filters (both analog and digital) induce [[phase (waves)|phase shift]] on the outgoing audio signal, which can cause a problem in mixing. The lower the value of ''Q'', the more this phase shifting occurs. Therefore, EQ is often used sparingly, unless a particular effect is desired.
+
+== Telecommunications lines ==
+Prior to the widespread use of digital technology, it was common to use equalizers on analog [[landline]]s used for [[trunking]].  There was a need for the circuitry to be passive and balanced, a requirement for which the [[Zobel network]] constant resistance filter was ideally suited, having also the quality of good impedance matching. For lines used for the purpose of [[broadcast]] transmissions, phase and delay might also need to be equalized, for which an [[all-pass filter]] equalizer would be used.
+
+== External links ==
+*[http://www.sengpielaudio.com/calculator-bandwidth.htm Calculator: bandwidth per octave N to quality factor Q and back]
+*[http://www.sengpielaudio.com/calculator-cutoffFrequencies.htm Calculating the −3 dB  cut-off frequencies  f1 and f2 when center frequency  f0 and Q factor is given]
+*[http://www.sengpielaudio.com/calculator-bandwidth.htm Questions on "Parametric filter adjustment"]
+*[http://www.sengpielaudio.com/EBS-Guetefaktor-in-Bandbreite-Oktave.xls Excel conversion - quality factor Q to bandwidth in octaves N]
+*[http://www.sengpielaudio.com/Flankensteilheit.pdf Filter Slope (dB/oct) is not Bandwidth]
+
+
+
+
+
+[[category:circuitry]]
