@@ -1,0 +1,13 @@
+To output MIDI clocks go to '''Reaper / Preferences'''. Then go to MIDI devices. In the output field choose the device you want to send MIDI clocks to and right clock and choose '''Send clock/SPP to output'''.
+
+
+
+[[File:Reaper output MIDI clocks.png]]
+
+
+==Also see==
+[[ ‎Reaper:MIDI setup]]
+
+[[category:Reaper|MIDI clocks]]
+
+[[category:Tutorials]]
