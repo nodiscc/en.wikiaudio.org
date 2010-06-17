@@ -1,0 +1,27 @@
+First set up you [[MIDI]] device in the preferences section of [[Reaper]]. If you are using MAC OS you might need to set up the [[Mac OS:MIDI setup|MAC OS MIDI setup]].
+
+
+Go to '''Reaper/Preferences.''' Then '''MIDI Devices'''. Enable the MIDI input and output devices in the window that appears (image below).
+
+[[File:Reaper MIDI preferences.png]]
+
+
+Set the track MIDI input device by clicking on the meter display (image below)
+
+
+
+
+
+[[File:Reaper track MIDI input.png]]
+
+
+
+Set the track output bu clicking on the '''io''' icon and choosing the MIDI output from the '''MIDI Hardware Output''' menu (image below)
+
+
+[[File:Reaper MID track output.png]]
+
+
+
+[[category:Reaper|MIDI setup]]
+[[category:Tutorials]]
