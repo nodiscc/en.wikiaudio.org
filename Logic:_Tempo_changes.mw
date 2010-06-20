@@ -1,0 +1,58 @@
+=Logic:Tempo changes=
+
+
+
+==Song tempo change==
+
+
+
+
+If you would like to change the tempo of a song simply go to the tempo display in the transport and add a new value by clicking and scrolling, or double clicking and typing in a new value.
+
+[[Image:Logic tempo display .png]]
+
+
+
+
+
+
+
+
+==Multiple tempo changes using the Tempo track==
+
+
+To add tempo changes using the tempo track first make sure the tempo track is displayed via the [[Logic: Change global track components|open global track components]] function.
+
+
+To write in tempo changes simply use the pencil tool to click them in.
+
+
+[[Image:Logic tempo changes.png]]
+
+
+
+===Parameter values===
+
+[[Image:Logic tempo track parameters .png]]
+
+====Resolution value====
+This is the timing grid value the inserted tempo changes default to. You can [[Logic: Tempo track resolution bypass|bypass the resolution value if you wish]] if you wish. 
+
+====Alternative====
+This value allows you to make and toggle between alternate takes on the tempo track.
+To use it do the following:
+
+'''1.''' Make a tempo change
+
+'''2.''' Change the number assigned to the '''Alternative''' menu.
+
+'''3.''' Create new tempo changes, then toggle between alternative takes by switching the number assigned to each one.
+
+====Quantization====
+This allows you to quantize tempo changes after they are made. To use it simply make a selection your tempo changes and then change the quantize value displayed.
+
+
+
+[[category:tutorials]]
+
+[[category:Logic|Tempo change]]
