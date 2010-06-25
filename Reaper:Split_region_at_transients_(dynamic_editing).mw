@@ -1,0 +1,26 @@
+==Edit region at transients==
+
+To edit an audio region in Reaper at its transients first right click the region and choose '''Item Processing / Dynamic split selected items'''
+
+[[File:Reaper dynamic split menu.png]]
+
+
+
+
+
+
+Then in the window that appears you can modify the parameters to select the transients, and if you want you can also "gate out" portions of the file that are below a certain threshold. 
+
+
+
+
+
+
+
+
+[[File:Reaper dynamically edit transients.png]]
+
+
+[[category:Reaper|Split region at transients (dynamically editing)]]
+
+[[category:tutorials]]
