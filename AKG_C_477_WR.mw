@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polar pattern	omnidirectional
+*Frequency range	20 to 20,000 Hz
+*Sensitivity	8 mV/Pa (-42 dBV)
+*Max. SPL	133 dB (K=1%)
+*Equivalent noise level	26 dB-A
+*Signal/noise ratio (A-weighted)	68 dB
+*Impedance	3500 ohms
+*Recommended load impedance	>10,000 ohms
+*Current consumption	<0,6 mA
+*Connector	OC: stripped and tinned leads
+*L: 3-pin mini XLR
+*SH: Lemo connector
+*Cable	1.5 m
+*Finish	various matte colors
+*Dimensions	180 x 130 x 85 mm / 7.1 x 5.2 x 3.3
+*Net weight	15 g / 0.5 oz.
+*Shipping weight	325 g / 11.5 oz.
+*Patent(s)	Pressure compensation cavity for condenser transducer (Patent no. AT 407.322, US 6.351.543)
+
+|}
+
+The '''AKG C 477 WR''' is a head worn polarized condenser microphone used for vocal applications.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 477 WR]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
