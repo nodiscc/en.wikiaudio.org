@@ -1,0 +1,47 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type Condenser
+*Polar pattern	Cardioid
+*Frequency range	20 to 20,000 Hz
+*Sensitivity	20 mV/Pa (-34 dBV)
+*Max. SPL	136/156 dB SPL (0/-20 dB) (for 0.5% THD)
+*Equivalent noise level	13 dB-A to IEC 60268-4 (A-weighted)
+*Signal/noise ratio (A-weighted)	81 dB
+*Preattenuation pad	0/-20 dB (switchable)
+*Bass cut filter slope	160 Hz, 6 dB/Octave, switchable
+*Impedance	<=200 ohms
+*Recommended load impedance	>=1000 ohms
+*Supply voltage	12 to 52 V Phantom power to IEC 61938
+*Current consumption	< 2 mA
+*Dynamic range	123/143 dB (0/-20 dB) (A-weighted)
+*Connector	IEC standard 3-pin XLR
+*Finish	matte grayish blue
+*Dimensions	160 x 55 mm (6.3 x 2.2 in.)
+*Net weight	280 g (0.62 lbs.)
+*Shipping weight	1450 g (3.22 lbs.)
+*Patent(s)	Electrostatic transducer (Patent no. AT 395.225, DE 4.103.784, JP 2.815.488)
+
+|}
+
+The '''C214''' is a cardioid condenser microphone from AKG and according to the manufacturers website is "C designed as a cost-effective alternative" to the AKG C414 B-XLS <ref>[http://www.AKG.com AKG website]</ref>
+
+{{Stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
+
+
+== Notes ==
+
+<references/>
