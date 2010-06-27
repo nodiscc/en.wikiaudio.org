@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''ADK Model "S" - A-51s Type V''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*TYPE: True Condenser Pressure Gradient Microphone with Internal HPF Switch.
+*CAPSULE: 1" Diameter, Low Micron, Gold Vapor-Deposited Gradient Design
+*ELECTRONICS: Low Noise Discrete FET
+*SENSITIVITY: 15 mV/pA 9-36.5 = 1 V/pA
+*FREQUENCY RANGE: 20 to 20k Hz
+*IMPEDANCE: <200 Ohms
+*RECOMMENDED LOAD IMPEDANCE: 1000 ohms
+*EQUIVALENT NOISE LEVEL: (A-Weighted per IEC 286-4) < 17db Typical
+*S/N RATIO 1Pa: 77dB
+*MAXIMUM SPL FOR THD: <0.5% (1 kHz) 140 dB (Pad Engaged) SWITCHABLE LOW FREQUENCY CUT-OFF: 100 Hz SWITCHABLE *PAD: - 10dB
+*OPERATING VOLTAGE: 48 V Phantom Power
+*CONSTRUCTION: Heavy Duty Aircraft Grade Machined Brass with Durable Scratch Resistant Anodized Finish
+*DIMENSIONS: 50 x 190 mm / 2 x 7.5 WEIGHT: 470 grams / 1.03 lbs.
+
+|}
+
+
+The '''ADK Model "S" - A-51s Type V''' is a condenser microphone with a cardioid polar pattern and a frequency range of 20Hz-20Khz
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:ADK|Model "S" - A-51s Type V]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
