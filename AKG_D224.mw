@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:Dynamic
+*Polar Pattern: Cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	1.3mV/Pa
+*Max SPL  	128dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	250Ω
+*Recommended Load 	0.5kΩ	
+*Filter/EQ 	-7dB, -12dB @50Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	or DIN
+*Available Colours 	Nickel-platd brass
+*Weight 	280g (9.85oz)
+*Length 	195mm (7.67")	
+*Max Diameter/Width 	23mm (0.90")
+
+
+'''Accessories'''
+*Included 	Stand adaptor, W2 and W2A foam windscreen
+
+
+|}
+
+The '''AKG D224''' isa  dynamic microphone with a cardioid polar pattern and a frequency response of 20Hz-20Khz
+
+
+{{stub}}
+[[category:microphones]]
+[[category:AKG|D224]]
+[[category:AKG|D224]]
+[[category:Dynamic microphones]]
+[[category:Cardioid microphones]]
