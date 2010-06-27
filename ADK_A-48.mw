@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''ADK A-48''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+'''Specifications'''
+
+*Type: Tube
+*Polar patterns: Omni, / Cardioid / Fig. 8 / + six intermediate stages
+
+'''Electrical Characteristics'''
+*Frequency Range	20Hz - 20kHz
+*Output Sensitivity 	12mV/Pa
+*Max SPL  	128dB for 0.5%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	200Ω
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-7M	
+*Weight 	650g (22.88oz)
+*Length 	180mm (7.08")	
+*Max Diameter/Width 	71mm (2.79")
+
+
+|}
+
+The '''ADK A-48''' is a class A valve (tube microphone) with 9 polar patterns and a frequency range of 20Hz-20Khz
+
+{{stub}}
+
+[[category:microphones]]
+[[category:ADK|A-48]]
+[[category:Omnidirectional microphones]]
+[[category:Cardioid microphones]]
