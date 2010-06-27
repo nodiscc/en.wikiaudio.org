@@ -1,0 +1,48 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''AEA A440''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+*Type Ribbon
+*Polar pattern Figure 8
+
+'''Electrical Characteristics'''
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	30mV/Pa
+*Max SPL  	136dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	9dB-A
+*Output Impedance 	92Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	7mA
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Weight 	3450g (121.47oz)
+*Length 	31.25mm (1.23")	
+*Max Diameter/Width 	117mm (4.60")
+*Depth 	84mm (3.30")
+
+'''Accessories'''
+Included 	desk stand, cover bag, case
+
+|}
+
+
+The '''AEA A440''' is a long ribbon microphone based on the R44 but using a phantom powered impedance converter.
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AEA|A440]]
+[[category:Ribbon microphones]]
+[[category:Bi-directional microphones]]
