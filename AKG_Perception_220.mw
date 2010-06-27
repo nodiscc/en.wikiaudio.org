@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type	1" Large Diaphragm True Condenser
+*Polar pattern	cardioid
+*Frequency range	20 to 20,000 Hz
+*Sensitivity	18 mV/Pa (-35 dBV)
+*Max. SPL	135 dB/155 dB (0/-20 dB) for 0.5% THD
+*Equivalent noise level	16 dB-A (IEC 60268-4)
+*Signal/noise ratio (A-weighted)	78 dB
+*Preattenuation pad	0 dB, -20 dB
+*Bass filter	12 dB/octave at 300 Hz
+*Impedance	<200 ohms
+*Recommended load impedance	>=1000 ohms
+*Current consumption	<2 mA
+*Power requirement	48 V phantom power to DIN/IEC
+*Connector	3-pin XLR
+*Finish	metallic blue/nickel grille
+*Dimensions	53 dia. x 165 mm (2.1 dia. x 6.5 in.)
+*Net weight	525 g (18.5 oz.)
+*Shipping weight	1,970 g (4.3 lb.)
+
+|}
+
+
+The '''AKG Perception 220''' is a condenser microphone with a cardioid polar pattern.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|Perception 220]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
