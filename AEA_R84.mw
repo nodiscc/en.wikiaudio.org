@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Ribbon
+*Polar pattern figure 8
+
+'''Electrical Characteristics'''
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	2.5mV/Pa
+*Max SPL  	165dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	270Ω
+*Recommended Load 	1.2kΩ
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	
+*Weight 	900g (31.69oz)
+*Length 	202mm (7.95")	
+*Max Diameter/Width 	70mm (2.75")
+ 	
+
+'''Accessories'''
+*Included 	Shock mount, case
+
+|}
+	
+
+The '''AEA R84'''  is a ribbon microphone with a figure 8 polar pattern
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AEA|R84]]
+[[category:Ribbon microphones]]
+[[category:Bi-directional microphones]]
