@@ -1,0 +1,49 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern Omni, Cardioid, Figure 8
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	11mV/Pa
+*Max SPL  	132dB for 0.5%THD
+*Self Noise (CCIR) 	25dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+ 	
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	75Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	2x XLR-3M
+*Available Colours 	Non-reflective black
+*Weight 	470g (16.54oz)
+*Length 	235mm (9.25")
+*Min Diameter/Width 	33mm (1.29")
+*Max Diameter/Width 	42mm (1.65")
+ 	
+'''Accessories'''
+*Included 	H15/33 suspension, W426 foam w/scrn, S426 remote control
+*Optional 	B 18 battery PSU (1 chonly), N 62E, N 66E AC PSU
+
+|}
+
+The '''AKG C 426 B''' is a condenser microphone with 3 different polar patterns
+
+{{stub}}
+[[category:microphones]]
+[[category:AKG|C 426 B]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
+[[category:Cardioid microphones]]
+[[category:Bi-directional microphones]]
