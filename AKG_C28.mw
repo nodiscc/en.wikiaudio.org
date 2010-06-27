@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type:Condenser
+*Polar pattern: Omni, Cardioid. 
+*Frequency Response	30Hz - 18kHz
+*Output Sensitivity 	4mV/Pa
+*Max SPL  	118dB for 1%THD
+*Self Noise (CCIR) 	20dB
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	200Ω
+*Recommended Load 	0.5kΩ
+
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	on PSU
+*Weight 	200g (7.04oz)
+*Length 	174mm (6.85")	
+*Max Diameter/Width 	26mm (1.02")
+
+|}
+
+The '''AKG C28''' is an axial condenser microphone from the 1950's
+
+
+{{stub}}
+[[category:microphones]]
+
+[[category:AKG|C28]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
+[[category:Cardioid microphones]]
