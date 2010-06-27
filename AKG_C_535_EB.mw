@@ -1,0 +1,50 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: Condenser
+*Polar pattern: Cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	7mV/Pa
+*Max SPL  	130dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	21dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	0.6kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	1mA
+
+
+'''Switchable Options'''
+*Pad 	14dB
+*Filter/EQ 	200Hz 6dB/oct, 100Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Matt black
+*Weight 	300g (10.56oz)
+*Length 	161mm (6.33")	
+*Max Diameter/Width 	46mm (1.81")
+	
+
+'''Accessories'''
+*Included 	SA41/1 stand adaptor, carrying case
+*Optional 	W23 windscreen, PF80 pop filter, H300 shock mount
+
+
+|}
+
+The '''AKG: C 535 EB''' is a polarized condenser microphone with a cardioid polar pattern created for vocal recording and miking.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C 535 EB]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
