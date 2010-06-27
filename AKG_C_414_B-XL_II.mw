@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: Condenser Microphone
+*Polar pattern: Omni, wide cardioid, cardioid, hypercardioid, figure 8
+*Capsule: 1-inch dual diaphragm
+*Type: Pressure gradient
+*Frequency range: 20 – 20,000Hz
+*Bass cut filter: 0, 40, 80, 160Hz (40 and 80Hz have 12dB/octave slope, 160Hz has 6dB/octave slope)
+*Pad: 0, –6, –12, –18dB
+*Sensitivity: 23mV/Pa
+*Self noise: 6dB, A-weighted
+*Signal to Noise: 88dB
+*Maximum SPL: 140dB @ < 0.5% THD (up to 158dB with pad engaged)
+*Dynamic range: 134dB 
+
+|}
+
+The '''AKG C 414 B-XL II''' is a condenser microphone with a frequencey range of 20-20,000Hz and multiple polar patterns. 
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 414 B-XL II]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
+[[category:Wide Cardioid microphones]]
+[[category:Hypercardioid microphones]]
+[[category:Bi-directional microphones]]
