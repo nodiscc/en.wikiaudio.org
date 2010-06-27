@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polar pattern	cardioid
+*Frequency range	30 to 20,000 Hz
+*Sensitivity	20 mV/Pa (-34 dBV)
+*Max. SPL	140/150 dB (k=0,5%)
+*Equivalent noise level (CCIR 468-3)	30 dB
+*Equivalent noise level	20 dB-A
+*Signal/noise ratio (A-weighted)	74 dB
+*Preattenuation pad	10 dB, switchable
+*Bass filter	6 dB/octave below 500 Hz
+*Impedance	200 ohms
+*Recommended load impedance	>1000 ohms
+*Supply voltage	9 to 52 V phantom power to DIN 45596
+*Current consumption	<2 mA
+*Connector	3-pin XLR
+*Finish	silver gray
+*Net weight	325 g / 11.5 oz.
+*Shipping weight	950 g / 2 lbs.
+*Patent(s)	Electrode support for condenser transducer (Patent no. AT 392.182, DE 4.021.661); Electrostatic transducer (Patent no. AT 411.513, US 6,510,231)
+
+|}
+
+The '''AKG C 2000 B''' is a cardioid condenser microphone with a frequency range of 30Hz-20Khz
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 2000 B]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
