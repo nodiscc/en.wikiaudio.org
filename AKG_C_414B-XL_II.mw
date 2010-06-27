@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: Condenser
+*Polar pattern	Omnidirectional, wide cardioid, cardioid, hypercardioid, figure eight
+*Sensitivity	23 mV/Pa (-33 dBV) ± 0.5 dB
+*Max. SPL	200/400/800/1600 Pa = 140/146/152/158 dB (0/-6/-12/-18 dB) for 0.5% THD
+*Equivalent noise level	6 dB-A (0 dB preattenuation) (IEC 60268-4)
+*Signal/noise ratio (A-weighted)	88 dB
+*Preattenuation pad	-6 dB, -12 dB, -18 dB, switchable
+*Bass cut filter slope	12 dB/octave at 40 Hz and 80 Hz; 6 dB/octave at 160 Hz
+*Impedance	<=200 ohms
+*Recommended load impedance	>= 2,200 ohms
+*Supply voltage	48 V phantom power to DIN/IEC
+*Current consumption	approximately 4.5 mA
+*Dynamic range	134 dB minimum
+*Connector	3-pin XLR to IEC
+*Dimensions	50 x 38 x 160 mm (2.0 x 1.5 x 6.3 in.)
+*Net weight	300 g (10.6 oz.)
+*Patent(s)	Electrostatic transducer (Patent no. AT 395.225, DE 4.103.784, JP 2.815.488)
+
+
+|}
+
+The '''AKG C 414B-XL II''' is an updated version of the original C 414 microphone. 
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 414B-XL II]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
+[[category:Wide Cardioid microphones]]
+[[category:Cardioid microphones]]
+[[category:Hypercardioid microphones]]
+[[category:Bi-directional microphones]]
