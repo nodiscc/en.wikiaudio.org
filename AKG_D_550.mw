@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:Dynamic
+*Polar Pattern:Cardioid
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	2.5mV/Pa
+*Max SPL  	147dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	18dB-A
+*Output Impedance 	600Ω
+*Recommended Load 	2kΩ
+	
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Available Colours 	Matt black
+*Weight 	203g (7.14oz)
+*Length 	121mm (4.76")	
+*Max Diameter/Width 	46mm (1.81")
+*Depth 	104mm (4.09")
+
+|}
+
+The '''AKG D 550''' is a cardioid dynamic microphone designed for on stage bass instruments and other live applications
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|D 550]]
+[[category:Dynamic microphones]]
+[[category:Cardioid microphones]]
