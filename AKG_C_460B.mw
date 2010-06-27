@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: microphone preamplifier body
+*Polar Pattern: Capsule specific
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	8mV/Pa
+*Max SPL  	134dB for 0.5%THD
+*Self Noise (CCIR) 	25dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	120Ω
+*Recommended Load 	0.5kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	1mA
+
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	Bass cut 70, 150Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	135g (4.75oz)
+*Length 	150mm (5.90")
+*Min Diameter/Width 	
+*Max Diameter/Width 	21mm (0.82")
+
+|}
+
+
+The '''AKG C460B''' is condenser microphone preamp body a (descendent of the akg 451) that accepts capsules with various polar patterns.It is most commonly found with a ck-61 cardiode capsule. Other capsules available are the ck62 omnidirectional, ck-63 hypercardioid
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C460B]]
+[[category:Condenser microphones]]
