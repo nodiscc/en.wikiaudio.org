@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type:stereo condenser
+*Polar Pattern cardioid
+*Frequency Response	80Hz - 20kHz
+*Output Sensitivity 	7mV/Pa
+*Max SPL  	128dB for 1%THD
+*Self Noise (CCIR) 	32dB
+*Self Noise (DIN/IEC) 	0dB-A
+*Output Impedance 	600Ω
+*Recommended Load 	2kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+*Alternative Powering 	Internal rechargeable battery	
+
+'''Physical Characteristics'''
+*Connector 	XLR-5M	
+*Weight 	300g (10.56oz)
+*Length 	215mm (8.46")
+*Min Diameter/Width 	27mm (1.06")
+*Max Diameter/Width 	52mm (2.04")
+	
+
+'''Accessories'''
+*Included 	W52 w/s, H30 shock mount
+
+
+|}
+
+The '''AKG C 522 ENG''' is a stereo cardioid microphone and is a version of the C522 design with mechanically adjustable cardioid capsules in an XY configuration.
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C 522 ENG]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
