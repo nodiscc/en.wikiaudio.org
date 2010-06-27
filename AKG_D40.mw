@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Dynamic
+*Polar pattern cardioid
+*Frequency Response	75Hz - 20kHz
+*Output Sensitivity 	4mV/Pa
+*Max SPL  	144dB for 1%THD
+*Self Noise (CCIR) 	4dB
+*Self Noise (DIN/IEC) 	4dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	245g (8.62oz)
+*Length 	104mm (4.09")
+*Min Diameter/Width 	
+*Max Diameter/Width 	44mm (1.73")
+
+|}
+
+
+The '''AKG D40''' is a dynamic microphone with a cardioid polar pattern designed for live on-stage instrument miking.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|D40]]
+[[category:Cardioid microphones]]
+[[category:Dynamic microphones]]
