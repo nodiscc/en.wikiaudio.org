@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type polarized capacitor
+*Polar pattern omni
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	8mV/Pa
+*Max SPL  	133dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	26dB-A
+*Output Impedance 	3500Ω
+*Recommended Load 	10kΩ
+*Powering 	Other
+*SupplyCurrent 	0.6mA
+*Alternative Powering 	1.5 - 12V
+	
+
+'''Physical Characteristics'''
+*Connector 	Mini-XLR3 and open ends
+*Weight 	15g (0.52oz)
+*Length 	180mm (7.08")
+*Min Diameter/Width 	85mm (3.34")
+'''Max Diameter/Width 	'''
+*Depth 	130mm (5.11")
+
+'''Accessories'''
+*Included 	W77 windscreen
+	|}
+
+The '''AKG C 477''' is a headworn version of the CK 77 microphone
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C 477]]
+[[category:Omnidirectional microphones]]
+[[category:Condenser microphones]]
