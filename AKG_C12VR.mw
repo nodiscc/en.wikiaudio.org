@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big> 
+
+*Type Condenser (tube) 
+*Polar pattern	cardioid, omnidirectional, figure-eight, and 6 intermediate positions, remotely selectable
+*Frequency range	30 to 20,000 Hz
+*Max. SPL	128/138/148 db (k=3%)
+*Equivalent noise level (CCIR 468-3)	32 db
+*Equivalent noise level	22 dB-A
+*Signal/noise ratio (A-weighted)	72 dB
+*Preattenuation pad	10 dB, 20 dB, selectable
+*Bass filter	6 dB/octave at 100 Hz,
+*12 dB/octave at 130 Hz
+*Impedance	200 Ohm
+*Recommended load impedance	>1000 ohms
+*Connector	12-pin DIN
+*Cable	10 m (33 ft.)
+*Net weight	680 g / 24 oz.
+*Shipping weight	4.5 kg / 9.9 lbs.
+*Patent(s)	Electrostatic transducer (Patent no. AT 395.225, DE 4.103.784, JP 2.815.488)
+
+|}
+
+
+'''AKG C12VR''' is a condenser tube microphone.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
+[[category:Cardioid microphones]]
+[[category:Bi-directional microphones]]
