@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type Condenser
+*Polar pattern	cardioid
+*Frequency range	20 to 20,000 Hz
+*Sensitivity	10 mV/Pa (-40 dBV)
+*Max. SPL	132/142 dB (for 1% THD)
+*Equivalent noise level (CCIR 468-3)	28 dB
+*Equivalent noise level	17 dB-A
+*Signal/noise ratio (A-weighted)	77 dB
+*Preattenuation pad	10 dB, switchable
+*Bass filter	12 dB/octave at 75 Hz
+*Impedance	200 ohms
+*Recommended load impedance	>1000 ohms
+*Supply voltage	9 to 52 V phantom power to DIN 45596
+*Current consumption	<2 mA
+*Connector	3-pin XLR
+*Finish	dark gray
+*Net weight	115 g / 4 oz.
+*Shipping weight	420 g / 14.8 oz.
+
+
+|}
+
+
+The '''AKG: C 391 B''' is a condenser microphone with a cardioid polar pattern. IT is a combination of an SE 300 B powering/output module and CK 91 cardioid capsule.
+
+{{stub}}
+[[category:microphones]]
+[[category:AKG|C 391 B]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
