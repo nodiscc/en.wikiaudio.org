@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: Condenser 
+*Polar Pattern: Cardioid + figure-8
+*Frequency Response	50Hz - 20kHz
+*Output Sensitivity 	25mV/Pa
+*Max SPL  	128dB for 1%THD
+*Self Noise (CCIR) 	30dB
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	
+*Recommended Load 	
+*Powering 	Phantom 9-52
+	
+'''Physical Characteristics'''
+*Connector 	XLR-5M
+*Connector Notes 	
+*Weight 	280g (9.85oz)
+*Length 	215mm (8.46")
+*Min Diameter/Width 	27mm (1.06")
+|}
+
+The '''AKG C522 MS''' is a stereo condenser microphone with a cardioid plus a figure-8 polar pattern and a frequency response of 50Hz - 20Khz
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C522 Ms]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
+[[category:Bi-directional microphones]]
