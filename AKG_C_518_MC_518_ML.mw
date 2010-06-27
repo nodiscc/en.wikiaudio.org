@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type Condenser
+*Polar pattern	cardioid
+*Frequency range	60 Hz to 20 kHz
+*Sensitivity	5 mV/Pa (-46 dBV)
+*Max. SPL	130/132 dB SPL (for 1%/3% THD)
+*Equivalent noise level	31 dB(A)
+*Signal/noise ratio (A-weighted)	63 dB
+*Impedance	<= 200 ohms
+*Recommended load impedance	>= 2000 ohms
+*Current consumption	<= 2 mA
+*Power requirement	B 29 L battery power supply, MPA V L phantom adapter, AKG WMS bodypack transmitters
+*Connector	3-pin mini XLR
+*Cable	1.5 m (5 ft.)
+*Finish	matte black
+*Dimensions	Length: 200 mm (7.9 in.) (microphone only); max. width: 47 mm (1.9 in.)
+*Net weight	C 518 M: 220 g (7.8 oz.)
+*C 518 ML: 110 g (3.9 oz.)
+(microphone and cable)
+*Shipping weight	C 518 M: 450 g (15.9 oz.)
+C 518 ML: 330 g (11.7 oz.)
+|}
+
+The '''AKG C 518''' and '''M/C 518 ML''' is a miniature cardioid condenser clamp-on microphone.The '''C 518 M''' is for use with an external phantom power supply. The '''C 518 ML''' uses the B 29 L battery power supply, AKG WMS Series bodypack transmitters, or the MPA V L adapter for power.
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C 518 M/C 518 ML]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
