@@ -1,0 +1,46 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+'''Electrical Characteristics'''
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	28mV/Pa
+*Max SPL  	135dB for 0.5%THD
+*Self Noise (CCIR) 	26dB
+*Self Noise (DIN/IEC) 	16dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 48 only
+*SupplyCurrent 	2mA
+
+'''Switchable Options'''
+*Pad 	10dB
+*Filter/EQ 	300Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	
+*Weight 	525g (18.48oz)
+*Length 	160mm (6.29")
+*Max Diameter/Width 	53mm (2.08")
+
+
+'''Accessories'''
+*Included 	Spider suspension
+*Optional 	PF80 pop screen, W4000 windscreen
+|}
+
+
+The '''AKG Perception 400''' is a studio condenser microphone with three selectable polar patterns.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|Perception 400]]
+[[category:Condenser microphones]]
