@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Electrical Characteristics'''
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	20mV/Pa
+*Max SPL  	130dB for 3%THD
+*Self Noise (CCIR) 	30dB
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+	
+
+'''Switchable Options'''
+*Pad 	20dB
+*Filter/EQ 	100Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	from PSU
+*Available Colours 	Silver grey
+*Weight 	920g (32.39oz)
+*Length 	219mm (8.62")
+*Min Diameter/Width 	57mm (2.24")
+*Max Diameter/Width 	63.5mm (2.5")
+
+|}
+
+The '''AKG SolidTube''' is a tube microphone with a cardioid polar pattern. 
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|SolidTube]]
+[[category:Cardioid microphones]]
