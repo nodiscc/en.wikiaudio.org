@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type Ribbon
+*Polar pattern Figure 8
+
+'''Electrical Characteristics'''
+*Frequency Response	20Hz - 18kHz
+*Output Sensitivity 	1.75mV/Pa
+*Max SPL  	115dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	270Ω
+*Recommended Load 	1.2kΩ
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+|}
+
+The '''AEA R92''' is a studio ribbon microphone with a decreased proximity effect.
+
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AEA|R92]]
+[[category:Ribbon microphones]]
+[[category:Bi-directional microphones]]
