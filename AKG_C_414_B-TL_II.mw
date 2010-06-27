@@ -1,0 +1,51 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: condenser
+*Polar pattern Omni, cardioid, hypercardioid, figure 8
+*Frequency Response	20Hz - 20kHz
+*Output Sensitivity 	12.5mV/Pa
+*Max SPL  	140dB for 0.5%THD
+*Self Noise (CCIR) 	25dB
+*Self Noise (DIN/IEC) 	14dB-A
+*Output Impedance 	180Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+	
+
+'''Switchable Options'''
+*Pad 	10dB, 20dB
+*Filter/EQ 	75Hz, 150Hz,12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Black/gold
+*Weight 	320g (11.26oz)
+*Length 	141mm (5.55") 	
+*Max Diameter/Width 	45mm (1.77")
+*Depth 	35mm (1.37")
+
+'''Accessories'''
+*Included 	H100 elastic spider suspension, W414 foam type windscreen
+*Optional 	B18 battery PSU, PF 80 pop screen, MK9/10 ext cable
+
+|}
+
+The '''AKG C 414 B-TL II''' condenser microphone and a recreation of the original C 414 microphone.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 414 B-TL II]]
+[[category:Condenser microphones]]
+[[category:Omnidirectional microphones]]
+[[category:Cardioid microphones]]
+[[category:Hypercardioid microphones]]
+[[category:Bi-directional microphones]]
