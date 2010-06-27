@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type Tube
+*Polar pattern Omni, Cardioid, Figure 8
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	10mV/Pa
+*Max SPL  	128dB for 3%THD
+*Self Noise (CCIR) 	32dB
+*Self Noise (DIN/IEC) 	22dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Proprietary unit
+	
+
+'''Switchable Options'''
+*Pad 	+10dB, 10dB, 20dB
+*Filter/EQ 	100Hz 6dB/oct, 130Hz 12dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	from PSU
+*Available Colours 	Dark green/gold
+*Weight 	680g (23.94oz)
+*Length 	225mm (8.85")	
+*Max Diameter/Width 	42mm (1.65")
+
+
+'''Accessories'''
+*Included 	H15/T shckmnt, MK/Tube cable, N12VR AC PSU
+*Optional 	PF 80 pop screen, MK 9/10 extension cable
+
+
+|}
+
+The '''AKG C 12 VR''' is a remake of the original AKG C12 with subtle refinements designed to increase the quality of the microphone by reducing hum and noise.
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 12 VR]]
+[[category:Omnidirectional microphones]]
+[[category:Cardioid microphones]]
+[[category:Bi-directional microphones]]
