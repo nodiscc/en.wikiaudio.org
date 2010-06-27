@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern	cardioid, or hypercardioid (with PPC 1000 attached)
+*Frequency range	50 to 20,000 Hz
+*Sensitivity	6 mV/Pa (-44 dBV)
+*Max. SPL	137 dB (k=1%)
+*Equivalent noise level (CCIR 468-3)	32 dB
+*Equivalent noise level	21 dB-A
+*Signal/noise ratio (A-weighted)	73 dB
+*Impedance	200 ohms
+*Recommended load impedance	>=2.000 ohms
+*Supply voltage	9 to 52 V phantom power to DIN 45596 or internal 9 V battery (6F 22)
+*Current consumption	approx. 2 mA
+*Connector	3-pin XLR
+*Finish	matte silver enamel
+*Net weight	320 g / 11.3 oz.
+*Shipping weight	650 g / 1.4 lbs.
+*Patent(s)	Electrode support for condenser transducer (Patent no. AT 392.182, DE 4.021.661)
+
+|}
+
+The '''AKG C1000 S''' is a cardioid condenser microphone.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
