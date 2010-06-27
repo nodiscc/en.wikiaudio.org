@@ -1,0 +1,49 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type condenser
+*Polar pattern cardioid
+*Frequency Response	30Hz - 20kHz
+*Output Sensitivity 	20mV/Pa
+*Max SPL  	145dB for 0.5%THD
+*Self Noise (CCIR) 	19dB
+*Self Noise (DIN/IEC) 	8dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	1kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+	
+
+'''Switchable Options'''
+*Pad 	20dB
+*Filter/EQ 	120Hz 6dB/oct
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M 	
+*Available Colours 	Silver grey
+*Weight 	450g (15.84oz)
+*Length 	183mm (7.20")	
+*Max Diameter/Width 	58mm (2.28")
+ 	
+'''Accessories'''
+*Included 	H100 spider suspension, W4000 foam windscreen
+*Optional 	B18 battery PSU, PF80 pop screen
+
+|}
+
+The '''AKG C 4500 B-BC''' is a polarized condenser microphone with a cardioid polar pattern.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C 4500 B-BC]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
