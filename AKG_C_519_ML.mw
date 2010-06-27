@@ -1,0 +1,38 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polar pattern: cardioid
+*Frequency response: 60-20 kHz
+*Sensitivity: 5 mV/Pa (46 db)
+*Maximum sound pressure level: 130/132 dB SPL, (for 1%/3% THD)
+*Equivalent noise level: 31 dB-A
+*Signal/noise ratio (A-weighted): 63 db
+*Impedance: <=200 ohms
+*Recommended load impedence: >=2000 ohms
+*Current consumption: approx. 2 mA
+*Power requirement: external phantom power
+*Connector: 3-pin male XLR
+*Cable length: 5 ft. (1.5 m)
+*Finish: matte black
+*Dimensions (length x diameter): 7.9" x 1.9", 200 mm x 47 mm (microphone only)
+*Net weight: 6.9 oz, (195 g)
+*Versions: C 519 M for external phantom powering
+*C 519 ML for use with the B 29 L battery power supply, AKG WMS *Series bodypack transmitters, or the MPA V L adapter for external phantom powering.
+
+|}
+
+The''' AKG C 519 ML''' is a miniature cardioid condenser microphone designed for capturing woodwind and brass instruments in live sound environments 
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C 519 ML]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
