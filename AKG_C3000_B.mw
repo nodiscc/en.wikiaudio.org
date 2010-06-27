@@ -1,0 +1,29 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Polar Patterns: Cardioid
+*Frequency Range: 20 Hz To 20 kHz
+*Sensitivity: 25 Mv/Pa (-32dBv)
+*Max. SPL for 0.5% THD: 140/150 dB
+*Equivalent Noise Level: 14 dB-A
+*Signal/Noise Ratio (A Weighted): 80 dB
+*Preattenuation: -10 dB, Switchable
+*Basscut Filter: 6 dB/Octave Below 500 Hz
+
+|}
+The '''C3000 B''' is a condenser microphone manufactured by AKG
+
+{{Stub}}
+
+
+[[Category:Microphones]]
+[[category:AKG|C]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
