@@ -1,0 +1,31 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: condenser 
+*Directional characteristic cardioid
+*Frequency range 20 - 20,000 Hz +/- 1dB
+*Sensitivity @ 1kHz 0.95mV/ubar=9.5mV/Pa (-60.5dBV)
+*Weighted noise level 2.2uVeff
+*Equivalent noise level 22dB
+*Capsule capacity 27pF
+*Powering 9-52V phantom power
+*Length x diameter 28 x 18mm
+*Weight 20g
+
+|}
+
+The '''AKG CK 1''' is a cardioid microphone ''capsule'' that requires a compatible preamplifier such as the C 450, C451 or C452.
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|CK 1]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
