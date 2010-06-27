@@ -1,0 +1,37 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Type: Small diaphragm condenser 
+* Polar pattern: Cardioid
+* Frequency range 20Hz-20kHz
+* Sensitivity 9 mV/Pa (-41dBV)
+* Max. SPL 135/145/155dB (0/-10/-20dB)
+* Equivalent noise level (CCIR 468-3) 29dB
+* Equivalent noise level 18dBA
+* Signal/noise ratio (A-weighted) 76dB
+* Preattenuation pad 0dB, -10dB, -20dB selectable
+* Bass filter flat, 12dB/octave at 75 or 150Hz, selectable
+* Impedance <200 ohms
+* Recommended load impedance >1000 ohms
+* Supply voltage 9 to 52 volts phantom power
+* Current consumption <2 mA
+* 3-pin XLR connector
+* Satin nickel plated finish
+
+
+|}
+
+
+The '''AKG C 451 B''' is a cardioid condenser microphone with a frequency response of 20Hz to 20Khz
+
+{{stub}}
+[[category:microphones]]
+[[category:AKG|C 451 B]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
