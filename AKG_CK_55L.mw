@@ -1,0 +1,42 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type:Condenser
+*Polar Pattern:Cardioid
+*Frequency Response	150Hz - 18kHz
+*Output Sensitivity 	8.8mV/Pa
+*Max SPL  	118dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	33.6dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	2kΩ
+*SupplyCurrent 	2mA
+*Alternative Powering 	9-52V phantom with MPA3L supply
+	
+
+'''Connector Notes'''
+*Available Colours 	Matte black
+*Weight 	2.5g (8.80oz)
+*Length 	23mm (0.90")
+*Min Diameter/Width 	
+*Max Diameter/Width 	8mm (0.31")
+
+|}
+
+The '''AKG CK 55L''' is a condenser lavaliere microphone with a cardioid polar pattern and a frequency response of 150Hz-18Khz 
+
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|CK 55L]]
+[[category:microphones]]
+[[category:Cardioid microphones]]
+[[category:Condenser microphones]]
