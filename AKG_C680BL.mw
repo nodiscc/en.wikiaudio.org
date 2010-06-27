@@ -1,0 +1,45 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type: Boundary
+*Polar pattern: Hemispherical
+*Frequency Response	60Hz - 20kHz
+*Output Sensitivity 	23mV/Pa
+*Max SPL  	115dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	27dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	2kΩ
+*Powering 	Phantom 12-48
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	
+*Available Colours 	Non-reflective black
+*Weight 	100g (3.52oz)
+*Length 	97mm (3.81")
+*Min Diameter/Width 	
+*Max Diameter/Width 	67mm (2.63")
+*Depth 	20mm (0.78")
+
+'''Accessories'''
+*Included 	Phantom power adapter, adhesive tape
+*Optional 	B18 battery PSU, N62E AC PSU
+
+|}
+
+
+The '''AKG C680BL''' is a boundary microphone with a cardioid hemispherical polar pattern. 
+
+{{stub}}
+[[category:microphones]]
+[[category:AKG|C680BL]]
+[[category:Boundary microphones]]
+[[category:Hemispherical microphones]]
