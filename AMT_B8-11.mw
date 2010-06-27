@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: polarized condenser
+*Polar pattern Condenser
+*Frequency Response	25Hz - 20kHz
+*Output Sensitivity 	0.5mV/Pa
+*Max SPL  	140dB for
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	
+*Output Impedance 	150Ω	
+*Powering 	Phantom 12-48
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Weight 	57g (2.00oz)
+
+|}
+
+
+The '''AMT B8-11''' is a polarized condenser microphone with a cardioid polar pattern.It is intended for paired  overhead configurations.
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AMT|B8-11]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
