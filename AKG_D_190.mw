@@ -1,0 +1,44 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+'''Electrical Characteristics'''
+*Frequency Response	30Hz - 15kHz
+*Output Sensitivity 	1.6mV/Pa
+*Max SPL  	128dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	20dB-A
+*Output Impedance 	280Ω
+*Recommended Load 	2.5kΩ
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Available Colours 	Satin nickel
+*Weight 	180g (6.33oz)
+*Length 	161mm (6.33")
+*Max Diameter/Width 	40mm (1.57")
+	
+
+'''Accessories'''
+*Included 	SA40 stand adaptor
+*Optional 	H50 stereo bar, H300 stereo support, GNS36 gooseneck
+
+|}
+
+
+The '''AKG D 190''' is a cardioid dynamic microphone with a frequency response of 30Hz-15Khz
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|D 190]]
+[[category:Cardioid microphones]]
+[[category:Dynamic microphones]]
