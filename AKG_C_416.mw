@@ -1,0 +1,35 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: Condenser
+*Polar pattern hypercardioid
+*Frequency range 20 to 20,000 Hz
+*Sensitivity 5 mV/Pa (-46 dBV)
+*Max. SPL 126/130 dB
+*Equivalent noise level 31 dB-A
+*Signal/noise ratio (A-weighted) 63 dB
+*Impedance 200 ohms unbalanced
+*Recommended load impedance ¡Ý1000 ohms
+*Supply voltage 9 to 52 V phantom power to DIN 45596 or battery powering from B 29 L or AKG bodypack transmitter
+*Current consumption approx. 2.2 mA
+*Connector C 416 PP: 3-pin XLR, C 416 L: 3-pin mini XLR
+*Cable C 416 PP: 3 m (10 ft.), C 416 L: 1.5 m (5 ft.)
+*Finish matte black
+*Dimensions approx. 235 x 30 mm / 9.3 x 1.2 in. (inc. of mounting bracket)
+|}
+
+
+The '''AKG C 416''' is a miniature condenser microphone developed for close miking of instruments and loudspeakers
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C 416]]
+[[category:Condenser microphones]]
+[[category:Hypercardioid microphones]]
