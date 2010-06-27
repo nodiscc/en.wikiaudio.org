@@ -1,0 +1,41 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type: condenser
+*Polar pattern: Cardioid
+*Frequency Response	60Hz - 20kHz
+*Output Sensitivity 	5mV/Pa
+*Max SPL  	130dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	31dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	2kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	2mA
+
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	Mini-XLR on suffix L
+*Available Colours 	Matte black
+*Weight 	26g (0.91oz)
+*Length 	195mm (7.67")	
+*Max Diameter/Width 	134mm (5.27")
+
+|}
+
+The  '''AKG C520''' is a polarized condenser headset vocal microphone with a cardioid polar pattern.
+
+{{stub}}
+
+
+[[category:microphones]]
+[[category:AKG|C520]]
+[[category:Cardioid microphones]]
+[[category:Condenser microphones]]
