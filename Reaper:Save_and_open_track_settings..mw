@@ -1,0 +1,27 @@
+You can save and load the settings of individual tracks in Reaper. This does not save the actual audio on the track, just the track channel parameters.
+
+To save a track (and all its settings) go to '''Actions / Track: Save selected track as track template'''
+
+
+[[File:Reaper save track template.png]]
+
+
+A dialog box will appear prompting you to enter a name for the saved track
+
+
+
+[[File:Reaper track template save prompt.png]]
+
+
+
+To open a track template just right click the track header and choose '''Insert track from template''' and then '''Open template'''.
+
+
+
+[[File:Reaper open track template.png]]
+
+
+
+[[category:Reaper|Save track settings]]
+
+[[category:tutorials]]
