@@ -1,0 +1,27 @@
+You can route individual sounds from the [[Ableton Live:Impulse drum module overview |Impulse drum module]] in Ableton Live to individual tracks.These can then be processed independent of one another.
+
+==Steps==
+
+'''1.''' [[Ableton Live:Toggle between session and arrange windows|Go to session view]] and [[Ableton Live:Add instrument device|add a new impulse module from the browser.]]
+
+'''2.''' Assign some sounds to the pads by dragging and dropping or [[Ableton Live:Impulse drum module edit and adding of files|editing files from the arrange window]]
+
+'''3.''' [[Ableton Live:Add new tracks|Create a new audio track]] and set the '''Audio From''' setting to the '''Impulse''' module and set the drop down menu right below it to the individual sound you would like to route.
+
+
+
+
+
+[[File:Ableton Live impulse with routed outputs.png]]
+
+
+
+
+
+Now when that sound is triggered it will be routed to the respective audio track.
+
+
+
+[[category:Ableton Live|Impulse]]
+
+[[category:tutorials]]
