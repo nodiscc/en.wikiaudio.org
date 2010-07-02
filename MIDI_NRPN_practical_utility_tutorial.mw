@@ -1,0 +1,27 @@
+[[MIDI]]  '''NRPN''' , pronounced "Nerpin" ('''Non Registered Parameter Numbers''') are assignable MIDI messages.
+
+
+They are assignable in a similar way that control changes are, but with a slightly different convention.
+
+
+The MIDI NRPN message is a combination of 2 control change messages - 98 and 99. MIDI controllers such as the Novation SL MkII  refers to this combination of control change messages as simply ''the'' NRPN message (and treats it as one message) and allows you to assign the "NRPN" to any slider or knob on the controller.
+
+
+Once the NRPN is assigned you must give it a specific number. This number is a combination of its MSB (0-127) and LSB (0-127) assignment . These two numbers can be anything you want. These two numbers combined give a total of 16,384 possible assignable NRPN messages. That is 16,384 assignable MIDI messages for your controller or device. You assign these two numbers by simply choosing them and dialing them in in the respective field on your controllers  operating system.
+
+
+
+Not all hardware module respond to NRPN's the same, and not all modules let you pick and choose what NRPN's it responds to.
+If you have a hardware module that responds to NRPN's you might have to look in its manual to find what NRPNs are assignable to what parameters of your device and then conform your controllers output to send those specific NRPNs.
+
+
+
+{{stub}}
+
+
+==Also see==
+
+[http://www.cakewalk.com/support/Docs/RPNandNRPN.asp Cakewalk article on NRPNs]
+
+
+[[category:MIDI]]
