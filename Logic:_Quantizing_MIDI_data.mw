@@ -1,0 +1,75 @@
+=Logic: Quantizing= 
+
+
+To Quantize notes you can select the MIDI region who's notes you wish to quantize and then click and hold the quantize region parameters ( shown in image below). Then choose the quantization value you wish to quantize to.
+
+[[Image:Logic Quantize region parameters.png]]
+
+
+
+
+
+
+You can also quantize in the various editing windows using each ones respective quantize function.
+
+==Piano Roll==
+
+
+Open the Piano roll editor (you can usually do this by double clicking the region , unless the default editor has been changed in the preferences) and select the notes you wish to edit. Then go to the quantization menu, click and hold it and choose your quantization value. The quantization menu is underlined in red in the image below.
+
+[[Image:Matrix quantization .png]]
+
+==Quantizing continuous MIDI data== 
+
+If you have continuous MIDI data you would like to quantize such as volume, pan or pitch bend information you can do this a few different ways. However,one of the easiest is to use hyperdraw in the Piano Roll editor.
+
+Go to...
+
+
+'''View / Hyper Draw /''' then-choose-your-control-message
+
+
+[[Image:Logic selecting hyperdraw from matrix editor.png]]
+
+
+
+
+
+Now select the automation select tool. You can do this via pushing the '''ESC''' key
+
+
+
+
+
+
+[[Image:Logic matrix hyperdraw automation select tool.png]]
+
+
+
+
+Use this to draw a selection around all of the automation data you wish to quantize.
+Then select your quantization value via this menu (image below).
+
+
+
+
+[[Image:Matrix quantization .png]]
+
+
+
+[[Image:Hyperdraw quantization.png]]
+
+
+
+
+
+In our case we quantized to 1/4 notes and the end result is displayed in the image below
+
+
+[[Image:Logic Quantized volume MIDI data to quarter notes.png]]
+
+
+
+[[category:logic|Quantizing MIDI data]]
+
+[[category:tutorials]]
