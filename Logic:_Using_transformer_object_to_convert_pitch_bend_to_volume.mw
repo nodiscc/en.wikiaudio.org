@@ -1,0 +1,46 @@
+===Logic:convert pitch bend to volume in real time using the transformer object===
+
+
+----
+
+
+
+'''1.''' Open the environment. '''Windows/Environment'''. Go to the clicks and ports layer.
+
+Click "'''New'''" and select a '''Transformer'''
+
+[[Image:Logic create transformer object.png]]
+
+Set it up as a [[Logic: Environment MIDI effects destructive and non destructive|destructive connection]] ( between the physical input and sequencer input)
+
+
+'''2.''' Double click the transformer object to open its editing window ( shown below )
+
+'''3.''' Emulate the settings shown in the image below. These settings are what will convert incoming pitch data to 
+volume information.
+
+
+[[Image:Logic transformer object edit window.png]]
+
+
+
+Now if you record pitch bend information into Logic using an external controller it will be converted to volume.
+
+
+[[Image:Logic hyperdraw volume.png]]
+
+
+
+[[category:tutorials]]
+
+[[category:logic|Transformer object to convert pitch bend to volume]]
+
+
+
+==Also See==
+
+For a clearer understanding of the MIDI messages and the specification:
+
+[[MIDI 1.0 specification]]
+
+[[MIDI: simplified implementation chart]]
