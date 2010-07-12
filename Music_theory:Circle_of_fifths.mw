@@ -1,0 +1,56 @@
+{{#evp:youtube|tjH4SFqNKtk|{{Videodisclaimer}}|right|300}}
+
+{{#evp:youtube|yGxzH8qbk_w|{{Videodisclaimer}}|right|300}}
+
+==Related Keys==
+
+The circle of fifths is a way to arrange keys to show how closely they are related to each other. 
+    
+
+
+[[File:CircleofFifths.png]]
+
+
+
+<small> 
+The major key for each key signature is shown as a capital letter; the minor key as a small letter. In theory, one could continue around the circle adding flats or sharps (so that B major is also C flat major, with seven flats, E major is also F flat major, with 6 flats and a double flat, and so on), but in practice such key signatures are very rare.</small>
+
+
+
+
+Keys are not considered closely related to each other if they are near each other in the chromatic scale (or on a keyboard). What makes two keys "closely related" is having similar key signatures. So the most closely related key to C major, for example, is A minor, since they have the same key signature (no sharps and no flats). This puts them in the same "slice" of the circle. The next most closely related keys to C major would be G major (or E minor), with one sharp, and F major (or D minor), with only one flat. The keys that are most distant from C major, with six sharps or six flats, are on the opposite side of the circle.
+    
+
+The circle of fifths gets its name from the fact that as you go from one section of the circle to the next, you are going up or down by an interval of a perfect fifth. If you go up a perfect fifth (clockwise in the circle), you get the key that has one more sharp or one less flat; if you go down a perfect fifth (counterclockwise), you get the key that has one more flat or one less sharp. Since going down by a perfect fifth is the same as going up by a perfect fourth, the counterclockwise direction is sometimes referred to as a "circle of fourths". [[Music_theory:Intervals#Inverting_Intervals|(Please review inverted intervals if this is confusing.)]]
+    
+
+
+
+==Key Signatures==
+
+If you do not know the order of the sharps and flats, you can also use the circle of fifths to find these. The first sharp in a key signature is always F sharp; the second sharp in a key signature is always (a perfect fifth away) C sharp; the third is always G sharp, and so on, all the way to B sharp.
+    
+
+
+The first flat in a key signature is always B flat (the same as the last sharp); the second is always E flat, and so on, all the way to F flat. Notice that, just as with the key signatures, you add sharps or subtract flats as you go clockwise around the circle, and add flats or subtract sharps as you go counterclockwise.
+    
+
+[[File:KeySigCircle.png]]
+
+<small> Each sharp and flat that is added to a key signature is also a perfect fifth away from the last sharp or flat that was added.
+</small>
+
+
+
+==References==
+
+<small>Schmidt-Jones, C.The Circle of Fifths, Connexions Web site. http://cnx.org/content/m10865/2.13/, Apr 13, 2010.
+</small>
+
+==See also==
+
+For an alternative to the circle of fifths see [[Western music theory "everything chart"]]
+
+[[category:Music theory|Circle of fifths]]
+
+[[category:tutorial]]
