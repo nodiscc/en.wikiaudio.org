@@ -1,0 +1,16 @@
+You can make tempo events ''follow'' regions as they are moved. To do so follow these steps.
+
+'''1.''' Go to the tempo event list. '''Lists / Tempo'''
+
+2.  Select the tempo events you want from the list that correlate with the region you wish to move.
+
+3. Hold '''Shift''' and select the region(s) you wish to move. Move them and the tempo events should now follow them. 
+
+
+[[File:Logic move region with tempo changes.png]]
+
+
+
+[[category:Logic|Tempo]]
+
+[[category:tutorials]]
