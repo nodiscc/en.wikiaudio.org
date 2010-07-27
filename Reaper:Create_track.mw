@@ -1,0 +1,27 @@
+To create a new track in Reaper simply double click the track header. (image below)
+
+[[File:Reaper new track creation.png]]
+
+[[File:Reaper track header.png]]
+
+
+
+
+After you create a track you can assign it to be an '''Audio track''' or '''MIDI track''' track. 
+You can do this by clicking on the '''In''' button on the channel itself and choosing the kind of track you want. (image below). To make the track MIDI simple choose a MIDI input (If you intend to make this a track to control an external MIDI device you will need to [[Reaper:MIDI_track_setup|set your MIDI outputs]]). To make it an audio track choose one of the audio inputs. 
+
+
+
+[[File:Reaper choose track type.png]]
+
+
+==Also see==
+
+*[[Reaper:MIDI track setup]]
+*[[Reaper:Record audio]]
+*[[Reaper:Track setup]]
+
+
+[[category:Reaper|Create track]]
+
+[[category:tutorials]]
