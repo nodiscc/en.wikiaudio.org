@@ -1,0 +1,64 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Master_Hammond_B3.jpg‎]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Modeled on mastered samples (normalized and noise-reduced). Based on PCM recordings of a Hammond B3 organ with full length sustain samples, no loops (natural decay), stored in 16 bits and 44.100 KHz. 
+
+* ADSR envelope generator with Attack, Sustain, Decay and Release parameters and several modulation targets. 
+
+* Leslie Rotary Speaker Cabinet emulation is included in some presets with embedded effect. 
+
+* Portamento/Glide control:  affects pitch transitions. A gliding effect that allows a sound to change pitch at a gradual rate, rather than abruptly, when a new key is pressed or MIDI note sent. 
+
+* Reverb built-in: free variation of acoustic ambience thanks to complete separation of organ and room. Small rooms can be modeled just as accurately as larger spaces. 
+
+* MIDI Automation: Added complete MIDI CC#. 
+
+|}
+
+'''Master Hammond B3''' organ is a commercial, proprietary music software synthesizer, for the Microsoft Windows platform, developed by [[Syntheway]] Virtual Musical Instruments.
+
+The software can be used to emulate a Hammond B3 organ and may work as a plugin within digital audio workstation software such as FL Studio or Cubase. It is compatible with FreeVST allowing GNU/Linux users to use native Microsoft Windows VST plugins by using parts of the Wine compatibility layer.
+
+
+'''Characteristics'''
+The VST plug-in was modeled on masteMaster Hammond features an ADSR envelope generator and a reverb effect unit controllable . Also presents a Leslie rotating speaker emulation in their presets (not controllable).
+Master Hammond features an ADSR envelope generator and a reverb effect unit controllable . Also presents a Leslie rotating speaker emulation in their presets (not controllable).
+
+
+
+'''MIDI Automation'''
+Features complete MIDI Continuous Controller to automate parameter changes from a sequencer, or to control the Master Hammond B3 software from an external MIDI control surface.
+
+
+'''B3 Mode Selector''':
+
+* B3 Standard 
+* Fast Bright 
+* Slow Bright 
+* Fast Dark 
+* Slow Dark 
+* Full Bright 
+* 4 B3 Blues types 
+* Jazz B3 (Slow) 
+* B3 High Slow/Fast 
+* B3 Low Slow  
+* Slow Overdrive (Distortion) 
+
+
+'''Current Version''': 2.5 (Stable Release) 
+
+
+===Also see===
+
+[http://www.syntheway.net Syntheway homepage]
+
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Syntheway]]
