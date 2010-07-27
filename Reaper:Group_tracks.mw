@@ -1,0 +1,26 @@
+To group tracks in Reaper:
+
+*Select the tracks you want to group by holding down '''Shift''' and clicking them.
+*Right click one of the tracks and choose '''Track grouping parameters''' (image below)
+*In the window that appears choose the group settings you want. (image below)
+
+
+[[File:Reaper group menu.png]]
+
+
+
+[[File:Reaper groups window.png]]
+
+
+
+
+
+==Also see==
+
+*[[Reaper:Folders]]
+*[[Reaper:Group items (region grouping)]]
+
+
+[[category:Reaper|Group tracks]]
+
+[[category:Tutorials]]
