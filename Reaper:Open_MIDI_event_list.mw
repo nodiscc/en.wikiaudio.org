@@ -1,0 +1,28 @@
+To open the Reaper MIDI event list editor first double click on a MIDI region.
+
+Then '''Right click''' the top space at the top of the editor (image below) and go to '''View / Mode: event list'''
+
+
+
+
+
+[[File:Reaper MIDI event list menu.png]]
+
+
+
+
+
+An event list editor should appear 
+
+
+
+
+[[File:Reaper event list MIDI editor.png]]
+
+
+
+
+
+[[category:Reaper|Open MIDI event list]]
+
+[[category:tutorials]]
