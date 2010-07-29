@@ -1,0 +1,32 @@
+'''Reaper''' has a virtual [[MIDI]] keyboard you can open and use to trigger MIDI tracks and [[Software instrument]] tracks.
+
+You can access it by going to '"View/Virtual MIDI keyboard'''
+
+
+
+
+[[File:Reaper virtual MIDI keyboard menu.png]]
+
+
+
+
+A virtual keyboard will then appear.
+
+
+
+
+[[File:Reaper virtual MIDI keyboard.png]]
+
+
+
+You can change the octave by making sure the '''Arrow keys change octave/channel''' option is selected. Then use the left and right arrow keys to change octaves. 
+
+
+[[File:Reaper Virtual MIDI keyboard.png]]
+
+
+
+
+[[category:Reaper|Virtual MIDI keyboard]]
+
+[[category:tutorials]]
