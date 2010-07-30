@@ -1,0 +1,70 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Syntheway_Strings.jpg]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+* Includes 48 presets.
+
+* Multiple-Mode Filter that includes LP (Low pass), BP (Band pass), HP (High pass), notch, peak, low pass and high pass shelving filter with adjustable cutoff and bandwidth. The values are automatically computed when you select any of the filter types. 
+
+* ADSR envelope generator with Attack, Sustain, Decay and Release parameters and several modulation targets. 
+
+* Multisampled Strings Ensemble: Violin, Viola, Cello, Double Bass. 
+
+* Full length sustain samples, no loops (natural decay), stored in 16 bits and 44.100 KHz, providing superb detail for the musician. 
+
+* GLIDE control: affects pitch transitions. When turned to the far left, there are no pitch transitions - new notes immediately play at their "correct" pitch. If turned to the right, the glide time increases - new notes are triggered at the pitch of the previous note, and then gradually glide to the pitch of the played note, quickly or slowly, depending on the setting of this knob. 
+
+* MIDI Automation: Added complete MIDI CC#.
+
+
+|}
+
+'''Syntheway Strings''' is a commercial, proprietary music software synthesizer for the Microsoft Windows platform, developed by [[Syntheway]] Virtual Musical Instruments.
+
+The software can be used to emulate a Violin, Viola, Cello and Double Bass working as a plugin within digital audio workstation software such as [[FL Studio]], Cubase or [[Ableton Live]].
+
+
+==Characteristics==
+
+Syntheway Strings is a sample based musical instrument developed as a [[VST]] plug-in and designed to recreate the Strings Ensemble.
+
+
+==MIDI Automation==
+
+Features complete [[MIDI]] Continuous Controller to automate parameter changes from a sequencer, or to control the Syntheway Strings software from an external MIDI control surface.
+
+
+==Strings Selector==
+
+* Full Strings 
+* Octaves Strings 
+* Dark Strings 
+* Marcato Strings 
+* Staccato Strings 
+* Marcato Octaves 
+* Synth Strings 1 
+* Synth Strings 2 
+* Hybrid Strings 
+* Pizzicato Strings  
+
+
+==Current Version==
+v2.5 (Stable Release) 
+
+
+==External Links==
+
+[http://www.syntheway.net Syntheway website]
+
+[http://www.kvraudio.com/get.php?mode=show&id=1919 Syntheway Strings at KVR Audio Plugin Resources]
+
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Syntheway]]
