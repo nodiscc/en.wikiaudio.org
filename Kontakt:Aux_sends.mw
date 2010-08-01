@@ -1,0 +1,20 @@
+To send a device to an Aux, first click the '''Output''' icon to open the mixer (image below) then click the '''Aux''' button in the lower right of the module (image below).
+This will open a panel of aux sliders (1-4) that send the signal. Choose the Aux you want to send to and move up its respective slider.
+
+
+[[File:Kontakt aux module sliders.png]]
+
+
+
+
+You need to make sure the outputs of the '''Aux''' is set in a manner that it can be heard. Click '''Conf''' at the bottom of the '''Aux''' channel strip and in the window that appears left-click the output assignment (image below) and choose outputs that can be heard.
+
+
+
+[[File:Kontakt aux output setting.png]]
+
+
+
+[[category:Kontakt|Aux sends]]
+
+[[category:tutorials]]
