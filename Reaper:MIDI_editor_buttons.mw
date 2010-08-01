@@ -1,0 +1,69 @@
+The MIDI editor buttons.
+
+[[File:Reaper MIDI data buttons.png]]
+
+==Filter==
+
+[[File:Reaper MIDI filter icon.png]]
+This allows you to change the view filter of the MIDI editor. You can use this to clarify the MIDI editor. This does not delete data, it just displays ''selected'' data.
+
+
+
+[[[[File:Reaper MIDI editor filter window.png]]]]
+
+
+
+
+
+
+
+
+===Using the MIDI filter===
+
+To use the MIDI filter first make sure the MIDI editor is open , and then decide what data you would like to see.
+
+
+
+
+'''<big>The image below has notes, program changes and pitch changes.</big>'''
+
+[[File:Reaper MIDI editor prefilter.png]]
+
+
+
+
+
+Click the MIDI filter icon and in the box that appears set the settings to reflect the MIDI events you would like to have displayed. Once you do this all other events will be hidden. 
+
+[[File:Reaper post MIDI filter.png]]
+
+
+
+
+==Note connect to CC messages==
+
+
+[[File:Reaper note connect to CC.png]]
+This icon allows you to connect control change messages to MIDI notes.When this icon is highlighted notes and any control change messages that correspond to them will move together.
+
+
+==Grid display on/off==
+
+[[File:Reaper MIDI grid on off.png]]
+This icon turns the MIDI editor grid ''display'' on/off.
+
+==Grid snap on/off==
+
+[[File:MIDI snap to grid icon.png]]
+This turns grid snapping on and off
+
+==Dock MIDI editor==
+
+[[File:Reaper dock MIDI editor.png]]
+This icon docks/undocks the MIDI editor
+
+
+
+[[category:Reaper|MIDI buttons]]
+
+[[category:tutorials]]
