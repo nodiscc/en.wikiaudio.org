@@ -1,0 +1,58 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Hardware Dependent (Up to 256 per instrument)
+*Sampler - Sample Formats: Akai S1000 and S3000, SoundFont2, GigaStudio, HALion, EXS24, SND, WAV, SDII, AIFF, Battery and Reaktor files
+*Interfaces: ASIO 2.0, DirectSound, MME, SoundManager, VST 2.0, DXi, DirectConnect, and MAS/FreeMIDI
+*LFO - Sine, Triangle, Rectangle, Sawtooth, Random, Multi waveforms
+*Filter - Sampler filters: Lowpass 1-, 2-, 4-, 6-pole; Highpass 1-, 2-, 4-pole, Bandpass 1+1, 2+2 pole; Notch 2+2 pole; Multimode 3x2 pole.
+Equalizers: Parametric 1-, 2-, 3-band EQ.
+Effect Filters: Phaser, Vowel A, Vowel B.
+*Effects - Send Effects: Panning Delay, Stereo Chorus, Stereo Flanger, Stereo Phaser, Reverb
+Insert Effects: Distortion, Saturation, LowFi, Compressor, Stereo Enhancer, Filter/EQ
+*Keyboard - Virtual in Mapping Editor from C-2 to C8 (10 octave range), Velocity (range 1-127)
+*Macintosh - Minimum: Mac OS 9.2 or higher, G3 500 MHz, 256 MB RAM
+Recommended: Mac OS 9.2 or higher, G4 733, 512 MB
+VST 2, Audio Units, Core Audio, RTAS, Direct Connect, MAS, Sound Manager, FreeMidi, OMS
+*Windows/PC - Minimum: Windows XP, Pentium III/ Athlon 500 MHz, 256 MB RAM
+Recommended: Windows XP, Pentium III/ Athlon 700 MHz, 512 MB
+VST 2, DXi, ASIO, DirectSound, RTAS (XP only)
+*Date Produced - 2002
+
+|}
+
+'''Kontakt''' is a software sampler that can be used as a plug-in or stand alone application.It was created in 2002
+
+===Main features===
+Similar to hardware samplers, there are three levels to Kontakt's functionality: Samples, Instruments, and Multis.
+Customized sound mapping for the complete range of a MIDI Keyboard. Mapping is possible "per key" (assigning a sound to a key of your MIDI Keyboard) or "velocity range" (assigning sounds to different velocities of a single key).
+Sampling Engines: Regular (pitch alters the speed of the sound playback), Time Machine (regardless of pitch, time remains constant via an application of Granular Synthesis), Tone Machine (FFT-based manipulation of formants, and pitch). Every sampling engine features artifacts with extreme settings thereof, in terms of audible noise (granular synthesis is known for soft clicks during the playback of 'chopped' sound with extremely low or high settings, tone machine's FFT algorithm may generate high-frequency noise due to digital applications of the transform).
+"Hardware Rack" interface for effects and modules (vertical top-to-bottom architecture). It consists of Modulators (logic signal) and Effects (sound-altering algorithms, parameters of which may or may not be controlled by modulators). The Modulators consist of: Velocity, Release Velocity, Key Position, MIDI Controller, Poly and Mono Aftertouch, LFOs, Envelope, Glide, Envelope Follower and Step Modulator. There are 8 groups of effects: Filters, Distortion, Saturation, Lo-Fi (sound quality reduction), Compressor, Stereo Enhancer, Amplifier and "FX sends." While most of the above are self-explanatory, the filter bank is rather extensive. In particular, there are 17 filter types in original Kontakt: LP 1 pole, HP 1 pole, Bandpass (fixed Q), LP 2 Pole, HP 2 pole, 2x2 pole bandpass, 2x2 pole notch filter, LP 4 pole, HP 4 pole, LP 6 pole (36db per octave), 3x2 pole multi mode, 1 band parametric eq, 2 band parametric eq, 3 band parametric eq, Phase filter, Vowel A, Vowel B.
+Kontakt supports the following file formats: AKAI S-1000/S-3000, Gigasampler, SoundFont (SF2), BATTERY, REAKTOR, LM4, AIFF and WAV (8 to 32 bit resolution), Logic EXS sampler instruments and Halion instruments.
+
+
+
+
+
+
+
+
+
+
+
+
+{{stub}}
+
+
+<small>This entry uses material from http://en.wikipedia.org/wiki/Kontakt_(software) and is licensed under its respective agreement.</small>
+
+
+[[category:synths]]
+[[category:Kontakt]]
+[[category:Software instruments]]
