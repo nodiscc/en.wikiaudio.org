@@ -1,0 +1,45 @@
+==Looping samples==
+
+
+==Single sample instruments==
+Load a sample or instrument into Kontakt.Then click the wrench Icon and then click '''Wave editor'''
+
+
+[[File:Kontakt wave editor button.png]]
+
+
+
+
+
+In the window that appears click one of the numbers under the '''Sample Loop''' menu
+
+
+
+
+
+[[File:Kontakt turn on sample loop.png]]
+
+
+
+
+An orange display will now appear in the waveform. This is the loop start and end points. You can move these by clicking and dragging.
+
+
+[[File:Kontakt move loop points.png]]
+
+
+
+
+==Instruments with more than one sample==
+If you loaded an instrument with more than one sample you will need to click the '''Mapping Editor''' as well and then choose the sample you want to loop from the key map editor that appears. (image below) 
+
+
+[[File:Kontakt multisample selecting.png]]
+
+
+
+
+
+[[category:Kontakt|Loop samples]]
+
+[[category:tutorials]]
