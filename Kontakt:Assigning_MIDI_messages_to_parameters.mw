@@ -1,0 +1,28 @@
+To assign MIDI messages to parameters in Kontakt go to the '''Auto''' tab (image below) and then to '''MIDI Automation''' (image below). Then drag the respective '''CC''' message you wish to assign to the parameter you wish to assign it to . Moving the slider, knob or button on your MIDI controller should make Kontakt display a small blink next to the CC message it is assigned to in the Midi Automation list.
+
+
+[[File:Kontakt assign MIDI message.png]]
+
+
+
+
+
+[[File:Kontakt assigned CC message.png]]
+
+
+
+
+
+==Removing MIDI messages==
+
+
+To remove MIDI messages click the message then click the '''Remove''' button at the bottom of the display (image below)
+
+[[File:Kontakt remove CC.png]]
+
+
+
+
+[[category:Kontakt|MIDI]]
+
+[[category:tutorials]]
