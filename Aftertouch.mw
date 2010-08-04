@@ -1,0 +1,7 @@
+'''Aftertouch''' (sometimes called '''Channel pressure''' or '''Mono pressure''') is a type of additional pressure sensitivity that is implemented in some keyboards. It is triggered by playing a note or notes and applying additional pressure as they are held down. This pressure usually makes the notes fluctuate in volume but is sometimes used to trigger other attributes, like modulation. Aftertouch messages in [[MIDI]] are channel voice messages and affect all notes that are being played.This means if you play a chord and add additional aftertouch pressure to just one note, all notes will be affected. 
+
+
+{{stub}}
+
+
+[[category:MIDI|Aftertouch]]
