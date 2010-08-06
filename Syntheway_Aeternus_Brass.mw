@@ -1,0 +1,52 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Aeternus_brass_thumb.jpg]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Vibrato Section: Contains a LFO (Low Frequency Oscillator) with modulation depth, frequency and offset. 
+
+* ADSR envelope generator with Attack, Sustain, Decay and Release parameters and several modulation targets. 
+
+* Signal's Harmonic Spectrum (Freq. analyzer) 
+
+* MIDI Automation: Complete MIDI Continuous Controller commands. 
+
+|}
+
+'''Aeternus Brass''' is a commercial, proprietary music software synthesizer, for the Microsoft Windows platform, developed by [[Syntheway]] Virtual Musical Instruments.
+
+The software featuring solo Trumpet, Cornet, Trombone, Tuba, French Horn, Flugelhorn as well as Brass Sections and Orchestral Ensemble.
+
+==Characteristics==
+Presents a Brass Mode Selector with the following instruments:
+
+* 3 Brass Sections
+* Trumpet
+* Cornet
+* Trombone
+* Tuba
+* French Horn
+* Flugelhorn
+* Orchestral Ensemble
+* Brass Hits
+* Synth Brass
+
+==MIDI Automation==
+Features complete MIDI Continuous Controller to automate parameter changes from a sequencer, or to control the Aeternus Brass software from an external MIDI control surface.
+
+==Current Version==
+1.0 (Stable Release) 
+
+
+==References==
+
+[http://www.syntheway.net Syntheway homepage]
+
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Syntheway]]
