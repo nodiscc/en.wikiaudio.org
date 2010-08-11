@@ -1,0 +1,15 @@
+
+
+'''1.''' Click '''Logic Pro / Preferences/ Audio''' on the top menu of the program.
+
+'''2.'''Choose the '''Devices''' tab.
+
+'''3.''' Click the '''Core Audio''' tab  (This is only if you are not using ProTools hardware.)
+
+'''4.''' If you want record at 24bit check the box next to where it says '''24 Bit Recording'''. If you want to record at 16 bit leave the box unchecked. These are your only two options.
+
+
+
+[[category:logic|Bit depth]]
+
+[[category:tutorials]]
