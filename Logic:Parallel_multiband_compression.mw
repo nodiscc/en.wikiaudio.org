@@ -1,0 +1,146 @@
+{{pagelocked}}
+
+{{Template:Usedbypermission}}
+
+Author of this article is [http://www.popmusic.dk/index-uk.html Holger Lagerfeldt]
+
+
+
+== Setup ==
+
+
+
+
+'''How to setup Logic pro'''
+
+Follow the instructions to the letter and things will work perfectly.
+
+
+
+First you need to make sure full plug-in delay compensation is enabled in Logic Pro. If you don't do this you could get phase problems.
+
+Logic Pro '''>''' Preferences '''>''' Audio>General '''>''' Plug-in Delay '''>''' Compensation '''>''' All
+
+
+
+'''You need:'''
+
+1 audio track
+
+1 aux channel
+
+1 main output (entitled Output 1-2)
+
+
+Take a look at the screenshot for reference.
+
+
+[[image:Logic_parallel_compression_picture.gif‎]]
+
+
+'''How to do it'''
+
+Place the stereo mix file you are about to master on the audio track.
+
+Open a send from the audio channel to Bus 1, and send unity value (0.0 dB). The shortcut for this is Option+clicking on the send knob.
+
+
+This automatically creates a Aux 1 channel with Bus 1 as input, if it isn't already created in your setup.
+
+Now apply whatever mastering plug-ins you need such as equalizer and single band compression to your audio track, not the Aux. However, do not apply a limiter to the audio track and do not touch the volume fader on this track unless you first set send mode to pre-send instead of the default post-send.
+
+
+If you wish to use a limiter plug-in it should be inserted on Output 1-2 as this is where the processed signal and the parallel signal will meet up, and they need to be processed together.
+
+Open the Logic Multipressor (or a Waves Phase Linear Multiband compressor, though Logic's will do just fine) on Aux 1 and load this preset:
+
+http://www.popmusic.dk/download/logic/parallel-multiband/multipressor.zip
+
+
+Place the downloaded preset here:
+
+HD '''>''' Users '''>''' YourUserName '''>''' Library '''>''' Application Support '''>''' Logic '''>''' Plug-In Settings '''>''' Multipressor
+
+
+
+'''Settings'''
+
+<u>Threshold: -48 dBFS or lower</u>
+
+During this type of compression you need constant gain reduction and you want the compressor to react to very low passages.
+
+
+<u>Ratio: 2:1</u>
+
+The ratio should be fairly low although you can certainly experiment with this parameter for more radical effects.
+
+
+<u>Peak/RMS: 0 ms</u>
+
+Part of this trick is to violently smack down on transients so you need the compressor to react to peaks.
+
+
+<u>Attack: 0 ms</u>
+
+Same as above.
+
+
+<u>Release: 300 ms or above</u>
+
+Too short and things will start to pump a bit which isn't what you normally want. So use release times between 300 and up to a few seconds even.
+
+Shorter release times = more obvious compression but also more effect (especially in the high frequencies)
+
+Longer relaease times = less obvious compression but also less effect
+
+You can set individual release times per band, i.e. longer release times for the sub frequencies and very high frequencies. High frequencies jumping around isn't as much an issue with the Logic Multipressor but more an issue with 5 band compressors like the Waves Linear Phase Multiband where the ultra high frequencies have their own band (11 kHz+).
+
+
+<u>Gain Make-up per band</u>
+
+As a starting point you don't need to touch the individual make-up gains. But if you feel the parallel signal needs to contribute more to a special frequency area this is the place to do it. As you're raising a heavily compressed signal in a specific band it sounds very different to equalizing and is a great alternative solution.
+
+
+<u>Other functions</u>
+
+Do not use autogain or touch the expander. Lookahead isn't necessary for this trick so you can set it for 0 ms (you need to start/stop the song to reset the delay compensation caused by the lookahead if you touch it during playback).
+
+
+<u>Amount of parallel signal</u>
+
+Use the Aux 1 volume fader to choose the amount of parallel multiband compressed signal you want to add to the blend. A normal setting would be about 15-25% of the original signal but always use your ears.
+
+
+<u>How to do fades or change the volume</u>
+
+As mentioned earlier: do not touch the volume fader on the audio track as this will affect the input dynamics of the parallel signal. If you for some reason want to adjust this channel then set send mode to pre-send first.
+
+If you wish to do a fade in or out on your master, then do this by automating the volume parameter on the Output 1-2 fader which contains both the original processed signal and the parallel signal.
+
+
+<u>What is parallel compression</u>
+
+Parallel compression is often used during mixing to fatten up tracks, especially drums. It can also be used on vocals to increase fullness and bring up details without the pumping artifacts of regular (downward) compression.
+
+Parallel compression is also used during mastering since it - unlike regular compression - can raise low level passages while still retaining more of the original dynamics during loud passages. Just as in mixing parallel compression can help fatten up a master and bring up "buried" details.
+
+Parallel compression is not a substitute for normal downward compression but something to use in addition to add fullness and details.
+
+Search the internet for more information about what parallel compression is and how it works in details.
+
+
+<u>Parallel Multiband Compression</u>
+
+Parallel multiband compression applies the exact same principles as its single band cousin. However, it sounds a bit different due to the separate bands. Parallel multiband compression also acts a bit like an intelligent loudness enhancer because of the psychoacoustics in how the human brain interprets especially the low and high frequency bands in relation to loudness perception. This trick is not possible in the same way with single band parallel compression, even when used in combination with an equalizer.
+
+
+== References ==
+
+
+Author of this article is [http://www.popmusic.dk/index-uk.html Holger Lagerfeldt]
+
+'''Used by permission'''
+
+
+[[category:tutorials]]
+[[category:Logic|Compression]]
