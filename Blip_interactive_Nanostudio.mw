@@ -1,0 +1,92 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+This entry needs and image.Please add one here
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+
+Compatible Devices
+
+* OS version 3.1.2 or later (tested on iOS 4)
+* iPhone 3G, 3GS, 4
+* iPod Touch 2G, 3G (mic recording possible with external accessory)
+* iPod Touch 1G (mic recording not available)
+* iPad (compatibility mode)
+
+'''General'''
+
+* Instruments - 4x Eden synths, TRG-16 trigger pads, 6 track sequencer, 7 input mixer with two sends
+* Insert Effects - 2 per synth (waveshaper, chorus/flanger/delay)
+* Send Effects - 2 (reverb, chorus/flanger/delay)
+* Total polyphony - 48 stereo voices
+* Buffer latency - 10ms
+* Stereo 44.1kHz floating-point signal path (only the final output is reduced to 16 bit)
+* Individually optimized for new and old hardware (chooses between VFP or NEON technology)
+
+''''Eden synth (x4)''''
+
+* Maximum polyphony - 8 voices per synth
+* 2 anti-aliased oscillators per voice, each with 36 basic waveforms including noise
+* Oscillators can be mixed or sync/ring modulated
+* Resonant filter per voice - low pass, band pass or high pass with 12dB or 24dB slope
+* Samples can be used in place of basic waveforms
+* 4 LFO's, optional sync to note start/sequencer tempo
+* 3 ADSR Envelope generators (amp, filter and aux)
+* 2 X/Y controllers, 1 configurable control knob, pitch bend wheel and accelerometer input
+* Virtual patchbay for connecting controllers, LFO's and envelopes and other synth parameters
+* 2 insert effects per synth (waveshaper, chorus/flanger/delay)
+* 128 Global presets (shared between all projects) and 64 Project specific presets
+
+''''TRG-16 Trigger Pads and Sampling''''
+
+* Number of trigger pads - 16
+* Maximum polyphony - 16 voices
+* Adjust volume, pan, pitch, output bus, attack, release and loop type per sample
+* Exclusive groups for use with high hats etc.
+* Three output busses, each with its own filter and send effects
+* Load/save individual samples or whole kits
+* Upload wavs or aiffs to your device using NanoSync for Mac or Windows
+* Record your own samples using the internal mic (iPhone only) or external mic (iPod Touch 2G, 3G)
+* Resample NanoStudio's main mix output
+* Crop and normalize samples on the device using NanoStudio's built in sample editor with 4 levels of undo/redo
+
+''''Sequencer''''
+
+* Realtime record with undo
+* Pattern editor and song arranger
+* 6 tracks (4 Eden synths and 2 tracks dedicated to the TRG-16)
+* Record unique parts or turn them into patterns for repetitive loops (100 patterns supported)
+* Draw note and controller events such as XY pad movements, pitch bend, velocity and accelerometer
+* Editing functions include delete, merge, copy, move, note length, transpose, clean and quantize
+* Controller editing and automation
+* Time signatures 2/4 - 7/4
+* 4 levels of undo/redo on every editing operation
+* All editing operations are possible while the sequence is playing
+
+''''Mastering''''
+
+* Mixer with 7 stereo inputs (4 Eden synths, 3 TRG-16 output busses), 1 stereo output and 2 stereo sends
+* 2 Simultaneous global effects sends per input (reverb, chorus/flanger/delay)
+* Stereo VU displays for all inputs and outputs
+
+
+
+|}
+
+
+Nanostudio is a [[DAW]] software music creation and sequencing application developed for the Apple Iphone/Iphone touch and created by Blip Interactive
+
+
+{{stub}}
+
+
+*[http://www.blipinteractive.co.uk Blip Interactive Homepage]
+
+
+[[category:Iphone applications]]
+
+[[category:Nanostudio]]
