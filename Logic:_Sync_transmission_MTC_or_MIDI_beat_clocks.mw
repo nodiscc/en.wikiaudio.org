@@ -1,0 +1,48 @@
+==Logic 9:Sync transmission, MTC & MIDI beat clocks==
+
+The Logic 9 instructions are nearly identical to the Logic 8 instructions. The only difference is graphical interface has minor and insignificant differences. 
+
+== Logic 8: Sync transmission, MTC & MIDI beat clocks ==
+
+
+
+
+
+To transmit either beat clocks or MIDI time code from Logic - follow these menus.
+
+ 
+
+[[Image:Logic_main_menu.JPG]]
+
+
+
+
+Make sure you select the "'''Sync'''" tab and then '''MIDI sync project settings'''
+
+
+
+
+[[Image:Logic MIDI_sync_project_settings.JPG]]
+
+ 
+
+The picture below shows how to choose which MIDI port of your MIDI interface Logic will transmit <u> MIDI time code</u> out of. Check the "transmit MTC" box then choose the port(s) you want and  and close the window.
+
+ 
+
+[[image:Logic_MTC_select.JPG]]
+
+ 
+
+ 
+
+The picture below shows how to choose which MIDI port of your MIDI interface Logic will transmit <u>MIDI beat clocks</u> out of. Check the "transmit MIDI clock" box , choose the port(s) you want and close the window.
+
+[[image:Logic_Beat_clocks.JPG]]
+
+
+In order to have cycle mode allow external devices to "cycle along" ,you should also enable the '''Allow to send Song Position Pointer while playing''' option.
+
+
+[[category:tutorials]]
+[[category:Logic|S]]
