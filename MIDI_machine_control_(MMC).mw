@@ -1,0 +1,7 @@
+'''MIDI Machine Control''' is a part of the MIDI specification intended to provides commands for controlling multitrack (or other) recording equipment. MMC messages can be sent along a standard [[MIDI]] cable to control functions such as Play, Fast Forward, Rewind, Stop, Pause, and Record. 
+
+{{stub}}
+
+
+[[category:MIDI]]
+[[category:Synchronization]]
