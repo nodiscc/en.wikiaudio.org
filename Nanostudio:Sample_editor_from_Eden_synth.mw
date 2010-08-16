@@ -1,0 +1,39 @@
+To access the sample editor in nanostudio do these things:
+
+Go to the eden synth and use the scroll arrows until you see the window with the sample edit button (images below)
+
+
+[[File:Nanostudio eden scroll arrows.png]]
+
+
+
+Click the edit button and you will be able to access the sample editor.
+
+
+
+[[File:Nanostudio sample edit button.png]]
+
+
+
+
+[[File:Nanostudio sample editor.png]]
+
+
+====Buttons====
+*'''History:''' Shows the last four editing operations. Use it to step backwards or forwards through your most recent edits.
+*'''Zoom:''' All – zooms out to show the entire sample. 
+*'''Selection:''' To start – extends the current selection to the beginning of sample. To end – extends the current selection to the end of the sample.
+None – Clears the current selection.
+*'''Del:''' Deletes the current selection
+*'''Trim:''' Removes all samples before and after the current selection, so that just the selected samples remain.
+*'''Volume:''' These operations alter the volume of the current selection.If no selection is made, they apply to the whole sample:
+**Fade Out – Fades from maximum volume to zero volume.
+**Fade In – Fades from zero volume to maximum volume.
+**Normalize – Readjusts the volume of the entire sample so that it fits the full range.
+**Silence – Sets the volume to zero.
+
+
+
+[[category:Nanostudio|Sample editor]]
+
+[[category:tutorials]]
