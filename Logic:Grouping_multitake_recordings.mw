@@ -1,0 +1,11 @@
+If you wish to do a multiple pass recording from two different microphones or sound sources routed to their own tracks, editing them into a composite track can be easier if the tracks are grouped in a manner where selecting one automatically makes the same selection to the other. 
+
+
+To do this go to the [[Logic:_Grouping_tracks|mixer window and click on the group menu of the tracks]]. Select a group number. Then go to '''Open Group Settings'''. Then check the box next to '''Editing (selection)'''.
+
+Now when you edit [[Logic: Multi takes and composite tracks|multitake recordings of one track]], the grouped tracks selection will reflect it.
+
+
+[[category:Logic|Group]]
+
+[[category:tutorials]]
