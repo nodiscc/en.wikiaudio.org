@@ -1,0 +1,21 @@
+==Logic 9==
+
+Go to '''Preferences / Audio / General /'''  then  '''Track Mute / Solo'''
+
+Set it to '''CPU Saving''' to free up resources when you mute or solo a channel.
+
+
+==Logic 8: disable track when muting (to save CPU)==
+
+In Logic 8 when a channel with plug-ins is muted it still uses CPU resources.
+You can change this so that when a channel is muted Logic "disables" the track hence freeing up the CPU. 
+
+Go to:
+
+
+'''Preferences / Audio / Mute Solo / Slow CPU saving'''
+
+
+[[category:Logic|Save CPU when muting channels]]
+
+[[category:tutorials]]
