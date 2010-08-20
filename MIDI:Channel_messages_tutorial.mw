@@ -1,0 +1,201 @@
+==MIDI voice message==
+
+==Reading binary==
+
+To read the MIDI protocol you must first understand how to read binary. Binary is composed of a series of "on" or "off" values called bits.  Bits are read in 8bit groupings called bytes and these have a decimal value in MIDI.
+
+So in short, <u>'''you need to know how to read a byte and get its decimal equivalent.'''</u>
+
+Bytes are read from right to left and each bit is double in value form the last. An entire byte has 8 bits and is equal to 256 when converted to its
+"decimal" value
+
+
+
+
+
+[[File:Binary 2.png]]
+
+
+
+
+
+This is an example of how to convert a Byte to decimal. This is what you need to know
+
+
+
+[[File:Binary 1.png]]
+
+
+
+
+A <u>byte that begins with a 1 on its left most side is called a status byte. A byte that begins with 0 is called a data byte</u>
+
+
+[[File:Status and data bytes.png]]
+
+
+
+
+
+When bytes are converted to decimal in MIDI you do not include the first bit (the leftmost one). This is called the '''most significant bit''' (abbreviated '''msb''') and is the largest bit of a byte. 
+
+----
+
+==MIDI messages==
+[[File:Simplified_MIDI_implementation_chart.png|thumb|right|Click to see the MIDI channel and system messages listed in this chart.]]
+
+The MIDI specification is divided into two main sections, one is called '''channel messages''' and the other side is called '''system messages'''. 
+Each MIDI cable sends 16 channels of information and the channel messages are messages that affect ''each channel'' independent of one another, the system messages are messages that affect the ''entire'' MIDI module
+
+*Channel messages are messages that affect ''each channel'' independent of one another. 
+
+*The system messages are messages that affect the ''entire'' MIDI module
+
+
+
+
+
+==MIDI Channel messages==
+
+There are 7 MIDI channel voice messages and <u>each one is defined by the first four bits of its status byte.</u> The last four bits (nnnn) of the <u>status byte</u> define which MIDI channel the message is sent on. Four bits = 16 values ( 0-15) . This is why MIDI has 16 channels. 
+
+*'''Note on '''                (status byte 1001nnnn) 
+*'''Note Off '''               (status byte 1000nnnn)
+*'''[[Aftertouch|Mono Pressure]]'''       (status byte 1101nnnn) 
+*'''Poly Pressure'''         (status byte 1010nnnn)
+*'''[[Program change|Program Change]]'''    (status byte 1100nnnn)
+*'''Pitch Bend'''             (status byte 1110nnnn)
+*'''Control Change'''      (status byte 1011nnnn)  ('''Mode Messages''' are control change messages)
+
+===Mode messages===
+Mode messages are the only "channel messages" that affect the entire MIDI device and aren't channel specific.They are control change messages 120-127
+
+[[File:MIDI Channel messages.png]]
+
+
+
+Each channel voice message is composed of a status byte and an undefined number of data bytes. The number of data bytes is technically listed as "undefined", but <u>for clarity and simplicity its easier to visualize each MIDI channel voice message as having one status byte and two data bytes.</u>
+
+When a voice message uses one status byte for multiple data byte messages the process is called "running status."
+
+
+
+[[File:MIDI Channel message bytes.png]]
+
+
+
+
+
+
+Here is how to read a simple MIDI channel voice message.
+
+We will use this as our example message:
+
+'''10010011 00011011 0111111'''    
+
+The first four bits are what define the type of channel voice message.We can see that it's a '''note on''' message because of '''1001'''.
+
+The next four bits represent the channel it is on. '''0011''' . In binary this value is equal to 3, however <u>when determining the MIDI channel we start at 0.</u> In other words, 0 is MIDI channel 1. So 0011 really equals MIDI channel 4.
+
+Since we know this is a '''Note On''' message we know the first data byte is the '''note number''' and it's 27. (00011011 =  27)
+
+And the next data byte is the '''velocity''' of the note which is 127 (0111111 = 127). This is the highest velocity a note can have.
+
+----
+
+==Understanding each channel voice message==
+
+===Note On===
+
+'''Note on''' messages have a status byte of 1001nnnn and two defining data bytes. The first data byte is the note number which can span from 0 to 127 in which Middle C is number 60. The second data byte is the velocity of the note which can be between 1-127 with 1 being the softest and 127 being the more pronounced. A velocity of zero in a note-on event is a note-off event
+
+
+
+
+
+===Note Off===
+
+'''Note off''' messages have a status byte of 1000nnnn and two data bytes. The first is the note number and the second is the velocity. Some MIDI devices ''can'' transmit or recognize note off velocity (also called '''release velocity''') in a similar manner as note on velocity, but this is unconventional and rare. It usually just defaults to 64 and turns off of its respective '''note on''' message.
+
+
+
+
+
+===Mono Pressure===
+
+'''Mono pressure''', also called [[Aftertouch]] or '''Channel pressure''' has a status byte of '''1101nnnn''' and one data byte that transmits the pressure value from 0-127.  It is a type of additional pressure sensitivity that is implemented in some keyboards. It is triggered by playing a note or notes and applying additional pressure as they are held down. This pressure usually makes the notes fluctuate in volume but is sometimes used to trigger other attributes, like modulation.Mono pressure affects all notes being played at a time. In other words, if you play a chord and add additional pressure to one note then all notes will be affected. This is why Mono pressure is also called '''Channel pressure''', because it affects all notes being held down that are on the same channel.
+
+
+
+
+
+===Poly Pressure===
+
+'''Poly pressure''' has a status byte of 1010nnnn and is similar to mono pressure except the pressure message only affects single notes.
+
+
+
+
+
+===Program Change===
+
+A '''program change''' (sometimes called a '''patch change''' or '''preset change''') has a status byte of '''1100nnnn''' and one data byte that defines the program change from 0-127. Program changes are changes in groupings of sounds that are assigned to one of the 16 MIDI channels.
+
+
+
+
+
+===Pitch Bend===
+'''Pitch Bend''' has a status byte of 1110nnnn and two data bytes. The first data byte is the course value and the second data byte is the fine value. Pitch bend messages connects its two data bytes in a way that allows for a 14 bit message. This means that pitch bend messages have a range of 0-16383 values which makes pitch bending in the musical world much more transitionally smoother that only using 127 values which would give a much more abrupt sound. The exact range of the pitch bend effect is dependent on the receiving sound module, but 0-16383 values is the range this MIDI message will transmit.
+
+
+
+
+
+===Control Change===
+
+'''Control Change''' messages have a status byte of 1011nnnn and two data bytes. The first data byte defines the ''type'' of control change message. The second is the value of the control change message 0-127. 
+
+
+A complete list of control change messages is [[MIDI:Control change message list|here]]
+
+
+====Mode messages====
+Mode messages are channel voice control change messages that affect the entire MIDI module in a manner that depends on the Mode messages itself.
+
+
+
+=====All Sounds Off=====
+When a device recieves an All Sounds Off message their oscillators will turn off and their volume envelopes will be set to zero.
+
+=====Reset All Controllers=====
+
+When Reset All Controllers is received, all controller values are reset to their default values
+
+=====Local Control=====
+
+'''Local control''' allows a sound module to receive MIDI while nulling it's abillity to trigger it's own sounds. So for example, if you have a keyboard and local control is set to ''off'', the keyboard will not play notes when you hit the keys but it will respond to an external MIDI input signal that is sending '''note on''' messages and other MIDI data.
+
+=====All Notes Off=====
+
+This message sends a notes off message to all notes on all channels.
+
+=====Omni Off=====
+In '''Omni Off''' a device only responds to one predetermined MIDI channel
+
+=====Omni On=====
+In '''Omni On''' a device responds to all MIDI channels
+
+=====Mono On=====
+Mono is short for [[monophonic]]. This message is used to allow your device to behave monophonically.
+
+=====Poly On===== 
+
+Poly is short for [[polyphony|polyphonic]]. The purpose of this message is to allow a device to behave polyphonically.
+
+
+
+
+[[category:MIDI|Channel]]
+
+[[category:tutorials]]
