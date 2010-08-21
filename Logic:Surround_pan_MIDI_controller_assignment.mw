@@ -1,0 +1,7 @@
+If you have an external MIDI controller you can assign control change 25 (spin) and control change 26 (amount) to two respective knobs or faders. Then when you select a Logic track that has its output set to surround, it will respond to those two controls accordingly, hence allowing you to remotely control surround panning for the selected track.
+
+
+
+[[category:Logic|MIDI surround]]
+
+[[category:tutorials]]
