@@ -1,0 +1,1167 @@
+This manual was copied by permission. This manual is under the copyright of the original owners of blip interactive. This material is not under a creative commons or similar license. If you wish to republish this material please contact blip interactive. 
+
+
+
+==What is NanoStudio?==
+
+NanoStudio is a highly integrated audio app which combines sampling, 
+synthesis, sequencing and mastering.   
+NanoStudio’s has 4 keyboard synthesizers and a set of performance 
+pads for triggering up to 16 different samples.  Each instrument allows 
+in-depth editing and has its own dedicated insert effects. 
+A 6-track sequencer allows you to record, edit and play note and 
+controller events in real- or step-time.  It incorporates many features 
+such as multi-level undo/redo, controller editing/automation and allows 
+real-time editing as the song plays. 
+The mixer is used to combine the audio signals from the instruments 
+and apply global ‘send/return’ effects to the final mix. 
+ 
+You can record samples using a microphone or resample a section of 
+your song.  Resampling is a powerful technique which allows you to 
+‘bounce down’ your mix complete with effects and assign that sample to 
+a trigger pad so you can re-use NanoStudio’s instruments for something 
+else.  Alternatively, you can assign a sample to a synth for further 
+manipulation. 
+Once you are happy with your composition you can render the final mix 
+to a wav file. 
+NanoSync is a stand-alone application for the PC or Mac which allows 
+you to transfer your own samples to your device over Wi-Fi.  You can 
+also use it to download final mixes to your computer. 
+Each of these elements will be described in detail in later sections of this 
+guide.  If you are new to making electronic music, you may find it 
+helpful to refer to the glossary of terms at the back of the manual as 
+you go.
+
+
+[[File:Nanostudio signal flow.png]]
+
+
+===Introduction=== 
+===Common controls ===
+
+'''Up/down buttons''' 
+
+[[File:Nanostudio up down buttons.png]]
+
+
+
+
+'''Rotary knobs'''
+
+[[File:Nanostudio rotary knobs.png]]
+
+ 
+If you prefer a rotary (angular) adjustment style you can change it in 
+the Manage/Settings page, along with the control sensitivity.
+
+
+===The file dialog ===
+The file dialog is used for choosing files and loading/saving samples and
+
+[[File:Nanostudio file dialog.png]]
+
+
+
+===The status bar=== 
+
+The status bar is always located at the top of the screen.  It is used to 
+navigate pages, control sequencer operation and provide context- 
+sensitive help information.
+
+[[File:Nanostudio status bar.png]]
+
+
+===The main menu ===
+
+[[File:Main menu on button nanostudio.png]]
+
+Invoke the main menu by tapping the button at the top left of the 
+screen.  
+Some instruments (such as the synths) will allow you to use them even 
+when the main menu is visible.  This is useful for muting tracks without 
+interrupting a performance.
+
+
+[[File:Nanostudio Main menu.png]]
+
+
+
+
+
+
+===Creating, loading and saving projects===
+
+You can think of a project as a single song together with all the settings 
+the song needs.  Projects may also contain samples. 
+
+
+[[File:Nanostudio menu manage button.png]]
+
+Tap the menu button and choose ‘MANAGE’. 
+Select the ‘Project’ tab. 
+You can now use the ‘New’, ‘Save’, ‘Save As…’ or ‘Load’ buttons to 
+manage your project.
+
+
+===Playing and stopping the song ===
+
+[[file:Nanosynth play button.png]]
+
+Tap the play button on the status bar.  The song will start playing. 
+
+[[file:Nanosynth stop button.png]]
+
+Tap the stop button to stop the sequencer.
+
+
+===Resetting the song position ===
+
+[[file:Nanosynth rewind button.png]]
+
+'''Single-tap''' the locate button to set the song position to the loop start. 
+'''Double-tap''' to go to the beginning of the entire song.
+
+The actual loop points are set in the Song Editor by dragging on the bar 
+ribbon.  The Song Editor will be covered in detail in a later section.
+
+
+===Real-time recording===
+
+[[file:Nanosynth record button.png]]
+
+
+Tap the record button to begin real-time recording.  The sequencer will 
+begin recording any notes or controller changes you play on the 
+instruments.
+
+
+The sequencer tracks are assigned as follows:
+
+[[File:Nanostudio sequencer track assignments.png]]
+
+
+
+===Quickly correcting mistakes ===
+
+If you make a mistake during a recording session there are a couple of 
+ways you can quickly correct it
+
+===='Undoing the last recording session====
+
+
+[[File:Nanostudio undo.png]]
+
+
+Invoke the main menu and tap ‘UNDO’. The last recording session will be undone.
+A new recording session is started whenever you enter record mode. If you have recorded something you’re happy with it’s a good idea to briefly stop the sequencer (or briefly hop in and out of play mode) to begin a new session. You can then always undo the session to the last point you were happy with.
+NOTE: If you edit the song using the Song Editor, you will lose the ability to undo the last real-time recording session.
+
+
+
+====Removing notes and controller events====
+
+[[File:Nanostudio record delete.png]]
+
+
+Whilst recording, you can tap the record button to toggle record delete mode on or off.
+In record delete mode, any notes you play are deleted from the sequence rather than added. Additionally, touching a controller such as the pitch wheel or XY pads will remove the events for that controller.
+
+
+====Editing notes and controller events====
+
+If you need to do something more complex than undoing the last session or deleting notes then you need to use the Song and Pattern Editors, which are detailed later in this manual.
+
+
+===TRG-16 Performance Pad===
+
+====Overview====
+
+The TRG-16 is an instrument with 16 pads. You can assign a sample to each pad which will be triggered when the pad is tapped or held.
+The TRG-16 has 3 output busses. All busses have their own effects sends, and busses 2 and 3 also have a filter section. For each pad you may choose which bus it should use for its output. This allows you to apply, say, a reverb to some samples but leave others unaffected.
+
+[[File:Nanostudio TRG-16 performace pad.png]]
+
+The colour of a pad indicates the output bus it is using:
+
+[[File:Nanostudio TRG-16 output color bus.png]]
+
+
+====Using the TRG-16 with the sequencer====
+Unlike the synth instruments, the TR-16 has two sequencer tracks dedicated to it (tracks 5 and 6). This helps you to organize your song a little better – for example, you may choose to put your drums on one track and other samples on the other. This makes for easier editing when you come to arrange your song.
+
+[[File:Nanostudio record track slector.png]]
+
+
+To choose the sequencer track that recording will take place on, tap the home button and use the Record Track control.
+
+The sequencer will also record the changes to some controls in addition to your performance on the pads. The controls which are recorded are as follows:
+
+
+[[File:Nanostudio record controls.png]]
+
+
+You can easily recognize which controls are being recorded because they have a flashing icon next to them in record mode.
+
+====Importing and exporting banks====
+
+A bank consists of a set of 16 samples together with the settings required to play each sample. Exporting a bank means you can save your favourite setups for use in new projects. When you begin a new project, you can import an existing bank and avoid the process of setting up each pad individually. NanoStudio has some default banks to get you started.
+
+
+[[File:Screen shot 2010-08-07 at 10.01.47 PM.png]]
+
+
+To import a bank, tap the home button and then tap the import button.
+Once you have chosen a bank, NanoStudio will give you the option to copy the bank’s samples to the current project.
+Copying the samples allows you to edit them without worrying about affecting the original bank or any other projects using the bank. If in doubt, you should use this option.
+If you choose to use the original samples, then any changes you make to them will also affect other projects using them.
+
+====Setting up an output bus====
+
+[[File:Nanostudio bus buttons.png]]
+
+Firstly, select the output bus you wish to modify.
+
+[[File:Screen shot 2010-08-08 at 3.08.28 AM.png]]
+
+
+====Using the pads====
+
+Tap a pad to play the sample assigned to it. Depending upon how the pad has been set up (see Editing a Pad) you may need to hold the pad down to continue playing the sample.
+NOTE: If a sample could not be found (eg. it has been deleted) the sample’s name will be shown in red.
+
+
+====Muting a pad====
+
+[[File:Nanostudio pad mute.png]]
+
+Tap the mute button to enable mute mode.
+'''Tap''' to toggle the mute on a single pad or '''drag''' to mute multiple pads. You can use more than one finger if you wish.
+Muted pads are shown with a bold mute logo. Tap the mute button again to disable mute mode.
+
+
+
+====Pad velocity and Autobeat====
+
+Pad velocity refers to how hard a pad is struck, and determines the volume at which the sample will be played. Because the iPhone’s screen is not velocity sensitive, the velocity is instead set using a rotary knob.
+Autobeat simulates tapping a pad at regular intervals and is a quick way to play or record repetitive patterns.
+
+[[File:Nanostudio performance page button.png]]
+
+Tap the performance page button.
+
+
+[[File:Nanostudio performance page.png]]
+
+====Editing a pad====
+
+Tap the edit button and then choose the pad you wish to edit.
+
+
+[[File:Nanostudio pad editor.png]]
+
+
+===Eden Synth===
+
+====Overview====
+
+Eden is a keyboard instrument which emulates a classic analogue subtractive synth.	NanoStudio has 4 identical Eden synths assigned to sequencer tracks 1-4.
+A sound setup is called a Preset. There are 192 presets, arranged into 3 banks of 64.
+
+The two Global banks (A and B) contain presets which are shared between all projects. These banks contain a wide range of example presets to get you started, but you are free to overwrite them with your own.
+The Project bank contains presets which are specific to the current project. This is a good place to save presets when you don’t want them to be affected by other projects.
+
+
+[[File:Nanosynth eden overview.png]]
+
+
+====Pages====
+
+=====Performance Modulation Page=====
+
+
+
+
+The Performance Modulation page is used to control modulation parameters in real-time. Movements can be recorded and played back using the sequencer.
+Use the Patchbay (see later section) to set which preset parameters are controlled.
+To use the pitch bend wheel, touch the bar and drag up or down. You can set the pitch wheel’s range in the project Manage page, under the Settings tab.
+The XY pads are controlled by touching within the square and then dragging up/down or left/right. You can also tap within the square.
+Use the ACCEL button to control an XY pad using the accelerometer (tilt) instead of a touch. Eden will only respond to tilt movements when this page is visible.
+When you write the current preset to a bank, the current controller positions are written.
+
+
+[[File:Nanosynth eden performance page.png]]
+
+
+=====Oscillator Page=====
+
+[[File:Nanosynth ocillator page.png]]
+
+
+Oscillators generate sound. An oscillator’s waveform determines how it sounds. For example, a sine wav sounds pure and smooth and a sawtooth wave is bright and buzzy. The oscillator is where everything begins – its output is fed other synth components such as filters and envelope generators for further processing.
+Each synth voice has two oscillators, A and B. Each oscillator may have its own waveform and transpose (pitch offset).
+
+
+The Mod control determines how the output of the two oscillators is combined.
+Mix – the outputs of the two oscillators are simply mixed (added) together Ring 1 – the outputs of the two oscillators are multiplied together. This can produce harsh, metallic sounds when the oscillators are transposed. Note that some transpose settings can cause the two oscillators to cancel out and produce silence. Ring 2 – as ring 1 but the pitch of oscillator B is not changed by the keyboard. Good for discordant non-musical sounds.
+Sync – oscillator B resets oscillator A at the start of its cycle. Oscillator B’s waveform is not used, only its transpose - this determines the pitch of the note. Transposing oscillator A will change the tonal quality of the sound. In Sync mode, the A-B Mix will also perform this function – this allows you to modulate it via the Patchbay if you wish.
+Sample – the two oscillators are disabled and a sample can be used as the sound generator.
+Oscillator B can be disabled in most modes by setting its waveform to ‘OFF’. When oscillator B is disabled, A-B Mix and Detune are not available.
+The A-B Mix knob sets the volume balance between the two oscillators. In Sync mode, it doubles as a tonal control by modulating Oscillator A’s frequency.
+The Detune knob is used to pitch the oscillators apart by a small amount (up to one semitone). Low settings create a fatter chorused sound. Higher settings will make the voice sound out of tune.
+
+=====Filter Page=====
+
+[[File:Nanosynth filter page.png]]
+
+
+Filters are synth components which alter the oscillators’ sound by removing certain frequencies. Because a filter tends to only remove frequencies and not add new ones (known as subtractive synthesis) the effects of a filter are most noticeable when it is used to process a waveform already rich in frequency content. As a general rule, waveforms which have lots of ‘sharp edges’ (such as squares and saws) have a rich frequency content and respond well to filtering.
+
+'''There are 4 filter types:'''
+
+*OFF – Filter is disabled 
+*LP (Low Pass) – the filter lets low (bass) frequencies through and suppresses high (treble) frequencies. Use this to create smoother tones. 
+*BP (Band Pass) – the filter suppresses low (bass) and high (treble) frequencies but lets a band of mid frequencies through. Use this to create thinner tones. 
+*HP (High Pass) – the filter lets high (treble) frequencies through and suppresses low (bass) frequencies. Use this to create lighter, buzzy tones.
+
+The Slope knob sets how steeply the filter cuts unwanted frequencies. Use the 12dB setting if you can to reduce CPU load.
+
+The Cutoff knob determines point in the frequency range where the filter begins to cut unwanted frequencies.
+The Q knob determines the resonance of the filter. At extreme values it produces a ringing tone at the Cutoff frequency. Be careful to avoid distortion with very high settings.
+Key tracking is enabled by touching the ‘Track Keys’ button. When enabled, the filter’s cutoff frequency is shifted according to the pitch of the current note. This is useful for smooth pad sounds when you wish each note to have the same tonal quality.
+When you play a note, a fixed cutoff frequency can sound quite boring. The filter envelope is used to add an extra amount to the filter’s cutoff 
+frequency over the duration of the played note. 
+'''
+Its controls are as follows:'''
+
+*Attack Rate – How quickly the envelope reaches maximum after the note is started Decay Rate – How quickly the envelope drops to the Sustain Level after the initial peak
+*Sustain Level – The level at which the envelope remains until the note is released. Release Rate- How quickly the envelope fades to minimum when a note is released
+*Amount – How much of the envelope is added to the filter’s cutoff frequency Invert – Flips the output of the envelope so that it begins and ends at the maximum cutoff rather than the minimum
+
+=====Amp page=====
+
+[[File:Nanosynth amp page.png]]
+
+Most musical instruments produce sounds whose volume level varies over time. For example, a crash cymbal begins initially with a very high volume which then reduces slowly over time. A violin (when bowed softly) may increase in volume, hold at a certain level and then fade away again.
+The Amp Envelope the synth component which is responsible for varying the volume of a note over the duration of the played note.
+
+'''The controls are as follows:'''
+
+*Attack Rate – How quickly the envelope reaches maximum after the note is started Decay Rate – How quickly the envelope drops to the Sustain Level after the initial peak
+*Sustain Level – The level at which the envelope remains until the note is released. Release Rate - How quickly the envelope fades to minimum when a note is released
+*Amount – The overall volume of the envelope Invert – Flips the output of the envelope so that it begins and ends at the maximum volume rather than the minimum
+
+
+The polyphony control determines the maximum number of notes the synth can play at once. If your sound does not require many voices, use the lowest possible value to reduce CPU load.
+Set the polyphony to ‘1 – Mono’ to restrict the synth to playing only one note at a time. This allows you to do fast synth solos by holding one note down on the keyboard as you tap other notes.
+Set the polyphony to ‘1 – Glide’ to enable glide (also known as portamento). Glide also restricts the synth to playing only one note at a time but unlike Mono the synth will smoothly slide the pitch between glissando (overlapping) notes. The Glide Time knob determines how long the note takes to glide.
+The Reverb control determines how much of the synth’s output is sent to the mixer’s global reverb effect.
+The Delay control determines how much of the synth’s output is sent to the mixer’s global chorus/delay effect.
+
+=====LFO/Aux Envelope Page=====
+[[File:Nanosynth lfo aux envelope.png]]
+
+LFO stands for Low Frequency Oscillator. An LFO produces a waveform just like the voice oscillators, but the difference is that the LFO is used as a sound modifier rather than a sound generator. The other difference is that LFO’s frequency (the rate at which it varies) is much lower – in the range of 0-20Hz rather than the audible range of 20Hz-20kHz used by the voice oscillators. A common use for an LFO would be to generate vibrato, where the pitch of a note is made to vary up and down continuously over time.
+A synth voice has 4 LFOs. Use the Patchbay page (see later section) to set which preset parameter is controlled by each LFO. In the vibrato example used above, you could use the Patchbay to set up LFO 1 so that it controls the voice’s pitch.
+Choose the LFO you wish to edit by using the button with the quarter circle legend. The numbered LED indicates which LFO is currently being edited.
+
+'''Set the LFO’s waveform using the -/+ buttons:'''
+
+*Sine - A smoothly varying waveform. Square – The waveform jumps between minimum and maximum. 
+*Saw Up – The waveform ramps smoothly up to the maximum and then sharply drops to the minimum. 
+*Saw Down – The waveform ramps smoothly down to the minimum and then sharply rises to the maximum. Triangle – The waveform ramps between minimum and maximum. 
+*Rand Step – The waveform steps between random values. Rand Ramp – The waveform ramps smoothly between random values.
+
+The Delay knob determines how quickly the LFO amount is increased as the note is held.
+The Amount knob determines how much of the LFO’s output is applied to the controlled parameter (as determined by the Patchbay).
+The Rate parameter controls the repeat rate (ie. frequency) of the LFO. 
+
+'''Tap the Sync button to cycle between three modes:'''
+
+*Off – The LFO runs continuously. 
+*Key – The LFO is reset to the beginning of its waveform cycle when the voice is started. 
+*Beat – The speed and phase (ie. position) of the waveform is synchronised to the sequencer’s current tempo. 
+Use the rate control to set the time division.
+
+The Aux Envelope is a general-purpose envelope which may be configured to control any preset parameter via the Patchbay Page. For a description of envelope parameters, refer to the Amp Page section.
+
+
+=====Patchbay Page=====
+
+
+[[File:Nanosynth eden patchpay.png]]
+
+
+The Patchbay page is used to connect a modulation source (such as the output of an envelope, LFO or XY Pad) to a parameter. Its name derives from the good old days of analogue synths when patch cables connected the various components of the synth together in order to create a particular sound.
+
+Each row of the list shows a modulation source, the parameter it is connected to and the amount of modulation (change) that will be applied to that parameter.
+
+Scroll through the list by dragging up or down. Tap on the modulation source you wish to connect. The selected row is highlighted with a red bar.
+
+Set the destination using the first column’s -/+ buttons. This is the component of the synth that the modulation source will be sent to.
+
+Set the parameter using the second column’s -/+ buttons. The available parameters are determined by the destination you chose.
+
+Set the amount of modulation that will be applied using the third column’s -/+ buttons. Positive values add the source’s value to the destination and negative values will subtract.
+
+
+=====Effects page=====
+
+
+[[File:Nanosynth effects page.png]]
+
+
+The synth has two insert effects, a Waveshaper and a Chorus/Delay. These effects are referred to as insert effects because they are inserted into the signal chain between the synth and the mixer. The master output of the synth is fed through Waveshaper and then through the Chorus/Delay before eventually arriving at the mixer.
+
+Unlike the mixer’s send effects, insert effects are not shared between instruments - each of the Eden synths in NanoStudio has its own dedicated pair of insert effects.
+
+If you don’t require an effect, disable it by tapping the effect’s power button. This will reduce CPU load.
+
+======5th PLANET Waveshaper======
+
+5th PLANET is best suited to creating distortion effects. You can use it on mono (single) voices to harden up the sound, or on polyphonic (multiple) voices for guitar-like power chords. There are 5 different wave shapes, ranging from a soft clip (overdriven amp) to hard modulation effects. There is also an EQ only setting, where no waveshaping takes place and only the Brightness control has an effect on the sound.
+
+Choose the wave shape according to taste using the -/+ buttons.
+
+The Drive knob determines the intensity of the wave shape effect.
+
+The Brightness knob determines the tonal content. Low values will boost bass and cut treble. High values will boost treble and cut bass. When centered, the control has no effect.
+
+The Boost control works like an output volume control. Its typical use is to compensate the output volume of the effect so that it similar to the volume when the effect is disabled.
+
+=====CHRONOS Chorus/Delay=====
+
+Chronos may be used to add a chorus/flanger effect. It does this by delaying the audio signal by a small amount and then mixing it with the original signal. The amount of delay is varied over time and the signal is fed back on itself to create a richer sound. The flanger can be considered to be a harsher variation on the chorus effect.
+
+Chronos can also be used as a delay effect. This is achieved but making a delayed version of the signal and mixing it with the original. The delay is much longer than that used by the chorus/flanger effect so that discrete echoes can be heard. Feedback can be applied to create multiple repeating echoes.
+
+'''In Chorus Mode, the following controls are available:'''
+
+*Delay – A small fixed delay value 
+*Depth – How much the delay time is varied 
+*Feedback – How much of the delayed signal is fed back to the input again. Low values produce negative feedback and high values result in positive feedback. Positive feedback tends to have more bass content than negative feedback. Extreme values can create a ringing sound. When centred, the control has no effect.
+*Rate – How quickly the delay time is varied. When using fast rates, you may need to reduce the Depth control if you want to avoid pitch changing effects.
+
+'''In Delay/X-Delay Mode, the following controls are available:'''
+
+*Amount – The volume of the delayed signal (echo volume) 
+*Feedback – How much of the delayed signal is fed back (number of echo repeats) 
+*Time (Beat Sync disabled) – The length of the delay (time between echoes) 
+*Rate (Beat Sync enabled) – The time division applied to the sequencer’s current tempo (echo rate expressed in quarter, eighth notes etc.) 
+*Beat Sync button – Tap to enable/disable synchronisation with the sequencer’s current tempo
+
+
+===Sampling and the Sample Editor===
+
+====Overview====
+
+Sampling and sample editing may be accessed from the TRG-16 Performance Pad or the Eden synths.
+
+Sampling is the process of capturing audio using the microphone. Since the iPhone’s microphone is mono, samples captured in this way will also be mono.
+
+Resampling is the process of capturing a section of the song from NanoStudio’s main mix stereo output. It’s useful for ‘bouncing down’ parts to free up additional instruments, or to further process a loop using the synth.
+
+Samples can also be transferred to or from the device over WiFi using the NanoSync application for PC or Mac. This is detailed later in the manual.
+
+The Sample Editor is used to edit samples. It is possible to edit both mono and stereo samples, but stereo samples are represented as mono in order to simplify the editing view.
+
+The Sample Editor is best suited to quickly tidying up samples recorded from the microphone. Currently it does not support cut, copy or paste operations. There are 4 levels of undo/redo history available.
+
+====Sampling====
+
+'''From the TRG-16 Performance Pad:'''
+
+[[File:Nanostudio how to sample 1.png]]
+
+Tap EDIT and choose the pad you wish to sample to. Tap the MIC button.
+
+
+'''From the Eden Synth:'''
+
+[[File:Nanotudio how to sample 2.png]]
+
+From the Oscillator Page use the MOD button to select SAMPLE mode. 
+
+Tap the record button and select the Sample tab.
+
+
+'''You can now set up the sample properties:'''
+
+[[File:Nanosynth sampling part 3.png]]
+
+Note: If you enable Loop, NanoStudio will continuously sample until you press stop. This is a good way to capture a sound when you’re not sure exactly when that sound is going to occur.
+
+====Resampling====
+
+'''From the TRG-16 Performance Pad:'''
+
+[[File:Nanostudio how to resample 1.png]]
+
+
+
+
+
+Tap EDIT and choose the pad you wish to sample to. Tap the RESAMPLE button.
+
+From the Eden Synth:
+
+
+[[File:Nanostudio resample 2.png]]
+
+
+From the Oscillator Page use the MOD button to select SAMPLE mode. 
+Tap the record button select the Resample tab.
+
+You can now set up the resample properties: 
+
+*Start from bar – The bar of the song to begin sampling 
+*Number of bars – The number of bars to sample
+*Pre-roll bars – The number of bars to play before sampling begins. This is a good way to capture the tail end of sustained notes and effects to make a perfect loop.
+
+
+Tap REC when you are ready to begin.
+
+
+[[File:Nanostudio sample record button.png]]
+
+
+====Editing samples====
+
+From the TRG-16 Performance Pad:
+
+[[File:Nanostudio sample edit 1.png]]
+
+Tap EDIT and choose a pad. Tap the SAMPLE EDIT button.
+
+
+From the Eden Synth:
+
+
+
+From the Oscillator Page use the MOD button to select SAMPLE mode. Tap the EDIT button.
+
+Note: The EDIT button will not be available if the synth does not have a sample loaded.
+
+[[File:Nanostudio sample edit 2.png]]
+
+From the Oscillator Page use the MOD button to select SAMPLE mode. Tap the EDIT button.
+
+Note: The EDIT button will not be available if the synth does not have a sample loaded.
+
+
+===The sample editor===
+
+[[File:Nanostudio sample editor.png]]
+
+
+====Buttons====
+*'''History:''' Shows the last four editing operations. Use it to step backwards or forwards through your most recent edits.
+*'''Zoom:''' All – zooms out to show the entire sample. 
+*'''Selection:''' To start – extends the current selection to the beginning of sample. To end – extends the current selection to the end of the sample.
+None – Clears the current selection.
+*'''Del:''' Deletes the current selection
+*'''Trim:''' Removes all samples before and after the current selection, so that just the selected samples remain.
+*'''Volume:''' These operations alter the volume of the current selection.If no selection is made, they apply to the whole sample:
+**Fade Out – Fades from maximum volume to zero volume.
+**Fade In – Fades from zero volume to maximum volume.
+**Normalize – Readjusts the volume of the entire sample so that it fits the full range.
+**Silence – Sets the volume to zero.
+
+
+===Sequencer===
+====Overview====
+
+The sequencer is responsible for recording and playing back your performance. It does not record audio, but instead records the sequence of the notes (and controller movements) that you play. It then plays back that sequence to repeat your original performance.
+
+An event is the general term given to a note or controller movement:
+
+Note event – A note event consists of the note that was played (eg. C#), the duration the note was played for, and a velocity (how hard the note was struck) which determines the volume of the note. The touch interface is not velocity sensitive, but note velocities may still be modified in the editor.
+
+Controller event – A controller event consists of the controller which was moved (eg. the pitch bend wheel) and the position the controller was moved to.
+A sequence of events is contained within a part. When recording, parts are automatically created by the sequencer and then the events generated by the performance are stored inside it.
+
+Parts (and the events contained within them) are edited using the Part Editor.
+
+The Song Editor is used to finally arrange the parts onto tracks. A track feeds the sequence of events to the instrument assigned to that track.
+
+The sequencer has 6 tracks which are always assigned as follows:
+
+[[File:Nanostudio sequencer track assignment chart.png]]
+
+
+To give a simple example, let’s say that you enter record mode and play a 3 note chord using Eden 1:
+
+*The sequencer will create a part on track 1 long enough to hold the chord you played. 
+*The part will hold 3 note events, one for each of the notes that you played.
+
+===Song editor===
+
+[[File:Nanostudio song editor.png]]
+
+
+
+'''Tools:''' Set up song tempo, time signature and metronome.
+Erase song and clear unused patterns
+
+'''History:''' Shows the last four editing operations. Use it to step backwards or forwards through your most recent edits.
+
+'''Zoom:''' 
+*Min – zooms to the minimum level so that the entire song can be seen.
+*All – zooms to all parts within the song.
+*Selection – zooms to fit the current selection
+
+'''Select:'''
+*Add to – toggles ‘add to selection’ mode 
+*To start – extends the current selection to the beginning of the song 
+*To end – extends the current selection to the end of the song 
+*Track – selects all parts on the same track as the current selection Inverse – inverts the current selection 
+*All – selects all parts in the song
+
+'''Draw:''' Enables draw mode. Use draw mode to create new empty
+parts by tapping or dragging in the editing window.
+
+'''Del:''' Deletes the current selection
+
+'''Copy:''' Copies the current selection
+
+'''More:'''
+*Split – splits the selected parts at the current song position 
+*Join – joins the selected parts together. Only two parts may be selected for joining. 
+*Properties – shows the part properties dialogue. From here you can convert a part to a pattern, and also set which synth preset the part will use.
+
+'''Edit:''' Edits the selected part using the part editor. Only one part should be selected. You can also edit parts by double tapping on them.
+
+
+====Selecting parts====
+Tap once on a part to select it. Drag to select more than one part. 
+
+Selected parts are shown in orange.
+
+To deselect all parts, tap on the background.
+
+The Select button (see Command Buttons) has a number of useful operations to make the task of selecting parts easier. 
+
+As you grow familiar with the song editor you will find that you will use it extensively.
+
+For more complex selection, use ‘add to selection’ mode (see the Select Command Button).
+
+In this mode, tapping on parts will toggle their selection state rather than starting a new selection each time.
+
+The text on the status bar at the top of the screen helps when editing. It will tell you the number of selected parts, the start/end points and the length of the selection in bars.
+
+
+====Editing parts====
+'''Double-tap''' on a part to invoke the Part Editor. Alternatively, select the part you wish to edit and tap the ‘Edit’ button.
+
+====Zooming====
+You will often find that zooming use the ‘Zoom’ button (eg. ‘Zoom All’ and ‘Zoom to Selection’) is a quicker way of working on tasks than using pinch zoom.
+
+
+====Setting the tempo and metronome====
+
+*Tap the ‘Tools’ button 
+*Use the ‘Tempo’ tab to set the tempo and time signature 
+*Use the ‘Preferences’ tab to set the metronome and count-in
+
+====Setting the song loop begin/end points====
+
+Drag the grey triangular markers on the bar ribbon. The bar ribbon is the horizontal strip at the top of the editing window containing the bar numbers.
+The blue area represents the loop region.
+
+====Erasing the song====
+
+To fully erase the song including all patterns and set the tempo/metronome settings to defaults:
+*Tap the ‘Tools’ button 
+*Tap the ‘Clear’ tab 
+*Choose ‘Song’ and tap ‘Clear’
+
+====Moving parts====
+
+*Select the parts you wish to move 
+*Drag the ‘Move’ drag handle left or right to move the parts to a different position in the song
+*Drag the ‘Track’ drag handle up or down to move the parts to a different track.
+
+====Changing the length of parts====
+
+*Select the parts you wish to resize 
+*Drag the ‘Length’ drag handle left or right to change the length
+
+====Copying parts====
+
+*Select the parts you wish to copy 
+*Tap ‘Copy’
+
+The editor places the copies after the current selection. If the copies are overlapping existing parts, use the move drag handle to move them elsewhere.
+
+====Deleting all the parts on a track====
+*Select one of the parts on the intended track 
+*Tap the ‘Select’ button and choose ‘Track’ 
+*Tap ‘Delete’
+
+====Splitting parts====
+
+*Select the parts you wish to split 
+*Tap on the loop bar to move the song position to the intended split position 
+*Tap ‘More..’ and choose ‘Split’
+
+====Joining parts====
+
+*Select the two parts you wish to join together 
+*Tap ‘More..’ and choose ‘Join’
+
+====Parts and patterns (advanced)====
+
+When you record a performance or use the ‘Draw’ function, the sequencer will create a part. Parts are unique – when a part is copied, all events inside that part are also copied. Any changes you then make to the original part won’t affect the copies, because they have their own set of events.
+
+Sometimes you’d like to edit a part (such as a repeating bass line or drum loop) and have that change automatically reflected in all the copies. You can do this by turning a part into a ''pattern''.
+
+
+To turn a part into a pattern (or a pattern back into a part):
+
+*Select the part 
+*Tap ‘More..’ and choose ‘Properties’ 
+*Select the ‘Pattern’ tab and choose ‘Convert to Pattern’
+
+A pattern is shown in the editing window with a number in its top left hand corner. This is the number of the pattern it uses.
+
+When you copy a pattern, the copy will use the same pattern number as the original. Editing the copy or the original will have the same effect, since they both share the same set of events.
+
+Patterns will automatically repeat if their length is stretched in the song editor. For example, if a pattern is 2 bars long and its length is dragged to 16 bars in the song editor, it will repeat 8 times.
+
+When you split or join a pattern, the song editor will try to preserve it as a pattern if it can. In cases where this is not possible (eg. where two different patterns are joined together), the editor will convert it into a part.
+
+====Clearing unused patterns (advanced)====
+
+When you delete a pattern in the editor, the events for that pattern number are not deleted in case you wish to use them again later.
+
+You can delete all patterns not in use by the song as follows:
+
+*Tap the ‘Tools’ button 
+*Tap the ‘Clear’ tab 
+*Choose ‘Patterns’ and tap ‘Clear’
+
+====Part synth presets (advanced)====
+By default, each part plays using the synth’s current preset. However, you can make a part tell the synth to use a different preset. This is useful if you want to use one preset for the introduction of a song and then change to a second or third in later parts of the song.
+
+To change a part’s synth preset:
+
+*Select the part 
+*Tap ‘More..’ and choose ‘Properties’ 
+*Select the ‘Preset’ tab and tap ‘Enable’ 
+*Set the synth preset that the part should use
+
+You do not have to do this for all later parts on the track. They will all now use this preset.
+
+<nowiki>*</nowiki>  Only Eden tracks support this function – TRG-16 does not support presets.
+
+====Part editor====
+
+[[File:Nanostudio part editor.png]]
+
+
+====Part editor buttons====
+
+'''Tools:''' 
+*Choose the grid settings for editing. 
+*Copy events from another pattern. 
+*Clean up identical events and controller events event.   
+'''History:'''  
+Shows the last four editing operations. Use it to step backwards or forwards through your most recent edits.
+'''Zoom:''' 
+*Min – zooms to the minimum level so that the entire part can be seen. 
+*All – zooms to all events within the part. 
+*Selection – zooms to fit the current selection 
+'''Select:''' 
+*Add to – toggles ‘add to selection’ mode 
+*To start – extends the current selection to the beginning of the part 
+*To end – extends the current selection to the end of the part 
+*Note – selects all events on the same note as the current selection
+*Inverse – inverts the current selection 
+*All – selects all events in the part 
+'''Draw:'''
+*Enables/disables draw mode.  Using draw mode you can create new events by tapping or dragging in the editing window. 
+*'''Del:''' Deletes the current selection 
+*'''Copy:''' Copies the current selection 
+*'''Quantize:''' Quantizes the current selection 
+*'''Done:''' Returns to the song editor
+
+====Selecting events====
+
+
+Tap on an event to toggle its selection.  Drag to select more than one  event.   
+
+Selected events are shown in orange.   
+
+To deselect all events, tap on the background.  
+
+The Select button (see Command Buttons) has a number of useful operations to make the task of selecting events easier.  As you grow familiar with the part editor you will find that you use it extensively. 
+
+You can turn the default ‘add to selection’ mode off (see the Select Command Button).  When ‘add to selection’ is off, a tap or drag always starts a new selection. 
+
+The text on the status bar at the top of the screen helps when editing. It will tell you the range of selected events and the start/end points. 
+
+
+====Zooming==== 
+You will often find that zooming use the ‘Zoom’ button (eg. ‘Zoom All’ and ‘Zoom to Selection’) is a quicker way of working on tasks than using 
+pinch zoom.
+
+====Choosing the grid setting for editing====
+
+Many editing operations (eg. move, copy and draw) will snap according to the current grid setting. To change the grid setting (or turn it off altogether):
+
+*Tap the ‘Tools’ button
+*Choose the ‘Grid Setting’ tab 
+*Set your preferred grid settings
+
+====Deleting all events====
+*Tap the ‘Select’ button and choose ‘All’ 
+*Tap the ‘Delete’ button
+
+====Moving events====
+*Select the events you wish to move 
+*Drag the ‘Move’ drag handle left or right to move the events to a
+different position in the part
+
+====Transposing events====
+
+*Select the events you wish to transpose 
+*Drag the ‘Transpose’ drag handle up or down to move the events to a different note. 
+The status bar text is very useful when transposing events.
+
+====Changing the length of events====
+
+*Select the events you wish to resize 
+*Drag the ‘Length’ drag handle left or right to change the length.
+
+====Copying events====
+
+*Select the events you wish to copy -	Tap ‘Copy’
+
+The editor places the copies after the current selection. If the copies are overlapping existing events, use the move drag handle to move them elsewhere.
+
+====Deleting all events of a particular note====
+
+*Select one of the events using the note 
+*Tap the ‘Select’ button and choose ‘Note’ 
+*Tap ‘Delete’
+
+====Quantizing events====
+
+*Select the events you wish to quantize 
+*Tap ‘Quantize’ and choose the quantize settings. The settings default to the current grid.
+
+====Creating 16th notes====
+
+*Tap the ‘Tools’ button 
+*Choose the ‘Grid Setting’ tab 
+*Set the grid to 1/16 (you may also choose dotted, triplets and swing) 
+*Close the tools dialogue and tap the ‘Draw’ button 
+*Drag in the editor window to draw the events
+*Before you release the touch, you can move the drawn events up or down to place them on the intended note.
+
+
+
+You will find this easier if you zoom into the area of interest before you begin drawing. The best way to zoom when drawing notes is to double-tap on the keyboard.
+
+Alternatively, zoom in afterwards and use the drag handles to reposition the drawn notes – the last set of notes that you drew will already be selected.
+
+====Copying events from another pattern====
+
+*Tap the ‘Tools’ button 
+*Choose the ‘Copy’ tab 
+*Select the source pattern and tap ‘Copy’
+
+The copied events will be merged with any events already contained within the part.
+
+====Editing note velocities====
+
+*Touch the ‘Event Type’ button on the top right hand corner of the editor window and choose ‘Velocity’
+*Select the events you wish to edit and use the vertical drag handle to change their velocities.
+*Alternatively, tap the ‘Draw’ button and drag in the editor window to draw the new velocities.
+
+If your part contains lots of events, it can be difficult to distinguish one note from another. In this case, select the notes that you wish to edit before you change to the velocity view. Only the selected notes’ velocities will be shown.
+
+====Editing controller values====
+
+*Touch the ‘Event Type’ button on the top right hand corner of the editor window and choose the controller you wish to edit.
+*Select the controller events you wish to edit and use the vertical drag handle to change their velocities.
+
+====Drawing controller events====
+
+*Touch the ‘Event Type’ button on the top right hand corner of the editor window and choose the controller you wish to edit.
+*Tap the ‘Draw’ button and drag in the editor window to draw the new controller events.
+
+
+The density of the controller events drawn depends upon the current grid settings. Be careful with small grid settings such as 1/32 – you can fill up the pattern very quickly. Try to use the largest grid setting you can.
+
+====Reducing the number of controller events====
+
+
+*Tap the ‘Tools’ button 
+*Choose the ‘Clean’ tab
+*Select ‘Redundant Ctrl’ and tap the ‘Clean’ button
+The editor will remove any events which cause a controller change of less than approximately 5%.
+To reduce the number of controller events further, quantize the events to a larger grid setting before running the clean function.
+
+====Removing all controller events====
+
+*Tap the ‘Tools’ button 
+*Choose the ‘Clean’ tab 
+*Select ‘All Controller’ and tap the ‘Clean’ button
+
+===Mixer and global send effects===
+
+===Overview===
+
+The mixer takes the stereo outputs of each instrument and mixes them together. The volume of each instrument is controlled by a vertical slider called a fader.
+
+The mixed signal is actually split into three separate channels (or busses).
+
+The first bus goes straight to the main output and is known as the dry mix (a mix with no effects) or main output bus.
+
+The other busses are fed (or sent) to the Global Send Effects. One bus is a reverb effect and the other bus is a chorus/delay effect. The effects’ output (known as the wet mix) is finally mixed with (or returned to) the main output.
+
+If all this audio terminology confuses you, don’t worry. All you really need to know is that the sliders control the volume of the instruments, and effects are applied to them.
+
+====Where are the send knobs?====
+
+If you’re familiar with mixers you may be wondering where the send knobs for each channel can be found. The answer is that the sends are determined by the instruments, not by the mixer. This allows each synth preset to control its own sends.
+
+====Using the VU meters====
+
+
+The VU meters on the input channels show the level of the signal coming into the mixer from each instrument.
+
+The VU meter on the output channel shows the level of the final output mix.
+
+'''You must''' be careful to ensure that the output meter does not go into the red too often, or the output will sound distorted. If the output meter is peaking too much you can choose to reduce the output level or all of the input levels.
+
+Ideally, aim for the output signal to occasionally peak on both red bars. This will give you the highest volume and generally you will find that you can get away with a small amount of occasional distortion.
+
+Note: When performing a final mixdown to a wav file, NanoStudio will warn you if it thinks that the level of distortion is unacceptable. If you get this warning you may want to try reducing the output fader and perform the mixdown again.
+
+====Why is OK for the input VU meters to go into the red?====
+
+NanoStudio internally uses a 32 bit floating point signal path, which has a virtually unlimited dynamic range.
+However, the output hardware of the device is only 16 bit integer. With this representation, it’s quite easy to exceed the available headroom.
+
+====Mixer page====
+
+
+[[File:Nanostudio mixer page.png]]
+
+===Final mixdown===
+
+You can mix a song down to create a stereo wav file. The wav file can then be transferred to your PC or Mac over WiFi using NanoSync (see later section).
+
+[[File:Nanostudio manage button .png]]
+
+Tap the main menu button and choose MANAGE.
+
+
+[[File:Nanostudio project mix to wav.png]]
+
+
+Select the Project tab and tap Mix to wav.
+
+After you have chosen a filename for your mixdown, NanoStudio will start rendering the song to a wav file. Depending on the length of the song this may take a minute or two.
+
+If NanoStudio detects significant distortion during the mixdown it will warn you once it has finished. You may then want to reduce the mixer’s output fader a little and try again.
+
+NanoStudio allows a small amount of distortion before it will notify you, since this is usually undetectable and allows for a louder mix.
+
+NOTE: Unless your song is very short you won’t be able to assign the mixdown sample to a pad or synth because there is a limit on file size.
+
+
+When you have used NanoSync to transfer the final mix to your computer, it is up to you how you process it. 
+
+We recommend running a normalize function to get maximum volume (NanoStudio does not do this for mixdowns).
+
+If you want to load it into your computer DAW then it is best to leave it in wav format for the highest possible audio quality.
+
+If you want to distribute it to friends then it is best to convert it to an mp3 or ogg file, which is typically 10 times smaller than the wav file. If you do not want quality to suffer too much then try to use a bit rate no lower than 256 Kbps.
+
+===Settings===
+
+====Key transpose====
+
+You can use key transpose to shift the notes you play on the keyboard to a different key.
+
+Transpose does not affect the notes played by the sequencer, but will affect the notes recorded.
+
+[[File:Nanostudio manage button .png]]
+
+Tap the main menu button and choose MANAGE.
+
+
+[[File:Nanostudio key transpose.png]]
+
+
+Select the project tab and choose your transpose value. 
+
+You can transpose up to 11 semitones in either direction.
+The transpose value is saved with the current project.
+
+[[File:Nanostudio note transposed.png]]
+
+If transpose is enabled the keyboard will indicate the transposed key in red.
+
+====Global settings====
+
+Global settings affect all projects. Generally you will probably only need to set them once according to your taste.
+
+[[File:Nanostudio manage settings .png]]
+
+Tap the main menu button and choose MANAGE. The global settings can be found under the Settings tab.
+
+*'''Key Width''' – Width of keys on keyboard instruments.
+
+*'''Knob Control''' – Choose between rotary (angular) or vertical drag.
+
+*'''Control Sensitivity''' – How rapidly a control value changes when dragging.
+
+*'''Buffer Latency (PC only)''' – Set to the lowest value you can without the audio stuttering.
+
+*'''Lock Orientation''' – Locks the screen rotation to the current position so that it won’t change if you turn your device upside down.
+
+*'''Play note when drawing''' – Previews the note when drawing in the Part Editor.
+
+*'''Stop samples when song stops''' – Halts all triggered samples when the sequencer is stopped. Otherwise, triggered samples are left to run to their end.
+
+*'''Always start on project page''' – Makes the project page your home page. Otherwise, NanoStudio will begin on the last page you were viewing when the project was saved.
+
+===NanoSync for PC and Mac===
+
+===Overview===
+
+NanoSync is a stand-alone application for the PC or Mac which allows you to transfer your own samples to your device over Wi-Fi. You can also use it to download the final mix to your computer.
+NanoStudio contains some network software called the ‘NanoSync Server’. In simple terms, this software waits on the network for NanoSync to connect, and then does whatever NanoSync asks it to do, such as sending or receiving files.
+You can download NanoSync from the Blip Interactive website, under the Downloads section. Once you have download the correct version for your computer, run the installer and follow the instructions it gives you.
+NanoSync requires access to the network. The first time you run NanoSync, your computer will probably ask you if you want to allow NanoSync access to the network. '''You must answer yes otherwise NanoSync will not work. If you answer no by mistake, please see the Troubleshooting section for instructions on how to unblock the firewall for NanoSync.'''
+
+===Connecting===
+
+Whenever you start NanoStudio, the NanoSync Server will start off disabled for efficiency reasons. Your first task is to enable it:
+
+[[File:Nanostudio manage button.png]]
+
+Tap the main menu button and choose MANAGE.
+
+[[File:Nanostudio nanosync enabled.png]]
+
+Select the NanoSync tab and tap Enable.
+
+If your device reports that WiFi is unavailable, it is sometimes necessary to wait a bit longer for it to find the network. In some extreme cases, this can take more than 30 seconds.
+
+If the NanoSync Server has been enabled correctly, your device should now report ‘Ready’ and display its own IP address. There are also on- screen instructions to follow.
+
+[[File:Nanostudio sync enable.png]]
+
+[[File:Nanostudio connect button.png]]
+
+On your computer, click NanoSync’s Connect button. 
+
+The ‘Connect To Device’ dialog will appear.
+
+NanoSync will list the names of the devices it can find on the network which are current running NanoStudio.
+
+With some network setups it is not possible for NanoSync to find your device by name. In this case, you can enter your device’s IP address manually. In the example above, the IP address to enter would be 192.168.1.53.
+
+Click OK to connect.
+
+===Operation ===
+
+Once connected, operation is fairly simple. 
+
+NanoSync will give you a tree view of all the NanoStudio files and folders that you have access to.
+Double click on a folder to enter it. Use the back button to go up a folder level.
+
+You are allowed to create folders in some (but not all) locations.
+
+You can delete one or more files by selecting then and clicking Delete. Be very careful when deleting files, there is no Trash or Recycle Bin.
+
+For safety, NanoSync does not let you delete folders. You must do this on the device using NanoStudio’s file browser.
+
+To send wav or aiff files to the device, drag and drop them onto the file view. Alternatively you can use the Send button.
+
+To get wav files from the device, click the Get button. Currently it is not possible to drag files from the file view.
+
+
+===Network troubleshooting===
+
+It’s impossible to cover all possible hardware, software and router configurations but here’s a checklist you can use to find some of the most common issues.
+
+Another basic thing to try which can fix a large number of problems is to reboot your phone, router and/or computer.
+
+If you have tried everything in the checklist and still can’t get it to work, we recommend that you visit the Blip Interactive forums for NanoSync. 
+
+It could well be that another user has got the same problem as you and has found a solution.
+
+
+
+====Device does not have a WiFi connection available====
+
+*Make sure that you are within range of a WiFi network 
+*Ensure that you have Airplane Mode disabled and WiFi enabled (you can find these options if you exit NanoStudio and go to your devices Settings page).
+
+====WiFi seems to be available but I can’t connect====
+
+*Ensure that you have enabled the NanoSync Server (using NanoStudio’s MANAGE/NanoSync page).
+*Ensure that your computer is connected to the WiFi network and that both your computer and device are on the same network.
+*Check that your computer’s firewall is not blocking NanoSync. -	Check that your router is not blocking NanoSync. Please note that this is difficult task unless you are experienced with
+networks.
+
+
+====My device isn’t listed in NanoSync’s connection dialogue====
+
+With some network configurations it may not be possible for NanoSync to find your device automatically. Use NanoStudio’s MANAGE/NanoSync page to look up the device’s IP address and try typing it into NanoSync manually.
+
+====Unblocking the firewall in Windows====
+
+Unblocking the firewall in Windows
+
+When you installed NanoSync on Windows, you may have answered ‘no’ when it asked you if you wish the program to have network access. If so, you will need to manually add NanoSync as a firewall exception in order for it to work.
+
+Instructions on how to do this are located on the Microsoft website.
+Windows XP:
+
+Windows XP:
+
+http://www.microsoft.com/windowsxp/using/networking/security/winfire wall.mspx
+
+Windows Vista:
+
+http://windows.microsoft.com/en-us/windows-vista/Allow-a-program- to-communicate-through-Windows-Firewall
+
+Windows 7:
+
+http://windows.microsoft.com/en-us/windows7/Allow-a-program-to- communicate-through-Windows-Firewall
+
+
+===APPENDIX A - How the synth works===
+
+
+This description may be helpful to you if you’re familiar with electronic music techniques.
+
+Each of Eden’s 8 voices has two oscillators which may be set to use one of 30 basic waveforms. 
+
+The oscillator outputs are combined using mix, sync or ring modulation and passed through a resonant filter which may be set for a low, band or high-pass response with a 12 or 24dB slope. 
+
+The filter cutoff is modulated using a dedicated ADSR filter envelope generator. The filter’s output is then split into stereo and passed to the amplifier
+section to control volume and panning. The amplifier’s output is modulated using a dedicated ADSR envelope generator. 
+
+Each voice has an additional aux envelope and 4 LFO’s which may be set up to control any voice parameter using the patchbay.
+
+All voices are mixed together before being passed through Eden’s insert effects – a waveshaper and a chorus/delay.	
+
+The final output is fed to the mixer and optionally to the global send effects – a reverb and a chorus/delay. 
+
+The global send levels are controlled by the synth’s preset, not by the mixer.
+
+The modulation inputs may be set up to control any voice or effect parameter using the patchbay.
+
+
+[[File:Nanostudio synth signal flow layout.png]]
+
+
+
+[[category:Nanostudio|Manual]]
