@@ -1,0 +1,34 @@
+You can create a tempo slider in Logic environment that will allow you to write in tempo changes in real-time.
+
+First go to '''Record settings''' and check the box that says '''Allow tempo change recording'''
+
+
+
+
+[[File:Logic record settings allow tempo change recording.png]]
+
+
+
+Then go to logics environment ('''Windows / Environment''') and go to the '''Clicks and ports layer'''
+
+Then go to '''New/Fader/Specials/Tempo control''' (image below).
+
+
+
+[[File:Logic tempo slider environment menu.png]]
+
+
+
+
+Cable the '''Tempo slider''' object that appears between the '''Physical input''' object and the '''Sequencer input''' object.
+
+
+
+
+[[File:Logic tempo slider between physical input and sequencer input.png]]
+
+
+
+
+
+To record tempo changes in real time record enable a MIDI track,click the record button on the transport then move the Tempo slider. The tempo changes will record to the tempo track and be visible in the [[Logic:_Change_global_track_components|global track components tempo section]] of the arrange window.
