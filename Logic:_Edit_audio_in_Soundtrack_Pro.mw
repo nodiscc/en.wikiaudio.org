@@ -1,0 +1,16 @@
+[[File:Logic open file in soundtrack pro.png|right|thumb]]
+[[File:Soundtrack Pro waveform display.png|right|thumb]]
+To use [[Apple_Soundtrack_Pro|Soundtrack Pro]] to edit audio in [[Logic]] just follow these steps.
+
+'''1.''' Select the audio file or region you would like to edit from the arrange window, then go to the '''Options''' menu then '''Audio/Open in Soundtrack Pro'''
+
+'''2.''' Soundtrack Pro should then launch and the audio file/region should be displayed within it. You can then edit the file. when you're done just close Soundtrack Pro and click Save when the prompt ask you to. The edits will then be updated in the respective Logic file/region.
+'''
+'''Note:''' if Logic's audio is playing through your audio interface and Soundtrack Pro plays through the Mac sound card (the computer's speaker) , try changing the default audio interface in the [[Mac OS:Audio setup|Mac OS audio setup]].
+
+
+[[category:logic|Soundtrack Pro]]
+
+[[category:Soundtrack Pro]]
+
+[[category:tutorials]]
