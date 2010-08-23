@@ -1,0 +1,34 @@
+To do this you need to first decide which computer will be the master and which will be the slave. Then configure each computer accordingly. 
+
+
+
+'''Master'''
+
+
+'''1.''' Go to ''' Applications/Utilities''' and open the '''Audio/MIDI''' setup window. Select the '''MIDI Devices''' tab and double-click the Network icon.
+
+'''2.''' In the window that appears click the '+' button under '''My Sessions''' field at the top left. A Session called Session 1 appears in the list. Click its tick box to enable it, and settings for it appear in the right hand part of the window.
+
+'''3.''' In both the Local Name and Bonjour Name fields, rename Session 1 to something analogous to '''Wireless MIDI 1 Master'''
+
+'''4.''' Go to the bottom left of the window and set 'Who may connect to me' pop-up menu to 'Anyone.'
+
+
+'''Slave'''
+
+
+'''5.''' Open Audio MIDI Setup and double-click the Network icon. In the same way as before, create and enable a Network MIDI Session and call it  something analogous to '''Wireless MIDI 1 Slave'''
+
+'''6.''' Choose '''Anyone''' from '''Who may connect to me''' pop-up.
+
+If your network is active you should see your master Mac's Network '''Wireless MIDI 1 Master''' listed in the Directory field in the bottom left part of the window. And if you were to check the MIDI Network Setup window on your Master Mac, you should see the slave Mac's port ('Slave MIDI A') listed. Now we just need to establish the link between the the two Sessions, so that the slave Mac will follow the master Mac.
+
+'''7.''' On your master Mac, in the MIDI Network Setup window, select the Session called '''Wireless MIDI 1 Master''' . In the Directory field choose '''Wireless MIDI 1 Slave''' and click the Connect button.
+
+
+
+[[category:Mac OS|wireless MIDI]]
+
+[[category:MIDI|Mac OS wireless MIDI]]
+
+[[category:tutorials]]
