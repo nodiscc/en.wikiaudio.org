@@ -1,0 +1,19 @@
+In Logic you can use a feature called '''Bounce in Place''' to bounce individual track regions easily and quickly in a manner that automatically replaces the old regions time placement.
+
+ 
+Hold down '''Control''' and click the region. Choose '''Bounce and Merge / Bounce in Place'''
+
+
+[[File:Logic bounce in place.png]]
+
+
+
+A dialog box will appear with customizable settings. Set them how you want them and click '''OK'''
+
+
+[[File:Logic bounce in place dialog box.png]]
+
+
+[[category:Logic|Bounce in place]]
+
+[[category:tutorials]]
