@@ -1,0 +1,62 @@
+If you would like to import a large number of audio samples in [[Ableton Live]] and [[keymap]] them to ''individual'' keys , do these things.
+
+
+'''1.''' Open up an instance of the [[Ableton Live:Add instrument device|'''Sampler''' instrument]]
+
+'''2.''' Select all the audio files you would like to keymap at one time and drag them to the sampler.You can either do this by dragging samples from [[Ableton Live:Toggle between session and arrange windows|Lives session or arrange view]] or from a directory on your computer.
+
+
+
+
+[[File:Ableton Live dropping samples to sampler.png]]
+
+
+
+
+'''3.''' Select '''Zone''' and then select every zone by using '''Command A''' for Mac or '''CTRL A''' for Windows
+
+
+
+[[File:Ableton Live sampler zone.png]]
+
+
+
+
+'''4.''' Move the ends of the keymap display so the number of spanned keys is equal to the number of samples.
+
+
+
+[[File:Sampler keymap span.png]]
+
+
+
+
+'''5.''' Right click and choose '''Distribute Ranges Equally'''
+
+
+[[File:Ableton Live distribute ranges equally.png]]
+
+
+
+
+[[File:Ableton Live individual keymapped samples.png]]
+
+
+
+
+The result should be each sample keymapped to it's own individual note.
+
+
+
+
+
+
+
+
+
+
+
+
+[[category:Ableton Live|Batch keymap samples using sampler]]
+
+[[category:Tutorials]]
