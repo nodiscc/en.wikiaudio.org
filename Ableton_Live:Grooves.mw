@@ -1,0 +1,63 @@
+Grooves are snapshots of transients from audio material; or note placement and velocity information from [[MIDI]] material that can then be applied to other audio or MIDI files.
+The most conventional use for this is to take the "Groove" of one drum performance and apply it to another as a way of capturing some of the "feel" of the former.
+
+==Extracting Grooves==
+
+
+To extract grooves right click (or CTRL click) on a MIDI or Audio file in either the arrange or session views. Then choose '''Extract Groove(s)'''
+
+
+[[File:Ableton Live extract groove from audio file.png]]
+
+
+
+==Applying Grooves==
+You can apply any grooves you have extracted to any audio or MIDI data. To do this go to the clip view area ('''View/Session'''. Then click a [[Ableton Live:Creating clips|clip]]) for a selected file and click the menu below '''Groove'''. The grooves you have extracted should be displayed there and will be named after the files they were taken from.
+
+
+
+[[File:Ableton Live set groove.png]]
+
+
+
+
+You can preview different Grooves by simply selecting them and playing the file. Once you want to apply it permanently you can click the '''Commit''' button.
+
+
+
+[[File:Ableton Live commit groove.png]]
+
+
+===Groove Pool===
+All your Grooves will also appear in the '''Groove Pool''' window
+
+[[File:Ableton Live groove pool.png]]
+
+
+====Base====
+This is the beat subdivision that the groove and assigned clips get measured against
+
+====Quantize====
+This is the amount of quantization that will be applied to assigned clips prior to being requantized by the groove.
+
+====Timing====
+This is how strong the groove effect will be on assigned clips
+
+====Random====
+This invokes random timing fluctuations for "humanization" purposes
+
+====Velocity====
+This is how much the grooves velocities will affect the velocities of the assigned clips
+
+====Global Groove Amount====
+This is an overall value that encompasses the strength of timing,random and velocities that are applied to all grooves
+
+
+
+
+
+
+
+[[category:Ableton Live|Groove]]
+
+[[category:tutorials]]
