@@ -1,0 +1,18 @@
+==Exporting MIDI files==
+
+To export a [[MIDI file]] in Logic first select the MIDI regions you wish to incorporate into the MIDI file by selecting them in the arrange window.
+
+
+Then go to '''File/Export/Selection as MIDI file'''
+
+
+
+==Importing MIDI files==
+
+To import MIDI file you can simply drag and drop them from the desktop to the arrenge window in Logic. You can also go to '''File/Import''' and select the file.
+
+
+
+[[category:Logic|MIDI import and export]]
+
+[[category:tutorials]]
