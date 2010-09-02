@@ -1,0 +1,17 @@
+In [[Ableton Live]] you need to route a track to a send return if you wish to make it pre fader (or if you want to make it toggle between pre and post fader).
+
+To do this first make sure you create a return track ('''Create / Insert return track''')
+
+Then add an effects device to the return track (if you want)
+
+Turn up the respective Send on the audio or instrument track you wish to add the effect to.
+
+Toggle between '''Pre''' and '''Post''' fader By clicking the corresponding yellow button on the master fader that says (defualts to) '''Post'''
+
+
+[[File:Ableton Live pre and post aux send.png]]
+
+
+[[category:Ableton Live|Pre and post fader effects]]
+
+[[category:tutorials]]
