@@ -1,0 +1,103 @@
+==Pro Tools edit tools==
+
+These editing tools work in conjunction with the [[Pro Tools: Edit modes|Pro Tools edit modes]]
+
+=== Zoomer Tool ===
+
+[[File:Pro Tools zoom tool.png]] 
+
+The '''Zoomer Tool''' allows you to zoom in and out of a particular area within a track. 
+
+The Zoomer Tool has two modes that can be accessed by clicking and holding on it: Normal and Single Zoom
+
+
+====Normal Mode====
+
+[[File:Pro Tools single zoom .png]]
+
+In '''Normal Mode''' the Zoomer Tool remains selected after it is used.
+
+
+
+====Single Zoom====
+
+[[File:Pro Tools single zoom.png]]
+
+In '''Single Zoom mode''' the previously selected tool is automatically reselected after the zoomer is used
+
+----
+
+
+===Trim Tool===
+[[File:Pro Tools trim tool.png]]
+
+The '''Trim tool''' is used to trim the beginning or end of audio, MIDI or video content. Pro Tools automatically creates a new item to the region list that corresponds to the newly edited material.
+click and holding on the trim tool gives you access to three other trim-type tools. These are the '''Trim Time Compression/Expansion tool''', the '''Trim Loop Tool''' and the '''Trim Scrub Tool''' 
+
+
+====Trim Time Compression / Expansion tool====
+
+[[File:Pro Tools trim tool TCE .png]]
+
+The '''Trim Time Compression / Expansion''' tool lets you time compress and expand regions
+
+====Trim Scrub Tool====
+
+[[File:Pro Tools trimmer scrub.png]]
+
+The '''Trim Scrub Tool''' will allow you to scrub while you make your trim selection.You can then initiate the trim by releasing the mouse button
+
+====Trim Loop Tool====
+
+[[File:Pro Tools Trim loop .png]]
+
+The '''Trim loop''' loops regions when you click and drag the edges of a region
+
+
+
+----
+
+==== Selector Tool ====
+ 
+[[File:Pro Tools selector tool.png]]
+
+The '''Selector Tool''' allows you to select regions horizontally as well as vertically across multiple tracks.This is done to make edits such as cut, copy and delete
+
+----
+
+
+==== Scrubber Tool====
+
+[[File:Pro Tools scrubber tool.png]]
+
+The '''Scrubber Tool''' allows you to [[scrubbing|scrub]] regions. You do this by selecting the tool and then clicking and holding over an audio region , then drag the mouse left and right to hear the effect.
+
+----
+
+
+===Pencil Tool===
+
+[[File:Pro Tools draw tool.png]]
+
+The '''pencil tool''' is used to redraw [[waveform]] data destructively and is usually used to redraw a pop,click or other transient anomaly of an audio file. Clicking and holding on the pencil tool will display four additional subsets of the pencil tool which can be used to edit MIDI data.
+
+----
+
+
+===Grabber Tool===
+
+[[File:Pro Tools grabber tool.png]]
+
+The '''Grabber Tool''' is used to move regions. You can use the Grabber Tool by clicking and holding on a region and moving it left or right.
+
+[[File:Pro Tools separation grabber.png]]
+
+The '''Separation Grabber''' Cuts and pastes an Edit selections leaving a gap in the original region.  To use this tool first use the selector tool to make a selection. Then use the separation grabber to move the selection.
+
+[[File:Pro Tools object grabber tool.png]]
+
+The '''Object Grabber''' allows for the selection of non contiguous regions .
+
+
+[[category:Pro Tools|Tools]]
+[[category:tutorials]]
