@@ -1,0 +1,103 @@
+
+Beat detection is used to find the tempo of an audio file. You can also use Beat Detection to have Logic's tempo change in a manner that conforms to the detected tempo of the audio file.
+
+
+To use beat detection follow these steps
+
+
+Select an audio file that has been placed on a track.
+
+
+
+Then go to '''Option menu/Tempo/Adjust Tempo Using Beat Detection'''
+
+
+
+
+
+
+[[File:Logic 9 Adjust tempo using beat detection menu.png]]
+
+
+
+
+
+
+
+
+
+
+The window that appears will automatically display the tempo that has been found for the audio material and it will be listed in the '''Resulting Tempo''' value. If you click the '''Advanced options''' you should get additional options including other possible tempo's of the audio material. 
+
+If you think the '''Resulting Tempo''' value is incorrect you can  choose one of the other values if they seem more accurate.
+
+
+
+
+
+
+
+
+[[File:Logic beat detection resulting tempo and detection results.png]]
+
+
+
+
+
+
+
+[[File:Logic beat detection create tempo change options.png]]
+
+
+
+
+
+Once you've set your parameters click '''OK'''
+
+
+
+
+
+
+
+
+
+
+==Parameters explained==
+
+
+Below all parameters for the Beat Detection parameter box are explained.
+
+
+
+
+[[File:Logic 9 adjust tempo using beat detection with advanced options.png]]
+
+
+
+
+
+
+
+
+
+*'''Resulting tempo:''' - this is the tempo that Logic detects the audio file to be playing at and is the MIDI tempo Logic will change to.
+'''Advanced Options'''
+*'''Detection results:''' - this is a choice of possible tempo options. The first one is usually the "correct" one.
+
+*'''Adjust By:''' - These values either double or half the BPM of the resulting tempo.
+
+*'''Rounding:''' - These are settings that the resulting tempo can be rounded to
+
+
+*'''Create Tempo Change'''
+**'''Globally -''' This creates a tempo change for the entire song
+**'''At Selection Start and End -''' This creates a tempo change between the start and end of the sample
+**'''At Selection Start Only -''' This creates a tempo change at the start of the audio region
+**'''Nudge Regions to Beat -''' If your region had dead air at the beginning of it this feature will nudge the beginning of the first transient to the nearest beat
+
+
+
+[[category:Logic|Beat detection]]
+
+[[category:tutorials]]
