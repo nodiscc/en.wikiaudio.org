@@ -1,0 +1,12 @@
+In signal processing and related disciplines, '''aliasing''' refers to an effect that causes different continuous signals to become indistinguishable (or aliases of one another) when sampled. It also refers to the distortion or artifact that results when a signal is sampled and reconstructed as an alias of the original signal.Aliasing also refers to the distortion or artifact that results when a signal is sampled and reconstructed as an alias of the original signal.
+
+Temporal aliasing is a major concern in the sampling of audio signals. Music, for instance, may contain high-frequency components that are inaudible to us. If we sample it with a frequency that is too low and reconstruct the music with a digital to analog converter, we may hear the low-frequency aliases of the undersampled high frequencies. Therefore, it is common practice to remove the high frequencies with a filter before the sampling is done.
+
+{{stub}}
+
+[[category:circuitry]]
+
+[[category:signal processing]]
+
+
+<small> *This article is licensed under the [http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]. It uses material from the Wikipedia article http://en.wikipedia.org/wiki/Aliasing
