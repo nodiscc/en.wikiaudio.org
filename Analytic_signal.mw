@@ -1,0 +1,6 @@
+An '''analytic signal''' is a way to represent a signal in two parts. The first part a "real" part which is the same as a conventional signal, and the second is an "imaginary" part which is always 90 degrees out of phase with the real part. An example of the utility of this would be finding the RMS value of a signal vs time. You could do this by squaring the real and imaginary amplitudes, adding the squared values together and then taking the squared root of the result. 
+
+{{stub}}
+
+
+[[category:signal processing]]
