@@ -1,0 +1,66 @@
+The '''Air Motion Transformer''' (AMT) is a [[loudspeaker]] mechanism, or audio transducer, invented by Dr. Oskar Heil. It operates on a different principle than both electrodynamic and electrostatic speaker drivers. The AMT moves air in an augmented, semi-perpendicular motion using a folded sheet (made of polyethylene, polyester or polyimide), structured around a series of aluminum struts positioned in a high-intensity magnetic field.
+
+
+==How it works==
+[[Image:AirMotionTransformer.png|right|thumb|300px|Current through the membrane 2 causes it to move left and right in magnetic field 6, moving air in and out along directions 8; barriers 4 prevent air from moving in unintended directions.]]
+
+The diaphragm pushes back and forward from itself in a physical motion similar to that observed when an accordion is pushed in and pulled out to pump air though the reed chambers, albeit over an exceedingly smaller motion range.
+
+The result is a dipole driver with an extraordinarily rapid response rate, enabled by the extremely low mass of the polyester driver and the far smaller distance it travels on each “swing” compared to a dynamic driver. In this technical respect, it shares characteristics with the electrostatic driver.
+
+The discernible motion of each diaphragm flexure is very small, but because of the folded structure, more air is moved than would be by a conventional cone or electrostatic driver of the same plotted surface area. As a matter of surface comparison, a standard 1-inch-wide (25 mm) AMT strip has a functional driver area comparable to an 8-inch-diameter (200 mm) circular dynamic cone. The folded driver design, combined with the small motion range, means the AMT acts like a point source version of a larger driver, inherently resulting in lower sound reproduction distortion. As a result of its motion pattern, the AMT "spits" the air out in a way similar to the action of shooting a watermelon seed from your hand by squeezing it between thumb and forefinger. The speed of the air as it leaves the diaphragm, is approximately five times faster than the speed of the actual driver structure, hence the name, Air Motion Transformer.
+
+Although it is possible to operate the diaphragm without the magnetic field, using piezoelectric technology, this method has been used only by TakeT for their headphone and tweeter products.
+
+
+==Application/use==
+
+
+In the tweeter market, the AMT competes against electrostatic, ribbon and electrodynamic tweeters. While apparently very good as a mid-tweeter or full tweeter, the AMT is not commonly employed as much as one may expect in lower-end speakers. This is due mainly to the AMT's characteristics of a dipole sound radiator, which makes enclosure in traditional speaker cabinets difficult without sacrificing sound quality or employing sound reflex baffles. The AMT can reproduce sound down into the low midrange fully competently, making design decisions regarding crossover points difficult (depending on the model ESS was using a cut-off frequency of 1, 1.5, or 2.5 kHz).
+
+==Consumer products==
+
+
+The AMT was first used in 1970 by ESS (ElectroStatic Sound)  a California company based near Sacramento. The first speaker was called ESS AMT-1. Looking like a truncated, four sided pyramid, the system combined the AMT driver with a 10-inch woofer and bass port. There were several models that followed. AMT-1a. This redesign of the AMT-1 replaced the smaller woofer with a 12-inch woofer and passive radiator. This gave the speaker better bass response characteristics. The AMT 1 Tower was a speaker design with 1 AMT and a 10-inch woofer with a "transmission line labyrinth." The AMT 3, also called Rock Monitor, a design with 1 AMT, a 6.5-inch mid-range and two 10-inch woofers.
+
+At the end of the 1970s, ESS and Dr. Heil introduced the ESS Transar using one high-frequency AMT and one low-frequency AMT.
+
+It was possible to get ESS speakers from Sacramento until 2006.
+
+The most common use for the AMT driver in consumer electronics today is as a midrange-tweeter or tweeter in high-end multi-driver speakers, sometimes paired with horns, or in the case of Precide's speaker products, with an upward-firing woofer driver. There are a couple of companies producing Heil AMTs: Precide (Switzerland) who calls their version the AVT (Air Velocity Transformer), ELAC (Germany) who calls their version of the transducer JET, ADAM (Germany, under the name Accelerating Ribbon Technology), FAL (Japan), ETON (Germany) and MartinLogan (USA, under the name Folded Motion Tweeter)<ref>[http://www.martinlogan.com/motionSeries/index.php#foldedmotion Folded Motion Tweeter], MartinLogan</ref>. In Germany, it is possible to get ESS speakers (new or classic designs) as well as the ESS AMT drivers (e.g. Great Heil). Precide uses an AMT driver for their top of the line headphones.
+
+Recently, the low-frequency AMT technology was rediscovered by a company named Tymphany. Using what appears to be the embodiment of Dr. Heil's patent US#4,039,044, Tymphany produces compact woofers and sub-woofers. Tymphany calls this technology LAT (Linear Array Transducer).
+
+==Dr. Oskar Heil's "Air Motion Transformer" (AMT) US Patents==
+;US#3,636,278 issued Jan 18, 1972.
+
+:(Describes the Heil AMTs variations some of which resemble the ELAC JET Transducer) [http://www.google.com/patents?id=Yjw1AAAAEBAJ&printsec=abstract&zoom=4#PPP1,M1&as_drrb_ap=q&as_minm_ap=1&as_miny_ap=2006&as_maxm_ap=1&as_maxy_ap=2006&as_drrb_is=q&as_minm_is=1&as_miny_is=2006&as_maxm_is=1&as_maxy_is=2006]
+
+;US#3,832,499 issued Aug. 2, 1974.
+
+:(Describes the Heil AMT embodiment used in the ESS AMT series)  [http://www.google.com/patents?id=Yjw1AAAAEBAJ&printsec=abstract&zoom=4#PPP1,M1&as_drrb_ap=q&as_minm_ap=1&as_miny_ap=2006&as_maxm_ap=1&as_maxy_ap=2006&as_drrb_is=q&as_minm_is=1&as_miny_is=2006&as_maxm_is=1&as_maxy_is=2006]
+
+;US#4,056,697 issued Nov 1, 1977.
+
+:Movable diaphragm connector method flexible hinge diaphragm surround and...  [http://www.google.com/patents?id=Yjw1AAAAEBAJ&printsec=abstract&zoom=4#PPP1,M1&as_drrb_ap=q&as_minm_ap=1&as_miny_ap=2006&as_maxm_ap=1&as_maxy_ap=2006&as_drrb_is=q&as_minm_is=1&as_miny_is=2006&as_maxm_is=1&as_maxy_is=2006]
+;US#4,039,044 issued Aug 2, 1977.
+
+:(Low-Frequency AMT. The patent also describes the principle used by Tymphany for their LAT transducer including the embodiment type) [http://www.google.com/patents?id=IpQTAAAAEBAJ&printsec=abstract&zoom=4#PPP1,M1&as_drrb_ap=q&as_minm_ap=1&as_miny_ap=2006&as_maxm_ap=1&as_maxy_ap=2006&as_drrb_is=q&as_minm_is=1&as_miny_is=2006&as_maxm_is=1&as_maxy_is=2006]
+
+;US#4,107,479 Aug 15, 1978.
+
+:(Further refinements of the Low-Frequency AMT) [http://www.google.com/patents?id=km8zAAAAEBAJ&printsec=abstract&zoom=4&dq=ininventor:oskar-heil&as_drrb_ap=q&as_minm_ap=1&as_miny_ap=2006&as_maxm_ap=1&as_maxy_ap=2006&as_drrb_is=q&as_minm_is=1&as_miny_is=2006&as_maxm_is=1&as_maxy_is=2006]
+
+;US#4,160,883 Jul 10, 1979.
+
+:Acoustic transducer and method of making same  [http://www.google.com/patents?id=35g5AAAAEBAJ&printsec=abstract&zoom=4&dq=ininventor:oskar-heil#PPP1,M1&as_drrb_ap=q&as_minm_ap=1&as_miny_ap=2006&as_maxm_ap=1&as_maxy_ap=2006&as_drrb_is=q&as_minm_is=1&as_miny_is=2006&as_maxm_is=1&as_maxy_is=2006]
+
+
+
+
+==References==
+{{reflist}}
+
+
+
+<small>This article uses material from [[Wikipedia:Air_Motion_Transformer]]. It is under its respective licensing agreement.</small>
