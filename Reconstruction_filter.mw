@@ -1,0 +1,28 @@
+In a mixed-signal system (analog and digital), a '''reconstruction filter''' (or anti-imaging filter) is used to construct a smooth analogue signal from the output of a digital to analogue converter (DAC) or other sampled data output device. A digital audio signal has a stair step type waveform which harbors a great deal of higher frequency energy called "images". A reconstruction ( or anti-imaging filter) is used to reconstruct a smoother representation of the original signal. The filter is similar to and [[anti-aliasing filter]] but has a different purpose. <ref>White,Glenn D. Louie J, Gary.(2005) The Audio Dictionary. p. 24. ISBN 0295984988</ref>
+
+
+==Sampled data reconstruction filters==
+
+The sampling theorem describes why the input of an ADC requires a low-pass analog electronic filter, called the anti-aliasing filter: the sampled input signal must be bandlimited to prevent aliasing (here meaning waves of higher frequency being recorded as a lower frequency).
+
+For the same reason, the output of a DAC requires a low-pass analog filter, called a reconstruction filter, as the output signal must be bandlimited, to prevent aliasing (here meaning Fourier coefficients being reconstructed as low frequency waves, not as higher frequency aliases), as in the Whittaker–Shannon interpolation formula.
+
+Ideally, both filters should be brickwall filters, constant phase delay in the pass-band with constant flat frequency response, and zero response from the Nyquist frequency. This is given by a filter with a 'sinc' impulse response.
+
+===Implementation===
+
+Practical filters have non-flat frequency or phase response in the pass band and incomplete suppression of the signal elsewhere, as a sinc waveform has an infinite response to a signal, in both the positive and negative time directions, which is impossible to perform in real time – it would require infinite delay.
+
+In systems that have both, the anti-aliasing filter and a reconstruction filter may be of identical design. For example, both the input and the output for audio equipment is sampled at 44.1 kHz. Both audio filters block as much as possible above 22 kHz and pass as much as possible below 20 kHz. Typically both filters are active op-amp filters, with exactly the same selection of resistors and capacitors.
+
+Whilst in theory a DAC gives a series of impulses, in practice, the output of a DAC is more typically a series of stair-steps – thus the step response of the filter (the integral of the impulse response) is of more interest. The low pass reconstruction filter smooths the stair step (removes the harmonics above the Nyquist limit) to (re)construct the analogue signal corresponding to the digital time sequence.
+
+==References==
+
+{{reflist}}
+
+[[category:signal processing]]
+
+
+
+<small>This article uses material from [[Wikipedia:Reconstruction_filter]] and is licensed under its respective agreement.</small>
