@@ -1,0 +1,55 @@
+===Using Flex Tool===
+
+The flex tool allows for the [[time compression]] and expansion of specific areas of a region such as transients. This allows for easy movement to a specific time reference.
+
+'''1.''' Select the track with the audio file(s) you want to affect
+
+'''2.''' On the track choose the "flex type" by clicking and holding on the menu in the track header (image below)
+
+'''3.''' A window will appear with a choice of a few different algorithms called "'''flex modes'''"(such as rhythmic, [[Polyphony|polyphonic]], [[monophonic]] etc) pick the one that reflects the qualities of the audio region the most.  
+
+
+[[File:Logic 9 flex time types.png]]
+
+
+'''4.''' Click and hold the part of the audio file you want to expand or compress and move it to where you want it to land relative to the time grid.
+
+
+
+
+===Flex view===
+
+You can enable a feature called '''Flex view''' that allows a simplified way to see and add transient markers (these are the focal points of movement when you time compress or expand using the flex tool)
+
+To enable Flex view select the region you want to enable, then go to '''View / Flex view'''
+
+
+[[File:Logic region with flex view enabled.png]]
+
+
+===Transient detection editing in the sample editor===
+To edit the transient detection in the sample editor simply double click on an audio region and in the sample editor click the transient detection option and then click the '''+''' and '''-''' icons next to it. (image below)
+
+[[File:Logic sample editor transient detection.png]]
+
+
+==Video tutorials==
+
+
+
+
+
+
+{{#evp:youtube|H44XTHv7IY0| {{videodisclaimer}}|left|350}}
+
+{{#evp:youtube|2_c8AVSxnD0| {{videodisclaimer}}|left|350}}
+
+{{#evp:youtube|idEaUfo3MZ4| {{videodisclaimer}}|left|350}}
+{{#evp:youtube|_DcY0kRVg7g| {{videodisclaimer}}|left|350}}
+{{#evp:youtube|uwGNvY-UbUY| {{videodisclaimer}}|left|350}}
+
+
+
+[[category:logic|Flex tool and mode]]
+
+[[category:tutorials]]
