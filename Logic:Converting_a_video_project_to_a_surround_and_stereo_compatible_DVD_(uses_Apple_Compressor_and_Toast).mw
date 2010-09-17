@@ -1,0 +1,215 @@
+This tutorial explains how to convert the audio tracks from a DAW and use them to create a DVD that has both stereo and surround compatible videos. This tutorial uses [[Logic Pro]] but should be compatible with any [[DAW]]. The second part of the tutorial uses Apple's Compressor software and Toast burning software which (like Logic) are all exclusive to the MAC OS.
+
+
+
+
+
+==Bouncing out of Logic==
+
+
+
+In Logic bounce out your audio session as an Aiff surround interleaved file '''File / Bounce''' (then check the boxes that say '''Surround bounce''' and '''Interleaved''', as well as set the output file to Aiff). When your bounce is done rendering, insert the down-mixer plug-in on the master fader (This will collapse your surround mix to a stereo mix). The down-mixers setting should be set to convert your specific surround format to stereo. So for example if you have a 5.1 session, the down-mixer should be set to the '''5.1-to-stereo''' option. (Image below)
+
+
+
+
+
+[[File:Logic_Pro_down_mixer_insert.png]]
+
+
+
+
+
+Once the down-mixer is inserted you don't have to configure any settings on it. You simply need to leave it there.
+
+
+Do another surround bounce and name it something different than your first bounce (this will be collapsed to a stereo file so call it '''Name-Stereo''')
+
+
+When you are done take your video file, your surround file and your stereo (downmixed from surround) file and place (or copy) them in the same folder.
+
+Use the files in this directory for the rest of the tutorial.
+
+==Converting in Apple Compressor==
+
+===Step 1===
+
+
+Open compressor and click cancel to the opening template window (image below)
+
+
+
+
+
+[[File:Apple compressor opening template dialog window.png]]
+
+
+
+
+
+===Step 2===
+
+
+Drag your video file to the pallet (image below). Go to '''Target / New Target with Setting'''. 
+
+
+*Note: If '''Target / New Target with Setting''' is grayed out, click on the pallet that was created when you dropped your video to Compressor . This will make it "active".
+
+
+
+
+
+
+[[File:Apple compressor add movie clip.png]]
+
+===Step 3===
+
+
+In the window that appears choose the folder menu that is labeled '''DVD'''. Choose the options that are most applicable to your movie. For our example we will use '''DVD Best Quality 90 Minutes''' and '''MPEG-2 6.2Mbps 2-pass'''
+
+
+
+
+
+
+
+[[File:Apple compressor DVD menu.png]]
+
+
+
+
+===Step 4===
+
+
+Now, drag your surround file to the palette. Choose '''Target / Target from setting''' (just like last time). 
+
+
+
+
+
+
+[[File:Apple compressor drop surround audio here.png]]
+
+
+
+
+
+
+This time go to '''Formats / Audio / ''' and choose the surround format most applicable to your surround file. For our example we will choose '''Dolby Digital Professional 5.1.'''
+
+
+
+
+
+
+[[File:Apple compressor audio 5.1 surround.png]]
+
+===Step 5===
+
+Repeat everything you just did in step 4 but this time when you go to '''Formats / Audio''' choose '''Dolby Digital Professional 2.0''' .
+
+
+
+
+
+
+[[File:Apple Compressor taget with new setting menu.png]]
+
+
+
+
+
+[[File:Apple compressor audio 2.02 stereo.png]]
+
+
+
+
+
+
+
+When you're done you should have a window that looks similar to the one below with three files. Click the submit button. The files will render and when it is done you will have a new movie file, a 5.1 AC3 file and a stereo AC3 file.
+
+
+
+
+
+
+[[File:Apple compressor submit button.png]]
+
+
+
+
+
+
+
+==Burning with Toast==
+
+
+
+===Step 1===
+
+Open Toast and select the '''DVD Video''' option. (image below)
+
+
+
+
+[[File:Toast DVD video option selected.png]]
+
+
+
+===Step 2===
+
+
+Drag the movie file you just bounced out of Compressor to Toast where it says '''Drag video files or pictures into this area'''. 
+
+
+
+
+
+[[File:Toast drag movie file here.png]]
+
+
+
+===Step 3===
+
+A Warning message should appear telling you the file has no audio and asking if you would like to select a file as the audio. Choose '''Yes''' and select the surround AC3 file. 
+
+
+
+[[File:Toast add audio warning.png]]
+
+
+
+
+
+
+===Step 4===
+
+Repeat steps 2 through 3 but this time when you are prompted for the videos audio select the stereo AC3 file  (not surround AC3 file).
+
+
+===Step 5===
+
+Burn the DVD by clicking the big red button (image below)
+
+
+
+
+[[File:Toast burn button.png]]
+
+
+
+
+
+
+
+
+
+
+
+Once the DVD is done burning, it should playback on a stereo or compatible surround system.
+
+
+[[category:Logic|Video]]
+
+[[category:tutorials]]
