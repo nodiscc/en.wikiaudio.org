@@ -1,0 +1,18 @@
+In [[Pro Tools]] go to Setup I/O to open the I/O window.
+
+
+
+[[File:Pro Tools io setup menu.png]]
+
+
+
+Then  you can import new settings or export the current ones by clicking the  '''Import''' or '''Export''' buttons at the bottom of the window. The file type imported or exported will have the extension '''.pio'''
+
+
+[[File:Pro Tools export and import io settings.png]]
+
+
+
+[[category:Pro Tools|Import and export I/O settings]]
+
+[[category:tutorials]]
