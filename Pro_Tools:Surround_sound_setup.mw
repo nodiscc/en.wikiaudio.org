@@ -1,0 +1,65 @@
+This tutorial demonstrates how to create a very basic [[Pro Tools]] surround setup using 5.1 settings as an example.This example can and should be modified to your personal needs.
+
+
+
+
+
+
+Open the I/O setup. Go to the '''Setup''' menu then '''I/O'''
+
+
+
+
+[[File:Pro_Tools_io_setup_menu.png]]
+
+
+
+
+Go   to the '''Output''' menu and create a new path by clicking the new  path  button (image below). Then make the new path a surround output   assignment by clicking on the box to the right of its name (image   below). For our example we will use '''5.1''' 
+
+
+
+[[File:Pro Tools 5.1 assignment new path.png]]
+
+
+
+
+
+
+
+Assign the outputs of the new surround path by simply clicking on the first one in the line up (image below). 
+
+
+
+
+
+
+[[File:Pro Tools surround assignments.png]]
+
+
+
+
+
+
+The result should look like the image below. 
+
+
+
+
+
+[[File:Pro Tools surround assignments assigned.png]]
+
+
+
+
+Now   choose a channel strip in the mixer window and set the output to your   surround channel path. (image below). Then if you want to open the   surround panning interface click on the small icon to the right of the   channel output display. (image below). 
+
+
+
+
+[[File:Pro Tools open surround interface.png]]
+ 
+
+[[category:Pro Tools|Surround sound setup]]
+
+[[category:tutorials]]
