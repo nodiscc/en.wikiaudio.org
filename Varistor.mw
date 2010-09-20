@@ -1,0 +1,113 @@
+[[Image:Varistor_1.jpg‎ |thumb|200px|A 385-volt metal oxide varistor]]
+A '''varistor''' is an electronic component with a significant non-[[Ohm (unit)|ohmic]] [[current (electricity)|current]]-[[voltage]] characteristic.  The name is a [[portmanteau]] of ''[[resistor#Variable resistors|variable resistor]]''. Varistors are often used to protect [[electrical network|circuits]] against excessive transient [[voltage]]s by incorporating them into the circuit in such a way that, when triggered, they will shunt the current created by the high voltage away from the sensitive components.  A varistor is also known as ''Voltage Dependent Resistor'' or '''VDR'''. A varistor’s function is to conduct significantly increased current when voltage is excessive.
+
+'' *Note: only non-ohmic variable resistors are usually called ''varistors''.  Other, ohmic types of variable resistor include the [[potentiometer]] and the [[rheostat]].''
+
+== Metal oxide varistor ==
+
+The most common type of varistor is the '''Metal Oxide Varistor''' (MOV).  This contains a [[ceramic]] mass of [[zinc]] oxide grains, in a matrix of other metal oxides (such as small amounts of bismuth, cobalt, manganese) sandwiched between two metal plates (the electrodes).  The boundary between each grain and its neighbour forms a [[diode]] junction, which allows current to flow in only one direction.  The mass of randomly oriented grains is electrically equivalent to a network of back-to-back diode pairs, each pair in parallel with many other pairs.  When a small or moderate voltage is applied across the electrodes, only a tiny current flows, caused by reverse leakage through the diode junctions.  When a large voltage is applied, the diode junctions break down due to a combination of thermionic emission and electron tunneling, and a large current flows.  The result of this behaviour is a highly nonlinear current-voltage characteristic, in which the MOV has a high resistance at low voltages and a low resistance at high voltages.
+
+For example, follow-through current as a result of a [[lightning]] strike may generate excessive current that permanently damages a varistor.  In general, the primary case of varistor breakdown is localized heating caused as an effect of thermal runaway.  This is due to a lack of conformality in individual grain-boundary junctions, which leads to the failure of dominant current paths under thermal stress.
+
+Varistors can absorb part of a surge. How much effect this has on risk to connected equipment depends on the equipment and details of the selected varistor. Varistors do not absorb a significant percentage of a lightning strike as energy that must be conducted elsewhere is many orders of magnitude greater than what is absorbed by the small device.
+
+A varistor remains non-conductive as a [[shunt (electrical)|shunt]] mode device during normal operation when voltage remains well below its "clamping voltage". If a [[transient]] pulse (often measured in [[joule]]s) is too high, the device may melt, burn, vaporize, or otherwise be damaged or destroyed.  This (catastrophic) failure occurs when "Absolute Maximum Ratings" in manufacturer's datasheet are significantly exceeded.  Varistor degradation is defined by manufacturer's life expectancy charts using curves that relate [[electric current|current]], time, and number of transient pulses. A varistor fully degrades typically when its "clamping voltage" has changed by 10%.  A fully degraded varistor remains functional (no catastrophic failure) and is not visually damaged.
+
+Ballpark number for varistor life expectancy is its energy rating.  As MOV joules increase, the number of transient pulses increases and the "clamping voltage" during each transient decreases. The purpose of this [[shunt (electrical)|shunt]] mode device is to divert a transient so that pulse energy will be dissipated elsewhere. Some energy is also absorbed by the varistor because a varistor is not a perfect conductor.  Less energy is absorbed by a varistor, the varistor is more conductive, and its life expectancy increases exponentially as varistor energy rating is increased. Catastrophic failure can be avoided by significantly increasing varistor energy ratings either by using a varistor of higher joules or by connecting more of these shunt mode devices in parallel.
+
+Important [[parameter]]s are a varistor's energy rating (in joules), response time (how long it takes the varistor to break down), maximum current and a well-defined breakdown (clamping) voltage.  Energy rating is often defined using 'industry standard' [[transient]]s such as 8/20 microseconds or 10/1000 microseconds.  MOVs are intended for shunting short duration pulses.  For example, 8 microseconds is a transient's rise time; 20 microseconds is the fall time.
+
+To protect [[Telecommunication|communications]] lines (such as [[telephone]] lines) transient suppression devices such as 3 mil carbon blocks (IEEE C62.32), ultra-low capacitance varistors or [[avalanche diode]]s are used.  For higher frequencies such as radio communication equipment, a [[gas discharge tube]] (GDT) may be utilized.
+
+A typical [[surge protector]] [[power strip]] is built using MOVs.  A cheapest kind may use just one varistor, from hot (live, active) to neutral.  A better protector would contain at least three varistors; one across each of the three pairs of conductors (hot-neutral, hot-ground, neutral-ground).  A power strip protector in the United States should have a [[Underwriters Laboratories|UL]]1449 2nd edition approval so that catastrophic MOV failure would not create a fire hazard.
+
+===Specifications===
+
+The ZA Varistor Series has a Wide Operating Voltage Range VM(AC)RMS of 4V to 460V, DC Voltage Ratings  of 5.5V to 615V.
+Typical parameters for a V220ZA05 Metal oxide varistor:
+*5mm dia disc
+*220VDC nominal (198-253V @ 1mA)
+*6 joules for a 10/1000 microsecond pulse
+*360VDC max clamp @ 5 Amp
+*400Amp max transient surge
+*180VDC max continuous
+*140VAC RMS max continuous
+*0.2W avg power dissipation
+*90 pF capacitance
+
+Typical parameters for a S14K385 MOV in the above picture:
+*15.5 mm disk dia (0.61 inches)
+*5.4 mm disk thickness (0.21 inches)
+*0.8 mm dia wire lead (20 AWG)
+*505 VDC nominal (620V @ 1mA) 
+*80 joules
+*1025 V max voltage 
+*4500 Amp max current 
+*385 VAC RMS max continuous 
+*0.6 W avg power dissipation 
+*240 pF capacitance
+
+Note:  120VAC power line has a nominal peak voltage of 170VDC and can be as high as 185V peak.
+
+==Hazards==
+
+While a MOV is designed to conduct significant power for very short durations (~8/20 microseconds), such as caused by lightning strikes, it typically does not have the capacity to conduct sustained energy. Under normal utility voltage conditions, this is not a problem. However, certain types of faults on the utility power grid can result in sustained over-voltage conditions. Examples include a loss of a neutral conductor or shorted lines on the high voltage system. Application of sustained over-voltage to a MOV can cause high dissipation, potentially resulting in the MOV device catching fire. The [[National Fire Protection Association]] (NFPA) has documented many cases of catastrophic fires that have been caused by MOV devices in surge suppressors, and has issued bulletins on the issue.
+
+A series connected thermal fuse is one solution to catastrophic MOV failure.  A varistor with internal thermal protection is also available.
+
+There are several issues to be noted regarding behavior of [[transient voltage surge suppressor]]s (TVSS) incorporating MOVs under over-voltage conditions. Depending on the level of conducted current, dissipated heat may be insufficient to cause failure, but may degrade the MOV device and reduce its life expectancy. If excessive current is conducted by a MOV, it may explode inside the case, keeping the load connected but now without any surge protection. A user may have no indication when the surge suppressor has failed. Under the right conditions of over-voltage and line impedance, it may be possible to cause the MOV to burst into flames, the root cause of many fires and the main reason for NFPA’s concern. Properly designed TVSS devices should contain the flames, eventually resulting in the opening of a safety fuse.
+
+==What varistors don't do==
+
+Some consumers assume that a MOV inside a TVSS device provides equipment with complete [[electric power|power]] protection.  Unfortunately, a MOV device and other types of surge suppressors provide no protection for the connected equipment from sustained over-voltages that may result in damage to that equipment as well as to the protector device. A potential [[fire]] hazard also exists. 
+
+A varistor provides no equipment protection from inrush current surges (during equipment startup), from overcurrent (created by a short circuit), or from voltage sags (also known as a brownout). A varistor neither senses nor controls such events. Susceptibility of electronic equipment to these other [[electric power|power]] disturbances is defined by equipment design.  Protection from these power disturbances is installed inside that equipment or is provided by other external devices.
+
+== Varistors compared to other transient suppressors ==
+
+
+{| class="wikitable"
+|-
+! Type
+! Surge capability (typical)
+! Lifetime - number of surges
+! Response time
+! Shunt capacitance
+! Leakage current (approximate)
+|-
+| Metal-oxide varistor (MOV)
+| Up to 70,000 Amps
+| @ 100 Amps, 8x20 µs pulse shape: 1000 surges
+| ~1 nanosecond
+| Typically 100 - 1000 pF +++
+| 10 microamps
+|-
+| Avalanche diode
+| 50 Amps
+| @ 50 Amps, 8x20 µs pulse shape: infinite
+| Sub-microsecond
+| 50 pF
+| 10 microamps
+|-
+| Gas tube
+| > 20,000 Amps
+| @ 500 Amps, 8x20 µs pulse width: 200 surges
+| < 5 microseconds
+| < 1 pF
+| picoamps
+|}
+
+The response time of the MOV is largely ambiguous, as no standard has been officially defined.  The sub-nanosecond MOV response claim is based on the material's intrinsic response time, but will be slowed down by other factors such as the inductance of component leads and the mounting method. That response time is also qualified as insignificant when compared to a transient having an 8 microsecond rise-time, thereby allowing ample time for the device to slowly turn-on.  When subjected to a very fast, <1 ns rise-time transient, response times for the MOV are in the 40-60 ns range.
+
+Typical capacitances for consumer-sized (7-20mm diameter) varistors are in the range of 100 - 1000 pF.  Smaller, lower-capacitance varistors are available with capacitances of ~1 pF for microelectronic protection, such as in cellular phones.  These low-capacitance varistors are, however, unable to withstand large surge currents simply due to their compact PCB-mount size.
+
+Another method for suppressing voltage spikes is the [[transient voltage suppression diode]] (TVS).  Although diodes do not have as much capacity to conduct large surges as MOVs, diodes are not degraded by smaller surges and can be implemented with a lower "clamping voltage".  MOVs degrade from repeated exposure to surges and generally have a higher "clamping voltage" so that leakage does not degrade the MOV.  Both types are available over a wide range of voltages.  MOVs tend to be more suitable for higher voltages, because they can conduct the higher associated energies at less cost.
+
+Another type of transient suppressor is the gas tube suppressor. This is a type of [[spark gap]] that may use air or an inert gas mixture and, often, a small amount of [[radioactive]] material, such as Ni-63, to provide a more consistent breakdown voltage and reduce response time. Unfortunately, these devices may have higher [[avalanche breakdown|breakdown]] voltages and longer response times than varistors. However, they can handle significantly higher fault currents and withstand multiple high-voltage hits (for example, from [[lightning]]) without significant degradation.
+
+==References==
+
+<references/>
+
+
+[[category:electronic components]]
