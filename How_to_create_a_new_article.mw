@@ -1,0 +1,50 @@
+To create a new article you should first create an account by going to '''[[Special:UserLogin|Login/Create account]]''' and following the steps. 
+
+
+When you're done creating an account go to '''User Menu''' and '''Create new article''' (image below).
+
+
+
+
+
+[[File:Wikiaudio user menu create new article.png]]
+
+
+
+
+
+In the page that appears type the title of the article you wish to create and click '''Submit'''. 
+
+
+[[File:Wikiaudio create new article title menu.png]]
+
+
+
+
+In the window that appears begin writing your article. Make sure to save your work as you go so you don't lose it.
+
+
+You might want to add the in progress template code so people know the article is ''in progress''. Just copy and paste it.
+
+<nowiki>{{In Progress}}</nowiki>
+
+
+This will look like this:
+
+{{In Progress}}
+
+
+
+==Adding images and other files==
+
+To add images and other files go to '''User Menu''' and choose '''Upload File'''.
+
+In the window that appears click '''Browse'' to choose your file an upload it. Please give files appropriate names before uploading them.
+
+==To place in image in an article==
+
+To place images in articles you must format them.
+
+Example:
+
+If your image is titled '''My_Image.png''' you would type  <nowiki>[[File:My_Imge.png]]</nowiki> to place it in an article.
