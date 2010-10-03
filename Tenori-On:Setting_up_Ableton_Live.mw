@@ -1,0 +1,78 @@
+==Configuring Tenor-On for use with Ableton Live==
+
+When  I use the Tenori-On with Ableton Live, I don’t use it’s internal  synthesizer engine. Instead, I route MIDI output from Tenori-On layers  to corresponding virtual instruments hosted out of Live. 
+*To mute the Synth Engine in the Tenori-On use menu Preference Menu->Local Control and set the parameter to “OFF” 
+*To configure Tenori-On as a MIDI Slave use menu Preference Menu->Syncrhonize and set the parameter to “SLAVE” *I then send MIDI to Ableton LIVE via a the MIDI ports on my Novation nio  2|4 Sound card. Any MIDI port that Ableton Live can see will do. The nio  is configured to receive MIDI input, output and sync. 
+
+[[File:Tenori Ableton Live setup pic1.png]]
+
+
+==Configuring Ableton Live to receive notes==   
+Each of the 16 layers within the Tenori-On transmit on a different MIDI channel.
+
+[[File:Tenori_Ableton_Live_setup_pic7.png]]
+
+
+
+
+[[File:Tenori Ableton Live setup pic2.png|left]]In Live, I configure corresponding MIDI  tracks for each layer on the Tenori-On I want to receive MIDI data from.  In the example on the left, you can see that I’ve created three tracks  within Ableton Live with and instance of Gladiator, and two instances of Alchemy. Note that the MIDI from is set to the nio 2|4 and a specific MIDI channel is used for each device to isolate MIDI note data for each track.
+Don’t  forget, you could also use Instrument Racks, Sampler, or drum racks to  map multiple samples and/or instruments to Tenori-On notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Tenori MIDI timing is late==
+
+The Tenor-On 2.0 firmware update included improvements related to MIDI timing. The release notes indicated that the Tenori-on “responds to the F2 MIDI Song Position Pointer message allowing it to be seamlessly integrated into all popular DAW systems.” Even with this improvement, notes are late relative to Live’s timing.   This  means by default, Tenori-On MIDI notes won’t be aligned with the output  of clips in Live and if you attempt to record the in-coming MIDI it will record late into the clip as shown below.
+
+[[File:Tenori Ableton Live setup pic4.png]]
+
+==Compensating for Abletons timing with track delay==
+
+Luckily, Ableton Live has a handy feature “Track Delay” feature to help  compensate for timing issues. To access this feature click the small “D”  button on the right side. 
+
+[[File:Tenori Ableton Live setup pic5.png]]
+
+
+The premise behind Track Delay is to delay other tracks within Live  so that they sync with the instruments that are late. In the example  above I entered 100.0 MS as the delay time for a clip that is driving  Impulse so now it’s synced with the Tenori-On.
+To determine what  the delay should be I programmed a simple pattern on layer 1 of the  Tenori-On to contain quarter notes. Gladiator is set to a patch with a  percussive attack. I hit play in Live which starts the Tenori-On (since  Live is the Master and Tenori-On is the Slave). As the Tenori-On  triggers Gladiator, I can hear the timing differences. I stop Live, then  adjust the Track delay on the drum track and repeat until they are  locked. Your delay time will vary based on your sound card, computer  speed, audio device Driver Compensation setting (in Options->Audio)  etc.
+Once you determine your delay time, apply it to all the  other tracks. At this point, the Tenori-On is synced and you can use it  to perform in sync with clips.
+
+==How to Record Incoming Tenori-On Notes==
+*Set the track delay on the Tenor-On MIDI tracks to the same Track Delay time as the other tracks. 
+*In Live, set quantization using the menu “Edit->Record Quantization->Sixteenth-Note Quantization”
+
+[[File:Tenori Ableton Live setup pic6.png]]
+
+By setting Record Quantization in Live to 16ths, then pushing track  playback timing with “Track Delay”, Live will capture MIDI data then  automatically move it back in time to line up with 16ths.
+
+[[File:Tenori Ableton Live setup pic3.png]]
+
+
+
+[[category:Tenori-On|Ableton]]
+
+[[category:tutorials]]
+
+
+
+
+
+
+<small>This content uses material from [http://www.modulatethis.com/2010/03/tutorial-how-to-midi-sync-your-tenori-on-with-ableton-live.html this article] and is licensed under a creative commons agreement. </small>
