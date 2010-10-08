@@ -1,0 +1,9 @@
+You can import the audio from a video file without opening the video file. 
+
+Go to '''File/Import/Audio'''. Then in the window that appears select a video file containing audio. Then select the desired audio region(s) to extract.
+A prompt will ask you where you want to place the extracted audio file. THe file will be converted to the current sessions sample rate and bit depth. 
+
+
+[[category:Pro Tools|Import audio from video]]
+
+[[category:tutorials]]
