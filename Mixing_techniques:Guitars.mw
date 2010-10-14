@@ -1,0 +1,43 @@
+{{Template:Instrument mixing}}
+
+==General considerations and guidelines==
+
+
+
+
+====Referenced techniques====
+'''Each technique begins with a bullet point'''
+
+=====Equalization techniques=====
+
+*For fatter guitars try boosting the midrange and sweep the frequencies until you hear the range that the guitar sounds thick but bright enough to define itself in the mix. Then begin to attenuate the frequencies you just boosted until you get a good balance.<ref name="MEHPG37">The Mix Engineers Handbook.Bobby Owsinski.Page 37.ISBN 1598632515</ref>
+*Consider filering the low and high ends of the guitar. Cut the low end that competes with the the bass and rhythm section. Cut the high end that competes with cymbals.<ref name="MEHPG37"></ref>
+
+=====Compression techniques=====
+*If a guitar has an ambient track pan the ambience to follow the main sound and key the ambience track off the lead vocal using a compressor.This way when the lead vocal is present the ambience goes away. and when the lead vocal goes away the ambience is present.<ref name="MEHPG67">The Mix Engineers Handbook.Bobby Owsinski.Page 67.ISBN 1598632515</ref>
+*Pan double guitars hard left and right and send both to a compressor.Bring the output of of the compressor back to the mixer panned to the center.This gives the guitars more presence with less volume.<ref name="MEHPG67"></ref>
+
+====Unreferenced techniques====
+
+=====Thicker guitar sound=====
+======Technique 1======
+
+With one single guitar, you can duplicate (DAW) or feed the track into a second channel (Console).
+Pan both guitar channels hard left an right. Bring a delay into the second channel, with the
+dry output completely attenuated. No feedback, just one (!!!) short delay. The two tracks now
+are a bit different in their phase. Try a delay time between 10 and 30 ms. You will hear the
+guitar getting broader, filling the stereo panorama, while leaving enough room for a center panned
+vocal. This is also known as 'Haas effect', a psychoacoustic phenomenon.
+
+
+======Technique 2======
+
+Take a mono track of a rhythm guitar and duplicate it and pan one of these tracks hard left and the other hard right.Invert the polarity of the duplicate and then move it .01 seconds away from the original track in either direction.
+
+==References==
+<references/>
+
+
+{{Template:More techniques}}
+[[category:Mixing techniques|Guitar]]
+[[category:tutorials]]
