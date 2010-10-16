@@ -1,0 +1,36 @@
+=Gain staging=
+
+This article documents a list of techniques for [[gain staging]] audio systems.
+
+==DAW & Console==
+
+Use a test tone to set the gain on the console so the tone equals 0VU and -18dbfs on the DAW. <ref>[http://www.gearslutz.com/board/so-much-gear-so-little-time/505971-gain-staging-mixer-calibration.html Gearslutz gain staging and mixer calibration.Fletcher reply.29th June 2010, 10:46 AM]</ref> 			 			 
+ 
+==Console==
+
+===Piezo tweeter & test tone method===
+
+For  this method you will need A piezoelectric tweeter (these are usually  under $4) and a oscillator that generates a 400 Hz test tone. <ref>[http://www.sweetwater.com/insync/techtip.php?find=12/28/2001 Sweetwater - A cool test procedure for aligning your gain stages]</ref>
+
+====Internal gain staging====
+
+#Solo a microphone input channel set to [[pre fader listen (PFL)]] 
+#Make sure the EQ and other settings on this channel are bypassed or set flat
+#Connect the oscillator to that channel.
+#Connect  the piezoelectric tweeter to an output channel where you can feed the  oscillator to it (such as a control room out or headphone out).
+#Turn  on the oscillator and turn up the preamp gain on the channel until a  buzz emanates from the tweeter.This buzz is distortion expressed in  harmonic energy. 
+#Turn the Gain preamp down until it stops (but no further).
+#Take note of any peak light indicator values that accommodate the buzz.
+#Set the channel fader to unity gain
+
+This channels preamp gain setting on this mixer is done. Duplicate for each microphone input channel.
+
+
+
+{{Template:More techniques}}
+
+==References==
+<references/>
+
+
+[[category:tutorials]]
