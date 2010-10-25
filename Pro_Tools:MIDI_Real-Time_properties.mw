@@ -1,0 +1,95 @@
+==Pro Tools MIDI realtime properties==
+
+[[MIDI]] real-time properties let you change certain MIDI properties of a MIDI track, Instrument track or MIDI region in real time without changing the actual data on the track itself. Once Real-time property settings are established, you can write them to the track (changing the MIDI data) if you ''choose''
+
+The types of MIDI Real-time properties available to Pro Tools are [[Quantization (music)|Quantize]],Duration,Delay,Velocity and Transpose.
+
+===Real-Time properties view===
+
+Real-Time properties view is a feature that allows Real-Time properties to be displayed on MIDI track and instrument track headers and applied to tracks in the edit window.
+
+To enable Real-Time properties View
+
+'''View>Edit Window Views>Real-Time Properties'''
+
+
+
+[[File:Pro Tools Real-Time properties menu.png]]
+
+
+
+
+
+
+
+The edit window track headers will display the properties
+
+
+
+[[File:Pro Tools Real-time properties track display.png]]
+
+
+
+
+
+
+
+
+To enable each parameter click on it so that it is highlighted in green
+
+
+[[File:Pro Tools Real-time properties track display with highlighted buttons.png]]
+
+
+
+
+
+
+
+
+
+===Real-Time Properties Window===
+
+To open the Real-Time Properties window go to:
+
+'''Event > MIDI Real-Time Properties'''
+
+[[File:Pro Tools 8 real-time properties window.png]]
+
+
+
+
+
+You can apply the properties to a specific region or the entire track by selecting the '''Apply to''' drop down menu options. To apply the properties to specific regions the track must have it's [[Pro Tools:MIDI and Instrument track data display|data display set to '''Region''' or '''Block''' ]] and a region or multiple regions must be selected.
+
+
+
+
+[[File:Pro Tools 8 real-time properties window with apply window menu drop down.png]]
+
+
+
+
+
+
+You can access extended properties for each parameter by clicking the arrow icon next to them 
+
+
+
+
+
+
+[[File:Pro Tools 8 Real-Time properties window expanded.png]]
+
+
+
+
+
+When you are done you can write the properties to the track or region by clicking '''Write to Track''' or '''Write to Region'''
+
+
+
+
+[[category:Pro Tools|MIDI Real-Time properties]]
+
+[[category:tutorials]]
