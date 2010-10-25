@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - Two scratchable playback decks with +/-100% pitch control and 2-channel DJ mixer with headphone cue section
+*Synth/Sampler - None
+*Filter - +12db/-24db 3-band equalizer, Two 8-pole resonant filters with independent control of cutoff, width, and resonance and kill switches for each deck
+*Keyboard - None
+*Synchronization - MIDI Clock and network-based OSC (with which users can connect as many OSC applications on a network as they please, like Reaktor 4)
+*Interfaces - Core Audio, ASIO, DirectSound, MIDI
+*Macintosh - Minimum: Mac OS 10.2.6, G3 600 MHz, 256 MB RAM Recommended: Mac OS 10.2.6, G4 1.25 GHz, 512 MB RAM
+*Windows/PC - Minimum: Windows 2000/XP, Pentium/Athlon 600 MHz, 256 MB RAM **Recommended: Windows XP, Pentium/Athlon 1.6 GHz, 256 MB RAM
+*Date Produced - 2001
+|}
+
+'''Traktor''' is a DJ software instrument created by Native Instruments in 2001
+
+
+{{stub}}
+
+[[category:synths]]
+[[category:Native Instruments|Traktor DJ Studio]]
+[[category:software instruments]]
