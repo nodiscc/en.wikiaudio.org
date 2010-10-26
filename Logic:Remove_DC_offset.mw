@@ -1,0 +1,12 @@
+To remove the DC offset of audio files in Logic open the audio in the sample editor. You can do this by dragging the audio file to an audio track and double clicking on it. You can also go to '''Windows/Sample Editor/''' and then choose the audio file from a hard disk location.
+
+Then in the Sample editor go to '''Functions / Remove DC offset'''
+
+
+[[File:Logic remove DC offset.png]]
+
+
+
+
+[[category:Logic|Remove DC offset]]
+[[category:tutorials]]
