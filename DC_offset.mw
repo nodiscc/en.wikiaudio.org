@@ -1,0 +1,15 @@
+'''DC offset''' is an offsetting of a signal from zero. The term originated in electronics, where it refers to a direct current voltage, but the concept has been extended to any representation of a waveform. DC offset is the mean amplitude of the waveform; if the mean amplitude is zero, there is no DC offset.
+
+DC offset is usually undesirable. For example, in audio processing,a sound that has DC offset will not be at its loudest possible volume when normalized (because the offset consumes headroom),and this problem can possibly extend to the mix as a whole, since a sound with DC offset and a sound without DC offset will have DC offset when mixed. It may also cause other artifacts depending on what is being done with the signal.
+
+DC offset can be reduced in real-time by a one-pole one-zero [[high-pass filter]].When one already has the entire waveform, subtracting the mean amplitude from each sample will remove the offset. Often, very low frequencies are called "slowly changing DC". While not technically accurate, a high-pass filter can remove such a "changing offset" better because its cutoff does not extend to as low a bandwidth as the above method.
+
+
+
+
+
+
+
+
+<small>This article uses material from [[Wikipedia: DC_offset]] </small>
+[[category:signal processing]]
