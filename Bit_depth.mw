@@ -1,0 +1,43 @@
+In digital audio, '''bit depth''' describes the number of bits of information recorded for each sample. Bit depth directly corresponds to the resolution of each sample in a set of digital audio data. Common examples of bit depth include CD audio, which is recorded at 16 bits, and DVD-Audio, which can support up to 24-bit audio.
+
+Bit rate refers to the amount of data, specifically bits, transmitted or received per second.
+
+One of the most common bit rates given is that for compressed audio files. For example, an MP3 file might be described as having a bit rate of 160 kbit/s or 160000 bits/second. This indicates the amount of compressed data needed to store one second of music.
+
+The standard audio CD is said to have a data rate of 44.1 kHz/16, implying the audio data was sampled 44,100 times per second, with a bit depth of 16. CD tracks are usually stereo, using a left and right track, so the amount of audio data per second is double that of mono, where only a single track is used. The bit rate is then 44100 samples/second * 16 bits/sample * 2 = 1,411,200 bit/s or 1.4 Mbit/s.
+
+This explains why, for example, a Minidisc recorder, which uses ATRAC compression, can store files lasting twice as long on a disc, if the default, recording in 2 channel stereo, is set to single channel mono recording.
+
+To fully define a sound file's digital audio bit rates, the sampling rate, word size, number of channels, (e.g. mono, stereo, four-track), and format of the data also need to be known.
+
+==Bit rate==
+Bit rate refers to the amount of data, specifically bits, transmitted or received per second.
+
+One of the most common bit rates given is that for compressed audio files. For example, an MP3 file might be described as having a bit rate of 160 kbit/s or 160000 bits/second. This indicates the amount of compressed data needed to store one second of music.
+
+The standard audio CD is said to have a data rate of 44.1 kHz/16, implying the audio data was sampled 44,100 times per second, with a bit depth of 16. CD tracks are usually stereo, using a left and right track, so the amount of audio data per second is double that of mono, where only a single track is used. The bit rate is then 44100 samples/second * 16 bits/sample * 2 = 1,411,200 bit/s or 1.4 Mbit/s.
+
+This explains why, for example, a Minidisc recorder, which uses ATRAC compression, can store files lasting twice as long on a disc, if the default, recording in 2 channel stereo, is set to single channel mono recording.
+
+To fully define a sound file's digital audio bit rates, the sampling rate, word size, number of channels, (e.g. mono, stereo, four-track), and format of the data also need to be known.
+
+== Calculating values ==
+
+
+There is an easy way to determine a file's bit rate when given sufficient information. In fact, as long as you know any three of the following four values, you can calculate the missing value.
+
+Bit rate = (bit depth) x (sampling rate) x (number of channels)
+
+For a recording with a 44.1 kHz sampling rate, 2 channels (stereo) and a 16 bit depth:
+16 x 44100 x 2 = 1411200 bits per second, or, 1411.2 kbit/s
+
+
+==Also see==
+*[[Audio_sample_rate_and_bit_depth_tutorial]]
+
+
+
+{{stub}}
+
+[[category:audio formats]]
+[[category:signal processing]]
