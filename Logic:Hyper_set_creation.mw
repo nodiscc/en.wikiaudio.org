@@ -1,0 +1,59 @@
+Logics Hyper editor allows you to create Hyper sets. These are custom templates that make it easier to edit drum sequences and other [[MIDI]] performance data.
+
+
+
+
+
+==Creating a hyper set based on specific notes (or other MIDI data)==
+
+
+
+
+
+
+To create a Hyper set based on specific notes do these things.
+
+Open a MIDI track,add a blank sequence to it.
+Open up the matrix editor and insert 4 notes on four different keys.(image below)
+
+
+
+
+
+
+
+[[File:Logic matrix with four MIDI notes.png]]
+
+
+
+
+
+
+
+Then click on the Hyper set tab and under the Hyper menu choose create hyper set for current events. (image below).
+
+
+
+
+
+
+
+[[File:Logic hyper menu create hyper set for current events.png]]
+
+
+
+
+
+A hyper set will be created with the same four notes.
+
+
+
+
+
+[[File:Logic Hyper set with 4 notes.png]]
+
+
+
+
+[[category:Logic|Hyper sets]]
+[[category:tutorials]]
