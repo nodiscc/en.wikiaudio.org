@@ -1,0 +1,77 @@
+
+Apple loops are audio files that time compress and expand"on the fly" to conform to the MIDI tempo of a Logic session (or othercompatible audio program).
+
+
+== Using the Apple loops utility (audio regions only)==
+
+Select a region in the arrange window and then go to '''Audio/Open Apple loops utility''' (image below).
+
+
+
+
+[[File:Region with select apple loops utility.png]]
+
+
+
+
+Then in the apple loops utility window make sure '''looping''' is set.
+
+
+
+
+
+[[File:Apple loops utility wondow.png]]
+
+
+
+
+
+
+Then make all the appropriate customizable settings you feel are necessary. 
+Then click save
+
+==Using the library==
+
+
+
+To create apple loops this way in Logic follow these steps
+
+==Creating apple loops from audio regions (Blue apple loops)==
+
+Select an audio region ( on an audio track) in the arrange window and go to '''Region / Add to Apple Loops library'''
+
+[[File:Apple loop region menu.png]]
+
+The window that appears is used to categorize the loop according to music style,scale and mood.Set these parameters to reflect the style of the loop and click '''Create''' 
+
+
+
+[[File:Add regions to Apple loops library menu.png]]
+
+
+After the file is done rendering go to '''Media / Loops''' and search for your file. 
+
+[[File:Apple loops media menu .png]]
+
+
+When the file appears in the search drag it to a track. You can tell if the region was converted properly by the apple loop icon in it's upper corner
+
+
+[[File:Apple loop region with highlighted icon.png]]
+
+
+
+
+==Creating apple loops from Software instrument MIDI regions (Green apple loops)==
+
+
+
+To create a green apple loop the process is nearly identical to the blue apple loop process. The only difference is instead of converting an audio region on an audio track, you would select a MIDI region on a [[software instrument]] track.
+
+When the conversion process is done you will be able to drag green apple loops to either a MIDI track ''or'' an audio track.
+
+
+
+[[category:Logic|Creating apple loops]]
+
+[[category:tutorials]]
