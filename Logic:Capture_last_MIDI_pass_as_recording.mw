@@ -1,0 +1,8 @@
+In Logic, you can play a MIDI performance without recording it and then capture it as a recording after the pass.
+
+
+You can do this by using the key command Capture last recording ( '''Control/Option/Command/R'''). You can also add the feature to the transport bar by right clicking the transport and checking the box next to '''Capture Last Recording'''
+
+[[category:tutorials|Logic]]
+
+[[category:Logic|Capture]]
