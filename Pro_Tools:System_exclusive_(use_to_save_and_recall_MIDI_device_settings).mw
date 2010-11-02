@@ -1,0 +1,20 @@
+You can use System exclusive messages to record, save and recall settings from external [[MIDI]] gear. This tutorial requires that you know how to send this information from your external device. So you will need to see it's manual.
+
+In [[Pro Tools]]:
+
+Go to '''Setup / MIDI / Input filter'''. Then check the boxes next to '''Only''' and '''System Exclusive'''.
+
+Create a new MIDI track. '''Track / New / MIDI track'''.
+
+Set the MIDI input of the MIDI track to '''All'''.
+
+Record enable the track
+
+In the transport right click the record button and choose '''Normal'''.
+
+Begin recording and initiate the System Exclusive transmission on your device. 
+
+
+[[category:Pro Tools|System exclusive]]
+
+[[category:tutorials]]
