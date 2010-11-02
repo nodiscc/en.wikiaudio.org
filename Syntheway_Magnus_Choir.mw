@@ -1,0 +1,67 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Syntheway_Magnus_Choir.jpg‎]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*ADSR envelope generator with Attack, Sustain, Decay and Release parameters and several modulation targets, that gives musicians almost limitless possibilities in varying and creating unique new sounds with different vocal characteristics.  
+*State Variable Filter that includes Low Pass, High Pass, Band Pass, and Band Reject filters with adjustable Cutoff Frequency and Resonance, depending on the performer's preference. 
+*Reverb Effect Built-in: Free variation of acoustic ambience thanks to complete separation of choir and room. Small rooms can be modeled just as accurately as larger spaces. Customizable with user controls for: size room, width room, damping factor & mix, used to create psycho-acoustic models in the DSP environment, without having to load up any other plug-ins. 
+*VU Meter - Volume Unit Meter: A device that indicates the relative levels of the audio being played. It is calibrated to show a maximum recording level to avoid saturation and distortion.  
+*FULL MIDI Automation: Complete MIDI Continuous Controller. You can use this to automate parameter changes from a sequencer, or to control your synthesizers from an external MIDI control surface. 
+*Windows/PC - Pentium 133 MHz processor, Windows 98, XP, Vista or 7, Soundboard, VST host, 32 MB Ram
+*Date Produced - 2005 - present
+
+|}
+
+'''Magnus Choir''' is a commercial, proprietary music software synthesizer, for the Microsoft Windows platform. Developed by [[Syntheway]] Virtual Musical Instruments, this software can be used to create natural and synthetic choirs, vocal textures and sustained vowels. It may work as a plugin within digital audio workstation software such as FL Studio or Cubase. Magnus Choir also is compatible with FreeVST allowing GNU/Linux users to use native Microsoft Windows VST plugins by using parts of the Wine compatibility layer.
+
+
+==Synthesis and Sampling==
+Sound is generated via a hybrid method that combines synthesis and sampling. It features 32 factory presets including a variety of choirs such as men's choir and women's choir, choir pads and spatial voices, among others.
+
+Magnus Choir also features an ADSR envelope generator, State variable filter and Reverb effect emulation.
+
+
+==MIDI Automation==
+Features complete MIDI Continuous Controller to automate parameter changes from a sequencer, or to control the Magnus Choir software from an external MIDI control surface.
+
+
+==Factory Presets==
+
+Features the following choirs:
+
+* Oohs Choir 
+* Ahhs Choir 
+* Mms Choir 
+* Men’s Choir 
+* Women’s Choir 
+* Angel’s Choir 
+* Odd Choir 
+* Singing Monks 
+* Choir Pads 
+* Dark Octave Choir 
+* Future Choir 
+* Hell's Choir 
+* Psychedelic Choir 
+* Spatial Voices 
+* Sacred Chants 
+* Astral Choir
+
+
+'''Current Version''': 1.6 (Stable Release) 
+
+
+==Also see==
+
+[http://www.syntheway.net Syntheway homepage]
+
+[[Daniel Laiseca]]
+
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Syntheway]]
