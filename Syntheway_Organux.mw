@@ -1,0 +1,57 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" | <big>'''{{PAGENAME}}''' </big>
+[[File: Organux_thumb.jpg]]
+----
+|-
+| style="background: " | 
+<big>'''Specifications'''</big>
+* Hybrid method that combines sampling and synthesis techniques.
+* 22 predefined types of organ sounds such as: Baroque Pipe Organ, Cathedral Organ, Farfisa Organ, Ethereal Organ, Chorus Organ, Pipe Organ, Church Organ, Percussive Organ, Gothic Organ, Fast and Slow Hammond B3 Organ, Rock Organ, Blues Organ, Detuned Organ, Electronic Organ, Oberheim OB3 Organ, Reed Pump Organ.
+* LFO (Low Frequency Oscillator) with modulation depth, frequency, offset, waveforms (sine-triangle-square) add expressive effects such as "Tremolo" by using the simple GUI commands, or also can be controlled by the position of a ball by clicking-and-dragging in an X-Y axis. The panning slider controls the output effect distribution between left and right speaker. 
+* Multiple-Mode Filter includes LP (Low pass), BP (Band pass), HP (High pass), notch, peak, low pass and high pass shelving filter with adjustable cutoff and bandwidth. The values are automatically computed when you select any of the filter types.
+* ADSR envelope generator. 
+* Portamento/Glide control. 
+* Reverb effect built-in. 
+* Delay effect built-in. 
+* On-screen MIDI keyboard (68 Keys)
+* MIDI Channel selector : 1 to 16 channels.
+* FULL MIDI Automation: Complete MIDI Continuous Controller. You can use this to automate parameter changes from a sequencer, or to control your synthesizers from an external MIDI control surface.
+* Date Produced - 2006 - present
+|}
+'''Organux''' is a virtual organ VST plug-in developed by [[Syntheway]] and designed for creating a wide range of classic and modern organ sounds.
+==Synthesis and Sampling==
+Sound is generated via a hybrid method that combines synthesis and sampling. It features 22 types of organs including a variety from classical to modern sounds.
+Organux also features an ADSR envelope generator, a Multiple-Mode Filter, a LFO (Low Frequency Oscillator) and effects such as Reverb and delay.
+==MIDI Automation==
+Features complete MIDI Continuous Controller to automate parameter changes from a sequencer, or to control the Organux software from an external MIDI control surface.
+==Factory Presets==
+Features the following organs:
+ 
+* Baroque Pipe Organ 
+* Cathedral Organ 
+* Farfisa Organ 
+* Ethereal Organ 
+* Chorus Organ 
+* Pipe Organ 
+* Church Organ 
+* Percussive Organ 
+* Gothic Organ 
+* Fast and Slow B3 Organ 
+* Rock Organ 
+* Blues Organ 
+* Detuned Organ 
+* Reed Organ 
+* Oberheim OB3 Organ 
+* Electronic Organs 
+ 
+
+'''Current Version''': 1.1 (Stable Release) 
+==Also see==
+[http://www.syntheway.net Syntheway homepage]
+
+[[Daniel Laiseca]]
+
+[[category:synths]]
+[[category:software instruments]]
+[[category:Syntheway]]
