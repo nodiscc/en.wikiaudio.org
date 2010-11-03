@@ -1,0 +1,190 @@
+The Impulse drum sampler can load up to 8 samples that can be  triggered via a keyboard controller, the keys on your keyboard, or a MIDI clip.
+
+
+[[File:Ableton Live impulse drum synth.png]]
+
+
+
+
+
+==Impulse==
+
+
+You can add audio files to any of the 8 drum pads by simply dragging and dropping the files to them.
+You can also [[Ableton Live:Impulse drum module edit and adding of files|edit files in Lives arrange window and then add them to the impulse.]]
+
+
+
+
+
+
+Most of the parameters (except the three on the right most side) affect whatever individual pad is selected.The three on the right side affect the entire module.
+
+
+[[File:Ableton Live impulse drum module overview.png]]
+
+==Drum Pads==
+The drum pads have 4 buttons attached to them. (image below) 
+
+[[File:Ableton Live impulse drum pad features.png]]
+
+
+====Mute====
+Mutes the pad
+
+====Play====
+Plays the sample
+
+====Solo====
+Solos the pad
+
+====Swap sample====
+Allows the user to swap the sample using Abletons browser window
+
+
+
+
+==Sample specific parameters==
+
+===Start===
+
+This is a start attack time 
+
+====Soft====
+
+This "softens" the start time (attack) of the audio
+
+===Transp===
+
+This transposes the selected pad
+
+====Velocity====
+
+This changes the speed of the sample based on how fast you play a note.
+
+====Random====
+This is a random velocity setting. It's similar to the '''Velocity''' setting only it is random and not set
+
+===Stretch===
+
+This is a time stretch setting.It changes the playback length of the sample assigned to the selected pad.
+
+====Velocity====
+
+This changes the time stretch based on the velocity of the notes played. This value can be negative which means if you hit the note quietly it will stretch more. 
+
+====Mode====
+
+'''A''' and '''B''' modes are program defined processing algorithms. A is considered better for low frequency material and B is better for high frequency material.
+
+===Drive===
+
+Drive is a distortion effect . It is only active when the '''Sat''' button is enabled
+
+====Sat====
+
+The '''Sat''' button is short for '''''Saturation'''''. This enables the drive effect.
+
+===Freq===
+
+This is the frequency selector for the impulse filter. This can only be used after turning on the '''Filter''' button below it.
+
+====Filter====
+
+This is the on/off switch for the impulse filter
+
+====Mode====
+
+[[File:Ableton Live impulse drum module filter modes.png]]
+
+The Mode is the ''type'' of filter that is assigned to Impulse.
+
+The options are LP1,LP2,BP1,BP2,HP1,HP2 and Notch.
+
+=====LP1 & LP2=====
+
+'''LP''' stands for Low Pass and '''LP2''' is a more aggressive (lower) low pass filter than '''LP1'''.
+
+=====BP1 & BP2=====
+
+'''BP''' stands for Band Pass. '''BP2''' is a more aggressive filter than '''BP1'''
+
+===Res===
+'''
+Res''' is short for resonance and is the bandwidth of the filter 
+
+====Velocity====
+
+This allows you to affect the filter based on how hard (or soft) the notes being triggered play.
+
+====Random====
+
+ 
+This allows you to affect the filter based on how hard (or soft) the notes being triggered play in a random unpredictable manner
+
+
+===Decay===
+This is a decay setting. 
+
+=====Trigger / Gate=====
+
+This determines if the decay "cuts off" when the sample is re-triggered.If it's set to trigger it won't cut off, if it's set to gate it will cut off.
+
+===Pan===
+
+This pans the sample left or right.
+
+=====Velocity=====
+
+This makes the panning of the sample dependent on how fast the note is played.
+
+=====Random=====
+
+This is similar to velocity only the effects are not predictable. The panning is random.
+
+===Volume===
+This is the volume of the sample.
+
+=====Velocity=====
+
+This makes the volume of the sample dependent on how fast or slow it's triggered.
+
+=====M=====
+
+This Mutes the sample
+
+=====S=====
+
+This Solo's the sample
+
+
+
+==Module's global parameters==
+
+[[File:Ableton Live impulse module global parameters.png]]
+
+
+
+
+
+===Volume===
+
+This changes the volume of all sounds on all pads
+
+===Time===
+
+This changes the length (time) of all sounds on all pads
+
+===Transpose===
+
+This transposes the pitch of all sounds on all pads
+
+
+
+
+
+
+[[Category:Ableton Live|Impulse drum module overview]]
+
+
+[[category:tutorials]]
