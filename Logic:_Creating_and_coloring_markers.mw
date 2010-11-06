@@ -1,0 +1,87 @@
+==Logic: Creating and coloring markers==
+
+==Creating markers "on the fly"==
+
+You can create markers on the fly in Logic using the key commands:
+*'''Shift Command '''' (Create marker)
+*'''Command '''' (Create marker without rounding)
+
+
+===Creating markers===
+
+Open the [[Logic: Change global track components|global track components]] and make sure [[Logic:_Change_global_track_components#Dialog_Box|"markers" is checked]] in the dialog box that appears.
+[[Logic:_Change_global_track_components#Unfold_Global_Track|Unfold the '''Global Tracks''']]
+
+
+
+Click '''Create''' to create a new marker
+
+
+
+
+[[Image:Logic create marker from global tracks.png]]
+
+
+
+
+You can also use the Options menu by going to '''Options/Marker/Create'''
+
+
+
+
+
+[[Image:Logic create marker from option menu.png]]
+
+
+
+
+
+
+===From region function===
+
+If you would like to create a marker that aligns with a a region select the region and use the '''From Region''' function
+
+
+
+
+
+
+[[Image:Logic before and after From Region.png]]
+
+
+===Moving markers===
+
+
+You can move markers by clicking ,holding and dragging them.They move according to the [[Logic: Snap menu overview|snap menu]]
+
+
+===Adding color to markers===
+
+
+To add colors select the region and open the color palette. You can do this by either going to the view menu. View/Colors.Or you can use the key command '''Option C'''
+
+
+
+[[Image:Logic view colors.png]]
+
+
+The color palette will appear.
+
+Choose a color and close the window.
+
+[[Image:Logic color palette.png]]
+
+
+
+
+
+
+The result is a marker with the specified color
+
+
+[[image:Logic yellow marker .png]]
+
+
+[[category:tutorials|Logic]]
+
+[[category:logic|Markers]]
