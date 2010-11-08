@@ -1,0 +1,26 @@
+===Pro Tools:Change hardware buffer size===
+
+
+To change the [[DAW buffer size‎|buffer size]] in [[Pro Tools]] 
+
+
+
+Go to '''Setup / Playback engine'''
+
+
+
+[[File:Pro Tools setup playback engine menu.png]]
+
+
+
+The buffer settings are available in the window that appears
+
+
+
+[[File:Pro Tools hardware buffer size window.png]]
+
+
+
+[[category:Pro Tools|Buffer size]]
+
+[[category:tutorials]]
