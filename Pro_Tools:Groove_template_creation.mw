@@ -1,0 +1,82 @@
+==Pro Tools Groove template creation==
+
+
+===From audio region===
+
+
+
+To create a [[groove template ]] ( also called a Digigroove) from an audio file and apply it to a [[MIDI]] region follow these steps
+
+
+Open Beat Detective '''Event>Beat Detective'''
+
+
+[[File:Pro Tools Beat Detective menu.png]]
+
+
+
+'''1.''' Select  and audio region.
+
+'''2.''' In the Beat Detective '''Operation''' menu choose audio  [[File:Pro Tools operation menu Audio or MIDI option.png]] 
+
+'''4.''' Choose '''Groove Template Extraction'''.  
+
+'''5.''' In the Selection menu Click '''Capture Selection'''. This will capture timing information from the region needed to create the groove template. You can manually modify any of these parameters.
+
+'''4.''' Click  '''Extract'''
+
+
+
+
+[[File:Pro Tools Beat Detective with groove template feature highlighted.png]]
+
+
+
+The window that appears will ask you if you want to save the Groove Template to the clipboard or to the disk.If you want to save the groove template to disk and be able to use it you need to save it in a folder in the Pro Tools Grooves folder directory.
+
+
+
+[[File:Pro Tools extract groove template window.png]]
+
+
+===From MIDI region===
+
+The process for Extracting a Groove Template from a MIDI region is identical to the process of extracting it from and audio region except In the Beat Detective '''Operation''' menu choose MIDI 
+
+
+[[File:Pro Tools operation menu Audio or MIDI option.png]] 
+
+
+
+===Applying groove templates to MIDI regions===
+
+'''1.''' In the edit window
+Select a MIDI region you wish to apply the groove template to and select '''Region>Quantize''' and then from the Quantize Grid menu choose either Groove Clipboard or the Groove file depending on how you previously saved it.
+
+
+[[File:Pro Tools quantize window with groove template.png]]
+
+
+Click '''Apply'''
+
+
+
+===Applying groove templates to audio regions===
+
+
+To apply Groove Templates to audio regions first make sure [[Pro Tools: Enable Elastic audio|elastic audio]] is enabled for the track/regions you wish to affect.
+
+Then select the region and open the quantize menu ('''Region>Quantize''') and then from the '''Quantize Grid''' menu choose either Groove Clipboard or the Groove file depending on how you previously saved it.
+
+
+Click '''Apply'''
+----
+
+
+
+
+
+
+[[category:Pro Tools|Groove template]]
+
+[[category:tutorials]]
