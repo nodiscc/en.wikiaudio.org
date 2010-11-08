@@ -1,0 +1,24 @@
+
+
+To lock regions first select the region(s) you wish to lock and then go to '''Region/Edit Lock'''  or '''Region/Time Lock'''
+
+
+===Edit Lock===
+
+This function locks a region and doesn't allow you to move or edit it
+
+
+===Time Lock===
+
+This function locks a region and doesn't allow you to move it around, but you can still edit it in some ways; such as deleting parts of it.
+
+
+
+
+[[Image:Pro Tools lock regions.png]]
+
+
+
+[[category:Pro Tools|Lock regions]]
+
+[[category:tutorials]]
