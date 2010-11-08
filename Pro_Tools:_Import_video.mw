@@ -1,0 +1,44 @@
+
+
+Pro Tools can import video files in the Quicktime format.
+Pro Tools HD and LE (with the DV Toolkit or Mojo SDI) can also import Avid video files.
+Windows Vista Pro Tools systems can import Windows media files (VC-1 AP).
+
+
+
+To import a video into Pro Tools go to '''File > Import > Video'''
+
+
+
+[[File:Pro Tools import video menu.png]]
+
+
+
+
+
+[[File:Pro Tools video import dialog .png]]
+
+
+'''Main Video Track''' - This option places the video on the currently active video track.
+
+'''New Track''' - This option will place the video file on a new track in the session
+
+'''Region List'''  - This option will import the video 
+
+
+
+===Location===
+
+'''Session Start''' - Imports video file  at the start of the session
+
+'''Song Start''' - Places the imported file at the song start location if it is different from the session start
+
+'''Selection''' - This option places the video file at the beginning of an existing edit selection or at the cursor location if no edit selection exist.
+
+'''Spot''' - This option allows you to place the video file at a specific location using the [[Pro_Tools:_Edit_modes#Spot|Spot]] dialog box
+
+
+
+[[category:Pro Tools|Video]]
+
+[[category:tutorials]]
