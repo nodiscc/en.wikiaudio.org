@@ -1,0 +1,23 @@
+==Pro Tools: Automatically name markers==
+
+
+When creating markers in [[Pro Tools]] a dialog box will appear by default that allows the user to name the marker. This can be cumbersome since it doesn't allow the user to drop markers on the fly one-after-another.
+
+
+To remedy this you can do these things:
+
+Go to '''Windows/memory locations'''
+
+In the memory locations window that appears click the menu button in the upper right corner of the window and check '''Auto-Name Memory Location''' 
+
+
+[[File:Pro Tools auto name memory location .png]]
+
+
+
+Now when you drop markers on the fly ( the key command is '''Enter''' on the ''numeric keypad'') you won't be interrupted with a dialog box asking to name them.
+
+
+[[category:Pro Tools|Markers]]
+
+[[category:tutorials]]
