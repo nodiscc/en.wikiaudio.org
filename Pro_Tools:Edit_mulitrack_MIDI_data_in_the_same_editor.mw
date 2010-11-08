@@ -1,0 +1,17 @@
+==Pro Tools: edit multitrack MIDI data==
+
+'''To edit multitrack MIDI data in the piano roll editor:'''
+
+Open the MIDI editor and then click the dot next to each track who's data you wish to display (displayed in image below).
+
+'''To choose which track to write to:''' 
+
+Highlight the pencil tool of the respective track (displayed in image below). To select more than one pencil icon hold '''Shift''' and select it. This will allow you to add data to multiple tracks at once. 
+
+[[Image:Pro Tools multi track MIDI editing.png]]
+
+
+
+[[category:Pro Tools|Multitrack MIDI editing]]
+
+[[category:tutorials]]
