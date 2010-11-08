@@ -1,0 +1,34 @@
+==Pro Tools punch in record==
+
+To [[punch in]] on [[Pro Tools]] you must have either '''Quickpunch''' or '''Trackpunch''' enabled.
+
+===Quickpunch===
+To enable quickpunch right click the transport record button and choose '''Quickpunch'''
+[[File:Pro Tools quickpunch transport icon.png]]
+===Trackpunch===
+
+To enable Trackpunch right click the transport record button and choose '''Trackpunch'''
+[[File:Pro Tools track punch transport icon.png]]
+
+
+The difference between '''Trackpunch''' and '''Quickpunch''' is Trackpunch enables you to drop in and out on different tracks at different times within the same pass. Quick Punch won't do this, it will only drop in and out on all the selected tracks at the same time <ref>[http://www.soundonsound.com/sos/dec06/articles/ptworkshop_1206.htm Getting The Best From Quick Punch & Track Punch. Sound on Sound , Pro Tools Notes & Techniques December 2008] </ref>
+
+
+
+With either of these modes enabled you can now record "on the fly" by pushing '''Command>Spacebar''' (Mac) or '''Control> Spacebar''' (Windows) while record enabled tracks are playing.
+
+
+
+
+
+
+===References===
+
+<references/>
+
+
+
+
+[[category:Pro Tools|Punch in record]]
+
+[[category:tutorials]]
