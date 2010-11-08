@@ -1,0 +1,15 @@
+To insert time into a [[Pro Tools]] session go to the '''Event''' menu and choose '''Time Operations''' and then '''Insert Time'''
+
+A window will appear with a '''Start''', '''End''' and '''Length''' field. Set these parameters to what you want and click '''Apply'''.
+
+
+
+
+
+
+[[File:Pro Tools insert time box.png]]
+
+
+[[category:Pro Tools|Insert time]]
+
+[[category:tutorials]]
