@@ -1,0 +1,18 @@
+==Pro Tools playback from memory locations==
+
+
+To play back from various markers (memory locations) in your session you need to first know how the  [[Pro Tools:Set numeric keypad mode|Pro Tools numeric keypad mode]] is configured. Then do the following:
+
+===If you have the numeric keypad set to classic mode===
+
+On the numeric keypad type the number of the marker and then period ('''.''')
+
+===If you have the numeric keypad set to Transport mode===
+
+Type period ('''.''') number of marker then period again ('''.''')
+
+
+
+[[category:Pro Tools|Marker playback with key commands]]
+
+[[category:tutorials]]
