@@ -1,0 +1,11 @@
+==Pro Tools: assign MIDI message to plug in or instrument parameter==
+
+
+To assign a MIDI message to a plug in or instrument in Pro Tools hold down '''control''' and click the parameter you wish to affect. Choose learn in the pop-up menu and then move the slider or knob on your MIDI controller that is sending the MIDI message you wish to assign.
+
+[[Image:Pro Tools learn MIDI controller.png]]
+
+
+[[category:Pro Tools|Learn MIDI message]]
+
+[[category:tutorials]]
