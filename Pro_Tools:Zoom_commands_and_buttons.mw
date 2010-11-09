@@ -1,0 +1,60 @@
+==Pro Tools zoom commands==
+
+===Video===
+
+{{youtube|RWUJIW5BMO0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+===Zoom buttons===
+The zoom buttons in the transport (numbered in the image below) do the following
+
+
+[[File:Pro Tools zoom buttons.png]]
+
+
+#'''Horizontal Zoom Out button.''' This changes the time view of the session by compressing the time display of all tracks in the session.
+#'''Audio Zoom In And Out Button.''' This button changes the displayed amplitude of all waveforms of all audio tracks in the session.
+#'''MIDI Zoom In and Out button.''' This compresses or expands the note range shown in MIDI tracks.
+#'''Horizontal Zoom In button.''' This changes the time view of the session by expanding the time display of all tracks in the session.
+
+
+
+
+
+[[category:Pro Tools|Zoom]]
+[[category:tutorials]]
