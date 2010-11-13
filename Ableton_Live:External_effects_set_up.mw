@@ -1,0 +1,26 @@
+To use external effects devices with Ableton follow these steps.
+
+<big>'''1.''' </big> Add an '''External Audio Effect''' device from the device menu. (image below)
+*If you want to have your external effect be an [[‎Insert effect |insert]] then add the '''External Audio Effect''' device to the individual track you wish to have the effect on. 
+*If you would like to have your external device be used as an [[aux send]] then add the '''External Audio Effect''' device to a '''Return track''' (image below)
+
+
+
+
+
+
+[[File:Ableton Live external effects device menu.png]]
+
+
+
+
+
+<big>'''2.''' </big> In the '''External Audio Effect''' device itself, set the '''Audio To''' menu to the audio interface outputs that your effects device is connected to. Then on the '''Audio From''' menu set the inputs that the effects device is returning to on your audio interface.
+
+
+[[File:Ableton Live external effects device.png]]
+
+
+[[category:Ableton Live|External effects set up]]
+
+[[category:tutorials]]
