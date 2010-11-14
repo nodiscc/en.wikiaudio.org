@@ -1,0 +1,51 @@
+Open the mixer window ('''Windows/Mixer''') and select the tracks you wish to group.
+
+Then click and hold the group menu ( as shown in the image below). 
+
+
+
+[[Image:Logic 2 channels in mixer window.png]]
+
+
+
+Now select a group number from the display that appears. Then select  '''Open Group Settings'''
+
+
+[[Image:Logic grouping tracks.png]]
+
+
+
+The window that appears will allow you to name your group as well as choose different fuctions to include
+in the group. Select the functions you want and close the window. The tracks are now grouped.
+
+To group or ungroup more tracks simply click and hold the group menu of the respective track and make the proper assignment (group number or name)
+
+
+
+
+
+[[File:File-Logic 9 group parameters.png]]
+
+
+===Logic 8 ===
+Logic 8's group tracks window will look slightly different.
+
+[[Image:Logic group parameters.png]]
+
+===To temporarily disable a group===
+
+
+
+
+You can use the group clutch function to temporarily disable groups.
+
+The key command for this is '''Command-G'''.
+
+
+This feature is also available in the ''local menu of the mixer window'' under '''Options/Group Clutch'''
+
+
+
+[[category:tutorials]]
+
+[[category:logic|Grouping tracks]]
