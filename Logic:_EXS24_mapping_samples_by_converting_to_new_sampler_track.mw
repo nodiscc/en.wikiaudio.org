@@ -1,0 +1,59 @@
+
+This tutorial shows how take an audio file and keymap it to the sampler by using the function called "converting to new sampler track". This feature is available for Logic 9+ and above
+
+
+
+
+
+'''1.'''Add the audio file to a track and select it.
+
+'''2.'''Hold control and click the region
+
+'''3.'''In the menu that appears select '''Convert'''/'''Convert to new sampler track'''
+
+
+
+
+[[File:Logic 9 convert to new sampler track menu.png]]
+
+
+
+
+
+
+
+'''4.'''In the dialog box that appears choose your settings
+
+
+[[File:Logic 9 convert regions to new samler track dialog box.png]]
+
+
+
+
+'''Create Zones From:'''
+
+For this option choose '''Regions''' if you wish to assign selected regions to keys.Select '''Transient Markers''' if you wish to keymap a file by its transients such as a drum loop.
+
+'''EXS Instrument Name'''
+
+This will be the name of the patch you are creating.
+
+'''Trigger Note Range'''
+
+This is the span of your keymap from the lowest note to the highest note.
+
+
+'''5.''' Click '''OK''' when you have the setting you want.
+
+
+You should now have a new track with the EXS24 inserted on it and a MIDI region reflecting the keymap placement.
+
+
+
+==Also see==
+
+<big>[[Logic:EXS24 drum loop mapping with strip silence|Logic 8 EXS24 drum loop mapping with strip silence]]</big>
+
+
+[[category:logic|EXS24 mapping samples by converting to new sampler track]]
+[[category:tutorials]]
