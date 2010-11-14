@@ -1,0 +1,36 @@
+== Setup ==
+
+
+1. Insert the plug in on an audio track that has the audio file you wish to affect.
+
+
+
+2. Push the "Transfer" button in Melodyne and push "play" on Logic's transport or hit the spacebar to begin recording the audio into Melodyne.
+
+
+
+
+Melodyne will record the audio data and it will look similar to the image below. When the audio file is done playing hit stop on Logic's transport or press the space bar to stop.
+
+
+[[image:Melodyne recording into logic.png|600px]]
+
+The audio should be displayed in Melodyne similar to the image below
+
+[[image:Melodyne recorded into logic.png|600px]]
+
+
+
+
+
+==Logic 9 or later==
+To hear just the Melodyne version you recorded, you can mute the corresponding region in Logic. You can do a bounce to disk to replace the original Logic file with the Melodyne version as well.
+
+==Logic 8==
+
+If you play back the track in Logic 8 both the original and the Melodyne tracks will play.If you would like to have only the Melodyne track play you must replace the original audio track in Logic with a track of "dead audio". In other words the original Logic track should be replaced with an audio file that is "empty". The easiest way to accomplish this is to do a "bounce to disk" whereby all audio is muted and then add the "dead" audio file to the same track in which Melodyne is inserted.You can then do a bounce to disk to replace the original Logic file with the Melodyne version as well.
+
+
+[[category:logic|Melodyne]]
+[[category:melodyne]]
+[[category:tutorials]]
