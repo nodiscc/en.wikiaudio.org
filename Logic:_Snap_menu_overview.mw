@@ -1,0 +1,99 @@
+== Logic 8 and 9: Snap menu overview ==
+
+
+
+== Snap menu overview ==
+ 
+
+The snap menu is a collection of settings that allow the user to moves/edit regions and other data in Logic to a particular grid value.
+
+It applies to:
+
+ 
+#Moving and copying regions.
+#Resizing regions.
+#Cutting regions.
+#Moving, adding, and resizing markers.
+#Setting cycle boundaries.
+
+
+
+
+
+== Moving regions ==
+
+
+Moving regions in logic is done by clicking and holding the
+middle of a region and dragging it to the left or right.
+
+ 
+
+[[image:Logic 8 grab_region.JPG]]
+
+ 
+
+ 
+
+ 
+
+ 
+
+The value by which it moves is determined by
+the settings in the snap menu (shown below)
+
+[[image:Logic 8 Snap.PNG]]
+
+ 
+
+
+==  Snap settings ==
+
+
+ 
+
+The different snap settings allow you to move/edit regions in the following ways:
+
+==='''Smart:'''=== 
+
+Edit operations will snap to the nearest bar, beat, sub beat, and so on, dependent on the current Bar ruler division value, and the zoom level.
+
+==='''Bar:'''=== 
+
+Edit operations will snap to the nearest bar.
+
+==='''Beat:'''=== 
+
+Edit operations will snap to the nearest beat in a bar.
+
+==='''Division:'''=== 
+
+Edit operations will snap to the nearest division value which is the value shown in the transport image below. You can change this value directly in the transport and your regions will move according to this value.
+
+[[image:Logic 8 transport_division.JPG]]
+
+==='''Ticks:'''=== 
+
+Edit operations will snap to the nearest clock tick (1/3840th of a beat).
+
+==='''Frames:''' ===
+
+Edit operations will snap to the nearest SMPTE frame.
+
+==='''QF:''' === 
+
+Edit operations will snap to the nearest SMPTE quarter frame.
+
+==='''Samples:''' ===
+
+Edit operations will snap to the nearest sample.
+ Sample accurate editing is directly tied to the zoom level. 
+ If the zoom level  is insufficient, sample-accurate edits are not possible.
+
+== Snap to Absolute Value ==
+
+To snap to an absolute, not relative, position you must choose the Snap to Absolute Value option in the Snap menu. To explain, if Bar is chosen in the Snap menu, when Snap to Absolute Value is active, moving a region (from position 1.2.1.16) to around bar 2 will result in it being snapped to position 2.1.1.1 (the bar 2 start point), rather than its relative position (2.2.1.16)
+
+[[image:Logic 8 Snap_to_absolute.PNG]]
+
+[[category:tutorials]]
+[[category:Logic|S]]
