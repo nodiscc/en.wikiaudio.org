@@ -1,0 +1,30 @@
+===Logic:Separate midi notes by channel or pitch===
+----
+
+Select the MIDI region you would like to affect and then go to the '''MIDI''' menu and choose '''Separate MIDI events''', then choose the option you want. (image below)
+
+[[File:Logic separate note by pitch or channel.png]]
+
+
+----
+
+In some earlier versions of Logic this process of s separating notes by pitch or channel '''demixing'''
+
+You can '''demix''' MIDI notes by selecting the MIDI region you wish
+to demix and then going to: 
+
+'''Region''' then '''Split / Demix'''
+
+
+Then choose to '''Demix By Event Channel''' or '''Demix By Note Pitch''' 
+
+
+[[Image:Logic Pro demix.png]]
+
+
+
+
+
+[[category:tutorials]]
+
+[[category:Logic|Seperate MIDI notes by channel or pitch]]
