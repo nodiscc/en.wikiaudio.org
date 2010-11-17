@@ -1,0 +1,31 @@
+
+
+
+----
+
+
+'''1.''' 
+First thing you need to do is create an empty MIDI region on a MIDI or MIDI Instrument track.You can do this by drawing in a region with the pencil tool 
+
+[[Image:Logic empty region and tools.png]]
+
+
+'''2.''' Open up the piano roll editor by either double clicking on the region or going to '''Windows/Piano Roll''' ( you can step edit in other editors as well but for our example we will use the piano roll).
+
+
+
+
+
+
+'''3.''' Double click the MIDI input icon in the Piano Roll editor until it is red and looks like the image below
+
+[[Image:Logic piano roll editor step edit icon.png]]
+
+
+'''4.''' Open the step input keyboard by going to '''Options/Step input keyboard'''
+
+You should now be able to record in notes by simply playing them. You can use the step input keyboard to change the note lengths and other parameters.
+
+
+[[category:tutorials]]
+[[category:logic|Step record]]
