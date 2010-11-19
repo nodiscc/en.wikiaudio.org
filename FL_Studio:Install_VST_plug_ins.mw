@@ -1,0 +1,8 @@
+VST plug ins either have one of two types of installations. They are either a regular program install or a Dll file.
+
+To install a VST plug in that has a Dll file-type install, you must go to the Image Line folder directory and then got to '''FL Studio / Plug ins/ VST''' and drop the Dll file in it. Then launch FL Studio and the VST should be available.
+
+
+[[category:FL Studio|VST plug in installs]]
+
+[[category:tutorials]]
