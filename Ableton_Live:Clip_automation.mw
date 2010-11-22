@@ -1,0 +1,24 @@
+'''1.'''To automate clips you must first add a clip and then double click it to open the clip editor.
+
+
+'''2.'''Then turn on the Warp button.
+
+
+'''3.'''Click the envelope box "hide/show" button.
+
+
+'''4.'''Within the envelope box their is a menu that you can choose either clip automation,mixer automation or automation from any effects you may have added to the track. Then right below it (image below) their is a menu that allows you to choose what kind of automation you want to draw it ( I.E. panning,volume,transpose etc). Pick the one you want.
+
+
+'''5.'''In the waveform right click (or CTRL click if on Windows) and choose a grid value and then choose '''Draw mode'''.
+
+You should now be able to draw in the automation you want by clicking on the waveform and inserting automation nodes.
+
+
+[[File:Ableton Live clip automation.png]]
+
+
+
+[[category:Ableton Live|Clip automation]]
+
+[[category:tutorials]]
