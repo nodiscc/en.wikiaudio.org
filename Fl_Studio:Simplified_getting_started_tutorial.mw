@@ -1,0 +1,287 @@
+This tutorial is designed to give users of conventional DAW's (Pro Tools, Logic, Sonar etc..) a point of reference for using FL Studio. It will take you through a series of steps that allow you to work in FL Studio like you would any other DAW while incidently helping you learn how the program "really" works in the process. After you complete this tutorial you should more or less "get how the program works" and have a basic workflow understanding without having to read the entire manual.
+
+
+==Set up==
+
+Open FL Studio and configure it accordingly. Go to '''FILE / New from template / Basic''' to open a new session.  
+
+*Go to '''Options / Audio settings''' to configure the audio driver
+*Go to '''Options / MIDI settings''' to configure the MIDI river
+
+
+
+
+
+Go to the transport and click the small led display dot next to song (image below).
+
+This puts the session into ''song mode'' as opposed to ''pattern mode''. The former is a much more conventional way to work.
+
+
+[[File:FL_Studio_song_mode_button.png]]
+
+
+
+'''Things to know:'''   
+
+'''To play the song''' you will need to '''hit the space bar with the Control key held down''' otherwise the song position pointer will return to zero.  
+
+'''To edit''' there is a tools palette with various tools (image below).
+
+[[File:FL Studio tools.png]]
+
+
+
+
+
+----
+We will now configure the top menu options to reflect the ones of most use.  
+Click an empty part of the upper display (image below) until a menu appears.  
+You can select different items in the menu and this will add them to the display bar. 
+
+[[File:FL Studio Customize tool bar.png]]
+
+
+
+For our exercise make sure you select all the items checked in the list below:
+
+
+
+
+[[File:Fl Studio menu bar.png]]
+
+
+
+
+
+After you do this move the tool bar windows around until they are organized. The end result should look something like the image below.Now click an empty part of the menu item again and choose '''Lock''' from the menu.
+
+
+
+[[File:FL Studio Top bar.png|600px]]
+
+
+For convenience we are now going to set up the FL Studio window to be a floating window.
+
+To set up [[FL Studio:Floating window|FL Studio to work as a floating window]]  
+*go to '''View / Arrange windows / Outside bottom task bar'''.  
+
+
+
+[[File:Fl studio floating window set up.png]]
+
+
+
+
+*Then resize the window and click the upper left corner of the FL Studio logo to move the program window.  
+
+
+[[File:Fl Studio floating window drag.png]]
+
+
+
+
+----
+
+
+
+
+
+
+We are now going to configure some windows. Open the arrange window by clicking the arrange window icon (image below). To zoom in and out you click the Square boxes on the upper right of the arrange window.(image below)     
+
+
+[[[[File:FL Studio zoom buttons.png]]
+
+
+
+
+Then make sure the pattern display is shown below it. You can drag the median bar up to see the pattern display.   
+
+
+
+[[File:FL Studio tracks with pattern display.png]]
+
+==Writing MIDI software instrument tracks==   
+
+Each of these patterns (bottom row ) can record and "hold" a different MIDI recorded performance that can be copied to different tracks. These patterns trigger sound patches that are universally assignable to any of them at all times.
+
+
+Do these things:
+
+*Click '''Pattern 1'''.
+*Click the record button on the transport and begin recording and play some notes.
+
+When you're done you should have something like the image below
+
+[[File:FL Studio simple MIDI track recording.png]]
+
+
+
+Click the time display ruler and try to drag the song position pointer to the right. It won't let you do it.So zoom out and left click to create a "dummy region" where you would like the end of the song to be.  
+The end of the song in FL Studio is defined by the last event. This means you have to draw in a dummy event if you want your songs ending to be pre defined.
+
+
+
+Now '''left-click''' on an empty part of any of the tracks. The pattern you just recorded will be duplicated.
+
+
+[[File:FL Studio duplicated pattern.png]]
+
+
+
+
+Now left click on the '''pattern 1''' track itself. You should see a block appear on the track (image below).
+
+
+[[File:FL Studio pattern recording.png]]
+
+
+Double click on this block. The Piano Roll editor should appear. (image below). If it doesn't, go to '''View/Piano Roll'''.
+
+
+[[File:FL Studio Piano Roll.png]]
+
+
+Now move some of the notes around in the piano roll editor, you will notice the edits will be reflected in the data you just recorded to track 1. This is normal and is how the program works.  
+
+
+Now click on an unused pattern then left click at the beginning of a different track. This will add an empty region. ''This is how you select what track a pattern gets recorded to''.You have to add a region to the beginning of it first (image below).
+
+Then record.
+
+
+[[File:Fl Studio empty pattern.png]]
+
+
+
+
+
+'''Things to know'''  
+
+In FL Studio every MIDI recording on each pattern is an "overdub". There is no "replace" record. So to replace a recording you will need to empty out the contents of a pattern by opening the piano roll editor and deleting everything ( '''Control A / Delete''' ). You can also delete the entire pattern by right clicking it and selecting delete.
+
+
+
+Congratulations. You now know how to record MIDI tracks in FL Studio.
+
+But wait! How do you trigger different sounds and software instruments?
+
+Good question.
+
+==Playing different sounds==
+
+Open up the piano roll editor and look at the top where device selection is. Click the arrow and choose a device. (image below)
+
+
+[[File:FL Studio piano roll patch select.png]]
+
+
+===Adding different software instruments===
+ 
+To add new software instrument devices do these things:
+
+Open the browser by going to '''View / Browser'''.
+
+Open the piano roll editor.
+
+Then drag a device bank to the piano roll editor. The device will now appear as usable in the piano roll in the device selector at the top.
+
+
+
+[[File:FL Studio move bank to piano roll.png]]
+
+
+
+===Editing  instruments===
+
+You can edit the instruments by right-clicking the device selector at the top of the piano roll editor (image below).
+
+
+
+[[File:FL Studio sound editor from piano roll.png]]
+
+
+To assign the instrument/sound to a different mixer output click and box above the FX setting and select a mixer channel number. (image below)
+
+
+
+
+[[File:FL Studio sound patch editor.png]]
+
+
+
+
+==Recording audio==
+
+The FL Studio audio drivers need to be set to ASIO in order to record audio into the program.
+
+
+
+
+===Recording audio to tracks directly===
+
+
+
+Open the arrange window if it ins't already open. You can do this by clicking on the '''Open/Close Arrange Window''' icon.
+
+[[File:FL Studio open arrange window icon.png]]
+
+
+
+
+Open the transport (if it isn't already open) by going to '''View / toolbars / Transport'''. (image below).
+
+
+
+[[File:FL Studio transport window directory.png]]
+
+
+
+
+
+Click the song mode button in the transport. It is the very small dot next to '''Song''' in the transport. (image below).
+
+
+
+[[File:FL Studio song mode button.png]]
+
+
+
+
+
+Open up the Mixer by going to the view menu and      (image below). 
+
+
+
+
+[[File:FL Studio View mixer.png]]
+
+
+
+Choose the mixer channel strip that you would like to record through (they correspond to the track numbers) then set the audio input you wish to record from (image below) and then record enable the track by clicking the disk icon at the bottom of the track until it is highlighted orange. 
+
+[[File:FL Studio record enable audio track.png]]
+
+
+
+
+
+Click the play (and record) buttons and recording will begin. You won't see a waveform display until after you click the stop button.
+
+
+
+After you record you can decide which mixer channel to send the audio file to by double clicking it and 
+choosing SMP from the window that appears, and then set the FX number to the channel you want to send the audio to. This isn't specifically an effects send, it's a channel assignment even though the FX label may have you assume otherwise.
+
+
+[[File:FL Studio output of audio to input of channel.png]]
+
+
+
+[[File:FL Studio click record and play.png]]
+
+
+
+[[category:FL Studio|Tutorials]]
+
+[[category:tutorials]]
