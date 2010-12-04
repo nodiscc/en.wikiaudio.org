@@ -1,0 +1,74 @@
+The FL Studio audio drivers need to be set to ASIO in order to record audio into the program.
+
+==Recording Audio==
+
+
+
+===Recording audio to tracks directly===
+
+
+
+Open the arrange window if it ins't already open. You can do this by clicking on the '''Open/Close Arrange Window''' icon.
+
+[[File:FL Studio open arrange window icon.png]]
+
+
+
+
+Open the transport (if it isn't already open) by going to '''View / toolbars / Transport'''. (image below).
+
+
+
+[[File:FL Studio transport window directory.png]]
+
+
+
+
+
+Click the song mode button in the transport. It is the very small dot next to '''Song''' in the transport. (image below).
+
+
+
+[[File:FL Studio song mode button.png]]
+
+
+
+
+
+Open up the Mixer by going to the view menu and      (image below). 
+
+
+
+
+[[File:FL Studio View mixer.png]]
+
+
+
+Choose the mixer channel strip that you would like to record through (they correspond to the track numbers) then set the audio input you wish to record from (image below) and then record enable the track by clicking the disk icon at the bottom of the track until it is highlighted orange. 
+
+[[File:FL Studio record enable audio track.png]]
+
+
+
+
+
+Click the play (and record) buttons and recording will begin. You won't see a waveform display until after you click the stop button.
+
+
+[[File:FL Studio click record and play.png]]
+
+
+After you record you can decide which mixer channel to send the audio file to by double clicking it and 
+choosing SMP from the window that appears, and then set the FX number to the channel you want to send the audio to. This isn't specifically an effects send, it's a channel assignment even though the FX label may have you assume otherwise.
+
+
+[[File:FL Studio output of audio to input of channel.png]]
+
+
+
+
+
+
+[[category:FL Studio|Audio recording]]
+
+[[category:tutorials]]
