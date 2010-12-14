@@ -1,0 +1,14 @@
+To copy audio configurations between songs open the mixer ( '''Windows / Mixer''' ) then click the '''Options''' tab then go to '''Copy Audio Configuration'''. Then open a different song and go to the same menu and choose '''Paste Audio Configuration'''. (image below)
+
+
+
+[[File:Logic audio config copy.png]]
+
+
+==Also see==
+[[Logic: Import track content and parameters from other sessions]]
+
+[[category:Logic|Copy audio configuration between sessions]]
+
+
+[[category:tutorials]]
