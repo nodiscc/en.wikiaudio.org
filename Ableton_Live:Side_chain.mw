@@ -1,0 +1,29 @@
+To set up a [[side chain]] in Ableton Live follow these steps.This example will be using a compressor device.
+
+1. [[Ableton_Live:Add_new_tracks|Create 2 tracks]], one to be the control signal and the other to be the affected signal and make sure each track has an audio clip or track playing from it.To overtly hear the effect you might want to try having a kick drum on the control signal track and a non percussion part playing on the affected track, such as a bass line or synth pad
+
+2. On the affected signal track add a compressor device
+
+3. On the compressor device click the arrow in the upper left of the device. This will allow you to access the side chain parameters.
+
+
+[[File:Live_unfold_compressor.png]]
+
+
+4. Now make sure the '''Sidechain''' option is turned on and the '''Audio From''' menu is set to the control signal track.
+
+
+
+
+
+[[File:Ableton_Live_side_chaining.png]]
+
+
+
+5. Now play the session with both clips (or tracks) playing and move down the '''Threshold''' setting of the compressor. You should hear the control signals influence on the affected signal.
+
+
+
+[[category:ableton Live|Side chain]]
+
+[[category:tutorials]]
