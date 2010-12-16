@@ -1,0 +1,24 @@
+*All resistors = 1% metal film type.
+*C4 = tantalum
+*12-dB boost/cut @ specified center frequency.
+*PS potentiometers = 50-Kohm,linear
+
+Click on the picture below to make it bigger.
+
+[[File:24_band_eq_circuit.png|900px]]
+
+
+
+
+
+
+
+Make the above circuit 24 times and replace the respective capacitor values in the accompanying chart for each one
+
+
+
+[[File:24 band EQ circuit capacitor value key.png]]
+
+
+[[category:circuitry]]
+[[category:tutorials]]
