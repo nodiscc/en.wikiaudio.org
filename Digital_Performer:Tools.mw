@@ -1,0 +1,63 @@
+[[Digital Performer]]'s tools allow the user to manipulate and move [[audio]], [[MIDI]] and other data.
+
+==Tools==
+[[File:Digital Performer tools.png]]
+
+
+The tool palette can be accessed by going to '''Studio/Tools''' menu or the key command '''Shift O'''.
+====Pointer Tool====
+[[File:Digital_Performer_pointer_tool.png]] This is used to select and move audio and MIDI data.
+
+====I-Beam====
+[[File:Digital Performer I beam tool.png]] Use the I-Beam tool to make time-range selections within an editor (Sequence Editor, MIDI Graphic Editor, Drum Editor, etc) or the Tracks Overview window. This works regardless of the type of data you are working with.
+
+====Pencil====
+[[File:Digital Performer pencil tool.png]] Use the pencil tool to insert MIDI information (such as notes) and automation data. The Reshape Curve determines the type of curve the pencil tool draws.
+
+====Insert/Reshape Curve====
+[[File:Digital Performer reshape flavor.png]] Use the '''Insert/Reshape Curve''' to determine the type of shape the pencil tool draws
+
+====Reshape tool (R)====
+[[File:Digital Performer reshape tool.png]] Use the reshape tool to change the shape of existing MIDI controller and automation data.
+
+====Reshape Action (Mode)====
+[[File:Digital Performer reshape action tool.png]] The Reshape Action tool is used to determine how data is affected by the reshape tool.
+
+====Rhythm brush ====
+[[File:Digital Performer Rhythm brush tool.png]] The Rhythm brush tool is used to draw in patterned hits (notes) within the drum editor
+
+====Zoom====
+
+[[File:Digital Performer zoome tool.png]] The Zoom tool is used to zoom in or out on a selection. To zoom in on a track double click on it repeatedly until the desired zoom level is reached. Hold the '''Option''' key while clicking to zoom back out.
+
+====Scrub====
+[[File:Digital Performer scrub tool icon.png]] The scrub tool is used to [[Scrubbing|scrub]] the playback of data within an audio or MIDI track.
+
+====Insert Loop====
+[[File:Digital Performer loop tool.png]] Use this tool to insert a loop to a track.Do this by clicking and dragging horizontally in the marker strip
+
+====Mute Soundbites====
+[[File:Digital Performer mute tool.png]] This tool mutes individual soundbites (audio files/regions).
+
+====Scissors====
+[[File:Digital Performer scissor tool.png]] The Scissors tool is used to split a MIDI region or soundbite (audio region).This tool can make consecutive splits based on the current grid value by simply dragging this tool over the region you want to split. (with edit grid turned on)
+
+====Trim====
+[[File:Digital Performer trim tool.png]] The Trim tool lets you extend or retract the edge of a soundbite, or in the case of selected automation points, it allows vertical movement while retaining their relative positions.
+
+====Roll====
+[[File:Digital Performer roll tool.png]] The Roll tool allows you to edge edit the end of one soundbite and the beginning of another at the point where the two soundbites come together.
+
+====Slip====
+[[File:Digital Performer slip tool.png]] This tool allows you to edge edit the start and end of a soundbite without changing the position of a soundbite in the track.
+
+====Slide====
+[[File:Digital Performer slide tool.png]] Use this tool to move the position of a soundbite while leaving the soundbites audio at the same playback time.
+
+====Comp====
+[[File:Digital Performer comp tool .png]] This tool is used to create a composite track from multiple takes in an audio track.
+
+
+[[category:Digital Performer|Tools]]
+
+[[category:tutorials]]
