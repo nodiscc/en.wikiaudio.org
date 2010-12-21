@@ -1,0 +1,36 @@
+
+[[File:Pro Tools spot mode.png]]
+
+
+[[File:Pro Tools spot dialog box.png]]
+
+
+
+The spot dialog window displays a series of values. They are:
+
+*'''Current Time Code'''
+*'''Time scale''' - This option allows you to choose between the different time values available.
+
+
+
+[[File:Pro Tools spot time scale options.png]]
+
+
+
+
+
+
+
+*'''Start''' - This is the start point of the selected region.
+*'''Sync Point''' - This is an independent value that can be determined using the [[Pro_Tools:_Creating_sync_points_for_spotting|Identify sync point]] feature
+*'''End''' - This is the end point of the selected region.
+*'''Duration''' - The is the length of the selected region.
+*'''Use Sub frames''' - This allows you to use sub frames when the '''Time scale''' is set to one of the appropriate values.
+*'''Original Time Stamp''' - This is the place the original file was either imported to or recorded to.
+*'''User Time Stamp''' - This is a user defined time stamp value. This can be changed by going to the '''Region''' menu and '''Time Stamp'''
+
+
+
+[[category:Pro Tools|Spot dialog]]
+
+[[category:tutorials]]
