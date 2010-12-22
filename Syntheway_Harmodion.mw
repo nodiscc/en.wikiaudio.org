@@ -1,0 +1,84 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" | <big>'''{{PAGENAME}}''' </big>
+[[File:Harmodion.jpg‎]]
+----
+|-
+| style="background: " | 
+<big>'''Specifications'''</big>
+* 9 Drawbars. By sliding drawbars in or out, the user can mix various pitches and create the richly distinctive sounds of an electric organ or of a free reed aerophone instrument. 
+* The Additive synthesis constructs complex sounds by controlling the level of individual sine-wave components. The sound can be reshaped by alterations made to timbre. A harmonic sound could be restructured to sound inharmonic, and vice versa. 
+* The rich harmonic content of their sound allows to generate the widest palette of tonal variations for Drawbar organs, Reed organs and Squeezeboxes emulations. 
+* Vibrato effect, with depth and speed modulation controls. 
+* Adjustable Key Click simulation to add the percussive effect for distinctive organ sounds and button click noise in Accordion and Bandoneon presets.  
+* Configurable Drive level. Accomplished by clipping the input signal, this effect adds sustain and additional harmonics and overtones to the signal, creating a richer sound with a warm thickness regarding to the original tone. 
+* 32 Presets available for immediate use in a wide range of genres from blues, jazz, gospel and rock styles to folk, ethnic and popular music. 
+* Full MIDI Automation: Complete MIDI Continuous Controller (Control of all parameters for use with external hardware control).
+|}
+
+'''Harmodion''' is a commercial, proprietary music software synthesizer, for the Microsoft Windows platform, developed by [[Syntheway]] Virtual Musical Instruments.
+
+It's a Drawbar organ and a free-reed aerophone instrument emulation, such as Reed organ, Harmonium, Accordion and Bandoneon among others.
+
+ 
+
+==Characteristics==
+Harmodion uses Additive Synthesis allowing to manipulate harmonically the sine waveform components to produce pitched sounds, as well as to individually detune those components to produce inharmonic timbres. 
+
+
+==MIDI Automation==
+Features complete [[MIDI]] Continuous Controller to automate parameter changes from a sequencer, or to control the Harmodion software from an external MIDI control surface.
+
+==Presets==
+* Default
+* Drawbar Organ
+* Orgue de la Chapelle
+* Vibratone (Reed Aerophone) 
+* Flute Organ
+* Tan-Go (Tango Accordion)
+* Fantasy Organ
+* Squeeze Accordion
+* Organphone
+* Harmonica
+* Overdrive Organ 
+* Harmonium
+* Reed Organ
+* Calliope Circus Organ
+* Soft Organ
+* Percussive Organ
+* Hard Overdrive Organ
+* Odd Organ
+* Accordion
+* Hammondish B3
+* Bandoneón
+* Rock Organ
+* Elektro-Orgel
+* Pure Organ
+* Blues Organ
+* Dirty Organ
+* Rotary Organ 
+* Metalized Rock Organ
+* Space Organ
+* Telharmonium (Dynamophone)
+* Flutina Accordion
+* VibraphOrgan
+
+ 
+==Current Version==
+v1.0 (Stable Release) 
+
+
+==Also see==
+
+ 
+[http://harmodion.syntheway.net Harmodion website]
+
+[http://www.syntheway.net Syntheway homepage]
+
+[[Daniel Laiseca]]
+
+[[category:synths]]
+
+[[category:software instruments]]
+
+[[category:Syntheway]]
