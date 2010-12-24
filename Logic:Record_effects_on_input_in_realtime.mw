@@ -1,0 +1,50 @@
+Go to the environment and then the mixer layer. 
+
+'''Windows / Environment''' 
+
+
+[[File:Logic environment mixer layer.png]]
+
+
+
+
+
+
+
+Add a new input channel strip. '''New / Channel Strip / Input'''
+
+[[File:Logic input object.png]]
+
+
+
+
+Select the input channel strip
+
+[[File:Logic input channel strip.png]]
+
+
+
+
+In the channel parameter box (image below) set the channel input to reflect the input of the signal you will be recording. 
+
+
+[[File:Logic input channel strip parameter box.png]]
+
+
+
+Add the insert plug in (s) you want to the input channel strip. (image below)
+
+[[File:Logic channel input strip with desser.png]]
+
+
+
+Record to a track. Make sure the input setting of the track you are recording to is the same as the input channel strip
+
+
+
+[[File:Logic input channel with record enabled channel.png]]
+
+
+
+[[category:tutorial|Logic]]
+[[category:Logic|Record effects on input]]
