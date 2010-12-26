@@ -1,0 +1,7 @@
+Once you [[Pro_Tools:_Import_video|import a video into Pro Tools]] you can change the video start time by editing the video track like you would an audio or MIDI region.  You simply choose an [[Pro_Tools:_Edit_modes|edit mode]] and the  [[Pro_Tools:Tools#Grabber_Tool|grabber tool]] and move the video track  manually to the time you want it to start.
+
+
+
+[[category:Pro Tools|Start]]
+
+[[category:tutorials]]
