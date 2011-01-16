@@ -1,0 +1,50 @@
+MIDI controller is used in two senses.
+
+* In one sense, a controller is hardware or software which generates and transmits MIDI data to MIDI-enabled devices.
+* In the other more technical sense, a MIDI controller is an abstraction of the hardware used to control a performance, but which is not directly related to note-on/note-off events. A slider assigned to open and close a low-pass filter on a synthesizer may be assigned to controller 18, for example. Changes in the position of the slider are transmitted along with "18" so that they are distinguished from changes in the value of other controllers.
+
+
+==MIDI controllers (hardware and software)==
+
+
+The following are classes of MIDI controller:
+
+* The human interface component of a traditional instrument redesigned as a MIDI control device. The most common type of device in this class is the keyboard controller. Such a device provides a musical keyboard and perhaps other actuators (pitch bend and modulation wheels, for example) but produces no sound on its own. It is intended only to drive other MIDI devices. Percussion controllers such as the Roland Octapad fall into this class, as do a variety of wind controllers and guitar-like controllers such as the SynthAxe.
+
+* Electronic musical instruments, including synthesizers, samplers, drum machines, and electronic drums, which are used to perform music in real time and are inherently able to transmit a MIDI data stream of the performance.
+
+* Pitch-to-MIDI converters including guitar/synthesizers analyze a pitch and convert it into a MIDI signal. There are several devices which do this for the human voice and for monophonic instruments such as flutes, for example.
+
+* Traditional instruments such as drums, pianos, and accordions which are outfitted with sensors and a processor which accepts input from the sensors and transmits real-time performance information as MIDI data.
+
+* Sequencers, which store and retrieve MIDI data and send the data to MIDI enabled instruments in order to reproduce a performance.
+
+* MIDI Machine Control (MMC) devices such as recording equipment, which transmit messages to aid in the synchronization of MIDI-enabled devices. For example, a recorder may have a feature to index a recording by measure and beat. The sequencer that it controls would stay synchronized with it as the recorder's transport controls are pushed and corresponding MIDI messages transmitted.
+
+* MIDI Show Control (MSC) devices such as show controllers, which transmit messages to aid in the operation and cueing of live theatrical and themed entertainment productions. For example, a variety of show control sub systems such as sound consoles, sound playback controllers, virtual audio matrices and switchers, video playback systems, rigging controllers, pyro and lighting control systems directly respond to MSC commands. However, most standalone generic MSC controllers are intended to actuate a generic computerised show control system which has been carefully programmed to produce the complex desired results that the show demands at each moment of the production.
+
+== MIDI controllers in the data stream ==
+
+Modifiers such as modulation wheels, pitch bend wheels, sustain pedals, pitch sliders, buttons, knobs, faders, switches, ribbon controllers, etc., alter an instrument's state of operation, and thus can be used to modify sounds or other parameters of music performance in real time via MIDI connections. The 128 virtual MIDI controllers and their electronic messages connect the actual buttons, knobs, wheels, sliders, etc. with their intended actions within the receiving device.
+
+Some controllers, such as pitch bend, are special. Whereas the data range of most continuous controllers (such as volume, for example) consists of 128 steps ranging in value from 0 to 127, pitch bend data may be encoded with over 16,000 data steps. This produces the illusion of a continuously sliding pitch, as in a violin's portamento, rather than a series of zippered steps such as a guitarist sliding their finger up the frets of their guitar's neck. Thus, the pitch wheel on a MIDI keyboard may generate large amounts of data which can lead to a slowdown of data throughput.
+
+The original MIDI spec included 128 virtual controller numbers for real time modifications to live instruments or their audio. MIDI Show Control (MSC) and MIDI Machine Control (MMC) are two separate extensions of the original MIDI spec, expanding MIDI protocol to accept far more than its original intentions.
+
+
+== Current MIDI controllers in common use ==
+
+The most common MIDI controllers encountered are various sizes of "piano" keyboard. A modern controller lacks internal sound-generation, instead acting as a primary or secondary input for a synthesizer, digital sampler or a computer running a VST instrument or other software sound generator. Many have several user-definable knobs and slide controls which can control aspects of a synthesizer's sound in real-time. Such controllers are much cheaper than a full synthesizer, and are increasingly equipped with Universal Serial Bus, which allows connection to a computer without a MIDI interface. Despite not using MIDI directly, software applications recognize such controllers as a MIDI device. In most cases, a USB-equipped controller can draw necessary power from the interface's 5v line, and does not require an A/C adapter when connected to a computer. Keyboards range in size from 88 weighted-action keys to portable 25-key models. Controllers can be used for performance applications (by a trained pianist, for example) or by a DJ to trigger sound samples and rhythm loops.
+
+Drums systems are also commonly used, especially dedicated drum pads. Many drum setups are paired with a sound generator from the same manufacturer, but often have a MIDI output in addition. Such systems allow a drummer to practice quietly (through headphones) and to record drum tracks without a studio, expensive microphones, etc. Also, the pads can control any sort of percussion instrument sample, providing the drummer with a greatly increased sound palette.
+
+
+==External links==
+
+* [http://improv.sapp.org/doc/class/MidiOutput/controllers/controllers.html All Continuous Controllers explained]
+* [http://www.sweetwater.com/shop/keyboards/keyboard-controllers/buying-guide.php Introduction to MIDI Controllers]
+* [http://www.saxmusicplus.com/?p=126 MIDI controllers explained]
+* [http://www.myzfytzrecords.com/tutorials/mpd.php akai mpd multichannel midi controller explained]
+
+
+[[category:MIDI|Controller]]
