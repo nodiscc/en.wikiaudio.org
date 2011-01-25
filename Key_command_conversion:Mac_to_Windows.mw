@@ -1,0 +1,23 @@
+
+{| class="wikitable" border="2"
+|-
+
+! Mac
+
+! Windows
+|-
+|Command
+|Control
+|-
+|alt/option
+|alt
+|-
+|cntrl
+|start
+|-
+|Return key
+|Enter key (not numeric keypad)
+|-
+| Delete key
+| Backspace key
+|}
