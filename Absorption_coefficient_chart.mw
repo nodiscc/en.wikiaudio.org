@@ -1,0 +1,811 @@
+<html>
+<BODY bgcolor="#CCCCCC" 
+text=#000000 link="#000099" vlink="#000099" alink="#000099" 
+<H1>
+<CENTER>
+    <table width="100%" border="0" align="center">
+      <tr valign="top"> 
+        <td height="48"> 
+          <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="5" color="#666666"><a name="top"></a></font> </div>
+        </td>
+      </tr>
+      <tr valign="top"> 
+        <td> 
+          <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font></p>
+          <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Full absorption is 1 and full reflection is 0</font></p>
+          <p align="center"><font color="#990000" face="Verdana, Arial, Helvetica, sans-serif" size="4">Absorption 
+            coefficients of common building materials and finishes</font></p>
+          <table border=1 cellpadding=5 align="center" width="100%" bgcolor="#0066cc">
+            <tbody> 
+            <tr> 
+              <td nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>Floor 
+                materials</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>125 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>250 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>500 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>1 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>2 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>4 
+                kHz</b></font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">carpet 
+                </font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.25</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.45</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Concrete 
+                (unpainted, rough finish) </font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Concrete 
+                (sealed or painted)</font></td>
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc height="16"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marble 
+                or glazed tile</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Vinyl 
+                tile or linoleum on concrete</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wood 
+                parquet on concrete</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wood 
+                flooring on joists</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.11</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+            </tr>
+            <tr> 
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>Seating 
+                materials</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>125 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>250 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>500 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>1 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>2 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>4 
+                kHz</b></font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Benches 
+                (wooden, empty)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.09</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Benches 
+                (wooden, 2/3 occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.37</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.4</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.47</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.53</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.56</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.53</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Benches 
+                (wooden, fully occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.56</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.66</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.8</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76 
+                </font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Benches 
+                (cushioned seats and backs, empty)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.32</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.4</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.42</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.44</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.43</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.48</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Benches 
+                (cushioned seats and backs, 2/3 occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.44</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.56</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.65</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.72</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.72</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.67</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Benches 
+                (cushioned seats and backs, fully occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.64</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.86</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.86</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theater 
+                seats (wood, empty)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theater 
+                seats (wood, 2/3 occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.34</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.21</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.28</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.53</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.56</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.53</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Theater 
+                seats (wood, fully occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.3</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.4</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.8</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Seats 
+                (fabric-upholsterd, empty)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.49</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.66</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.8</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.88</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.82</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.7</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Seats 
+                (fabric-upholsterd, fully occupied)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.6</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.74</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.88</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.96</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.93</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.85</font></td>
+            </tr>
+            <tr> 
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>Reflective 
+                wall materials</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>125 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>250 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>500 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>1 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>2 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>4 
+                kHz</b></font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Brick 
+                (natural)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Brick 
+                (painted)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Concrete 
+                block (coarse)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.36</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.44</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.31</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.29</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.39</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.25</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Concrete 
+                block (painted)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.09</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Concrete 
+                (poured, rough finish, unpainted)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Doors 
+                (solid wood panels)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Glass 
+                (1/4" plate, large pane)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.18</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Glass 
+                (small pane)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plasterboard 
+                (12mm (1/2") paneling on studs)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.29</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plaster 
+                (gypsum or lime, on masonry)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plaster 
+                (gypsum or lime, on wood lath)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.14</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (3mm(1/8") paneling over 31.7mm(1-1/4") airspace)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.25</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.12</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (3mm(1/8") paneling over 57.1mm( 2-1/4") airspace)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.28</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.2</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (5mm(3/16") paneling over 50mm(2") airspace)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.38</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.24</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.17</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (5mm(3/16") panel, 25mm(1") fiberglass in 50mm(2") airspace)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.42</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.36</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.19</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (6mm(1/4") paneling, airspace, light bracing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.3</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.25</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (10mm(3/8") paneling, airspace, light bracing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.28</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.22</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.17</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.09</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.11</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plywood 
+                (19mm(3/4") paneling, airspace, light bracing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.2</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.18</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.12</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+            </tr>
+            <tr> 
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>Absorptive 
+                wall materials</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>125 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>250 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>500 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>1 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>2 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>4 
+                kHz</b></font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Drapery 
+                (10 oz/yd2, 340 g/m2, flat against wall)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.11</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.18</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.3</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Drapery 
+                (14 oz/yd2, 476 g/m2, flat against wall)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.13</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.22</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.32</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Drapery 
+                (18 oz/yd2, 612 g/m2, flat against wall)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.12</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.48</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.38</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.36</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Drapery 
+                (14 oz/yd2, 476 g/m2, pleated 50%)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.31</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.49</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.75</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.7</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.6</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Drapery 
+                (18 oz/yd2, 612 g/m2, pleated 50%)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.14</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.53</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.75</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.7</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.6</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc valign="top" height="13"> 
+                <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fiberglass 
+                  board (25mm(1") thick)</font></p>
+              </td>
+              <td bgcolor=#cccccc height="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc height="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.2</font></td>
+              <td bgcolor=#cccccc height="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.65</font></td>
+              <td bgcolor=#cccccc height="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.9</font></td>
+              <td bgcolor=#cccccc height="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.95</font></td>
+              <td bgcolor=#cccccc height="13"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.98</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fiberglass 
+                board (50mm(2") thick)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.18</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fiberglass 
+                board (75mm(3") thick)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.53</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Fiberglass 
+                board (100mm(4") thick)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.97</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Open 
+                brick pattern over 75mm(3") fiberglass</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.4</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.65</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.85</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.75</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.65</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.6</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pageboard 
+                over 25mm(1") fiberglass board</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.32</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.34</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.12</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pageboard 
+                over 50mm(2") fiberglass board</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.26</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.97</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.66</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.34</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.14</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Pageboard 
+                over 75mm(3") fiberglass board</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.49</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.69</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.37</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Performated 
+                metal (13% open, over 50mm(2") fiberglass)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.25</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.64</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.97</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.88</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.92</font></td>
+            </tr>
+            <tr> 
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>Ceiling 
+                material</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>125 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>250 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>500 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>1 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>2 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>4 
+                kHz</b></font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plasterboard 
+                (12mm(1/2") in suspended ceiling grid)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.15</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.11</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.07</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Underlay 
+                in perforated metal panels (25mm(1") batts)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.51</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.78</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.57</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.77</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.9</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.79</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Metal 
+                deck (perforated channels,25mm(1") batts)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.19</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.69</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.88</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.52</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.27</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Metal 
+                deck (perforated channels, 75mm(3") batts)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.73</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.99</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.89</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.52</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.31</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plaster 
+                (gypsum or lime, on masonary)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.01</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Plaster 
+                (gypsum or lime, rough finish or timber lath)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.14</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.06</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.04</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sprayed 
+                cellulose fiber (16mm(5/8") on solid backing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.16</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.44</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.79</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.9</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.91</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sprayed 
+                cellulose fiber (25mm(1") on solid backing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.29</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.75</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.98</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.93</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.76</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sprayed 
+                cellulose fiber (25mm(1") on timber lath)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.47</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.9</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1.03</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1.05</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1.03</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sprayed 
+                cellulose fiber (32mm(1-1/4") on solid backing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.3</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.73</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.92</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.98</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.98</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sprayed 
+                cellulose fiber (75mm(3") on solid backing)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.7</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.95</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.85</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.85</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.9</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Wood 
+                tongue-and-groove roof decking</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.24</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.19</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.14</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.08</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.13</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.1</font></td>
+            </tr>
+            <tr> 
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>Miscellaneous 
+                surface material</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>125 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>250 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>500 
+                Hz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>1 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>2 
+                kHz</b></font></td>
+              <td><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000"><b>4 
+                kHz</b></font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">People-adults 
+                (per 1/10 person) </font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.25</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.42</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.46</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">People-high 
+                school students (per 1/10 person)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.22</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.3</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.38</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.42</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.45</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.45</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">People-elementary 
+                students (per 1/10 person)</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.18</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.23</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.28</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.32</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.35</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ventilating 
+                grilles</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.3</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.4</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.5</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.4</font></td>
+            </tr>
+            <tr> 
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Water 
+                or ice surface</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.008</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.008</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.013</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.015</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.02</font></td>
+              <td bgcolor=#cccccc><font face="Verdana, Arial, Helvetica, sans-serif" size="2">0.025</font></td>
+            </tr>
+            </tbody> 
+          </table>
+        </td>
+      </tr>
+      <tr> 
+        <td height="19">&nbsp; </td>
+      </tr>
+      <tr> 
+        <td> 
+          <div align="center"> 
+            <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">.</font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"> </font> </p>
+          </div>
+        </td>
+      </tr>
+  </tr>
+
+    </table> </table>
+
+</html>
+
+
+[[category:acoustics]]
