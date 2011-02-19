@@ -1,0 +1,20 @@
+==Copying tracks==
+
+To copy a track to another track of the same part number, press and hold '''COPY''' and select the 
+source track. Now select the destination track. Pressing '''RECORD''' initiates the copy.
+ 
+
+==Copying a tracks between parts ==
+To copy a track of one part to a single track of another, press and hold '''COPY''', select the source 
+track, select the destination part number, select the destination track, then press '''RECORD'''. 
+
+
+==Copying selected information (notes, pitchbend, individual MIDI channels, etc.)== 
+Use page up and page down buttons to select the desired data while holding the COPY button and choose the data selection you want prior to pushing RECORD is pressed.
+
+
+
+
+
+[[category:Alesis]]
+[[category:tutorials]]
