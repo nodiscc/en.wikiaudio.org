@@ -1,0 +1,122 @@
+==Pro Tools 8 and 9 Setting numeric keypad mode==
+
+The numeric keypad can either  be set to '''Classic''', '''Transport''' or '''Shuttle mode'''.
+To change the setting go to '''Setup > Preferences > Operations''' 
+
+
+[[File:Pro Tools setup preferences.png]]
+
+
+
+
+[[File:Pro Tools set numeric keypad mode operations dialog box.png]]
+
+
+
+
+===Classic mode===
+
+Classic mode sets Pro Tools numeric keypad to operate in the same manner as versions of Pro Tools before 5.0
+----
+
+
+===Transport mode===
+
+
+*This mode allows you to play up to two tracks of audio in Shuttle Lock mode. You can do this by pressing the Start key (Windows)  or Control (Mac), followed by 1–9 for different play speeds. 
+*Plus or Minus is used to reverse direction. 
+*0 stops Shuttle Lock,you can then press the number to resume Shuttle Lock speed. 
+*To exit Shuttle Lock mode press Escape or Spacebar 
+*You can recall Memory Locations (Markers) by typing period (.), the Memory Location number, and period (.) again. 
+
+
+
+{| {{prettytable}}  
+! Function
+! Key
+|-
+| Click on/off 
+| 7
+|-
+| Countoff on/off 
+| 8
+|-
+| MIDI Merge/Replace mode 
+| 9
+|-
+| Loop Playback mode on/off 
+| 4
+|-
+|Loop Record mode on/off 
+| 5
+|-
+| QuickPunch mode on/off
+| 6
+|-
+| Rewind
+|    1
+|-
+| Fast Forward
+|    2
+|-
+| Record enable 
+|    3
+|-
+| Play/Stop 
+|    0
+|}
+----
+
+===Shuttle mode===
+
+In Shuttle mode playback  of the current Edit selection is triggered by pressing and holding the keys on the numeric keypad.Playback stops once the keys are released. Different playback speeds are available in both  forward and reverse. In Shuttle mode pre and post roll are ignored. 
+
+
+{| {{prettytable}}  
+! Function
+! Key
+|-
+| 1x Forward 
+| 6
+|-
+|1x Rewind 
+| 4
+|-
+| 4x Forward 
+| 9
+|-
+| 4x Rewind 
+| 7
+|-
+| 1/4x Forward 
+| 3
+|-
+| 1/4x Rewind
+| 1
+|-
+| 1/2x Forward
+| 5+6
+|-
+| 1/2x Rewind
+| 5+4
+|-
+| 2x Forward 
+| 8+9
+|-
+| 2x Rewind 
+| 8+7
+|-
+| 1/16x Forward
+| 2+3
+|-
+| 1/16x Rewind  
+| 2+1
+|-
+| Loop Selection (1x)
+| 0
+|}
+
+
+[[category:Pro Tools|Set numeric keypad mode]]
+
+[[category:tutorials]]
