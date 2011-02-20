@@ -1,0 +1,14 @@
+The '''MERGE''' mode is provided so that two tracks can be merged together (combined) onto one track. 
+
+To use it:
+
+Make sure you're in part mode (PART button should be lit).
+Push the merge button (should be lit).
+
+Press the first desired track (it will light solid), followed by the 
+destination track (it will flash), followed by RECORD. This will merge both tracks ''into'' the <u>second track</u>.
+
+
+[[category:Alesis]]
+
+[[category:tutorials]]
