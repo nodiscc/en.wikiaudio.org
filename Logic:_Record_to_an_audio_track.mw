@@ -1,0 +1,33 @@
+=Logic: Recording to an audio track=
+
+
+
+'''1.''' Set the [[‎Logic: select audio interface|Logic audio settings]]
+
+'''2.''' Make sure the [[Logic: setting the bit depth of session|Logic bit depth]] and [[Logic: Setting the sample rate of session|Logic sample rate settings are set correctly]].
+
+'''3.''' [[Logic:Create a new track|Create an audio track]]
+
+'''4.''' [[Logic:Set audio track input|Set the inputs of the track]] to correlate wit the input of the signal you wish to record
+
+'''5.''' Record enable the audio track (see last image below)
+
+'''6.''' A dialog box will appear asking where you want your session files to be recorded to. Choose a directory and click OK.
+
+
+[[Image:Logic song save dialog box.png]]
+
+
+
+
+'''7.''' Push the record button to record
+
+
+[[Image:Logic record enabling a track.png]]
+
+
+
+
+[[category:Logic|Recording]]
+
+[[category:Tutorials]]
