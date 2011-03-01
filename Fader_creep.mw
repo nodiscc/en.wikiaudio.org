@@ -1,0 +1,15 @@
+'''Fader creep''' is a colloquial term used in audio recording to describe a tendency for sound engineers to raise the [[volume]] of individual channels on an audio mixer, rather than lowering others to achieve the desired change in the mix. 
+
+== Results of creeping ==
+
+As a result, the faders ([[potentiometers]] that operate by sliding up or down) or volume controls (rotary potentiometers) on the mixing board or audio processor gradually "creep" toward the maximum volume setting, which reduces the ability to manipulate the relative volumes between channels. It can also result in clipping or distortion of the master mix, which is when the overall volume of sound is too great for the equipment or recording medium intended to hold it.
+
+== Multi track problems with creep ==
+
+Fader creep can be a particular problem in audio mixing sessions for [[multi-track recording]]s, where individual sounds held on separate audio [[Song|tracks]], or delivered by outboard [[MIDI]] or [[computer audio]] equipment are combined into the final [[stereo]] presentation of the recording. For example, an engineer might compensate for a particularly loud drum track by raising the volumes of the voice, the guitar, and the piano to the point where all of the individual signals are competing for [[headroom]]. A better solution is to lower the volume of the drums, and adjust the other channels accordingly.
+
+== Live concert creep ==
+
+In audio mixing for live concerts, fader creep can result when ear fatigue (the diminishing of the ability for the human ear to hear clearly after prolonged exposure to loud sounds) reduces the ability of the sound engineer to hear the individual components of the mix (i.e. separate instruments and voices on the stage) accurately. 
+
+It is human nature, when one cannot hear a sound clearly, to turn it up, rather than the things around it down, so this is the main reason why fader creep occurs.
