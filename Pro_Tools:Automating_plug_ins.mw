@@ -1,0 +1,54 @@
+==Automating plug-ins==
+
+To automate plug-ins in [[Pro Tools]] follow these steps.
+
+'''1.''' First make sure you understand the basic [[Pro Tools:automation modes|Pro Tools automation modes]] and how to [[Pro Tools:Recording automation|record automation in Pro Tools]]
+
+'''2.''' Insert a plug in on a channel.
+
+'''3.''' Click the '''Auto''' button.
+
+
+[[File:Pro Tools plug in auto button.png]]
+
+
+
+'''4.''' In the window that appears choose the parameters you wish to automate and click '''Add'''.
+
+
+
+
+
+[[File:Pro Tools automating plug ins parameter window.png]]
+
+
+
+
+
+'''5.''' You can now automate those parameters in your Pro Tools session by setting the respective track to an enabled automation mode. 
+
+
+
+
+[[File:Pro Tools automation mode display.png]]
+
+
+
+
+
+
+
+==Automating all parameters with key command==
+
+
+To automate all parameters of a plug in hold down '''Control /Option / Command''' and click the '''Auto''' button. This will automatically enable all parameters for automation.
+
+==Also See==
+
+*[[Pro Tools:automation modes]]
+*[[Pro Tools: Automation enable and suspend]]
+
+
+[[category:Pro Tools|Automating plug ins]]
+
+[[category:tutorials]]
