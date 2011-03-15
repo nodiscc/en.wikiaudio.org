@@ -1,0 +1,63 @@
+To create a [[tempo map]] in Sonar you can use the '''Fit improvisation''' feature under the ''file'' menu. 
+The way that it works is like this.
+
+Add an audio file you would like to create a tempo map for.
+In our example we will use a short 1 bar long file for brevity, (image below) but you can use one that is song length.
+
+
+[[File:Sonar tempo 1.png|700px]]
+
+
+
+
+
+
+
+
+
+
+
+Now create a [[MIDI]] track.
+
+Play notes on the MIDI track that correlate with the beats of the audio file. 
+Our file is in 4/4 time so we record ''quarter'' notes. 
+Make sure the first MIDI note lands at the very beginning of the song. 
+
+
+
+
+
+
+
+[[File:Sonar tempo 2.png|700px]]
+
+
+
+
+Once you do this go to '''Process / Fit Improvisation'''.
+
+
+
+
+
+
+
+[[File:Sonar tempo map 4.png]]
+
+
+
+
+
+
+A series of tempo changes will then be created allowing the songs MIDI tempo to accommodate the audio region.
+
+
+
+
+
+[[File:Sonar tempo map 5.png]]
+
+
+
+[[category:Cakewalk Sonar|Tempo map]]
+[[category:tutorials]]
