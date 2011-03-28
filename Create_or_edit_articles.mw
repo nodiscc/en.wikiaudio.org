@@ -1,0 +1,72 @@
+<center>[[File:Addarticle.png|link=]]</center>
+
+
+<big>To start a new article or tutorial type the title of the article or tutorial in the field 
+below and click '''Create'''. 
+
+{|align="center" style="background:#;"
+|-
+|
+<createarticle>
+type=createarticle
+width=35
+buttonlabel=Create  
+</createarticle>
+|-
+|
+|-
+|}
+
+
+You will then be able to type your article. When done click the editors submit button to 
+save. 
+If you want to practice typing articles please go to the [[Sandbox|Sandbox page]] and click the Edit button above its title.
+
+
+
+
+
+
+
+If you would like additional features such as having your own personal user page or the ability to upload images,videos,audio or other files you will need to create an account.
+</big>
+
+
+
+<big>
+
+
+
+
+
+
+
+
+<center>[[File:Editarticle.png]]</center>
+
+
+To edit an article click the edit button above its title. 
+
+
+
+
+<center>It looks like this
+
+[[File:Edit tab.png]]
+</center>
+
+</big>
+
+
+
+<big>Keep in mind if you wish to upload images,videos,audio or other files you will need to create an account.</big>
+
+
+<css>.gumax-firstHeading { display: none; }</css>
+
+
+
+<css>#gumax-content-actions ul li a { display: none; }</css>
+
+<css>
+#gumax-footer { display: none; }</css>
