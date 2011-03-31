@@ -1,0 +1,160 @@
+Before doing anything please read the [[WikiAudio:Copyrights|WikiAudio copyright notice]]
+
+=General codes of conduct and WikiAudio cultural guidelines=
+
+Within the world of sound and audio the intersection between art and science, the subjective and objective is very intertwined. WikiAudio strives to be a reliable reference that leans in the direction of the more objective and technical areas of sound and audio. However, artistry, it's lineage and context can not be removed from the equation. We reconcile this by encouraging participants to keep WikiAudio articles as objective as possible (The threshold for inclusion is verifiability, not "truth") and relegate personal and artistic opinions in the requests , discussion pages and forums. We understand that there will be exceptions such as "recording techniques" articles and thus we encourage writers to reconcile this by adding documented references and audible examples of said techniques.  
+
+== Articles ==
+
+
+When writing articles they must be formatted in an encyclopedic or glossary style. The only exception are tutorials, studios and school entries.Studio listings and schools must be written in either an Encyclopedic ''and/or'' database style. 
+
+Please use Wikipedia's [http://en.wikipedia.org/wiki/Wikipedia:SOURCES#Sources| Verifiability article] as a guidepost.
+''"The threshold for inclusion is '''verifiability''', not truth."''
+
+'''Using Wikipedia as a reference for articles is not allowed. The ''one'' exception ''' is for the "On this day in audio and sound history" section. It is alright to use ''portions'' of Wikipedia articles as a starting point for articles (see [[stub]] ) as well as to copy full articles over if they are referenced independent of Wikipedia. However, it's preferable to use Wikipedia content sparingly.
+
+WikiAudio will eventually begin a process called "'''stable versions'''" which are articles that are verified rigorously and non editable ''but still exist side-by-side'' a publicly editable version. Eventually the founders envision the project taking on many of the characteristics of the more refined [http://en.citizendium.org/wiki/Welcome_to_Citizendium Citizendium] project, but that is a long term goal however
+
+==Studio directory,companies and educational institutions==
+[http://en.wikiaudio.org/Category:Studios Studios], [http://en.wikiaudio.org/Category:Schools Educational institutions] and commercial companies are encouraged to be added to the WikiAudio directory.
+Please add them in an Encyclopedic or database style. No advertising.
+
+A '''database style''' of writing is simply a listing of the institution, where it is located, any relevant contact information and a brief objective overview of what it offers.
+
+==On this day in audio and sound history==
+
+This is the '''only''' section of Wikiaudio where referencing Wikipedia directly is allowed.
+
+==Equipment articles==
+
+Audio equipment specifications can be copied verbatim from manuals and manufacturer websites.
+Everything else can not.
+
+Equipment articles are to be concise and unbiased with a focus on what the respective equipment does and is.
+
+
+== Submitting and Answering Requests==
+
+To submit a request to WikiAudio simply submit it to the appropriate submission field on the homepage.
+
+To answer a request just click on the title and it will redirect you to a page where you will be able to answer it.It's good to provide references but some requests may simply not have any.In this case simply add a '''References Needed''' template.
+
+When answering requests stay on topic, concise and to the point. If you don't have crystalized information that is useful and direct, then don't post it. 
+
+
+
+
+
+===How to be notified when a request is answered===
+
+
+
+
+'''
+To be notified if a request has received and answer simply go to the request and click the appropriate option. 
+To be notified ''via email'' if a request has been answered first create an account, then go to  the '''Main Page''' and to the left click '''Special'''.Then go to  '''Preferences'''.Then check the box next to '''E-mail me when a page on my watch list is changed'''.
+
+Now when you ask to be notified when a request has been answered (''or'' click "watch" on any page) you will receive an email notification when a change takes place.
+
+
+
+
+
+
+
+
+----
+
+== Tutorials ==
+
+
+When writing tutorials they must be accurate, clear, and concise. If the tutorial is hardware or software specific then the title of the article must  be formatted in a manner that states the hardware or software model/name, colon and then the topic of the tutorial.
+
+Always add the categorization code at the bottom of your tutorial.
+The code is 
+<nowiki> 
+[[category:tutorials]] </nowiki>
+
+An example would be  [[Ableton Live:Group tracks]]
+
+Another example is: [[MIDI:synchronizing devices]]
+
+
+===Compensating for different software versions===
+
+To compensate for tutorials falling under different software versions, all versions would be under the umbrella of the same tutorial article. So for example, if you wanted to do a tutorial on creating a tempo map for an older version of logic, say logic 3.6 you would find (or create) the article titled [[Logic:Tempo map (beat detection,beat mapping, tap tempo, etc.)]] and then write the procedure in this article where it would site side-by-side the newer (and older) versions.
+
+===Linking to tutorials outside of WikiAudio===
+
+It is alright to link to tutorials outside of WikiAudio as long as a similar tutorial doesn't already exist on Wikiaudio. If a similar tutorial already exist on Wikiaudio you may still add an external tutorial link if the linked tutorial demonstrates a useful alternative or derivative example of the respective activity.
+
+=Video and Audio files=
+
+
+== Video file uploads ==
+
+Wikiaudio uses .Flv files for ''embedded'' video and uses .Ogg (Theora) (OGV) file formats for downloadable (non streamed) videos.
+You can see an [[Logic:_Vocoder_set_up_using_Evoc_20_Polysynth|example here]] and a [[Template:Video|template here]]
+
+Eventually we will discontinue use of FLV altogether.We are only using it for the time being since not all browsers are Ogg file compatible.
+
+To add .flv files upload them and use '''<nowiki> [[File:Video.flv]] </nowiki>''' as the code to embed them.Please use the [[template:video|FLV video template]] as well.
+
+To add Ogg videos simply upload the file(s) and use the [[Template:Oggvideofiles|Ogg video files template]] or [[template:oggaudiofiles|Ogg audio files template]] to add them to the article.
+
+Links from Youtube and other video sharing communities are not allowed unless they are added by Wikiaudio moderators temporarily until a file-copy can be added. The reason for this is that videos from websites like Youtube are unreliable and become inconveniently "unavailable" at times. Youtube users (and users of other video streaming sites) can also close their accounts leaving WikiAudio with a bunch of dead hyper links. WikiAudio is striving to be a reliable database and we don't want dead links scattered all over the site. Video tutorials can be low quality resolution as long as they are clear enough to convey the respective information.
+
+==Audio files==
+
+WikiAudio is using Ogg, Flac, Aiff, Wav and Mp3 as it's audio file format(s) for the time being.
+MP3's can be streamed via an internal player. You can do this by uploading an MP3 and using the tag <nowiki> <flashmp3> file_name.Mp3 </flashmp3> </nowiki>
+
+==Regarding Ogg files==
+<u>'''To stream Ogg files'''</u> from WikiAudio please use an [http://en.wikiaudio.org/Guidelines_of_participation#Ogg_compatible_browsers Ogg compatible browser] (listed below).
+To learn how to convert other file formats to Ogg please see this article:
+[[Ogg:Converting files to ogg format]].
+If your browser is not compatible with Ogg files '''''there might still be an Ogg file player plug-in available for your browser.''''' Check the your browsers homepage for information.
+
+
+
+<u>'''To play Ogg files'''</u> simply download and play them with a compatible player such as  [http://www.videolan.org/vlc/ VLC]
+
+
+
+----
+
+
+
+
+===== Ogg compatible browsers=====
+
+[http://www.mozilla.com/en-US/products/download.html?product=firefox-3.0.11&os=osx&lang=en-US Firefox 3.5 or higher.]
+
+[www.google.com/chrome Google Chrome]
+
+=====Ogg compatible media players=====
+
+[http://www.videolan.org/vlc VLC media player] (free and open source)
+
+=====Ogg audio editors=====
+
+[http://audacity.sourceforge.net/download/ Audacity] (free and open source)
+
+==Image uploads==
+
+Please use .Png format when uploading images.
+
+=Forum posting rules=
+
+These guidelines apply to the entire WikiAudio project but are particularly relevant to the forums. 
+
+*Be civil. Don't say things you wouldn't say in a face to face conversation.
+
+*When disagreeing, please reply to the argument instead of calling names. 
+
+*Posters engaged in personal attacks or facilitating mob-like behavior will be banned.
+
+*Please don't use uppercase for emphasis.
+
+*When answering [[Main_Page#Requests|requests]] stay on topic, concise and to the point. If you don't have crystalized information that is useful and direct, then don't post it.
