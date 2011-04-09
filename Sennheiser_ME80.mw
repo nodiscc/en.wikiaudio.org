@@ -1,0 +1,40 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Type condenser
+*Polar pattern shotgun (short rifle)
+*Frequency Response	50Hz - 15kHz
+*Output Sensitivity 	5mV/Pa
+*Self Noise (CCIR) 	24dB
+*Output Impedance 	130Ω
+*Recommended Load 	0.3kΩ
+*Powering 	Phantom 12-48 	
+*Alternative Powering 	Internal 5.6V battery
+
+'''Switchable Options'''
+*Filter/EQ 	-7dB, -20dB @ 50Hz
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M
+*Connector Notes 	On K3U module
+*Available Colours 	Satin nickel
+*Weight 	205g (7.21oz)
+*Length 	313mm (12.32")
+*Min Diameter/Width 	19mm (0.74")
+*Max Diameter/Width 	22mm (0.86")
+
+|}
+
+The '''Sennheiser ME80''' is a condenser microphone with a shotgun (short rifle) polar pattern. 
+
+{{stub}}
+
+[[category:microphones]]
+[[category:Sennheiser|ME80]]
