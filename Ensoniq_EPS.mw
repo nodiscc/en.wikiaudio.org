@@ -1,0 +1,28 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*Polyphony - 12 to 20 voices
+*Sampler - 13-Bit, 6.25kHz to 52.1kHz ; Sample-time: 4.93 seconds (52kHz) to 41.57 seconds (6.25kHz)
+*Filter - Digital filter with Hi, Band and Low pass with many slopes
+*VCA - 6-stage envelope including envelope preset templates
+*Keyboard - 61 keys (velocity and aftertouch)
+*Memory - 256k internal (expandable to 2.1Mb)
+*Control - MIDI, SCSI
+*Date Produced - 1988
+|}
+
+The '''Ensoniq EPS''' is a 13 bit 61 key digital keyboard sampler.
+
+{{stub}}
+
+
+
+[[category:Ensoniq|EPS]]
+[[category:samplers]]
+[[category:synths]]
