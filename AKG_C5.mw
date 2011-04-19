@@ -1,0 +1,43 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[Image:Akgd5.jpg|200px|A C5 (centre) among its dynamic counterpart the D5]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+
+*Type Condenser
+*Polar pattern cardioid
+*Frequency Response	65Hz - 20kHz
+*Output Sensitivity 	4mV/Pa
+*Max SPL  	140dB for 1%THD
+*Self Noise (CCIR) 	
+*Self Noise (DIN/IEC) 	25dB-A
+*Output Impedance 	200Ω
+*Recommended Load 	2kΩ
+*Powering 	Phantom 12-48
+*SupplyCurrent 	3mA
+	
+
+'''Physical Characteristics'''
+*Connector 	XLR-3M	
+*Available Colours 	Matte grey-blue
+*Weight 	345g (12.14oz)
+*Length 	185.2mm (7.29")	
+*Max Diameter/Width 	51mm (2.00")
+
+'''Accessories'''
+*Included 	Stand adapter, boost adapter
+
+|}
+
+The '''AKG C5''' is a condenser microphone with a cardioid polar pattern created for live vocal applications. It has the same physical dimensions and indeed interchangeable grills as the dynamic [[AKG_D5| D5]]
+
+{{stub}}
+
+[[category:microphones]]
+[[category:AKG|C5]]
+[[category:Condenser microphones]]
+[[category:Cardioid microphones]]
