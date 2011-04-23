@@ -1,0 +1,37 @@
+
+
+==C++ If statement example with if else, else and goto==
+
+//What is your name program using the name William.
+
+int main()
+
+{
+
+top: // goto label
+
+string name;
+
+cout <<" Please enter your name\n";
+
+cin>>name;
+
+if(name == "William")
+cout<<"Yes that is your name " <<name<<"\n ";
+
+else if(name == "william")
+cout<<"Yes that is your name " <<name<<"\n "; //lowercase 
+
+else
+cout<<"No, " <<name<< " is not your name \n";
+
+goto top; //program repeats
+
+}
+
+
+==C++ if statement tutorial video==
+{{youtube|KkNpSJTrTvA}}
+
+
+[[category:Programming]]
