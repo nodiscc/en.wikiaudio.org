@@ -1,0 +1,29 @@
+To create a doppler effect in Logic you can use the binaural output setting. To do this follow these steps:
+
+
+
+
+
+'''Step 1'''. 
+
+Set an audio track (or audio instruments)  output to '''Binaural'''.
+
+
+
+'''Step 2'''. 
+
+Double  click the panning icon.This will open the pan display window. You need  to enable the doppler setting and turn up the size setting. 
+
+
+'''Step 3'''.
+
+Now to hear the effect, all you need to do is play an audio file and move the center pan icon. (image below)
+
+
+
+[[File:Logic doppler before and after.png]]
+
+
+
+[[category:Logic|Doppler]]
+[[category:tutorials]]
