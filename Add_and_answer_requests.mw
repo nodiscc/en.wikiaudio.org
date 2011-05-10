@@ -1,0 +1,32 @@
+<big><center>To make a request, ask a question or post answers click the menu option above that says [http://qa.wikiaudio.org Social Q&A] and follow the instructions</center></big>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<css>.gumax-firstHeading { display: none; }</css>
+<css>#gumax-content-actions ul li a { display: none; }</css>
+<css>#gumax-p-search form #searchInput { display: none; }</css>
+<css>#gumax-p-search form #searchGoButton, #gumax-p-search form #mw-searchButton { display: none; } </css>
+<css>#content {background:transparent none repeat scroll 0 0;
+border-color:#FFFFFF -moz-use-text-color;}
+</css>
+<css>#p-logo, #p-logo a, #p-logo a:hover { display: none; }</css>
+<css>#content {background:transparent none repeat scroll 0 0;border-color:#FFFFFF -moz-use-text-color;}</css>
+<css>#gumax-header {height: 0px;margin: 0 auto;min-height: 30px;padding: 0;position: relative;z-index: 100;}</css>
+<css>#gumax-p-login {font-size: 120%;    text-align: right;}</css>
+
+<css>
+#gumax-footer { display: none; }</css>
+
+
+-----
