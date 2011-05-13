@@ -1,0 +1,17 @@
+In [[Digital Performer]] you can create custom click patterns.
+
+[[File:Digital Performer pattern clicks.png|right|thumb|Pattern clicks window]]
+
+==Custom click pattern==
+
+#Go to '''Digital performer / preferences'''
+#Go to '''Click defaults'''
+#Click '''Add''' to create a new click pattern and then scroll to the bottom of the list to see the click pattern you just created (it will be a "generic" default click).
+#Click the '''Beat Value''' menu and change it to pattern. You can add a custom numerical pattern. To accent a click in the pattern, highlight it and use the key command '''Command+B'''.
+#Save the custom pattern by selecting '''Save Pattern''' in the pattern drop down menu.
+
+
+
+
+
+[[category:Digital Performer|Pattern clicks]]
