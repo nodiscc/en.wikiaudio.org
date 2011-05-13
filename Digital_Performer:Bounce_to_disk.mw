@@ -1,0 +1,66 @@
+[[Digital Performer]] has a [[bounce]] feature that allows you to render multiple tracks to one final composite track.
+
+===Offline method===
+To bounce using the bounce to disk command first select the audio in the tracks window you want to bounce and go to '''Audio / Bounce'''. 
+
+
+
+[[File:Digital Performer bounce to disk.png|500px]]
+
+
+
+
+A dialog box will appear with a series of options
+
+
+[[File:Digital Performer bounce to disk menu.png]]
+
+
+====File Format====
+
+This is the audio file format that the bounce will be in.You can choose the bounce to be in the same audio file format as the session or a variety of other formats including Core Audio formats supplied by Mac OS.
+
+====Channels====
+Channels determines how the stereo or mono information of the bounce is formatted.
+
+[[File:Digital Performer bounce channel options .png]]
+
+=====Mono (No attenuation)=====
+This option will create a mono file by summing the left and right channels.This will also lead to an increased signal level of the file due to the combining of both channels of audio.
+
+=====Mono (With 3.5 dB Attenuation)=====
+This option creates a mono file but also compensates for any level increase by attenuating the material by 3.5 dB.
+
+=====Stereo=====
+Use this option to create a stereo file.The file will be interleaved or split based on the option chosen in the format menu.
+
+=====Same as source=====
+
+This creates a file that has the same channel properties as the bundle or output selected in the '''Source''' menu
+
+====Resolution====
+
+The resolution allows you to set the sample format (also called [[bit depth]]) of the bounce.
+
+====Import====
+
+The import option allows you to determine if the bounce is imported back into the session once the bounce is done. You have three options. 
+=====Do not import=====
+Choose this option if you only want the bounced audio to appear on the hard drive and not in the session itself.
+
+=====Add to soundbites window=====
+Choose this option to add the bounced file to the soundbites list.
+
+=====Add to sequence=====
+This option will automatically create a new audio track once the bounce to disk is done and add the audio file to the track. 
+
+====File name====
+This is the name of the final bounced file
+
+====Choose folder====
+This is the location that the bounced file will be placed to on your hard drive. Click the choose button to specify a directory.
+
+
+[[category:Digital Performer|Bounce]]
+
+[[category:tutorials]]
