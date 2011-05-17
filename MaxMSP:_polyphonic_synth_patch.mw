@@ -1,0 +1,65 @@
+{{Template:Pagelocked}}
+
+
+
+
+==Instructions==
+
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:200px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''[[File:MaxMSP Patches.png|center]]''' </big>
+''Below are the Max patches that accommodate this article''
+----
+|-
+| style="background: " | 
+*[[File:Grubly.maxpat| Grubly.maxpat]]
+*[[File:DistortionAndDelays.maxpat|DistortionAndDelays.maxpat]]
+|}
+
+
+The actual MaxMSP files needed to create this patch are '''Grubly.maxpat''' and '''DistortionAndDelays.maxpat'''.
+
+To run the patch you must download both of those files and put them in the same folder. 
+Then run the patch '''DistortionAndDelays''' from within that folder.
+
+You should be able to trigger it via a MIDI keyboard and play it as-is. Make sure the DAC (the speaker icon) is enabled. Just click it so that it is blue.
+
+
+
+''This patch was uploaded by permission of the author.''
+
+
+
+
+----
+This is an image of this polyphonic synth patch for MaxMSP. 
+
+
+[[File:MaxMsp Polyphonic synth patch.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==How to make a polyphonic synth patch MaxMSP video==
+
+{{youtube|y0mcWhrFrEY}}
+
+[[category:MaxMSP|Polyphonic synth patch]]
+[[category:tutorials]]
