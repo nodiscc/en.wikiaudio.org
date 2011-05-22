@@ -1,0 +1,10 @@
+In Reaper you can insert an empty [[MIDI]] regions and then enter MIDI data (such as notes)  by double clicking the region and using the MIDI editor. GO to '''Insert / Empty item''' (image below)
+
+
+
+[[File:Reaper insert empty item.png]]
+
+
+
+[[category:Reaper|Insert empty MIDI region]]
+[[category:tutorials]]
