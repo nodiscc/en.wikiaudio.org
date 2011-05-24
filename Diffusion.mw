@@ -1,0 +1,39 @@
+'''Diffusion''', in {{w|physics}} and {{w|architectural engineering}}, is the efficacy by which sound energy is spread evenly in a given environment.  A perfectly diffusive sound space is one that has certain key [[Musical acoustics|acoustic]] properties which are the same anywhere in the space. A non-diffuse sound space would have considerably different reverberation time as the listener moved around the room. Virtually all spaces are non-diffuse. Spaces which are highly non-diffuse are ones where the acoustic absorption is unevenly distributed around the space, or where two different acoustic volumes are coupled. The diffusiveness of a sound field can be measured by taking reverberation time measurements at a large number of points in the room, then taking the standard deviation on these decay times. Alternately, the spatial distribution of the sound can be examined. Small sound spaces generally have very poor diffusion characteristics at low frequencies due to room modes.
+
+== Sound Diffusors ==
+
+Diffusors (or diffusers) are used to treat sound aberrations in rooms such as echoes. They are an excellent alternative or complement to sound adsorption because they do not remove sound energy, but can be used to effectively reduce distinct echoes and reflections while still leaving a live sounding space. Compared to a reflective surface, which will cause most of the energy to be reflected off at an angle equal to the angle of incidence, a diffusor will cause the sound energy to be radiated in many directions, hence leading to a more diffusive acoustic space. It is also important that a diffuser spreads reflections in time as well as spatially. Diffusers can aid sound diffusion, but this is not why they are used in many cases; they are more often used to remove coloration and echoes.
+
+Diffusors come in many shapes and materials. The birth of modern diffusers was marked by [[Manfred R. Schroeder]]s' invention of number theoretic diffusers back in the 1970s.
+
+=== Maximum Length Sequence Diffusors ===
+[[Image:MLS diffusor.gif|thumb|right|MLS Diffusor]]
+
+Maximum length sequence based diffusors are made of strips of material with two different depths. The placement of these strips follows an MLS. The width of the strips is smaller than or equal to half the wavelength of the frequency where the maximum scattering effect is desired. In ideal situations small vertical walls should be placed between lower stripes, improving the scattering effect in the case of tangential sound incidence. The bandwidth of these devices is rather limited, one octave above the design frequency they behave like a flat surface.
+
+=== Quadratic-Residue Diffusors ===
+[[Image:quadratic diffusor.gif|thumb|right|1000hz Quadratic-Residue Diffusor]]
+
+MLS based diffusors are superior to geometrical diffusors in many respects; they have limited bandwidth. The new goal was to find a new surface geometry that would combine the excellent diffusion characteristics of MLS designs with wider bandwidth. A new design was discovered, called a quadratic-residue diffusor. Today the quadratic residue diffuser or Schroeder diffuser is still widely used. Quadratic-Residue Diffusors can be designed to diffuse sound in either one or two directions. They too suffer from "flat plate" frequencies, but at a higher frequencies than MLS diffusers.Fractal constructions can be used to extend bandwidth.
+
+=== Primitive-Root Diffusors ===
+Are based on a number theoretic sequence. Although they produce a notch in the scattering response, in reality the notch is over too narrow a bandwidth to be useful. In terms of performance, they are very similar to Quadratic-Residue Diffusors.
+
+=== Optimized Diffusors ===
+By using numerical optimisation, it is possible to improve of number theoretic designs, especially for diffusers with a small number of wells per period. But the big advantage of optimisation is that arbitrary shapes can be used which can blend better with architectural forms.
+
+== References ==
+T. J. Cox and P. D'Antonio, "Acoustic Absorbers and Diffusers - Theory, Design and Application" Spon press.
+
+
+== External links ==
+*[http://www.rpginc.com The original diffuser company, the products page shows some of the range of diffusers that can be made]
+*[http://www.acoustics.salford.ac.uk/research/arc_cox_diffusers1.htm Contains a link to an article on diffusers aimed at non-acousticians]
+*[http://www.oliverprime.com/prd.php Primitive root diffuser calculation]
+
+
+{{stub}}
+
+
+
+[[category:acoustics]]
