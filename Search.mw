@@ -1,0 +1,71 @@
+=Category list=
+
+
+
+==Software==
+*[[:Category:Ableton Live|Ableton Live]]
+*[[:Category:Bias Peak|Bias Peak]]
+*[[:Category:Digital Performer|Digital Performer]]
+*[[:Category:FL Studio|FL Studio]]
+*[[:Category:FMOD|FMOD]]
+*[[:Category:Logic|Logic]]
+*[[:Category:Mac_OS|Mac OS]]
+*[[:Category:MaxMSP|MaxMSP]]
+*[[:Category:Melodyne|Melodyne]]
+*[[:Category:Nanostudio|Nanostudio (iPhone)]]
+*[[:Category:Native_Instruments|Native Instruments]]
+*[[:Category:Nuendo|Nuendo]]
+*[[:Category:Pro Tools|Pro Tools]]
+*[[:Category:Reaper|Reaper]]
+*[[:Category:Reason|Reason]]
+*[[:Category:Propellerhead Record|Record]]
+*[[:Category:Cakewalk Sonar|Sonar]]
+*[[:Category:Soundtrack Pro|Soundtrack Pro]]
+*[[:Category:Wwise|Wwise]]
+
+
+==Hardware==
+* [[:Category:Amplifiers|Amplifiers]]
+* [[:Category:Microphones|Microphones]]
+* [[:Category:Mixing consoles|Mixing consoles]]
+* [[:Category:Outboard processors|Outboard processors]]
+* [[:category:synths|Synths & Sound modules]]
+* [[:Category:Samples|Synths & Sound modules Sampled sounds]]
+
+==Studio & sound engineering==
+* [[:Category:Cables and connections|Cables and connections]] 
+* [[:Category:MIDI|MIDI]] 
+* [[:Category:Mixing techniques|Mixing techniques]] 
+* [[:Category:Recording techniques|Recording techniques]]
+* [[Studio recording documentation sheets and resources|Tracking and documentation sheets]] 
+* [[:Category:Synchronization|Synchronization]]
+
+==General==
+
+* [[:Category:Acoustics|Acoustics]]
+* [[:Category:Circuitry|Audio circuitry]]
+* [[:Category:A/V|A/V (Audio & Video)]]
+* [[:Category:DJing|DJing]]
+* [[:Category:Electronic components|Electronic components]]
+* [[:Category:Inventors|Inventors]]
+* [[:category:Measurements|Measurements]] 
+* [[:category:Music theory|Music theory]]
+* [[:category:Podcasting|Podcasting]]
+* [[:Category:Programming|Programming (Coding, C++,Python etc..)]]
+* [[:category:Radio|Radio]] 
+* [[:category:Signal processing|Signal processing]]
+* [[:category:Standards and protocols|Standards and protocols]]
+* [[:category:synthesis|Synthesis]] 
+* [[:category:Tutorials|Tutorials (various)]] 
+
+<css>.gumax-firstHeading { display: none; }</css>
+<css>#gumax-content-actions ul li a { display: none; }</css>
+<css>#gumax-p-search form #searchInput { display: none; }</css>
+<css>#gumax-p-search form #searchGoButton, #gumax-p-search form #mw-searchButton { display: none; } </css>
+<css>#content {background:transparent none repeat scroll 0 0;
+border-color:#FFFFFF -moz-use-text-color;}
+</css>
+<css>#p-logo, #p-logo a, #p-logo a:hover { display: none; }</css>
+<css>#content {background:transparent none repeat scroll 0 0;border-color:#FFFFFF -moz-use-text-color;}</css>
+<css>#gumax-header {height: 0px;margin: 0 auto;min-height: 30px;padding: 0;position: relative;z-index: 100;}</css>
+<css>#gumax-p-login {font-size: 120%;    text-align: right;}</css>
