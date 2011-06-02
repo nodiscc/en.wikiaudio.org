@@ -1,0 +1,20 @@
+{{specifications|Rode M3|This device needs an image.Please add one here|
+
+*Power: P48 (48V), P24 (24V) phantom supply or 9V battery<br />
+*Acoustic Principle: Pressure gradient<br />
+*Directional Pattern: Cardioid<br />
+*Frequency range: 40 Hz - 20 kHz<br />
+*Output impedance: 200Ω<br />
+*Signal noise ratio: 73 dB SPL (A - weighted per IEC651)<br />
+*Equivalent noise: 21 dB SPL (A - weighted per IEC651)<br />
+*Maximum SPL: 142dB SPL (@ 1kHz, 1% THD into 1KΩ load)<br />
+*Maximum output voltage: +9.22dBu (@ 1kHz, 1% THD into 1KΩ load)<br />
+*Sensitivity-40 dB re 1 Volt/Pascal (10 mV @ 94 dB SPL) +/- 3 dB @ 1kHz<br />
+*Weight: 390gm<br />
+*Dimensions: 225mmH x 33mmW x 33mmD<br />}}
+
+The '''Rode M3''' is a [[cardioid]] [[condenser microphone]]
+
+
+==External links==
+Datasheet & Specifications: [http://rodemic.com/downloads/m3/m3_datasheet.pdf]
