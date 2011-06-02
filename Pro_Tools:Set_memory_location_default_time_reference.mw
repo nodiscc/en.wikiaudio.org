@@ -1,0 +1,18 @@
+To set the default memory location time reference in Pro Tools you need to select a different time reference in the Pro Tools ruler bar (image below). If you want the memory location to default to [[absolute time]] use '''Samples''' or '''Min Sec''' as your time reference. If you want Bars/Beats/Ticks to be the default choose '''Bars|Beats'''.
+
+
+
+[[File:Pro Tools time marker time reference.png]]
+
+
+[[File:Pro Tools marker reference time.png]]
+
+
+
+
+
+
+
+
+[[category:Pro Tools|Memory locators]]
+[[category:tutorials]]
