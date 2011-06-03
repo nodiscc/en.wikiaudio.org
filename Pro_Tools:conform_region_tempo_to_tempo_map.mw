@@ -1,0 +1,23 @@
+After enabling [[Pro Tools: Enable Elastic audio|Elastic audio]] on a track.
+
+
+Select a region with the grabber or selector tool.
+
+Then go to '''Region > Conform to Tempo'''
+
+This will conform the region to tempo.
+
+
+
+==Also see==
+
+
+*[[Pro_Tools:Simplified_tempo_mapping_(non_beat_detective)]]
+*[[Pro_Tools:Using_beat_detective_to_conform_MIDI_tempo_to_audio_region]]
+*[[Pro Tools: Enable Elastic audio]]
+*[[Beat Detective]]
+
+
+[[category:Pro Tools|Tempo]]
+
+[[category:tutorials]]
