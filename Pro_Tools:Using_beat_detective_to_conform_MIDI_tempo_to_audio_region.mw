@@ -1,0 +1,50 @@
+
+
+If you add an audio file that is tempo or rhythm based and would like to conform the MIDI tempo of your session to "fit" the region follow these steps
+
+
+
+Make sure the [[Pro Tools: Changing time display rulers|bar ruler displays bars and beats or whatever respective time value is necessary]]
+
+
+
+
+In the image below we have a drum file that is 2 bars long but the MIDI tempo of Pro Tools is different than our file, hence it doesn't correlate with the bar and beats ruler 
+
+[[Image:Pro Tools 2 bar drum loop.png]]
+
+
+
+We are going to change this using beat detective by changing the MIDI tempo of the session.
+
+
+Select Beat detective
+
+'''Event / Beat Detective''' 
+
+[[Image:Pro Tools beat detective .png]]
+
+
+Select the region and in beat detective set the start and end points of where it ''should'' fit.
+
+Then click '''analyze'''
+
+Then click '''generate'''
+
+
+
+
+[[Image:Pro Tools beat detective window.png]]
+
+
+The end result should be a MIDI tempo  or tempo change that accomodates the audio region and conforms to the settings made in beat detective.
+
+In this example the MIDI tempo changed to conform to an audio file that was 2 bars long
+
+[[Image:Pro Tools region after beat detective.png]]
+
+[[category:Beat Detective]]
+
+[[category:Pro Tools|Tempo to audio region]]
+
+[[category:tutorials]]
