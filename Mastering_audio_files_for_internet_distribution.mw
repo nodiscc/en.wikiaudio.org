@@ -1,0 +1,33 @@
+This is a list of guidelines to follow when mastering audio for internet distribution, specifically using the MP3 file format.
+
+
+
+
+==Guidelines==
+
+*Use the highest quality file available.
+
+*If using [[MP3]] as your target file type, cut some of the high frequencies.MP3's have difficulty with these frequencies. 
+
+*Busy mixes have a tendency to lose punch.Sparse mixes translate better.
+
+* Make sure the level is hot. Normalize if necessary.
+
+*With MP3's your encoder might sound better at 32kHz than 44.1 kHz
+
+*Leave some dynamic range, don't compress too much.
+
+*Use multi-band compression sparingly. It confuses the encoding algorithm
+
+*Set encoder option to highest quality setting.  
+
+*Limit the output of the material intended for Mp3 to -1. not -.1
+The reason for this is many encoders output hotter than the source material.
+
+==References==
+
+*The Audio Mastering Handbook. ISBN 1-59863449-6
+
+[[category:internet audio]]
+[[category:mastering]]
+[[category:podcasting]]
