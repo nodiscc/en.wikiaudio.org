@@ -1,0 +1,9 @@
+If you want to revert back to the original version of an edited [[Soundbite (Digital Performer)|soundbite]] you can '''open the soundbites window''' and choose the soundbite that ''was'' the original version and drag it to a track, then delete the previous soundbite on that track. Digital Performer creates new soundbites for most edits to audio files. The default display lists the soundbites in a numbered manner where the original soundbite is listed without a number.
+
+
+[[File:Digital Performer soundbite window edit format.png]]
+
+
+[[category:Digital Performer|Revert to original soundbite]]
+
+[[category:tutorials]]
