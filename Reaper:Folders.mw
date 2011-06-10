@@ -1,0 +1,46 @@
+==Reaper creating folders video tutorial==
+This is a video tutorial demonstrating how to use folders in Cockos Reaper
+
+
+
+{{youtube|2d6N48Tut2s}}
+
+
+-----
+
+==To create a folder track==
+
+#Create or select a new track as the "folder track"
+#Click the folder icon on it , this will then contain all subsequent tracks below it.
+#If the folder now has tracks you do not want contained within it, you can remove them by double clicking the folder icon of the last track you want the folder to have (image below).
+
+
+
+
+
+
+
+
+
+
+
+[[File:Reaper folders.png]]
+
+
+
+[[File:Reaper folder active folder track.png]]
+
+
+
+
+[[File:Reaper removed tracks from folder.png]]
+
+
+==Also see==
+*[[Reaper:Group tracks]]
+
+
+[[category:Reaper|Folders]]
+
+
+[[category:tutorials]]
