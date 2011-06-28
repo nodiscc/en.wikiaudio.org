@@ -1,0 +1,22 @@
+Possible answers
+
+#Hold both CURSOR KEYS (Arrow Keys)  down and turn on the POWER at the same time. Hold the cursor keys until  the unit boots up in the DIAGNOSTIC test menu. 
+#Let go of the CURSOR KEYS. Turn the DATA WHEEL to the right until you see INITIALIZE USER DATA as the menu choice. 
+#Press the HOME/ENTER button twice. 
+#Upon completion of the reinitialization process you should see in the  display 'Calibrate Knobs'. If you wish to calibrate knobs then press  Home/Enter twice and follow the directions in the display. Otherwise  turn the unit off and on again and begin using it normally.
+
+
+
+-----
+
+
+# Power off the Proteus unit. 
+# While pressing and holding down the "Master" and "Edit" buttons on the Proteus, power on the unit. 
+# The Proteus unit powers up and displays "DIAGNOSTICS". 
+# Scroll through the diagnostic menu to the item "Initialize". 
+# Press the "Enter" button to select the initialize function. 
+# Press "Enter" again to perform the initialization. 
+# When completed, power off/on the Proteus unit.     
+
+[[category:E-mu Proteus]]
+[[category:tutorials]]
