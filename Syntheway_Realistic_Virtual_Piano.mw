@@ -1,0 +1,54 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0  .5em 1em; width:250px; background:#fff; border-collapse:collapse;  border:2px solid #999; font-size:83%; line-height:1.5; "
+
+|-
+
+| style="background:; color:black" | <big>'''{{PAGENAME}}''' </big>
+
+[[File:Syntheway_Realistic_Virtual_Piano.jpg‎]]
+
+----
+
+|-
+
+| style="background: " |
+
+<big>'''Specifications'''</big>
+
+*Modeled  on mastered Piano samples (normalized and noise-reduced). Based on PCM  recordings of a Kawai and Yamaha Grand Pianos after it has been  meticulously tuned and adjusted. 
+
+*To achieve such a  remarkably authentic piano sound, has full length sustain samples, no  loops (natural decay), stored in 16 bits and 44.100 KHz.
+
+*ADSR envelope generator with Attack, Sustain, Decay and Release parameters and several modulation targets.
+
+*Optimized  CPU and memory usage. Stability: complete. Uses memory efficiently  without sacrificing quality. Unlike many other piano modules and  samplers, this piano will never overload CPU.
+
+*Good live performances: never stick notes, never break the sound.
+
+*Integrated,  variable room simulation. Free variation of acoustic ambience thanks to  complete separation of piano and room. Small rooms can be modeled just  as accurately as larger spaces. Customizable with user controls for:  size room, width room, damping factor & mixer, used to create  psycho-acoustic models in the DSP environment, without having to load up  any other plug-ins.
+
+*MIDI Automation: Added complete MIDI CC#.
+
+*Date Produced - 2004 - present
+
+|}
+
+'''Realistic  Virtual Piano''' is an acoustic grand piano emulation developed by  [[Syntheway]] Virtual Musical Instruments. Particular care has been  taken in the reproduction of the original realism and touch response of a  Kawai and Yamaha Grand Pianos. The result is a delicacy of tone and  expression that emulates the experience of playing a real acoustic  grand.
+
+==MIDI Automation==
+
+Features  complete MIDI Continuous Controller to automate parameter changes from a  sequencer, or to control the Realistic Virtual Piano software from an  external MIDI control surface.
+
+
+'''Current Version''': 2.5 (Stable Release)
+
+==Also see==
+
+[http://www.syntheway.net Syntheway homepage]
+
+[[Daniel Laiseca]]
+
+[[category:synths]]
+
+[[category:software instruments]]
+
+[[category:Syntheway]]
