@@ -1,0 +1,40 @@
+You can [[freeze tracks]] in Logic. This helps to free up CPU resources and allows your system to run better.
+To do this first decide which track you want to freeze (the more plug ins and CPU intensive the better). Then click and hold on the track header. Choose '''Configure Track Header''' (image below).
+
+
+
+
+[[File:Track head click and hold logic.png]]
+
+
+
+
+
+Check the box next to the freeze option in the window that appears. (image below).
+
+
+
+
+[[File:Freeze track icon logic.png]]
+
+
+
+
+Then click the freeze icon in the track.
+
+
+
+[[File:Freeze track enabled logic.png]]
+
+
+Then play the song. A freeze track icon bar will display. This tells you that the freeze is being initiated.
+
+
+[[File:Freeze track meter logic.png]]
+
+When you are done the track will be frozen and it's CPU footprint will be smaller. You will not be able to add or remove effects as long as it is frozen. To do this you will need to unfreeze the track, change the plug ins, then refreeze the track. 
+
+
+[[category:Logic|Freeze]]
+
+[[category:tutorials]]
