@@ -1,0 +1,30 @@
+=Logic adding regions to a folder=
+A folder track is a track that groups other tracks into a folder in the arrange window. To use it , follow these steps.
+
+
+
+'''1.''' Select the regions you wish to add to the folder track.
+
+'''2.''' Select '''Region''' / '''Folder''' / '''Pack folder'''
+
+
+
+[[Image:Logic pack folder.png]]
+
+
+
+
+This will place the selected regions into a folder track.
+
+You can double click the folder track to view its contents.
+
+If you wish to unpack the folder you can select the folder then go to '''Region''' / '''Folder''' / 
+and choose either '''Unpack Folder (Create New Tracks)''' or '''Unpack Folder (Use existing Tracks)'''
+
+
+
+[[Image:Logic Folder track menu.png]]
+
+
+[[category:Logic|Folder]]
+[[category:tutorials]]
