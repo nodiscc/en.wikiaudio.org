@@ -1,0 +1,21 @@
+To step input MIDI notes into Ableton Live do these things. (Added in Version 8)
+
+'''1.''' Add a [[Ableton Live:Add new tracks|MIDI track]] then record enabled it and select an empty clip or one that contains [[MIDI]] data.
+
+'''2.''' In the MIDI editor enable the MIDI note listen button.
+
+'''3.''' If you intend on recording with a computer keyboard instead of a MIDI controller then you will need to click the appropriate icon (see image)
+
+
+
+
+
+[[File:Ableton Live step input recording settings.png]]
+
+
+
+
+
+'''4.''' Set [[Ableton Live:Grid snap enable or disable|Live's grid value]]
+
+Now use the mouse and click on the MIDI keyboard display in Live(this will make the editor active for the next step). Using your [[MIDI controller]] (or the A-L keys on your computer keyboard) press the notes you wish to input and then push the [[:File:Computer keyboard arrow keys.png|right arrow on your computer keyboard to enter the notes, or the left one]] to delete them.
