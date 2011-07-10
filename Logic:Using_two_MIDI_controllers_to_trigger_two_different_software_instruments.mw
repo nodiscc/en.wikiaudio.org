@@ -1,0 +1,75 @@
+This article explains how to use more than one keyboard MIDI controller to trigger two separate software instrument tracks at once and record each performance to its own track.
+
+
+#On each of your '''hardware''' keyboard controllers set a different transmission channel. For our example we will assume that Controller 1 is set to transmit on [[MIDI]] channel 1 and Controller 2 is set to transmit on MIDI channel 2. If you don't know how to do this you will have to use your MIDI controllers manual to find out. 
+#Create two software instruments.
+#Then go to the environment ( '''Windows / Environment''') and [[Logic: External MIDI device track setup using environment|create two MIDI instruments]] ('''New / Instrument''').Each one of these will represent a different hardware MIDI controller
+#Connect each MIDI instrument to one of the software synths by dragging the cable from it to one of the software instrument channel strips. When you're done is should look similar to the image below.
+[[File:Logic 2 instrument objects.png]]
+
+
+
+5. Now select the first MIDI instrument object and set it to the same channel your hardware controller is set to .(image below)
+
+
+[[File:Logic set instrument channel 1.png]]
+
+
+
+
+
+6. Then do the same for the other MIDI instrument
+
+
+
+
+
+[[File:Logic set instrument channel 2.png]]
+
+
+
+
+
+7. Now open the transport and click and hold on the record button and choose record settings. This will take you to the '''Record Settings''' window.
+
+You can also access the '''Record Settings''' by clicking the settings button and choosing '''record'''(image below)
+
+
+
+
+[[File:Record_settings.png]]
+
+
+
+
+8. In the windows that appears
+Check the box next to '''Auto demix by channel if multitrack recording.'''
+
+
+
+
+
+
+[[File:Logic auto demix.png]]
+
+
+
+9. Now go to the arrange window and [[Logic: Create a new track|create two external MIDI tracks]] and assign them to the two MIDI objects (not software synths) we just created in the environment.You can do this by clicking and holding on the track headers. Record enable both of them and begin recording.
+
+
+
+[[File:Logic two record enabled tracks.png]]
+
+
+
+
+10. Play both Hardware MIDI controllers. When you hit stop the two performances should split into different tracks.
+
+
+
+
+
+
+[[category:logic|Use two MIDI keyboard controllers to control two separate software instruments]]
+
+[[category:tutorials]]
