@@ -1,0 +1,25 @@
+{{Template:Instrument mixing}}
+
+==General considerations and guidelines==
+
+
+
+
+====Referenced techniques====
+'''Each technique begins with a bullet point'''
+
+*Try boosting 4Khz, Cut 250-300Hz and boost 60-100Hz to find the drums resonance<ref name="MEHPG34">The Mixing Engineers Handbook Second Edition.Bobby Owsinski.Page 34.ISBN 1-598632515</ref>
+*For a Metal Kick: Use a 3Khz or so boost on the kick drum<ref name="MEHPG34"></ref>
+*For a kick used on a song intended for a club, emphasize 200-300 without extreme low end.The club will make up the difference.<ref name="MEHPG34"></ref>
+
+====Unreferenced techniques====
+
+If you have a mix that is perfect and want the kick to stand out more, try using an all pass filter. In Apple Logic you can try using the phaser plug in with the LFOs disabled.
+
+==References==
+<references/>
+
+
+{{Template:More techniques}}
+[[category:Mixing techniques|Kick]]
+[[category:tutorials]]
