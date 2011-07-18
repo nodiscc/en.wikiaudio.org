@@ -1,0 +1,32 @@
+'''1.''' Double click a region in the main window (image below).
+
+
+
+[[File:Cubase click region.png]]
+
+
+
+
+
+'''2.''' In the window that appears move the Threshold and Time division settings to set the slices. Then click '''Create Slices'''
+
+
+
+
+
+[[File:Cubase transient cuts.png]]
+
+
+
+
+
+'''3.''' Go back to the main window under the '''Audio''' menu click '''Dissolve Part'''.
+
+
+
+[[File:Cubase dissolve part.png]]
+
+
+
+[[category:cubase|Transients]]
+[[category:tutorials]]
