@@ -1,0 +1,3 @@
+'''Absolute time code''' (ATC) is a type of time code that is automatically encoded into the subcode area of a digital tape machine.ATC always starts at zero at the beginning of a digital tape and increments one frame at a time. This type of time code is used for multiple machine synchronization and auto location.
+
+[[category:Synchronization]]
