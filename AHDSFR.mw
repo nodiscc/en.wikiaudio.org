@@ -1,0 +1,9 @@
+'''AHDSFR''' stands for Attack / hold / decay / sustain / fade / release. This is an envelope generator that adds a hold stage between attack and decay and a fade time stage between the sustain and release.
+
+
+==Also see==
+*[[ADSR_envelope]]
+
+[[category:Synthesis]]
+
+[[category:Circuitry]]
