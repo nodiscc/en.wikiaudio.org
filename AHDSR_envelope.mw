@@ -1,0 +1,9 @@
+'''AHDSR''' stands for attack / hold / decay / sustain / release. It is an envelope generator that adds a hold stage between the attack and decay stages.
+
+==Also see==
+*[[ADSR_envelope]]
+
+
+[[category:Circuitry]]
+
+[[category:Synthesis]]
