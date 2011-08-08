@@ -1,0 +1,7 @@
+'''[[MIDI]] control change messages''' are channel voice messages of the MIDI specification. MIDI control change messages 0-119 affect only the channel they are received on.120-127 are "Mode" messages and affect the entire receiving MIDI device. 
+
+
+
+==Also see==
+*[[MIDI:Channel_messages_tutorial]]
+*[[MIDI:Control_change_message_list]]
