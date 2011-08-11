@@ -1,0 +1,32 @@
+Automation modes are used in [[DAW]]'s, [[Mixing console]]s and other mixing devices that record and playback [[automation]]. These modes are used to determine the type of record and playback style for automation.
+
+
+==Modes==
+Conventional automation modes include:
+
+==Off==
+Off disables all automation
+
+==Write==
+
+Write mode begins automation immediately for all enabled parameters and erases any previous automation
+
+==Read==
+
+Read plays back all automation but does not write automation
+
+==Trim==
+
+trim is a mode that is used to make minor adjustments to previously recorded automation.Trim doesn't write new automation nodes, it simply modifies existing automation.
+
+==Latch==
+
+Latch allows the user to begin writing automation when a specific enabled parameter is moved. When the user releases the parameter automation continues to be written. 
+
+==Touch==
+
+Touch allows the user to begin writing automation when a specific enabled parameter is moved, automation is then stopped when that parameter is released. 
+
+==Overwrite==
+
+This mode overwrites all previous data.
