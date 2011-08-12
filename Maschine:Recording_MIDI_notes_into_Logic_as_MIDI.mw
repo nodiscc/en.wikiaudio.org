@@ -1,0 +1,48 @@
+<mediaplayer width='600' height='500'>http://www.youtube.com/watch?v=jmp2KwkhuXw</mediaplayer>
+
+
+
+
+
+
+
+
+
+
+To record Maschine [[MIDI]] notes into your [[DAW]] do these things.
+
+*Add Maschine as a software instrument (not as an insert effect plug in)
+
+*Hold '''SHIFT''' ( very bottom of the hardware fourth button from the left) and push the button '''(MIDI) Control''' (top left side on the hardware)
+
+*Push (Bank) '''E''' (on the hardware under '''GROUPS'''). All pads should be lit. 
+
+*Go to '''Sound MIDI Batch Setup''' in the software (image below)
+
+
+
+
+[[File:Maschine sound MIDI batch setup.png]]
+
+
+
+
+*Then choose '''Sounds to MIDI Notes''' in the window that appears, and hit '''Apply'''
+
+
+
+
+
+
+[[File:Maschine sound to MIDI notes.png]]
+
+
+
+
+
+Now Maschine should record MIDI notes and play its sounds.
+
+
+
+[[category:Maschine|MIDI]]
+[[category:tutorials]]
