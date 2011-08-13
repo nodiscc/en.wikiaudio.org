@@ -1,0 +1,40 @@
+== Parametric equalizer ==
+
+
+
+'''Parametric equalizer''' (or parametric "EQ") is an electronic multi-band variable equalizer device used in sound recording and live sound reproduction with Public Address systems ("PA systems"). Parametric equalization devices allow audio engineers to control the parameters of the internal band-pass filter sections (amplitude, center frequency and bandwidth). The amplitude of each band can be controlled, and the center frequency can be shifted, and widened or narrowed.
+
+Parametric equalizers are typically housed in a rack-mounted, rectangular metal chassis with knobs and switches on the front of the unit and a patch bay at the rear of the unit with input and output connectors.
+
+==History==
+Prior to the development of the parametric equalizer in the late 1960s, sound recordings or live sound reproduction equalizers typically had pre-set band-pass filters that allowed sound engineers to make broad, overall changes to a signal, such as increasing the bass response or decreasing the treble response. While graphic equalizers gave sound technicians the ability to control a greater number of center frequencies, they were still limited to the center frequencies on a particular graphic equalizer. Prior to the development of the parametric equalizer, when sound technicians were trying to prevent feedback in a live sound situation or reduce extraneous noises in a recording, they could only do so in an imprecise manner. This meant that the tone and sound of the music or recording was affected when the feedback or extraneous noises were removed.
+
+With the development of the tunable parametric filter by Harold Seidel of Western Electric and Bell Telephone in the 1960s<ref>[http://www.wikipatents.com/gb/1076808.html Wiki patents. ''Improvements in or relating to parametric amplifiers'']</ref><ref>[http://www.freepatentsonline.com/3381233.html  Parametric amplifier combining signal and idler outputs patent]</ref><ref>[http://www.freepatentsonline.com/3462612.html Parametric Filter patent]</ref> and its arrival in live sound in 1972 via [[George Massenburg]], sound technicians were able to make much more precise modifications to a sound signal. The parametric equalizer allowed the operator to control the amplitude (e.g., the volume) of each band, and shift the center frequency and widen or narrow the band of frequencies that are affected. This enabled sound technicians to precisely remove unwanted sound frequencies such as a squeaking piano damper pedal or a feedback sound while having a minimal impact on the music or other recorded matter.
+
+A variant of the parametric equalizer is the semi-parametric equalizer, also known as sweepable filter. It allows users to control the amplitude and frequency, but uses a pre-set width of the center frequency. In some cases, semi-parametric equalizers allow the user to select between a wide and a narrow pre-set width for the center frequency.
+
+In the late 1990s and in the 2000s, parametric equalization features became increasingly available in Digital Signal Processing (DSP) equipment, such as sound recording software and digital multi-effects units.
+
+==Applications==
+===Boominess reduction===
+Parametric equalizers can be used to precisely remove (or enhance) excessive resonance, which can create a "boomy" sound. In cases where instruments such as acoustic guitars or double basses have excessive "boominess" in some frequencies, a parametric equalizer can be used to select the frequency band that is overly resonant and reduce its volume.
+
+===Eliminating extraneous noises===
+Parametric equalization can also be used to remove extraneous noises such as the sound of a guitar pick or the left-hand fingers for string instruments, or the creaking of a damper pedal of a piano.
+
+===Feedback prevention===
+An extreme case of excessive resonance is feedback, an undesirable "shrieking" sound which occurs in live music or sound reproduction situations when the amplified sound from a speaker is picked up by a microphone. To use parametric equalization for "feedback cancellation", a [[notch filter]] is created by cutting the frequency where feedback is occurring.
+
+===Tonal enhancement===
+Parametric equalization is not only used to cut unwanted frequencies; it can also be used to enhance frequencies which are not "speaking" well on a specific instrument. For example, string instruments such as the double bass may have particular notes which cannot be produced at same volume as the other notes on the instrument. A subtle, precise boost of the frequency which does not respond well may help to resolve this problem.
+
+===Correction===
+All speakers have peaks and dips in their output at certain frequencies.  Parametric EQ can be used to boost or cut these peaks and dips to flatten the frequency response.
+
+==References==
+<references/>
+
+
+
+
+{{wikipedia|Parametric equalizer|Parametric equalizer}}
