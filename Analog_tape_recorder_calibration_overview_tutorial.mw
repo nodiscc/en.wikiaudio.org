@@ -1,0 +1,166 @@
+
+Tape machine calibration is the process of matching the electrical characteristics of the machine to the tape you decide to use for recording.
+
+You will need these things
+
+'''1.''' A magnetic reference tape
+
+'''2.''' A sine wave oscillator
+
+'''3.''' A tiny screwdriver
+
+
+
+==Procedure==
+
+
+
+
+'''1.''' Clean the tape heads. Don't use head cleaner on the rubber pinch roller.Demagnetize the heads and make sure to follow the demagnetizing procedure written in the instructions that came with the tape machine
+
+
+
+
+'''2.''' Load the reference tape and set all channels to Repro/Safe. Play the 1 kHz tone while watching the VU meters.All the meters ideally should read 0 dB if you intend to record at the reference tape level. Obtain this level by adjusting the REPRO LEVEL pot on each channel. If you desire a higher or lower level you can attain this by by adjusting the REPRO LEVEL until the meters read under 0 by the amount you wish to record over 0. (see the below conversion chart)
+
+
+
+{|style="color:green; background-color:#ffffcc;" cellpadding="10" cellspacing="0" border="1" 
+|+ Operating Levels
+|- 
+| +9 = 520 nWb/m
+|-
+| +6 = 520 nWb/m
+|-
+| +5 = 520 nWb/m
+|-
+| +4 = 520 nWb/m
+|-
+| +3 = 520 nWb/m
+|-
+| +1 = 520 nWb/m
+|-
+|  0  = 520 nWb/m
+|}
+
+{|style="color:green; background-color:#ffffcc;" cellpadding="10" cellspacing="0" border="1" 
+::::::::'''Reference tape (n/Wb/m)'''
+|+ 
+|- 
+| Desired Operating Level 
+! 185
+! 200
+! 250
+! 320
+! 370
+! 520
+|-
+|  0 dB
+|  0
+| +1
+| +3
+| +5
+| +6
+| +9
+|-
+| +1 dB
+| -1
+|  0
+| +2
+| +3
+| +5
+| +8
+|-
+| +3 dB
+| -3
+| -2
+|  0
+| +2
+| +3
+| +6
+|-
+| +5 dB
+| -5
+| -4
+| -2
+|  0
+| +1
+| +4
+|-
+| +6 dB
+| -6
+| -5
+| -3
+| -1
+|  0
+| +3
+|-
+| +9 dB
+| -9
+| -8
+| -6
+| -4
+| -3
+|  0
+|-
+|}
+
+
+
+
+'''3.''' Repeat this procedure for the 10 kHz tone and adjust the high frequency REPRO pot.
+Repeat for the 100 Hz tone and adjust Low Frequency REPRO if it is available on your recorder.
+
+Recheck 1 kHz and adjust if need be.
+
+
+Now do the same thing for the Sync/Cue playback using the Sync Level pots to attain the same levels
+
+
+
+
+
+'''4.''' Load a new reel of tape that you intend to use. Set all channels to RECORD/READY.The monitor switch should be set to TAPE/REPRO.
+
+Use your oscillator and input a 10 kHz tone at 0 VU. 
+
+Observe the meters while recording the tone. 
+
+Turn the BIAS pot counterclockwise until you notice the peak output on the VU meters.Then turn the BIAS pot clockwise until the level peaks again and begins to fall.
+
+If the needle hits the meter and stays there, reduce the level from the oscillator during biasing but remember to reset it to +4 (professional) or -10 (consumer). This peak is your reference BIAS level.
+
+
+''Recommended Overbias''
+
+Now to find the Recommended Overbias turn the pot clockwise until the level drops from the peak <u>''by the amount stated in your tape machines manual''</u> (while also following whatever criteria is stated in the manual, tape type etc..)
+
+
+Repeat this for each channel
+
+
+'''5.'''
+
+Set your oscillator to 1 kHz @ 0VU and send the tone to the individual input of each track either one at a time or via a bus or mult. Some decks have a designated test tone input that can be used as well.
+
+
+While recording the tone and watching in meters in REPRO/TAPE adjust the RECORD LEVEL/GAIN pots to acquire 0VU on the meters for each channel. If you switch beteen INPUT or TAPE monitoring the meters should read the same.
+
+Change the oscillator to 10 kHz and while monitoring in tape mode record the tone while adjusting the HF RECORD EQ for 0VU output.
+
+
+Now with the oscillator at 100 Hz record another pass and monitor in REPRO while  adjusting LF/LO FREQ on the Repro card and set it to zero
+
+Recheck and readjust the levels at 1 kHz (if any have changed)
+
+
+
+
+
+
+==References==
+'''Tape Op The Book About Creative Music Recording Vol II Page 60-61'''
+
+
+
+[[category:tutorials]]
