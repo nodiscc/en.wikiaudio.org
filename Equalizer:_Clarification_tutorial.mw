@@ -1,0 +1,122 @@
+The equalizer is a frequency selective amplifier that enables you to control the amplitude of various frequencies within the audible bandwidth. In other words, the amplitudes of certain frequencies are more or less pronounced than others.
+
+
+== What is the equalizer used for? ==
+
+
+
+1.    To overcome the deficiencies of microphones, or the characteristics of a room, and store the sound to its natural tonal quality.
+2.    To alter a sound for musical or creative reasons.
+3.    To allow certain sounds to blend better in a mix.
+
+
+== Different types of EQ ==
+
+
+
+'''Graphic'''- controls amplitude. The frequency has already been pre selected for you.
+
+'''Semi-parametric- control'''s for frequency and amplitude. The bandwidth has already been pre selected for you.
+
+'''Parametric-''' Controls for amplitude, frequency, and bandwidth.
+
+'''How the parameters are measured'''
+
+
+'''Amplitude(dB)'''- Amount of energy in a sound wave.
+
+'''Frequency(Hz)'''- The number of times it takes a wave to complete one 360 degree cycle in one second.
+
+'''Bandwidth(Q)'''- Range of frequencies between the 3 dB down points of the curve.
+
+'''Center Frequency'''- The center frequency that is being most affected by the amount of gain or attenuation you apply to it.
+
+'''3dB Down Point'''- The frequencies affected 3 dB less than the center frequency.
+
+==Frequency Response==
+
+
+Linear EQ’S- What comes in is generally what comes out. The frequencies vary slightly from unity gain, or the point where the equalizer will have no effect on the signal.
+Non linear EQ’S- An example would be 20Hz to 20 KHz at +- 3 dB. This is saying that the EQ is not always accurate as far as frequency response, and may vary up to 3 dB above or below unity.
+
+==RTA==
+
+
+Stands for real time analyzer. Another name for this is spectrum analyzer. These will show the frequency response plot, or the amplitude of 31 different bands of frequencies. Any changes in equalization will be displayed on the RTA. This can be very useful for problem frequencies.
+
+==Peaking Vs. Shelving==
+
+
+Peaking- A peak shaped bell curve is created that either boost or cut, at a selected frequency. The Q determines the amount, or width of the curve.
+Shelving- Refers to a rise or drop in frequency response at selected frequency. In other words, it boosts or cuts at certain level and continues that level until the end of the audio spectrum.
+
+==Knee Frequency==
+
+
+The center frequency in shelving EQ’S
+
+==Octave Bands==
+
+
+An octave EQ will have 10 bands each octave wide.
+A 2/3octave EQ will divide the frequency spectrum in 15 bands each 2/3 of an octave wide.
+A 1/3 octave EQ will divide the frequency spectrum into 31 bands each 1/3 octave wide.
+
+
+== HPF Vs. LPF ==
+
+
+
+High pass filters- Lets all High frequencies through at a certain point.
+Low pass filter- Lets all low frequencies through at certain point.
+
+
+== Bandpass Filters ==
+
+
+
+Bandpass filters combine high and low pass filters with different cut off frequencies and hence let the midrange frequencies pass through unaffected.
+
+==Notch Filters==
+
+
+The notch filter has a very high bandwidth and is used to locate problem frequencies because it usually concentrates on a very narrow spectrum of the frequencies we are trying to filter.
+
+==Slopes==
+
+
+Filters will have a slope. The amount of the slope determines how quickly the filter will attenuate certain frequencies. For example, if we had a low pass filter with a knee frequency of 300 Hz and a slope of 6 dB per octave, at 600 Hz the signal would be attenuated 6 dB. At 1200 Hz the signal would be attenuated 12 dB, and so on.
+6 dB is a gradual slope.
+12 dB and 18 dB are slopes we will find in consoles and EQ’S.
+24 dB is common slope for crossovers.
+48 dB is a slope that is used in brickwall filters.
+
+==Frequency Masking==
+
+Frequency masking occurs when two instruments share the same frequency at the same time. If these instruments share the same critical band, and one is 4 dB louder, the louder of the two will drown out the softer. A solution to this is to cut that one frequency out of one instrument and apply it to the other. When we solo the two it may sound funny but together it should sound fine.
+
+==Break it on Down==
+
+
+The 20 Hz to 200 Hz range can be identified as our low frequencies. These frequencies will add punch to the instrument we are adjusting the EQ on.
+
+The 200 Hz to 1 kHz contains most of the fundamental frequencies of most instruments. A slight adjustment in this area will make a world of difference but if is used too much, it can be overpowering and fatigue our ears rather quickly.
+
+The 1 kHz to 5 kHz range can add clarity and definition to the sound. Too much of these frequencies can make the instrument sound tinny, but this range can be used to place instruments in stereo space. Boosting certain frequencies on certain instruments can make them stick out, or appear closer. On the flip side cutting certain frequencies can make the instrument sound distant.
+
+The range of 5 kHz to 20 kHz contains most of the upper order frequencies that make us feel all warm and fuzzy inside. Boosting these can add sparkle and brilliance to the sounds. Cutting these frequencies can make the sound lack presence.
+
+•    When you are mixing a session, always be sure to A-B the channel you are applying EQ to with the whole mix. You may spend a good deal of time getting that one sound perfect, and then you play it with the rest of the mix it could sound horrible.
+Some engineers will EQ to tape, and others won’t. Why do you think this is?
+
+•    One reason is that you should be able to fix any problems by replacing the microphone.
+
+•    Using the EQ sparingly during the mix makes the mix sound more natural, as well as it shows that you did a good job while tracking.
+What if  your not mixing the tracking session?
+
+•    Lets say you EQ to tape, so it sounds good to you. Then the session gets shifted to another engineer for mixing. Now this engineer doesn’t like the way you used your EQ to tape and neither does the producer. Time and money is spent fixing the EQ in the mix and it makes you look bad.
+
+•    Recording as flat as possible gives you more options. If you are mixing the session after you can always add EQ. If the mixing session goes to another engineer, they will be grateful because you’ve made their job easier.
+
+
+[[category:tutorials]]
