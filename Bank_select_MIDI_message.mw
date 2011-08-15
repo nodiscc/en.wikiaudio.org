@@ -1,0 +1,1 @@
+A '''bank select MIDI message''' is a [[MIDI]] message that allows for the access of more than the 128 patches that a MIDI program change allows.If a device has more than 128 patches they can be access via bank select messages which are [[MIDI:Control_change_message_list|continuous control change messages]] #0 and #32.
