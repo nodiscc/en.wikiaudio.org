@@ -1,0 +1,20 @@
+On the Master channel in the Logic mixer window insert a down mixer with the setting '''5.1 > Stereo'''.
+
+Do this by going to ('''insert''') > '''Utillity'''>'''Downmixer''' > '''5.1 to Stereo'''
+
+[[File:Logic Pro down mixer insert.png]]
+
+
+Then do a bounce to disk '''File > Bounce'''.
+
+
+Keep the '''Surround Bounce''' check box option enabled (image below).
+
+
+[[File:Logic bounce window.png]]
+
+
+
+[[category:Logic|Surround]]
+
+[[category:tutorials]]
