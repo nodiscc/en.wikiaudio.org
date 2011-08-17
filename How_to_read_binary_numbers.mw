@@ -1,0 +1,25 @@
+==Reading binary==
+
+Binary is composed of a series of "on" or "off" values called bits.  Bits are read in 8bit groupings called bytes and these have an equivalent decimal value.
+
+Bytes are read from right to left and each bit is double in value form the last. An entire byte has 8 bits and is equal to 256 when converted to its "decimal" value.
+
+
+
+
+
+[[File:Binary 2.png]]
+
+
+
+
+
+This is an example of how to convert a Byte to decimal. 
+
+
+
+[[File:Binary 1.png]]
+
+
+
+[[category:tutorials]]
