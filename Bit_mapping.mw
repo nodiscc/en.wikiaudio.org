@@ -1,0 +1,1 @@
+'''Bit mapping''' is a phenomena similar to noise shaping or [[dither]] in that it's a mechanism intended to optimize digital quality when downsampling from higher to lower bit depths.
