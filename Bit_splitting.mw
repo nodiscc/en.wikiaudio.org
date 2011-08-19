@@ -1,0 +1,1 @@
+'''Bit splitting''' is a method of recording high resolution [[digital audio]] to a low resolution recorder by splitting the digital word.If you have a 24 [[bit]] signal going to a 16 bit recorder you could "bit split" it into one 16 bit word and an 8 bit word both on separate tracks. Bit splitting is a feature only available on certain devices.
