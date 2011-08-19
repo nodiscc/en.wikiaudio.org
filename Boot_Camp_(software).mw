@@ -1,0 +1,20 @@
+'''Boot Camp''' is a multi boot utility included with Apple Inc.'s Mac OS X that assists users in installing Microsoft Windows operating systems on Intel-based Macintosh computers. The utility's '''Boot Camp Assistant''' guides users through non-destructive disk partitioning (including resizing of an existing HFS+ partition, if necessary) of their hard disk drive and installation of Windows device drivers. The utility also installs a Windows Control Panel applet for selecting the boot operating system.
+
+
+
+
+Initially introduced as an unsupported beta for Mac OS X Tiger,the utility was first included with Mac OS X Leopard and has been included in subsequent versions of the operating system ever since. Previous versions of Boot Camp supported new installations of Windows XP, Windows Vista and Windows 7. However, with the release of Boot Camp 4.0 for Mac OS X Lion, only installations of Windows 7 are officially supported. Users have also installed Linuxusing the utility, although Apple has not listed support for Linux operating systems.
+
+
+
+
+Holding down the option key (⌥) at startup brings up the boot manager, allowing the user to choose which operating system to boot. When using a non-Apple keyboard, the alt key usually performs the same action. The boot manager can also be launched by holding down the “menu” button on the Apple Remote at startup.
+
+
+
+
+
+Its functionality relies on BIOS emulation through EFI and a partition table information synchronization mechanism betweenGPT and MBR combined.
+
+
+{{wikipedia|Boot Camp (software)|Boot Camp (software)}}
