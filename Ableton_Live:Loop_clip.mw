@@ -1,0 +1,42 @@
+{{note|If you want to know how to create '''WARPED audio loop'''s in Ableton Live please see: [[Ableton Live:Creating warped loops]]}}
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+===Looping clips===
+
+[[File:Ableton Live Loop position and length.png]]
+
+
+
+The Loop button in the [[Ableton_Live:Clip_view_parameters#Loop|clip view parameters]] enables looping for the selected clip
+
+
+
+
+==MIDI & Audio clip loop differences==
+
+The loop button is under the '''Sample''' section of audio clip parameters or the  '''Notes''' section of MIDI clip view parameters.
+
+
+<gallery widths=350px heights=150px>
+File:Ableton Live audio clip view.png|Audio clip view
+File:Ableton Live MIDI clip view.png|MIDI clip view
+</gallery>
+
+==See original article==
+
+[[Ableton Live:Clip view parameters]]
+
+[[category:Ableton Live|Loop clips]]
+
+[[category:tutorials]]
