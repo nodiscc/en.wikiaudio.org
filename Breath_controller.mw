@@ -1,0 +1,1 @@
+'''Breath controllers''' are hardware devices designed to sense air flow and transmit MIDI information to trigger the sounds of a MIDI module. Breath control is also continuous control change #2 in the [[MIDI]] specification.
