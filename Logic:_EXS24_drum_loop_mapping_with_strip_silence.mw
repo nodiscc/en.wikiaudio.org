@@ -1,0 +1,122 @@
+'''Note:'''
+
+If using '''Logic 9''' please see [[Logic:EXS24 mapping samples by converting to new sampler track| this tutorial]]
+
+
+
+
+== Logic 8 EXS24: Drum loop mapping & strip silence ==
+
+
+
+
+To divy up a drum loop into individual sounds ( kick,snare hat etc) prior to loading it into the EXS24 sampler you can use the strip silence function.
+
+To do this first select your drum loop, then go to Audio ---> Strip Silence
+
+[[image:Logic 8 Esx-24 tutorial Picture_2.JPG]]
+
+ 
+
+ 
+
+When the strip silence window opens it should look something like the picture below.
+
+Move the threshold value and other parameters until the boxes displayed center around all the individual transients and then click the "Ok" button.
+
+ 
+
+[[image:Logic 8 Esx-24 tutorial Picture_3.JPG]]
+
+ 
+
+Your sample should now be divided into regions that are based off the transients of the audio file. 
+This is viewable in the '''''audio bin'''''
+
+So now create a new track:
+
+Track ---> New
+
+ 
+
+[[image:Logic 8 Esx-24 tutorial Picture_5.JPG]]
+ 
+
+ 
+
+ 
+
+Then select a software instrument
+
+ 
+[[image:Logic 8 Esx-24 tutorial Picture_6.JPG]]
+
+ 
+
+ 
+
+After this is done go to the channel strip and select the EXS24 (stereo) as shown in the image below: 
+
+[[image: Logic 8 Esx-24 tutorial Picture_7.JPG]]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Once the EXS24 is open click the "edit" button as displayed below:
+
+[[image:Logic 8 Esx-24 tutorial Picture_8_(1).JPG]]
+
+ 
+
+ 
+
+Once you click the edit button you should get a key map window like the one below. Select all the audio files in  the  audio bin that are derivatives of the one we just used the "strip silence" function on, and then drag them to the key map editor in the EXS24 as shown in the image below
+
+[[image:Logic 8 Esx-24 tutorial Picture_9.JPG]]
+
+ 
+
+ 
+
+ 
+
+After you drag the files you should see a dialog box like the one below. Choose the "contiguous zones" option and then click "OK". 
+
+[[image:Logic 8 Esx-24 tutorial Picture_10.JPG]]
+
+ 
+
+ 
+
+Your samples should automatically be key mapped to different keys and look similar to the image below 
+
+[[image:Logic 8 Esx-24 tutorial Picture_11.JPG]]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Close the key map window. You will be asked to save your instrument patch and rename it.  
+
+After you do this the patch will be accessible from the front of the EXS24 as shown below. 
+
+[[image:Logic 8 Esx-24 tutorial Picture_14.JPG]]
+
+
+[[category:tutorials]]
+
+[[category:Logic|E]]
+
+
+==Also see==
+
+<big>[[Logic:EXS24 mapping samples by converting to new sampler track|Logic 9 EXS24 mapping samples by converting to new sampler track]]</big>
