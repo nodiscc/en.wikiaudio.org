@@ -1,0 +1,28 @@
+
+
+===Logic: Assigning an externally transmitted MIDI control message to a plug in or software instrument parameter.===
+
+
+----
+
+
+'''1.''' Open the plug in or software instrument.
+
+'''2.''' Go to the top menu and go to '''Logic Pro/ Preferences / Automation'''
+
+'''3.''' Click '''Learn message''' in the window that appears
+
+'''4.''' Move the slider or knob on your MIDI controller than is transmitting the desired MIDI message you wish to assign.
+
+'''5.''' Click the plug in or software instrument parameter you wish to affect. A new window titled "'''controller assignments'''" will appear. 
+
+'''6.''' Move your MIDI controller fader/knob one more time. A dialog box might appear asking if you want to "'''reassign'''" the message. Click "'''reassign'''" and close the '''controller assignments''' window.
+
+
+You should now be able to control the respective parameter via the control message assignment.
+
+
+
+[[category:logic|Assigning a MIDI message to plug in or soft synth parameter]]
+
+[[category:tutorials]]
