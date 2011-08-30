@@ -1,0 +1,31 @@
+
+
+To import tracks,channel settings,automation and other parameters from a closed Logic session into your open Logic session follow these steps
+
+'''1.''' Go to '''Media''' & '''Browser'''
+
+
+
+[[File:Logic import from other session 1.png]]
+
+
+
+
+'''2.''' Use the browser navigation parameters to find the logic session you are looking for.When you find it double click on it.
+
+
+
+[[File:Logic import from other session 2.png]]
+
+
+
+'''3'''.A window will appear that is a list of tracks,channel assignments, automation and global session parameters.Choose the things you would like to import from the session by checking the appropriate boxes and click "add" at the bottom of the menu.
+
+
+
+[[File:Logic import from other session browser .png]]
+
+
+[[category:Logic|Import track]]
+
+[[category:Tutorials]]
