@@ -1,0 +1,53 @@
+[[[[File:WikiAudio News.png|link=]]]]
+
+
+To send us ideas for site enhancement please post them [http://qa.wikiaudio.org/index.php/ask here] under the '''WikiAudio category'''. 
+
+
+
+
+
+==Updates==
+
+===August 31 2011=== 
+
+The Q&A software has been upgraded and I removed the pediapress extension for site optimization reasons - [[User:Taoist|Taoist]] 13:20, 31 August 2011 (PDT)
+
+===August 19 2011=== 
+I added the [[Wikiaudio_tools|WikiAudio CircuitDraw tool]]. It is a simple circuit mockup and image export tool (it is not a circuit analysis tool). This is a pre release and is still in development.The Save function doesn't work yet, only the image export.   
+
+
+
+
+===July 13 2011===
+I added the mediawiki widget extension and the SoundCloud widget. Demo below:
+
+
+
+
+{{#widget:SoundCloud 
+|id=16040214 
+|width=40% }}
+
+===June 29 2011===
+
+I added the "Pediapress" book collection extension which allows users to create a publishable book out of collected WikiAudio articles. It is working but it is not rendering images at the moment. I am trying to figure out why and hopefully fix it. You can use this feature [http://en.wikiaudio.org/Special:Book here]
+
+===June 5 2011===
+
+*We replaced the internal search with the Google custom search API. The search is divided into 2 sections. Internal WikiAudio results and audio/sound tech themed web results. If you use this search and don't see what your looking for on WikiAudio, you should still get access to it via the web results. To see this in action just do a search.  - [[User:Taoist|Taoist]] 16:11, 5 June 2011 (PDT)
+
+
+
+
+*I removed the social profile extension. It was slowing down the site tremendously and this was done for site optimization. Users still have the conventional "User" page. - [[User:Taoist|Taoist]] 15:55, 5 June 2011 (PDT)
+
+
+ 
+
+*We are developing an HTML-5 circuit mock up tool with configurable objects, save and image export. - [[User:Taoist|Taoist]] 15:55, 5 June 2011 (PDT)
+
+
+
+
+*We've added a new [http://qa.wikiaudio.org/ Question & Answer] section using the Question2Answer package. We've added full authentication with the mediawiki (WikiAudio) instance. This is in contrast to the old Q&A which I had developed by combining and hacking various mediawiki extensions together - [[User:Taoist|Taoist]] 15:55, 5 June 2011 (PDT)
