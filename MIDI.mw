@@ -1,0 +1,15 @@
+ 
+'''MIDI (Musical Instrument Digital Interface)''' is a digital industry-standard software and hardware protocol that enables electronic musical instruments, computers, and other equipment to communicate, control, and synchronize with each other. MIDI allows computers, synthesizers, MIDI controllers, sound cards, samplers and drum machines to control one another, and to exchange system data (acting as a raw data encapsulation method for SysEx commands).
+
+
+MIDI does not transmit an audio signal or media — it transmits "event messages" such as the pitch and intensity of musical notes to play, control signals for parameters such as volume, vibrato and panning, cues, and clock signals to set the tempo. As an electronic protocol, it is notable for its widespread adoption throughout the industry.
+
+
+
+== See Also ==
+[[MIDI 1.0 specification]]
+
+[[MIDI: simplified implementation chart]]
+
+
+[[category:MIDI]]
