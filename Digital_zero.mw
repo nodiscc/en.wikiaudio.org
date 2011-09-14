@@ -1,0 +1,1 @@
+'''Digital zero''' refers to 0 on a digital meter which is the point that all bits are active. Anything above digital zero will lead to distortion. Some digital audio programs scale down digital zero to allow for more [[headroom]].
