@@ -1,0 +1,4 @@
+'''Groove extraction''' is the process of recording a [[MIDI]] snap shot of the transient placements (and their dynamic range) of an audio file or the note velocities and placements in a MIDI file. You can then apply these "snap shots" to another audio or MIDI file. Hence (musically) applying the "groove" of one file to another.
+
+
+[[category:MIDI]]
