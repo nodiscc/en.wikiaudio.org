@@ -1,0 +1,9 @@
+'''DLS (Downloadable sounds)''' is a file format specification developed by the [[MIDI Manufacturers Association]] and is designed to allow the loading of samples into wavetable synthesizers.There are multiple "levels" (versions) of DLS that add different features and methods of synthesis.
+
+
+
+==External links==
+*[http://www.midi.org/techspecs/dls/dls.php DLS MIDI specification]
+
+
+[[category:MIDI]]
