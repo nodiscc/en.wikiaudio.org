@@ -1,0 +1,22 @@
+Doppler effect is the apparent shift in pitch of a sound as it moves towards and away from the listener. The concept is named after {{w|Christian Doppler}} who first postulated the notion that the observed frequency of a wave depends on the relative speed of the source and the observer. This is documented in his published work "Über das farbige Licht der Doppelsterne und einiger anderer Gestirne des Himmels" (On the coloured light of the binary stars and some other stars of the heavens).
+
+
+===Doppler effect formula===
+
+If a sound emitting source and listener move along the same straight line the listener will hear sound of the frequency:
+
+<math>f_o = f_s\left(
+ \frac{v\pm v_o}{v\mp v_s}
+ \right)</math>
+
+
+*<math>fs</math> = the source sound frequency
+
+*<math>fo</math> = the observer sound frequency
+
+*<math>vo</math> = the realative speed of the observer 
+
+*<math>vs</math> = the relative speed of the source
+
+
+{{wikipedia|Christian_Doppler|Christian_Doppler}}
