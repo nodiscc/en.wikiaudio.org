@@ -1,0 +1,109 @@
+'''Beat Detective''' is Digidesign Pro Tools's proprietary means of analyzing,editing and manipulating audio or MIDI material that is ''rhythmic in nature''.
+
+===Tutorial video===
+
+
+
+
+
+{{#widget:Vimeo|id=4883196|width=640|height=480}}
+
+
+
+
+
+
+
+----
+
+===Beat Detective overview===
+
+Beat Detective can be accessed via '''Events>Beat Detective'''
+
+
+
+[[File:Pro Tools beat detective.png]]
+
+
+
+Beat Detective is a tool for manipulating and editing audio material that is rhythmic in nature.
+
+With Beat Detective you can:
+
+Extract a [[tempo map]] from audio or [[MIDI]] material.
+
+Create a digigroove ([[groove template]])
+
+Conform audio to a tempo map
+
+[[Pro_Tools:Conforming_MIDI_tempo_to_audio_region|Conform the MIDI track tempo to an audio region]]
+
+===Operation===
+
+[[File:Pro Tools Beat Detective window operations section.png]]
+
+The first menu in the operation window is '''Operation:'''.
+
+This is used to define if the material to be affected is MIDI or Audio
+
+====Bar|Beat Marker Generation====
+
+This mode creates bar and beat markers that correlate to the detected transients of an  audio or MIDI section. This mode creates a tempo map from the selection and applies it to the session.
+
+====Groove Template Extraction====
+
+This mode detects the transients and dynamic information of an audio or MIDI region and creates quantization grooves from the information.It then saves this information either the groove clipboard  or as a DigiGroove template file to a selected directory.
+
+====Region Separation====
+
+This mode detects transients in the audio region selection(s) and makes new regions based on the information.
+
+====Region Conform (Audio Only)====
+
+This mode conforms all separated audio regions within a selection to the current tempo map. It can also conform audio 
+regions to groove templates in addition to standard quantization. 
+
+====Edit Smoothing (Audio Only)====
+
+This mode is used to fill in spaces between audio regions by trimming them and creating optional crossfades.This mode is typically used to smooth edits after using the '''Region Separation''' and/or '''Region Conform''' modes
+
+
+
+
+===Selection===
+
+
+[[File:Pro Tools Beat Detective window selection section .png]]
+
+
+
+The '''selection''' area is used to define the range of the material you wish to affect.
+
+*'''Start Bar | Beat''' - This is the the start point of the of the region you will analyze and is user defined.
+*'''End Bar | Beat''' - This end point of the region you will analyze and is user defined.
+*'''Time Signature''' - This is the time signature setting. This is user defined.
+*'''Quantization value''' - This value affects regions differently depending on '''Operation''' selection value
+*'''3''' - This indicates a triplet signature.
+
+===Detection===
+
+
+
+
+
+[[File:Pro Tools Beat Detective detection .png]]
+
+
+
+
+
+The '''Detection''' section is used to generate beat triggers to initiate the functions selected in the '''Operation''' section
+
+
+
+
+[[category:Beat Detective]]
+
+[[category:tutorials]]
+
+[[category:Pro Tools]]
