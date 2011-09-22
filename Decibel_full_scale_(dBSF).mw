@@ -1,0 +1,9 @@
+'''Decibels relative to full scale''', commonly abbreviated '''dBFS''', measures [[decibel]] [[amplitude]] levels in digital systems such as pulse-code modulation which have a defined maximum available peak level.
+
+0 dBFS is assigned to the maximum possible digital level.for example, a signal that reaches 50% of the maximum level at any point would peak at -3 dBFS i.e. 3 dB below full scale. All peak measurements will be negative numbers, unless they reach the maximum digital value.
+
+A digital signal which does not contain any samples at 0 dBFS can still clip when converted to analog due to the signal reconstruction process. This possibility can be prevented by careful digital-to-analog converter circuit design.
+
+{{Wikipedia|dBSF|dBSF}}
+
+[[category:standards and protocols]]
