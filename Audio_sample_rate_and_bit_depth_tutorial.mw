@@ -1,0 +1,34 @@
+==Video tutorial==
+{{#widget:YouTube|id=zC5KFnSUPNo|height=400,width=330}}
+
+==Sample Rates and Bit Depth==
+
+
+Digital audio is a computerized representation of real-life sounds. In order to be processed on a computer, analog audio must be converted into digital data. The quality of the audio is determined by the sample rate and bit depth at which the audio was captured. The higher the sample rate and bit depth (within reason!), the better the quality of the audio.
+
+Sample Rate refers to how many times per second the audio information is captured. Sample rates are measured in Kilohertz (KHz). 1 KHz equals 1000 samples per second. So, audio recorded at 44.1 KHz captures data at a rate of 44,100 samples per second. Most audio interfaces support sample rates of 44.1, 48, 88.2, and 96 KHz. Many higher-end devices also support 176.4 and 192 KHz sample rates as well.
+
+Bit Depth refers to how much information is captured with a sample. Each sample measures the amplitude (shape) of the wave, and higher bit depths allow the analog shape to be more closely matched. Imagine a piece of graph paper, on which you were trying to line up the graph with the smooth analog curve of a sine wave. The smaller the boxes on the graph (higher bit depth), the more closely you could match the shape of the sine wave.
+
+In the diagrams below, the X axis represents sample rate (each line equals one sample) and the Y axis represents bit depth. 
+
+
+<table border="0"><tr>
+<td>[[Image:SampleVsLowBitRate.gif|thumb|300px|At a low bit depth, the shape of the wave cannot be matched very closely]]</td>
+<td>[[Image:LowerSampleVsBitDepth.gif|thumb|300px|At a low sample rate, the shape of the wave also cannot be matched very closely]]</td>
+</tr><tr>
+<td>[[Image:SampleRateVsBitDepth.gif|thumb|300px|At a higher sample rate and bit depth, the shape of the wave can be more closely matched.]]</td>
+<td>[[Image:SampleVsBitRateHighFreq.gif|thumb|300px|However, the higher the frequency of the sound, the more difficult it is to closely match the wave.]]</td>
+</tr></table>
+
+
+Bit depth is exponential, so a 24-bit sample holds 256 times as much information as a 16-bit sample. A 16-bit sample has a range of 65,536 values, while a 24-bit sample has a range of 16,777,216.
+
+
+[[category:signal processing]]
+[[category:tutorials]]
+
+
+
+
+<small>This article uses material from wikirecording.org under the gnu licensing agreement</small>
