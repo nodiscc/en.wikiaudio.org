@@ -1,0 +1,52 @@
+
+
+
+
+<big>When you create an account on WikiAudio you will be rewarded with a personal user page and granted the ability to edit and add to the site. 
+
+
+
+If you want to contribute there is good chance we will feature your contributions on the homepage (if you like) where thousands of people will see you each week. This is great for self promotion and we will even display a link to your website,blog,bio or anything else you want.</big>
+
+
+
+
+
+<center>[[File:New account image.png|link=Special:UserLogin&type=signup]]</center>
+
+
+
+
+
+<center> <big> <big> '''Or''' </big></big></center>
+
+
+<center> [[Main_Page|Click here to go back to the homepage]]</center>
+
+
+<css>.gumax-firstHeading { display: none; }</css>
+<css>#gumax-content-actions ul li a { display: none; }</css>
+<css>#gumax-p-search form #searchInput { display: none; }</css>
+<css>#gumax-p-search form #searchGoButton, #gumax-p-search form #mw-searchButton { display: none; } </css>
+<css>#content {background:transparent none repeat scroll 0 0;
+border-color:#FFFFFF -moz-use-text-color;}
+</css>
+<css>#p-logo, #p-logo a, #p-logo a:hover { display: none; }</css>
+<css>#content {background:transparent none repeat scroll 0 0;border-color:#FFFFFF -moz-use-text-color;}</css>
+<css>#gumax-header {height: 0px;margin: 0 auto;min-height: 30px;padding: 0;position: relative;z-index: 100;}</css>
+<css>#gumax-p-login {font-size: 120%;    text-align: right;}</css>
+
+<css>#gumax-footer { display: none; }</css>
+
+<css>
+#gumax-credit-list ul
+{ display: none; }</css>
+
+<css>
+#gumax-nav
+ { display: none; }</css>
+
+<css>
+
+#gumax-p-login ul li a
+{ display: none; }</css>
