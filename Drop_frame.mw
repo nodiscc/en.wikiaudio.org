@@ -1,0 +1,4 @@
+'''Drop frames''' are a way to correct for the .03 missing frames of [[SMPTE_time_code|time code]] of ''NTSC color video'' which has 29.97 frames per second. To make synchronization between devices work properly two frames are dropped from the time code ever minute, except every tenth minute.
+
+
+[[category:synchronization]]
