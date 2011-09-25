@@ -1,0 +1,38 @@
+==Video tutorial==
+
+{{#widget:YouTube|id=c0JlsXBXklc|width=640|height=480}}
+
+
+#Click the '''io''' button of the track you wish to send.
+#In the window that appears click '''Add New Send.'''
+#Choose the channel you would like to send the signal to. (This will require that you have more than one track created in Reaper)
+
+
+
+
+
+
+[[File:Reaper aux send.png]]
+
+
+
+
+
+You can then adjust the send level using the fader that appears.
+
+
+
+[[File:Reaper send fader.png]]
+
+
+
+
+
+
+
+
+
+
+[[category:Reaper|Bussing effects]]
+
+[[category:tutorials]]
