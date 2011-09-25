@@ -1,0 +1,4 @@
+'''Downward expansion''' is a mechanism usually used to inhibit [[noise]] and hum. When a signal falls below a certain threshold ''downward expansion'' pushes is further down by a set amount determined by the ratio setting. For example, if you want a signal that falls 1 db below the threshold to be pushed down 3 more, you would set the ratio to 1:3.
+
+
+[[category:signal processing]]
