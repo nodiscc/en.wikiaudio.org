@@ -1,0 +1,33 @@
+This article explains the basic use of [[Pro Tools]] track types.
+
+
+
+==Pro Tools Tracks==
+
+
+'''Audio''' - These tracks record and play back [[audio]].
+
+
+
+'''[[MIDI]]''' - These tracks record an playback MIDI data. This data is usually sent to external MIDI devices at playback (devices that are hardware outside of the computer). If you want to record MIDI tracks to audio tracks you have to connect the audio outputs of your MIDI hardware devices to an audio track and record ''that'' signal separate of the initial MIDI track.
+
+
+
+'''Instrument''' - These tracks are MIDI tracks that trigger internal [[software instrument]]s
+
+
+
+'''[[Aux send|Aux]]''' - These tracks are used to pass Audio, Instrument and ''other'' Aux tracks tracks "through" it.These are usually used to add effects and group tracks together.
+
+
+
+'''Master track''' - Master tracks are used to meter the summed Audio,Instrument and Aux tracks of the stereo bus.
+
+
+
+==Video tutorial==
+
+
+{{#widget:YouTube|id=WkS0Uj2LG-c|width=640|height=480}}
+[[category:Pro Tools|Tracks]]
+[[category:tutorials]]
