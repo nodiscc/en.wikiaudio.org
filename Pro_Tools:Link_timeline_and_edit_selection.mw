@@ -1,0 +1,43 @@
+===Pro Tools Timeline and edit selection linking=== 
+
+==Video==
+
+{{#widget:YouTube|id=ysjci1CRedY|width=640|height=480}}
+
+
+
+
+When making selections in the Pro Tools edit window you can choose to link or unlink the timeline selection with the edit selection.
+
+
+
+<big>'''What does this mean?'''</big>
+
+
+When the '''link timeline and edit selection''' option is turned ''on'' then the selection used to edit regions and the selection in the timeline will be connected. When the Timeline and Edit Selection are ''unlinked'' (set to off) then these two selections will be independent of one another. See the images below
+
+==Timeline and Edit selection enabled==
+
+
+[[File:Pro tools link time line and edit selection set to on.png]]
+
+
+
+
+[[File:Pro Tools link time line and edit selection example while linked.png]]
+
+
+==Timeline and Edit selection disabled==
+
+If you turn off the '''link edit and timeline selection''' option (see pictures below) these selection spans will not be linked.
+
+[[File:Pro Tools link time line and edit selection set to off.png]]
+
+
+
+[[File:Pro Tools timeline and edit selection off example.png]]
+
+
+[[category:Pro Tools|Link timeline and edit selection]]
+
+[[category:tutorials]]
