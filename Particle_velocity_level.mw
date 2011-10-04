@@ -1,0 +1,25 @@
+
+The '''particle velocity level''' or the sound velocity level tells the ratio of a sound incidence in comparison to a reference level of 0 dB in a medium, mostly air.
+
+It shows the ratio of the particle velocity v1 and the particle velocity v0.
+
+The particle velocity level is:
+
+:<math>
+L_v = 20\, \log_{10}\left(\frac{v_1}{v_0}\right) \mathrm{dB}
+</math>
+
+where ''v''<sub>1</sub> and ''v''<sub>0</sub> are the velocities.
+
+The particle velocity level has the letter "''L''<sub>v</sub>".
+
+
+
+:<math>
+v_0 = 5.0 \times 10^{-8} \mathrm{\frac{m}{s}}
+</math>
+
+we use "dB SVL". (SVL = sound velocity level).
+
+
+Sound particle velocity ''v'' should not be confused with Sound velocity ''c''.
