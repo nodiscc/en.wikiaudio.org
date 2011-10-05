@@ -1,0 +1,84 @@
+You can make a simple tempo map in [[Pro Tools]] of prerecorded audio material by following a few simple steps.
+
+
+==Video tutorial==
+
+{{#widget:YouTube|id=qCEi4ue2haE|width=640|height=480}}
+
+
+
+
+
+
+
+
+
+
+==Tutorial==
+
+
+
+Go to the '''Windows''' menu and choose '''Memory Locations'''
+
+
+Then in the window that appears click the mini menu icon (image below) and choose '''auto name memory locations'''
+
+
+[[File:PT auto name memory locations.png]]
+
+
+
+Make the sure conductor icon is turned on
+
+[[File:Pro Tools conductor icon.png]]
+
+
+Also make sure the time reference selected is either '''Samples''' or '''Min:Sec'''.
+(This will allow the Marker placement to default to '''[[Absolute time|Absolute]]''')
+
+
+
+
+[[File:Pro Tools time reference for tempo map.png]]
+
+
+
+
+
+Create a series of markers at consecutive time positions in your audio material. In the image below the markers have been added to the very beginning and ending of the audio material which happens to be an 8 bar drum loop at a 4/4 time signature. You can drop markers on the fly by pushing '''Enter''' on the numeric keypad.
+
+
+
+
+
+[[File:Pro_tools_with_two_markers.png]]
+
+
+
+
+
+
+
+[[File:PT absolute marker time.png]]
+
+
+
+
+
+
+Click the first marker and then hold shift to select the next marker. You should get a connected time span. Then push the key command '''Command I'''. Set where the start and end bar/beats should be based on the number of bars/beats in the audio material. Make sure to include the respective time signature information. Our file is a very simple 8 bar 4/4 clip. 
+
+
+
+
+
+[[File:PT command I.png]]
+
+
+
+
+
+==Also see==
+[[Pro_Tools:Using_beat_detective_to_conform_MIDI_tempo_to_audio_region]]
+[[category:Pro Tools|Tempo mapping]]
+[[category:tutorials]]
