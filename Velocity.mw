@@ -1,0 +1,12 @@
+'''Velocity''' is a rate of change over time. 
+
+When playing a keyboard the velocity is how fast the note is played, not how hard.
+
+In [[MIDI]], velocity is a value represented by one of the data bytes of the [[MIDI:Channel_messages_tutorial#Note_On|channel voice note on (and off) message]].
+Many synths and other MIDI devices allow the user to route the velocity information to parameters other than notes, such as filters,LFO's and modulation.
+
+
+
+==Formula==
+
+'''V = Distance/Time'''
