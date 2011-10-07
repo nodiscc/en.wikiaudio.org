@@ -1,0 +1,17 @@
+==Video==
+
+{{#widget:YouTube|id=DffK8YVNm0A|width=640|height=480}}
+
+
+==Instructions==
+
+In the arrange window double-click the audio file you want to reverse.
+The sample editor window should open up.
+In the sample editor window go to the functions menu and then choose Reverse.
+ 
+If the Reverse option is grayed out try making a copy of the audio file (bounce in place) and then reverse the copy.
+
+
+
+[[category:Logic|Reverse audio]]
+[[category:tutorials]]
