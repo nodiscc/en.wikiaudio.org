@@ -1,0 +1,59 @@
+==Video==
+{{#widget:YouTube|id=PCrHYZ3fCMU|width=640|height=480}}
+
+
+==Article==
+
+
+
+To create a [[side chain]] effect in [[Pro Tools]] follow these steps. For our example we will use a side chain compression scheme.
+You will need to have two tracks created and they must be either Audio or Software Instrument tracks. You need to choose one to be the control signal and the other to be the affected signal.
+
+
+Set the output of the control signal to a [[Bus]].
+
+
+
+[[File:Pro Tools channel strip with output set to a Bus.png]]
+
+
+
+
+
+Add an insert on the channel that has the signal you wish to affect (in our case we are using a compressor plug in).
+
+
+
+[[File:Pro Tools insert.png]]
+
+
+
+
+Set the key chain input to the same Bus as the output of the source signal.
+
+
+
+[[File:Pro tools plug in side chain bus 1.png]]
+
+
+
+
+Make sure the key input is enabled (image below)
+
+
+
+
+
+[[File:Pro tools plug in side chain turned on.png]]
+
+
+
+
+
+If you set the compressors parameters it will now use the control signal as a source for the affected signal.
+
+
+
+[[category:Pro Tools|Side chain]]
+
+[[category:tutorials]]
