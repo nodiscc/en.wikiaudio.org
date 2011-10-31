@@ -1,0 +1,56 @@
+==Pro tools 10==
+
+{{Needscontent}}
+
+
+==Pro Tools LE 8 and earlier==
+
+
+[[Latency]] is one of the most frustrating parts of working in the digital box.  Not only does it interfere with correct playback of tracks, but it also causes phase problems for the entire mix.  In [[Pro Tools]] 9, Avid gave all users the feature of Automatic Delay Compensation (which had previously only been available for Pro Tools HD users) however, in this tutorial I will show you how to get the same delay compensation for Pro Tools systems on LE 8 and earlier.
+
+
+
+1. First, get all the individual instruments to sound the way you would like 
+
+[[File:Protoolsadc1.png|450px]]
+
+
+2. After plug-ins have been placed on the tracks, Control Click the black box (that displays attenuation) OF EACH TRACK, TWICE. The second click displays the number of samples the audio is delayed, due to effects processing.
+
+
+[[File:Protoolsadc2.png|450px]]
+
+
+
+
+3. Now begins the math portion. out of all your tracks, pick out the track that is delayed by the highest number of samples. For this session, it is my vocal group “VOXG” and it is delayed by 193 samples. This track will be the latest of all my audio to play, so I must delay all other audio tracks to start and play at the same time.
+
+
+[[File:Protoolsadc3.png|450px]]
+
+
+
+
+4. On all other tracks going to the stereo bus, place the “TimeAdjuster medium” plug-in on the last insert.
+
+
+[[File:Protoolsadc4.png|450px]]
+
+
+5. Adjust the Delay slider to whatever number will make the output of the track be delayed by the number of samples the most delayed audio in your session. Examples, my Bass track in this image is delayed by 8 samples, so I adjusted the TimeAdjuster plug in to 185 samples of delay. 8+185=193. And if you have a track not delayed at all (delayed 0 samples) you would place the slider at 193 samples. 0+193=193. Get it?
+
+
+
+[[File:Protools5.png|450px]]
+
+6. Repeat for all affected tracks.
+
+
+
+
+*'''<small>This article contains material from''' http://www.iangarrow.com. 
+*'''All material from''' http://www.iangarrow.com '''is © copyrighted and used by permission'''.</small>
+
+
+[[category:Pro Tools|Delay compensation]]
+[[category:tutorials]]
