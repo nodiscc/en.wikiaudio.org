@@ -1,0 +1,1941 @@
+----
+<big><big>
+*<u>To search this list </u> use '''Command F''' (mac) or '''ctrl F''' (windows)</big></big>
+
+
+
+
+
+
+
+
+The key commands in this list are Mac based. This list is easily portable to Windows OS using the conversion table below. 
+
+{| class="wikitable" border="2"
+|-
+
+! Mac
+
+! Windows
+|-
+|Command
+|Control
+|-
+|alt/option
+|alt
+|-
+|cntrl
+|start
+|-
+|Return key
+|Enter key (not numeric keypad)
+|-
+| Delete key
+| Backspace key
+|}
+=Mac and Windows equivalent key commands=
+The key commands in this entire list are Mac based. This list is easily portable to Windows OS using the conversion table below. 
+
+{| class="wikitable" border="2"
+|-
+
+! Mac
+
+! Windows
+|-
+|Command
+|Control
+|-
+|alt/option
+|alt
+|-
+|cntrl
+|start
+|-
+|Return key
+|Enter key (not numeric keypad)
+|-
+| Delete key
+| Backspace key
+|}
+
+=Global keyboard shortcuts=
+<small>
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] </small>
+==Change all parameters on similar channel strip==
+option+applicable function (applicable functions listed below)
+
+==Change parameters on all selected similiar channel strips==
+option+Shift+applicable function (applicable functions list below)
+----
+'''Applicable functions for commands above'''
+*Automation modes
+*Monitor mode
+*Playlist enables
+*Record,solo and mute enables
+*Record and solo safes
+*Inserting plug-ins
+*I/O, bus, send assignment
+*volume/peak indicator/channel delay
+*extended Edit or Timeline selection
+*track height
+*clear clip meter
+----
+
+==Toggle item and set all others to same new state==
+option-click on applicable item (applicable items listed below)
+
+==Toggle item and set all others to opposite state==
+Command-click on applicable item (applicable items listed below) 
+----
+'''Applicable items for commands above'''
+*Tracks in Track list
+*Group enables/activation
+*Automation Enable window
+*Memory Location parameters
+
+==Fine Tune (Fine adjust mode)==
+Command-click on applicable fader/pot/breakpoint function (Applicable functions listed below)
+----
+
+'''Applicable functions for key command above'''
+*Plug-in parameter editing
+*Fader movement
+*Scrubbing
+*Automation data trimming (requires larger track view for highest resolution)
+
+
+==Select multiple contiguous items==
+Click to select first item, then Shift-click another to select all similar items between (applicable items listed below)
+
+==Select multiple non-contigious items (tracks, region, paths)==
+Click to select first item, then Command-click another to select all similar items between (Applicable items listed below)
+----
+'''Applicable items for key commands above'''
+*Tracks (click Track Names)
+*regions in Region List
+*Paths in I/O Setup
+
+=Playback & Record=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+==cntrl/Stop playback==
+Spacebar
+
+==cntrl record==
+Command-Spacebar, or F12 or 3 (on numeric keypad)
+
+==Stop record==
+Command+Period (.)
+
+==Half-Speed playback==
+Shift-Spacebar
+
+==Half-Speed Record==
+Command+Shift+Spacebar   or  Shift+F12
+
+==Pause (Pre prime deck for instant playback and record)==
+cntrl+Spacebar or option-click on transport play button
+
+==Enable/disable online record==
+Command+option+Spacebar
+
+==Center on selection start/end==
+Left/right arrow keys (when selection exceeds window view)
+
+==Play edit selection==
+option ]
+
+==Back/forward (move the playback location backwards/forwards by the Back/Forward amount)==
+Command+Transport Rewind button or Transport Fast Forward button.
+
+==Back/forward and play (move the playback location backwards/forwards by the Back/Forward amount and then begin playback)==
+
+Command+option+Transport Rewind button or Transport fast forward button
+
+==Extend a selection backwards by the Back/Forward amount==
+
+Shift+Command+Transport Rewind button or Transport fast forward button
+
+==Extend a selection backwards by the Back/Forward amount and begin playback==
+
+Shift+Command+option+Transport Rewind button or Transport fast forward button
+
+==Record-safe track==
+Command-click on the track record enable button
+
+==Solo-safe track==
+Command-click on track solo button
+
+==Cycle through record modes:normal,Destructive,Loop,Quickpunch,Trackpunch,DestructivePunch==
+cntrl-click on Transport Record enable button
+
+==Loop playback toggle==
+Command-Shift+L, or cntrl-click on Transport Play button
+
+==loop Transport Mode==
+
+Shift-cntrl+L
+
+==Loop Record==
+option+L
+
+==TrackPunch (Pro Tools HD only)==
+Command+Shift+T
+
+==QuickPunch==
+Command+Shift+P
+
+==return/Exit record during playback in QuickPunch==
+
+Command+Spacebar,F12, or click Transport Record Enable button
+
+==DestructivePunch or TrackPunch enable/disable an audio track==
+
+cntrl-click the track's Record Enable Button
+
+==DestructivePunch or TrackPunch enable/disable all audio tracks==
+option-cntrl-click a track's Record Enable button
+
+==Simultaneously DestructivePunch or TrackPunch enable/disable all audio audio tracks==
+
+option-click a track's Record enable button
+
+==Simultaneously DestructivePunch or TrackPunch enable/disable and record enable/disable all audio audio tracks==
+
+option-Shift-click a track's Record enable button
+
+
+==Temporarily force all VCA slave tracks to toggle their record enable status==
+
+option-click the VCA record enable button
+
+==Temporarily force all VCA slave tracks to toggle their track input status==
+option-click the VCA Track Input button
+
+
+==Enable or disable pre/post roll time==
+
+Command+K
+
+==Set and enable pre/post-roll time==
+
+option-click with selector tool before or after the selection
+
+==Disable and set to zero pre/post-roll time==
+option-click within selection closer to front or back
+
+==Toggle Transport Master (Pro Tools/Machine/MMC)==
+Command+Backslash (\)
+
+=Auditioning=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+
+==Auditioning When transport is Pro Tools==
+===Play by pre-roll value up to selection start/end (or current location if no selection)===
+option+Left/Right Arrow keys
+
+===Play by post-roll value from selection start/end (or current cursor location if no selection)===
+Command+left/right arrow keys
+
+===Play by pre- and post-roll value through selection start/end===
+Command+option+Left/Right Arrow keys
+
+==Auditioning When Transport is Machine or MMC==
+
+===Cue Transport to selection start/end===
+Command+Left/Right Arrow keys
+
+===Cue Transport with pre/post-roll to selection start/end===
+option-Left/Right Arrow keys
+
+=Scrub (Jog)/Shuttle=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+
+==Temporary Scrub mode when using selector tool==
+cntrl-click and drag
+
+==Extend selection while scrubbing==
+Shift-click and drag with the scrubber , (also in temporary scrub mode)
+
+==Shuttle==
+option-click-drag with scrubber, (also in temporary scrub mode)
+
+==Change direction during Shuttle lock (Classic or transport mode)==
+Plus/Minus  (+/-) keys. 
+
+==Shuttle lock stop (Classic or Transport mode==
+0 (press number key to resume shuttle)
+
+==Exit Shuttle Lock mode (Classic or transport mode)==
+Spacebar or ESC key
+
+=Transport Mode Shortcuts with numeric Keypad=
+
+==Play/Stop==
+0
+
+==Rewind==
+1
+
+==Fast Forward==
+2
+
+==Record enable==
+3
+
+==Loop Playback mode on/off==
+4
+
+==Loop Record mode on/off==
+5
+
+==QuickPunch mode on/off==
+6
+
+==Click on/off==
+7
+
+==Countoff on/off==
+8
+
+==MIDI Merge/Replace mode on/off==
+9
+
+=Shuttle Mode Shortcuts with numeric Keypad=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==1 x forward playback speed==
+6
+
+==1 x rewind playback speed==
+
+4
+
+==4 x forward playback speed==
+9
+
+==4 x Rewind playback speed==
+
+7
+
+==1/4 x forward playback speed==
+
+3
+
+==1/4 x Rewind playback speed==
+
+1
+
+==1/2 x Forward playback speed==
+
+5+6
+
+==1/2 x Rewind playback speed==
+5+4
+
+==2 x forward playback speed==
+
+8+9
+
+==2x backward playback speed==
+
+8+7
+
+==1/16 x forward playback speed==
+
+2+3
+
+==1/16 x Backward playback speed==
+2+1
+
+==Loop playback of Edit selection==
+0
+
+==Recall Memory Location==
+
+Period (.) + Memory Location+Period (.)
+
+=Edit Modes and Tools=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Shuffle mode==
+F1 or option+1 (On QWERTY keyboard)
+
+==Slip mode==
+F2 or option+2 (On QWERTY keyboard)
+
+==Spot mode==
+F3 or option+3 (On QWERTY keyboard)
+
+==Grid mode==
+F4 or option+4 (On QWERTY keyboard)
+
+==Enable snap to grid while in another Edit Mode==
+Shift+F4
+
+==Enable Snap to Grid and Shuffle Mode==
+F1+F4
+
+==Enable Snap to Grid and Slip Mode==
+F2+F4
+
+==Enable Snap to Grid and Spot Mode==
+F3+F4
+
+==Zoomer Tool==
+F5, or Command+1 (on QWERTY keyboard)
+
+==Trimmer tool==
+F6, or Command+2 (on QWERTY keyboard)
+
+
+==Selector tool==
+F7, or Command+3 (on QWERTY keyboard)
+
+==Grabber tool==
+F8, or Command+4 (on QWERTY keyboard)
+
+
+==Scrubber tool==
+F9, or Command+5 (on QWERTY keyboard)
+
+==Pencil tool==
+F10, or Command+6 (on QWERTY keyboard)
+
+==Smart Tool==
+F6+F7. F7+F8, or Command+7 (On QWERTY keyboard)
+
+==Cycle through Edit Modes==
+Single open quote key (`) located above the TAB key
+
+==Cycle through edit tools==
+Escape (Esc) key,or Center-click
+
+==Lock out or unlock Shuffle mode==
+Command-click the Shuffle button
+
+=Edit Selection Definition and Navigation=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+
+==Enable or disable Tab to transient command==
+Command+option+Tab
+
+==Locate cursor to next region-boundary/sync point==
+Tab (if Tab to transient is enabled)
+
+==Locate cursor to previous region boundary/sync point==
+Command+Tab (if Tab to transient button is enabled
+
+==Go to and select next region==
+cntrl+Tab
+
+==Go to and select previous region==
+cntrl+Option+Tab
+
+==Go to Song cntrl==
+
+cntrl+return
+
+==Extend selection to Song cntrl==
+
+Shift+cntrl+return
+
+==Extend selection to next region-boundary==
+Shift+Tab
+
+==Extend selection to previous region-boundary==
+Command+Shift+Tab
+
+==Extend selection to include next region==
+cntrl+Shift+Tab
+
+==Extend selection to include previous region==
+cntrl+Shift+Command+Tab
+
+==Return to start of session==
+return
+
+==Go to end of session==
+Command+return
+
+==Extend selection to start of session==
+Shift+return
+
+==Extend selection to end of session==
+Option+Shift+return
+
+==Link timeline and edit selection==
+Shift+Forward+Slash (/)
+
+==Set selection start/end during playback==
+Down/Up Arrow keys
+
+==Select entire region in Edit window==
+Double-click with selector tool
+
+==Select entire track in edit window==
+Triple-click with selector tool, or single-click in track and press Command+A
+
+==Select all regions in all tracks in edit window==
+return, then press Command+A
+
+==Extend cursor or selection across all tracks==
+Enable "All" Edit group and Shift-click on any other track
+
+==Move the selection forward by the selection amount==
+Command+option+cntrl+Apostrophe (')
+
+==Move selection backward by selection mount==
+Command+option+cntrl+L
+
+==Double the length of the Edit selection==
+Command+option+cntrl+Shift+Apostrophe (')
+
+==Halve the length of the selection==
+Command+option+cntrl+Shift+L
+
+==Cancel Zoom toggle and remain as the same zoom level==
+option+Shift+E
+
+==Fit all shown tracks in the Edit window==
+Command+option+cntrl+Up
+
+==Record enable tracks that contain the Edit cursor or edit selection==
+Shift+R
+
+==Input enable tracks that contain==
+Shift+I
+
+==Solo tracks that contain the Edit cursor or Edit selection==
+Shift+S
+
+==Mute tracks that contain the Edit cursor or Edit selection==
+Shift+M
+
+==Move the insertion to the beginning of the Edit selection==
+Up arrow
+
+==Move the insertion to the end of the Edit selection==
+Down arrow
+
+==Increase or decrease height of any lane that contains the Edit cursor or an Edit selection==
+cntrl+Up/Down Arrow
+
+=Editing,Nudging and Trimming=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Change Grid value==
+cntrl+option+Plus+/Minus (+/-) keys
+
+==Change Nudge value==
+Command+option+Plus/Minus (+/-) keys
+
+==Nudge back by next Nudge value (Nudge Edit selection and any regions entirely inside the Edit selection==
+Minus (-)key(on numeric keypad),or Comma (,) (in Command Keyboard Focus)
+
+==Nudge forward by next Nudge value (Nudge Edit selection and any regions entirety inside the Edit selection)==
+Plus (+) key (on numeric keypad),or Period (.) (In Commands Keyboard Focus)
+
+==Nudge start/end data to right/left by Nudge value (keeps underlying audio and moves start/end)==
+Shift+Plus/Minus (+/-) keys
+
+==Nudge data within current region to right/left by Nudge value (keeps region start/end and moves underlying audio)==
+cntrl+Plus/Minus (+/-) keys
+
+==Nudge left selection boundary right/left by Nudge value==
+option+Shift+Plus/Minus (+/-) keys
+
+==Nudge right selection boundary right/left by Nudge value==
+Command+Shift+Plus/Minus (+/-) keys
+
+==Trim left edge of region to right/left by Nudge value==
+option+Plus/Minus (+/-) keys
+
+==Trim right edge of region to right/left by Nudge value==
+Command+Plus+/Minus (+/-) keys
+
+==Reverse Trimmer tool direction when trimming region==
+option+Trimmer tool
+
+==Trim up to,but not over adjacent regions==
+Hold down cntrl key while trimming
+
+==Duplicate region(s) in Edit window==
+option-click selection and drag to destination
+
+==Delete selection in playlist==
+Backspace or delete (On QWERTY keyboard
+
+==Constrain audio region to vertical movement==
+cntrl-click to move audio region with Grabber tool
+
+==Snap region start to stationary playhead or Edit selection start==
+cntrl-click new region with Grabber tool
+
+==Snap region sync point stationary playhead or Edit selection start==
+cntrl-Shift-click region containing the sync point with Grabber tool
+
+==Snap region end to stationary playhead or Edit selection start==
+Command-cntrl-click new region with Grabber tool
+
+=Track Compositing=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Solo any one Playlist lane containing the Edit cursor==
+Shift+S
+
+==Move the Edit cursor up and down through Playlist lanes==
+cntrl+P and cntrl+ Apostrophe (;)
+
+==Copy the selection to the main playlist==
+option+cntrl+P
+
+==Copy the selection to a new playlist==
+Command+option+cntrl+P
+
+==Copy the selection to a duplicate of the main playlist==
+Command+option+cntrl+Shift+P
+
+=File Menu Commands=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==New session==
+Command+N
+
+==Open Session==
+Command+O
+
+==Open Recent==
+Command+Shift+O
+
+==Close session==
+Command+Shift+W
+
+==Save session==
+Command+S
+
+==Bounce to disk==
+Command+option+B
+
+==Import Session Data==
+Shift+option+1
+
+==Import Audio==
+Command+Shift+I
+
+==Import MIDI==
+Command+option+1
+
+==Print Score from Pro Tools Session==
+Command+P
+
+=Missing Files Dialog Commands=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Skip all missing files==
+Command+S
+
+==Manually find and relink all missing files==
+Command+M
+
+==Automatically find and relink all missing files==
+Command+A
+
+==Regenerates missing fades (toggle on/off)==
+Command+R
+
+=Edit Menu Commands=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Undo==
+Command+Z
+
+==Redo==
+Command+Shift+Z
+
+==Cut==
+Command+X
+
+==Copy==
+Command+C
+
+==Paste==
+Command+V
+
+==Clear==
+Command+B
+
+==Select all==
+Command+A
+
+==Paste Special Merge==
+option+M
+
+==Paste Special Repeat to Fill Selection==
+Command+option+V
+
+==Paste Special to Current Automation Type==
+Command+cntrl+V
+
+==Change Timeline Selection to Edit Selection==
+option+Shift+6
+
+==Change Edit Selection to Timeline Selection==
+option+Shift+5
+
+==Play Edit Selection==
+option+[
+
+==Play Timeline Selection==
+option+]
+
+==Duplicate selection==
+Command+D
+
+==Repeat Selection==
+option+R
+
+==Shift selection==
+option+H
+
+==Insert Silence==
+Command+Shift+E
+
+==Trim Region to Selection==
+Command+T
+
+==Trim Region cntrl to Insertion==
+option+Shift+8
+
+==Separate Region at Selection==
+Command+E
+
+==Heal Separation==
+Command+H
+
+==Strip Silence==
+Command+U
+
+==Consolidate selection==
+option+Shift+3
+
+==TCE edit to Timeline Selection==
+option+Shift+U
+==Restore last selection==
+Command+option+Z
+
+=Automation=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+
+==Toggle Track View on all tracks==
+option+minus (-) key (on QWERTY keyboard)
+
+==Change to previous/next Track View on all tracks included in the current selection==
+Command+cntrl+Left/Right Arrow keys
+
+==Change to previous/next Track view on all tracks==
+Command+option+cntrl+Left/Right Arrow keys
+
+==Disable/enable Automation playlist on selected track==
+Command-click on Track View selector
+
+==Disable/enable all Automation playlist on selected track==
+Command-Shift-click on Track View selector
+
+==Open Plug-in Automation dialog==
+Command-option-cntrl-click on parameters (in Plug-in window)
+
+==Access Plug-in Automation Commands (Pro Tools HD only):Automation dialog,Enable/disable plug-in automation==
+Command-option-cntrl-click on Track View selector (in Edit window)
+
+==Copy Automation to Send (Pro Tools HD only)==
+Command+option+H
+
+==Thin Automation==
+Command+option+T
+
+==Write automation to start of session/selection (Pro Tools HD only)==
+cntrl-click on Transport Return to Zero button
+
+==Write automation to end of session/selection (Pro Tools HD only==
+cntrl-click on transport Go to End button
+
+==Write automation from start to end of session/selection==
+cntrl-Shift-click on Transport Go to End or Return to Zero button
+
+==Write Automation to current parameter (Pro Tools HD only)==
+Command+Forward slash (/)
+
+==Trim Automation to Current Parameter (Pro Tools HD only)==
+Command+Shift+Forward slash (/)
+
+==Glide automation to All Enable Parameters==
+option+Shift+Forward Slash (/)
+
+==Suspend Trim automation on all tracks==
+in the Automation window,Command-click the Suspend button
+
+==Suspend currently displayed automation type on track==
+Command-click the control name in the Track View selector
+
+==Vertically constrain automation movement==
+Press Shift and move automation with Grabber tool
+
+==Write new breakpoint at next automation value==
+Press and hold option+Shift while writing a breakpoint (by clicking with the Grabber tool in a track's automation playlist
+
+==Write new breakpoint at previous automation value==
+Press and hold Command+option while writing a breakpoint (by clicking with the Grabber tool in a track's Automation playlist)
+
+==AutoMatch all controls on a track (Pro Tools HD only)==
+In the Automation window,Command-click the button for the automation type
+
+==AutoMatch all controls of one automation type on a channel (Pro Tools HD with ICON work surface only)==
+Hold Command and press Rotary Encoder Select switch for the control you want to AutoMatch
+
+==Automatch a Pan control or the controls for an individual insert or Send (Pro Tools HD with ICON work surface only==
+Hold Command and press the Auto switch in the Dyn or EQ section of the console
+
+==Suspend preview (Pro Tools HD only)==
+In the Automation window, Command-click the Preview button
+
+==Special Paste of automation data between different controls==
+cntrl+Command+Y
+
+==Configure Write on Stop modes to remain enabled after an automation pass (Pro Tools HD only)==
+option-click one of the Write On Stop modes (cntrl,End or ALL) to enable the Write On Stop mode
+
+==Delete==
+Backspace
+(Hold down Stat during the shortcut to affect all Automation playlists on a track)
+
+==Cut==
+Command+X
+(Hold down Stat during the shortcut to affect all Automation playlists  on a track)
+
+==Copy==
+Command+C
+(Hold down Stat during the shortcut to affect all Automation playlists  on a track)
+
+==Duplicate==
+Command+D
+(Hold down Stat during the shortcut to affect all Automation playlists  on a track)
+
+==Clear==
+Command+B
+(Hold down Stat during the shortcut to affect all Automation playlists  on a track)
+
+==Insert Silence==
+Command+Shift+E
+(Hold down Stat during the shortcut to affect all Automation playlists  on a track)
+
+=Fades=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Create Fades (open Fades dialog)==
+Command+F
+
+==Apply crossfade without opening Fades dialog==
+Command+cntrl+F (uses last selected fade shape)
+
+==Fade to start==
+option+D
+
+==Fade to end==
+option+G
+
+=Fades Dialog=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Edit crossfade-in only in Fades dialog==
+option-drag fade-in curve ("None" mode only)
+
+==Edit crossfade-out only in Fades dialog==
+Command-drag fade-out curve
+
+==Audition start/stop in Fades dialog==
+Spacebar
+
+==Reset to default zoom in Fades dialog==
+Command-click on Zoom In or Zoom Out buttons
+
+==Reset standard or S-shape crossfades to default curves==
+option-click fade curve in crossfade fade window ("Equal Power" and "Equal Gain" Link modes only)
+
+==Cycle up/down through Out Shape parameter options==
+cntrl+Up/Down Arrow keys
+
+==Cycle up/down through In Shape parameter option==
+option+Up/Down Arrow keys
+
+==Cycle up/down through Link parameter option==
+Up/Down Arrow keys
+
+==Cycle up/down through preset out Shape curves==
+cntrl+Left/Right Arrow keys
+
+==Cycle up/down through preset In Shape curves==
+option+Left+/Right Arrow keys
+
+=View Menu=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==View Narrow Mix window option==
+Command+option+M
+
+==View Real-Time Properties window==
+option+4 (on the numeric keypad)
+
+=Track Menu Commands=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+
+OS translation key]]
+
+==New track==
+Command+Shift+N
+
+==Group tracks==
+Command+G (with two or more tracks selected)
+
+==Duplicate tracks==
+option+Shift+D
+
+==Auto Input Monitoring/Input Only Monitoring (Pro Tools LE only)==
+option+K
+
+==Set Record Tracks to Input Only/Set Track to Autio Input (Pro Tools HD)==
+option+K
+
+==Scroll to Track number==
+Command+option+F
+
+==Clear all Clip indicators==
+option+C
+
+=New Tracks Dialog=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+
+OS translation key]]
+==Cycle through Track Type choices==
+Command+Up/Down Arrow keys
+
+==Cycle through Track format choices==
+Command+Left/Right Arrow keys
+
+==Cycle through Track Timebase choices==
+Command+option+Up/Down Arrow keys
+
+==Add or delete a Track Entry field==
+Command+Plus/Minus (+/-)keys,or Command+Shift+Up/Down Arrow keys
+
+==Re-arrange Track Entry field (move up/down==
+Drag the Move Row icon (at the right of each Track Entry row) to desired position
+
+=Track list=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+
+OS translation key]]
+==Show/Hide all tracks==
+option-click on any Eye in Track List
+
+==Select all tracks==
+option-click on any Track Name in Track List
+
+=Mix Group List and Edit Group List=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+
+OS translation key]]
+==Suspend all groups==
+Command+Shift+G or Command-click on Group pop-up menu
+
+==Rename group==
+Double-click to far left of Group name in Group list
+
+==Group enable/disable==
+Click Group List Keyboard Focus, then type the letter corresponding to desired group
+
+==Select all tracks in a group==
+Click to the left of a Group name in Group list
+
+=Create Group and Modify Group Dialogs=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Add selected track to a group in Tracks View==
+Press A
+
+==Remove selected track from a group in Tracks View==
+Press R
+
+==Select a deselect all attributes in Attributes View==
+option-Shift-click any attribute
+
+==Select or deselect all attributes for a single Send or Insert (across a row) in Attributes View==
+cntrl-click any attribute in a row
+
+==Select or deselect attributes for a single control across all Sends, all inserts, or for the four track controls (down a column) in Attributes View==
+option-click any attribute in a column
+
+=Region Menu Commands=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Mute/Unmute Regions==
+Command+M
+
+==Lock/Unlock Regions==
+Command+L
+
+==Edit lock/Unlock the selected region==
+Command+L
+
+==Time lock/Unlock the selected region==
+Shift+T
+
+==Bring to Front==
+option+Shift+F
+
+==Send to Back==
+option+Shift+B
+
+==Group Region==
+Command+option+U
+
+==Ungroup Region==
+Command+option+U
+
+==Regroup Regions==
+Command+option+$
+
+==Loop Region==
+Command+option+L
+
+==Capture Region==
+Command+R
+
+==Identify Sync Point==
+Command+Comma (,)
+
+==Quantize Region to Nearest Grid==
+Command+0
+
+==Open Elastic Properties windows==
+option+5 (on numeric keypad)
+
+=Elastic Audio=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+
+==Toggle between Real-Time and Rendered Elastic Audio processing==
+Command-cntrl-Click the Elastic Audio plug-in button
+
+==Add a Warp marker on top of an event==
+With the Grabber tool,cntrl-click any Event marker
+
+==Relocate a Warp marker (without applying warping)==
+With the Grabber or the Pencil tool,cntrl-click and drag a Warp marker to a new location
+
+==Delete a Warp marker==
+Double-click a Warp marker,or with the Grabber or the Pencil Tool,option-click a Warp marker
+
+==Delete all Warp markers in a selection==
+Press Delete or Backspace
+
+==Telescope-Warp audio before first Warp marker in or out==
+With the Grabber tool,option-click and drag first Event marker to the left or right
+
+==Add an Event marker==
+With the Grabber tool, cntrl-click at the location where you want to add an Event marker
+
+==Delete an Event marker==
+With Pencil tool, option-click the Event marker you want to delete
+
+=Regions List=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+
+OS translation key]]
+==Select region by name==
+Click the Region List a-z button,then type the first letters of the desired region
+
+==Find region==
+Command+Shift+F
+
+==Clear Find==
+Command+Shift+D
+
+==Show/Hide Audio regions==
+Command+Shift+1 (on numeric keypad)
+
+==Show/Hide MIDI regions==
+Command+Shift+2 (on numeric keypad)
+
+==Show/Hide Groups==
+Command+Shift+3 (on numeric keypad
+
+==Show/Hide Auto-Created region==
+Command+option+K
+
+==Select All Regions in Region List==
+Command+Shift+A
+
+==Select Unused regions==
+Command+Shift+U
+
+==Clear selected regions==
+Command+Shift+B
+
+==Rename select regions==
+Command+Shift+R
+
+==Time Stamp selected region==
+Command+Shift+M
+
+==Export Region Definition==
+Command+Shift+Y
+
+==Export Regions as Files==
+Command+Shift+K
+
+==Select or deselect a region==
+Command-click a region
+
+==Select multiple contiguous regions==
+Click on region, then Shift-click another region to select or deselect all regions in between
+
+==Select or deselect multiple discontiguous regions with the Marquee==
+Place the cursor to the left of the names in the Region List. When the Marquee ("+") appears, hold Command and drag to selector deselect entire region.
+
+==Bypass dialogs during deletion of audio files==
+option-click Delete or Yes box when prompted 
+
+==Audition region in Region list==
+option-click and hold on region in Region List
+
+==Rename region/file==
+Double-click region in Region list or double click with the Grabber tool on region in play-list
+
+==Constrain region placement to start at play/edit cursor location or selection start==
+cntrl-click
+
+==Constrain region placement to end at play/edit cursor location or selection start==
+cntrl-Command and drag region
+
+=Event Menu Commands=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Open Time Operations window==
+option+1 (on numeric keypad)
+
+==Open Tempo Operations window==
+option+2 (on numeric keypad)
+
+==Open Event Operations window==
+option-3 (on numeric keypad)
+
+==Quantize (in Even Operations window)==
+option+0 (on numeric keypad)
+
+==Transpose (in Event operations window)==
+option+T
+
+==Select/Split Notes (in Event Operations window)==
+option+Y
+
+==Open MIDI event List window==
+option+Equal (=)
+
+==Open Beat Detective window==
+Command+8(on numeric keypad
+
+==Identify Beat==
+Command+I
+
+==All MIDI notes Off==
+Command+Shift+Period (.)
+
+=MIDI Events list Entry=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==return start time field for editing==
+Command+return (on numeric keypad
+
+==Show Event Filter dialog==
+Command+F
+
+==Go to==
+Command+G
+
+==Scroll to Edit selection==
+Command+H
+
+==Insert another event==
+Command+M
+
+==Insert note==
+Command+N
+
+==Insert Program Change==
+Command+P
+
+==Insert Commandler==
+Command+L
+
+==Insert Poly Pressure==
+Command+O
+
+==Delete event in MIDI Events List==
+option+click
+
+=MIDI Step Input=
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]]
+==Whole note==
+1
+
+==1/2 note==
+2
+
+==1/4 note==
+4
+
+==1/8 note==
+5
+
+==1/16 note==
+6
+
+==1/32 note==
+7
+
+==1/64 note==
+8
+
+==Dotted note==
+. (decimal key)
+
+==Toggle Tuplet on/off==
+3
+
+==Next step==
+return
+
+==Undo step==
+0
+
+==Nudge forward==
++
+
+==Nudge back==
+-
+
+==Select Main Location indicator==
+=
+
+==Edit Selection indicators==
+/
+
+=Option Menu Commands=
+
+==Transport Online==
+Command+J
+
+==Video Track Online==
+Command+Shift+J
+
+==Auto-Spot-regions==
+Command+P
+
+
+=Setup Menu Commands=
+
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+
+
+OS translation key]] 
+==Session Setup window==
+Command+2 (on the numeric keypad)
+
+=Peripherals Dialog=
+
+==Go to Synchronization window==
+Command+1
+
+==Go to Machine Command window==
+Command+2
+
+==Go to MIDI Commandlers window==
+Command+3
+
+==Go to Ethernet Commandlers window==
+Command+4
+
+==Go to Mic Preamps window (Pro Tools HD only)==
+Command+5
+
+=Preferences Dialog=
+
+==Go to Display window==
+Command+1
+
+==Go to Operation window==
+Command+2
+
+==Go to Editing window==
+Command+3
+
+==Go to Automation window==
+Command+4
+
+==Go to Processing window==
+Command+5
+
+==Go to MIDI window==
+Command+6
+
+==Go to Machine Command window==
+Command+7
+
+=Zoom=
+
+==Horizontal zoom in or out==
+Command+1] or [
+
+==Zoom to show entire session horizontally without affecting vertical zoom or scrolling==
+Command+cntrl+[
+
+==Zoom in horizontally on a selection without affecting vertical zoom or scrolling==
+Command+cntrl+]
+
+==Vertical zoom to show default waveform height  (Audio)==
+Command+option+cntrl+[
+
+==Incrementally zoom vertically on all audio tracks==
+Command+option+[ or ]
+
+==Vertical zoom in or out (MIDI)==
+Command+Shift+ ] or [
+
+==Vertical zoom to show all notes (lowest to highest) in MIDI and instrument (MIDI)==
+Command+cntrl+Shift+[
+
+==Vertical zoom to show all tracks==
+option+A
+
+==Horizontal zoom to selection,including MIDI events==
+option+F
+
+==Horizontal zoom to selection,excluding MIDI events==
+option+cntrl+F
+
+==Continuously zoom vertically on a single audio  track (or group of tracks)==
+cntrl-drag with Zoomer tool up or down in the track
+
+==Continuously zoom vertically on all audio tracks==
+cntrl+Shift+Drag in an audio track with the Zoomer tool
+
+==Incrementally zoom vertically on all audio tracks==
+Press Command+option+[ or Command+option+]
+
+==Fill window with selection==
+option+click on Zoomer tool or option+F
+
+==View entire session and reset waveform display to default the height==
+
+Double click on Zoomer tool or option+A
+
+==Zoom vertical and horizontal axis==
+Hold down Command key while dragging Zoomer tool
+
+==Zoom to previous orientation==
+option-click on any Horizontal Zoom In or Out button, or Audio or MIDI Zoom In or Out button
+
+==Maximum zoom before waveform drawn from disk==
+Command-click on Zoomer tool (faster drawing from RAM
+
+==Zoom Toggle==
+cntrl-E
+
+==Cancel Zoom Toggle and remain at the same zoom level==
+option+Shift+E
+
+
+==Zoom presets 1-5==
+cntrl+Zoom preset number (1,2,3,4, or 5 on QWERTY keyboard),
+or Zoom preset number (1,2,3,4 or 5 on QWERTY keyboard in Commands Keyboard FOcus)
+
+==Set all audio track waveform heights to match the wave-form height of the top-most audio track in the Edit window==
+Command-Shift-click any of the Zoom buttons
+
+=Window Configuration=
+
+==Add new window Configuration or replace existing one in Window Configuration List==
+Period (.)+number (1-99)+Plus(+)
+
+==Recall a Window Configuration==
+Period (.)+Window Configuration umber (1-99)+Asterisk(*)
+
+
+=Memory Locations and Markers=
+
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+==Create Memory Location==
+return (on numeric keypad)
+
+==Reset a Memory Location==
+cntrl-click on Memory Location button
+
+==Delete Memory Location==
+option-click on a Memory Location button
+
+==Recall a Memory Location using the numeric keypad==
+Period (.)+Memory Location number+Period(.) (Transport or Shuttle mode), or Memory Location number+Period (.) (Classic mode)
+
+==Move only the Song cntrl Marker, without moving any tick-based data==
+cntrl-Shift-drag the cntrl Song Marker
+
+==Toggle the Timeline Insertion/Play cntrl Marker Follows Playback preference on and off==
+cntrl+N
+
+=Import Audio Dialog=
+==cntrl/stop audition of currently selected audio file or region==
+Spacebar
+
+==Add currently selected audio region or file to list==
+option+S (if audio file has the same sample rate and bit depth as the current session)
+
+==Convert and import selected audio region/files==
+option+O
+
+==Remove currently selected audio file/regions from Regions to Import field==
+option+R
+
+==Remove all audio files/regions from Regions in Current File field==
+option+V
+
+==Random-access fwd/rew search selected file==
+Drag slider to, or click at,new location
+
+==Move between file windows==
+Tab
+
+==Done==
+option+E
+
+==Cancel==
+Escape
+
+=Import Video Dialog=
+==Bypass Video Import Options dialog when importing video into Pro Tools==
+option-drag one or more video files from DigiBase browser or the Region List to any location in the Timeline
+
+=Plug-in Settings Librarian=
+
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+==Save settings==
+Command+Shift+S
+
+==Copy settings==
+Command+Shift+C
+
+==Paste settings==
+Command+Shift+V
+
+==Switch between Librarian Settings subfolders in the Plug-in Settings dialog==
+Command+Up/Down Arrow keys
+
+==Switch between settings file in the Plug-in Settings dialog==
+Up/Down or Left/Right Arrow keys
+
+=Plug-in Commands=
+
+==Change plug-in control setting in parameter field==
+Click mouse in text field and type desired value
+
+==Move down/up to next/previous parameter fields==
+Tab or Shift+Tab
+
+==Increase/decrease slider value==
+Up/Down Arrow keys
+
+==Input value without leaving field==
+return (on numeric keypad)
+
+==return value and exit Keyboard Entry mode==
+return
+
+==For fields that support kHz (kiloHertz)==
+Type "k" after number (multipliers by 1000)
+
+=Mixing=
+==Make track active/inactive==
+Command-cntrl-click track type icon in Mix window
+
+==Set all faders to their automation null points==
+option-click on either AutoMatch indicator
+
+==Reset a control to default value==
+option-click on control
+
+==Volume/Peak/Channel Delay amount==
+Command-click on Track Volume/Peak/Channel Delay indicator
+
+==Clear peak or clip-hold from meter==
+Click on indicator
+
+==Peak counter reset in Headroom indicator mode==
+Click on Headroom indicator
+
+==Bypass plug-in insert==
+Command-click on insert name in Inserts view
+
+==Bypass Send mute==
+Command-click on send name in Sends View
+
+==Toggle Send display between "All" and "Individual"==
+Command-click on Send selector
+
+==Bypass Delay Compensation View indicators (Pro Tools HD only)==
+cntrl-Command-click on Plug-in Delay,User Offset,or Track Compensation indicator
+
+==Clear peak or clip-hold from meter==
+Click on indicator 
+
+==Peak counter reset in Headroom indicator mode==
+Click on Headroom indicator
+
+==Bypass plug-in insert==
+Command-click on insert name in Inserts View 
+
+==Bypass Send mute==
+Command-click on send name in Sends View 
+
+==Toggle Send display between "All" and "Individual"==
+Command-click on Send selector
+
+==Bypass Delay Compensation View indicators (Pro Tools HD only)==
+cntrl-Command-click on Plug-in Delay, User Offset, or Track Compensation indicator
+
+=Numeric Entry=
+The following keyboard shortcuts apply to: current Location Counter, Transport window time fields, cntrl /End/Length fields in the Edit window, Spot dialog, and the Big Counter. 
+
+==Edit Current Location and Big Counters== 
+Asterisk (*) (on numeric keypad) 
+
+==Edit cntrl/End/Length fields (Edit window)==
+Forward Slash (f) (on numeric keypad).Subsequent presses toggle through fields vertically. 
+
+==Initiate time entry in Transport window fields==
+option+Forward Slash (f) (on numeric keypad). Subsequent presses toggle through fields. 
+
+==Capture incoming time code in Session Setup window (with cntrl field selected)== 
+Comma (,)
+
+==Capture incoming time code in Spot dialog and Time Stamp Selected dialog==
+Equals (=). Hold down key for continued input. 
+
+==Move sub-unit selection to the right==
+Period (.) 
+
+==Move sub-unit selection to the left/right==
+Left/Right Arrow keys 
+
+==Calculator Entry mode==
+Plus (+) or Minus (-) keys followed by offset number (subtraction not supported in 
+Bars/Beats) 
+
+==Increment/decrement the current sub-unit==
+Up/Down Arrow keys 
+
+==Change Time Code unit selection. First entry zeroes (00) lowest sub-unit. Subsequent entry zeroes (00) the next highest sub-unit.==
+Period (.)
+
+==Clear entered numeric value and stay in Time Entry mode==
+Retype value
+
+==Apply entered numeric value and exit Time Entry mode==
+return 
+
+==Clear entered numeric value and exit Time Entry mode==
+Esc (Escape) key
+
+=Text Entry=
+==Move down or up rows==
+Tab or Shift+ Tab 
+
+==Move to beginning or end of edit contents==
+Up/Down Arrow keys or Home/End keys 
+
+==Move single letters at a time across a name label==
+Left/Right Arrow keys 
+
+==Select entire word==
+Double-click on word 
+
+==Select entire line==
+Triple-click on a word in the line
+
+=Miscellaneous=
+
+==Increase or decrease track height==
+cntrl+Up/Down Arrow keys 
+
+==Set all tracks to selected record drive in Disk Allocation dialog ==
+option-click on record drive 
+
+==Bank display of tracks to top of Edit window==
+Shift-cntrl-click Track Name 
+
+==Display Playlist selector (requires selection start or flash-ing insertion point match user time stamp of region)== 
+Command-click with Selector tool at start or current cursor location 
+
+==Display and adjust the AFLIPFL Path fader while in AFLIPFL mode (Pro Tools HD only)==
+Command-click a Solo button 
+
+==Close all open Plug-in, Send, Pan, and Mic Pre windows==
+Command+Option+W 
+
+==Access Playback Engine dialog during Pro Tools launch==
+Hold down N key while launching Pro Tools 
+
+==Bypass repeat dialogs when multiple items are changed by single operation (such as Clear, Delete, Compact)== option-click "Proceed" button in dialog 
+
+==Link Pro Tools and a video satellite (Pro Tools HD only)==
+Shift+option+L 
+
+==Close all open Plug-in, Send, Pan, and Mic Pre windows==
+Command+option+W 
+
+==Close active Mix or Edit window (if both are open) or active browser (if two for more browsers are open)== 
+
+Command+F4
+
+==Quit Pro Tools== 
+Command+Q, or option+F4 
+
+==Rearrange Toolbars==
+Command-click and drag 
+
+==Send all selected Tracks to Sibelius==
+option-Right--click
+
+=Keyboard Focus=
+
+==Commands Keyboard Focus== 
+Command+option+1
+
+==Region List Keyboard Focus== 
+Command+option+2 
+
+==Group List Keyboard Focus== 
+Command+option+3 
+
+=Commands Keyboard Focus Mode=
+To use the following single key shortcuts, click the Commands Keyboard Focus button in the Edit or MIDI Editor window so that it remains lit. Or, use the cntrl key in combination with the single keys listed below except for Undo, Cut, Copy and Paste. For these functions, you must use the Command key in combination with the single keys listed.
+
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+==Zoom presets 1-5== 
+1,2,3,4, or 5 (on QWERTY keyboard) 
+
+==Play to/from edit start by pre/post-roll value==
+617 (on QWERTY keyboard) 
+
+==Play to/from edit end by pre/post roll amount==
+8/9 (on QWERTY keyboard) 
+
+==Copy Edit selection to Timeline selection==
+O (on QWERTY keyboard) 
+
+==Copy Timeline selection to Edit selection (Pro Tools HD only)==
+0  
+
+==Toggle pre-defined common Track Views (audio track = Waveform and Volume;MIDI track = Notes and Regions; Instrument tracks = Notes and Regions)== 
+
+Minus (-) key (on QWERTY keyboard)
+
+==Capture Time Code==
+
+= 
+
+==Center Timeline selection start== 
+Q 
+
+==Center Timeline selection end==
+W 
+
+==Zoom Toggle== 
+E
+
+==Zoom Out horizontally==
+R 
+==Zoom In horizontally==
+T 
+==Snap start (of selected region) to time code (Pro Tools HD only)== 
+Y 
+
+==Snap sync point (of selected region) to time code (Pro Tools HD only)==
+U 
+
+==Snap end (of selected region) to time code (Pro Tools HD only)==
+I 
+
+==Snap start (of selected region) to playhead==
+H
+
+==Snap sync point (of selected region) to playhead (Pro Tools lID only)==
+J 
+
+==Snap end (of selected region) to playhead (Pro Tools HD only)==
+K  
+==Move Edit selection up==
+P 
+
+==Move Edit selection down==
+; (Semi-Colon) 
+
+==Tab back==
+L 
+==Tab forward==
+' (Apostrophe) 
+==Play Timeline Selection (Pro Tools HD only)==
+] 
+==Play Edit Selection==
+[ 
+==Trim cntrl to insertion==
+A 
+==Trim End to Insertion==
+S 
+==Fade to cntrl (available info selection)==
+D 
+==Fade (without showing Fades dialog)==
+F 
+==Fade to End (available if no selection)==
+G 
+==Undo==
+Z 
+==Cut==
+X 
+==Copy==
+C 
+==Paste==
+V 
+==Separate==
+B 
+==Timeline Inscrtion follows Playback (enable/disable)==
+N 
+
+==Nudge back by Nudge value; Nudge Timeline selection (Link Timeline and Edit Selection disabled) or Nudge region (Link Timeline and Edit Selection cnabled)== 
+Comma (,) 
+
+==Nudge forward by Nudge value; Nudge Timcline selection (Link Timeline and Edit Selection disabled) or Nudge region (Link Timeline and Edit Sclection enabled)== 
+Period (.)
+
+==Nudge back by ncxt large Nudge value; Nudge Timeline selcction (Link Timeline and Edit Selection disabled) or Nudge region (Link Timeline and Edit Selection enabled)==
+M 
+
+==Nudge forward by next larger Nudge value; Nudge Timeline selection (Link Timeline and Edit Selection disabled) or Nudge region (Link Timelinc and Edit Selection enabled)==
+/ (Forward Slash) (on QWERTY keyboard)
+
+=Scroll Wheel Commands= 
+The following keyboard shortcuts apply to moving scrollbars on systems with a scroll wheel. 
+
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+==Scroll horizontally==
+Shift+Scroll Wheel 
+
+==Fine-tune scroll (Fine Adjust mode)==
+Command+Scroll Wheel 
+
+==Zoom in/out of timeline== 
+option+Scroll Wheel in timeline (press option again when done scrolling)
+ 
+==Zoom in/out of waveforms==
+option+Shift+Scroll Wheel in timeline
+
+=DigiBase Shortcuts= 
+The following shortcuts are available only in DigiBase windows, as noted. 
+
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+==DigiBase Browser and Window Keyboard Shortcuts== 
+
+===Open the Workspace browser===
+option+Semi-Colon 
+
+===Open the Task Manager window=== 
+option+Apostrophe (') 
+
+===Open or closes the Project browser===
+option+O 
+
+===Bring all browsers to the foreground===
+option+J 
+
+===Send all browsers to the back===
+option+Shift+ J 
+
+===Cycle to previous/next browsers===
+Command+Left/Right Arrow keys 
+
+===Zoom presets in the Edit window or View presets in DigiBase browsers ===
+cntrl+ 1,2,3,4, or 5
+
+
+==DigiBase Auditioning Keyboard Shortcuts== 
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+===Browser Item: cntrl or stop auditioning from head ''or'' Audio Import dialog: cntrl or stop auditioning from head=== 
+
+Spacebar 
+
+
+===Browser Item: cntrl or stop loop auditioning from head=== 
+option+Spacebar 
+
+===cntrl or stop preview when browser is front-most window===
+Command+P 
+
+===Stop preview when browser is front-most window===
+Escape 
+
+===cntrl and stop Context Preview in the front-most browser during session playback===
+Press Esc or Command+P 
+
+===Enable/disable Loop Preview mode===
+cntrl -click the Preview button 
+
+===Enable/disable Auto-Preview mode=== 
+Command-click the Preview button 
+
+===Import Audio dialog:===
+cntrl or stop auditioning option+P
+
+==DigiBase Mouse Click Keyboard Shortcuts== 
+[[Pro_Tools:Key_commands_and_shortcuts_list#Mac_and_Windows_equivalent_key_commands|Windows-to-Mac
+OS translation key]] 
+
+===Select contiguous items in a browser -or- Select a range of contiguous column headers===
+Shift-click 
+
+
+===Select all of the files in a multichannel file in a browser===
+option-Shift-click I 
+
+===Column Headers: Make a secondary sort order===
+====or-Region List: Audition a file====
+====or-Browser Find Bntton: Cancel a search, and closes the Search pane==== 
+====or-Browser Close Box: Close all open browsers====
+option-click
+ 
+===Column Header: Access list of columns that can be shown or hid=== 
+cntrl-click (or Right-click) in any DigiBase column label 
+
+===Browser Back Button: Open the navigation menu=== 
+====or Browser Items: Select discontiguous items==== 
+====or Column Headers: Select discontinuous column headers====
+====or Browser Up Button: Open menu for navigating up several levels====
+====or Browser View Preset Buttons: Store column order and width, and sort order==== 
+====or Region List: Select a region without changing which region is highlighted in Timeline====
+
+
+Command-click 
+ 
+====Browser Items: Open a new window and leaves the orig- Command-double-click==== 
+inal window open
+
+==DigiBase Drag and Drop Keyboard Shortcuts==
+
+===Browser Item: From one folder to another folder on the same volume, create a copy of that item in the target location===
+option-drag and drop 
+
+===Browser Media File to Region List or Timeline: Create a copy of the mcdia file in the session's Audio Files folder===
+Lookup 397
+
+===Browscr File: Import to Timeline and create a new track===
+Shift-drag and drop 
+
+===Waveform Display: Set sync point and spot to Timeline===
+Command-drag and drop 
+===Or Region List: Snap to head===
+cntrl-drag and drop 
+===Or Browser Audio File, from Name or Icon: Snap to head===
+
+===Or Browser Audio File, from Waveform Display: Spot to temporary sync point=== 
+
+===Browser Audio File to Timeline: Snap to bead and copy the audio file to the session's Audio Files folder===
+cntrl-option-drag and drop
+
+===Region List: Snap to sync point===
+===Or Browser Item: Snap to sync point=== 
+
+cntrl-Shift-drag and drop
+
+===Browser Item: Snap to sync point and copy the audio file to the session's Audio Files folder===
+cntrl-option-Shift-drag and drop 
+
+===Region List: Snap to tail===
+cntrl-Command-drag and drop 
+
+===Or Browser Item: Snap to tail===
+
+===Browser Item: Snap to tail and copy the audio file to the session's Audio Files folder===
+cntrl-Command-A It drag and drop 
+
+===Browser Item: Spot with variable cursor===
+cntrl-Command-Shift drag and drop 
+
+===Browser Item: Spot with variable cursor and copy the audio file to the session's Audio Files folder===
+cntrl-Command-option-Shift-drag and drop
+
+==DigiBase Navigation Shortcuts==
+
+===Selection up===
+Up Arrow key 
+===Selection down===
+Down Arrow key 
+===Scroll Page up===
+Page Up 
+===Scroll Page down===
+Page Down 
+===Scroll to top of browser===
+Home 
+===Scroll to bottom of browser===
+End 
+===Scroll to track Command-l-AIHF====
+ 
+===Up one browser level (same as Up Arrow icon)===
+Command+Up Arrow key 
+===Open folder (same window)===
+Command+Down Arrow key 
+===Open folder (new window)===
+Command+Option+Down Arrow key 
+===Open Show/Hide icon=== 
+Right Arrow key 
+===Close Show/Hide icon===
+Left Arrow kcy 
+===Cycle to next or previous browser===
+Command+Left/Right Arrow keys 
+===return/exit Name Edit field=== 
+return 
+===Revert to original text===
+Escape (Esc) key 
+===Open/close Search Pane Command+F===
+ 
+===Move to next Search field===
+Tab 
+
+===Move to previous Search field===
+Shift+Tab
