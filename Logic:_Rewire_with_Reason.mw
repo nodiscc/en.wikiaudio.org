@@ -1,0 +1,67 @@
+== Rewire with Reason ==
+
+
+== Rewiring Logic and Reason ==
+
+
+#Launch Logic ''first.''
+#Create an  '''"External MIDI"''' track. ( '''Track / New / External MIDI''' )
+#Launch Reason.
+#Inside Reason you can add a mixer if you like (if one isn't already created) by going to '''Create / Mixer 14:2'''.
+#In Reason add a synth or other device from the '''Create''' menu. This will be triggered from inside Logic.
+#In Logic select your MIDI track and in the '''Media / Library''' window (shown below) select your Reason module from the Reason folder icon.
+
+[[Image:Reason from Library Logic 8.png]]
+
+
+
+Inside Logic open the Mixer window by selecting "Mixer" at the bottom of the arrange window.
+From within the Mixer window create a new '''aux track''' by selecting '''Options / Create new Auxillary Channel Strip'''. In the Aux tracks '''I/O''' section set the input to Reason/RW:Mix L/R (you can have Reason modules assigned to different outputs but for brevity we will use the main stereo outs).
+
+
+
+
+
+
+[[Image:Logic 8 rewire aux track.png]]
+
+
+
+
+
+You should now be able to select the Logic MIDI track, trigger MIDI to Reason and hear the audio from Reason play through the Aux channel.
+
+== To record the Reason audio signal to an audio track in Logic ==
+
+
+#In Logic, set the output of the Aux track to a '''Bus.'''
+#Now in Logic create an audio track and set the input to the same '''Bus''' 
+#Record enable the audio track and record the signal.
+
+
+
+== Individuals Reason modules on individual channels in Logic==
+
+To use multiple modules at the same time on different channels in Logic, do exactly the same as the instructions above except don't create a mixer. Simple cable the devices directly to the Audio output channels at the top of the rack as shown in the image below. Then set the aux inputs in Logic to the corresponding channel.
+
+
+
+[[File:Reason 5 rewire logic.png|600px]]
+
+
+
+
+Earlier versions of Reason (before version 5) displayed the back of the audio I/O differently and the outputs were previously labeled inputs. Image below.
+
+[[Image:Reason back of rack rewire.png]]
+
+
+
+
+
+
+
+[[category:tutorials]]
+[[category:Logic|Rewire with Reason]]
+[[Category:Reason]]
+[[category:Rewire|Logic with Reason]]
