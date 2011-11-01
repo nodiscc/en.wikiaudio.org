@@ -1,0 +1,59 @@
+==Pro Tools automation modes==
+
+==Video==
+{{youtube|fXSIKG6nMtk|left}}
+
+
+
+===Modes===
+
+Below is a list of Pro Tools automation modes and what they do. The modes are accessible from the edit window (shown below) or the mix window.
+
+
+
+To access the modes click and hold the automation mode selector on a track.(image below)
+
+
+
+[[File:Pro Tools automation mode off.png]]
+
+
+
+A drop down list of the different modes will appear. (image below)
+
+
+
+[[File:Pro Tools automation modes.png]]
+
+==Modes==
+
+====Off====
+
+'''Off''' disables all automation.
+
+====Read====
+
+'''Read''' plays back all automation but does not write any automation. Write automation is disabled in this mode 
+
+====Touch====
+
+'''Touch''' allows the user begin writing automation when a specific enabled parameter is moved and automation stops when that parameter is released
+
+====Latch====
+
+'''Latch''' allows the user to begin writing automation when a specific enabled parameter is moved. When the user releases the parameter automation continues to be written.
+
+====Write====
+
+'''Write''' mode begins  automation immediately for all enabled parameters and erases any previous automation.
+
+====Trim====
+
+Trim is a mode that is used in conjunction with the other modes. Trim doesn't write new automation nodes, It simply modifies existing automation.It is used to make minor adjustments to previously written automation.
+
+
+
+
+[[category:Pro Tools|Automation modes]]
+
+[[category:tutorials]]
