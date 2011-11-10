@@ -1,0 +1,7 @@
+An '''audio codec''' is a hardware device or a computer program that compresses/decompresses [[digital audio]] data according to a given audio file format or streaming audio format. The term codec is a combination of 'coder-decoder'. The object of a codec algorithm is to represent the high-fidelity audio signal with minimum number of bits while retaining the quality. This can effectively reduce the storage space and the bandwidth required for transmission of the stored audio file. Most codecs are implemented as libraries which interface to one or more multimedia players, such as XMMS, Winamp or Windows Media Player.
+
+In some contexts, the term "audio codec" can refer to a hardware implementation or sound card. When used in this manner, the phrase audio codec refers to the device encoding an analog audio signal.
+
+{{stub}}
+
+[[category:audio formats]]
