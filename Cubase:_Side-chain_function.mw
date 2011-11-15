@@ -1,0 +1,79 @@
+-----
+
+
+===Side-chain capable plug-in list===
+*Vintage Compressor
+*Compressor
+*Expander
+*Gate
+*Auto Pan 
+*Chorus 
+*Studio Chorus 
+*Flanger 
+*Phaser 
+*Tremolo 
+*Vibrato 
+*Mono Delay 
+*Ping Pong Delay 
+*Stereo Delay 
+*WahWah
+
+
+
+==Steps==
+
+Start by inserting a plug-in capable of performing a side-chain function on a track requiring the effect.  The side chain option is circled in the image below.
+
+
+
+[[Image:Cubase_VST3_Comp.png|Compressor with Side-chain option]]
+
+
+
+This will enable every track in your session (including group tracks) to route the audio to the plug-in.
+
+
+
+
+[[Image:C4 send sidechain.png|Send channel with Side-chain option|750px]]<br />
+
+
+
+
+Select the send destination, set level as desired.The settings in the screen shot below are for maximum effect of the Gate viz. 0dB and post-fader <br />
+
+
+[[File:Cubase_side_chain_Gate_viz.png]]
+
+
+
+
+
+The audio signal will only be allowed to pass through the gate upon a ‘trigger’ signal from the sending track <br />
+
+
+
+
+
+
+[[Image:C4 send 0dB.png|Send channel with Side-chain receiving 0dB signal level|750px]]<br />
+
+
+
+====Note====
+As a rule it is not possible to create a side-chain effect within the same track <br />
+
+
+ 
+
+==Cubase 3 and earlier==
+This capability was not available in the older Cubase standard compressor plug-in, among others, but was only added in '''version 4''' <br />
+
+
+
+
+[[Image:Old_Cubase_compressor.png|Compressor '''without''' Side-chain option]]<br />
+
+
+[[category:Cubase|Side-chain]]
+[[category:tutorials]]
