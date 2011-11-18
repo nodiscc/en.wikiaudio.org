@@ -1,0 +1,45 @@
+
+'''Elastic Audio''' is a time manipulation processing system in Digidesign Pro Tools. It was introduced in 2007 with Pro Tools 7.4. Elastic Audio (also known as Elastic Time) enables the user to change an audio file's tempo or timing in real time without altering the file's pitch, allowing for quick rhythmic or time-based adjustments without the need to render audio.
+
+==Operation Modes==
+
+Elastic Audio operates with one of 5 plugins: Polyphonic, Rhythmic, Monophonic, Varispeed, and X-Form (Rendered Only). The first four plugins, Polyphonic, Rhythmic, Monophonic, and Varispeed, all do their processing in real time, while the fifth, X-Form, uses an algorithm based on Digidesign's X-Form time compression/expansion plugin that requires the audio to be rendered before it can be played back. As a result, X-Form Elastic Audio provides the highest fidelity with the sacrifice of real-time processing.
+
+===Polyphonic===
+
+This plugin is designed for processing audio files that are polyphonic, containing audio of more than one note or tone. Examples of polyphonic audio files would be a recording of a guitar playing chords or a recording of a band or other ensemble. This plugin is considered the most "all purpose" Elastic Audio plugin.
+
+===Rhythmic===
+This  plugin is used for heavily rhythmic material, such as drums and other percussive instruments.
+
+=== Monophonic===
+
+This  plugin is designed for processing audio that is monophonic, or audio that contains only a single note or tone. Examples of monophonic files could be a recording of a simple bass line or a vocalist.
+
+===Varispeed===
+
+This  plugin is the only Elastic Audio plugin that alters the pitch as well as the time (tempo). It can be used to create tape-like speed effects.
+
+===X-Form===
+
+The X-Form plug-in is a modified version of the X-Form Audiosuite plug in.X-Form provides rendered audio processing only and cannot process in real time. 
+
+
+==References==
+
+[http://www.digidesign.com/index.cfm?navid=3&langid=100&itemid=22942 Digidesign "Pro Tools Reference Guide"]
+
+==Related Tutorials==
+
+*[[Pro Tools: Enable Elastic audio]]
+*[[Pro Tools:Elastic audio enabling new tracks by default]]
+*[[Pro_Tools:Elastic_audio_basics]]
+*[[Pro Tools:conform region tempo to tempo map]]
+
+
+[[category:Pro Tools|Elastic audio]]
+[[category:tutorials|Pro Tools:Elastic audio]]
+
+
+
+<small>This article uses material from wikirecording http://www.wikirecording.org/Elastic_Audio</small>
