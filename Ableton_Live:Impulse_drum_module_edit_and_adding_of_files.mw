@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:170px; background:#fff; border-collapse:collapse; border:1px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''[[File:Video upload.png|left|50px]]'''
+<small>Requires [[Guidelines_of_participation#Video_and_Audio_files|compatible browser]] to stream.</small>
+'''Click files below to Play'''
+----
+|-
+| style="background: " | 
+*[http://en.wikiaudio.org/images/3/30/Ableton_Live_editing_and_adding_sounds_to_impulse_drum_machine.ogg Editing and adding files to the impulse drum machine]
+|}
+
+
+You can edit files in Live's arrange window and add them to the Impulse drum module quickly and easily. [http://en.wikiaudio.org/images/3/30/Ableton_Live_editing_and_adding_sounds_to_impulse_drum_machine.ogg (see video)]
+
+
+To do this first create an impulse instrument.
+
+
+
+[[File:Ableton Live adding impulse in file browser.png]]
+
+
+
+Then split the file you are using into sections you wish to add to the drum module.When you are selecting areas of the file you might have to [[Ableton Live:Grid snap enable or disable|change Ableton Live's  snap settings]] to get the regions you want
+
+
+
+[[File:Ableton Live split menu.png]]
+
+
+
+Then drag it to the pad(s) of the impulse. You might need to first drag the audio file to the impulse track header in the arrange view for the impulse to appear (image below)
+
+
+
+
+[[File:Ableton Live drag file to impulse track header.png]]
+
+
+
+
+The Impulse drum module will then appear. Continues to drag the file to one of the pads.
+
+
+[[File:Ableton Live dragging file to impulse pad.png]]
+
+
+
+You can then trigger the sound by clicking the play icon in the pad, using a MIDI controller or by pressing the letters '''A-to-L''' on your computer keyboard (depending on which one is assigned to the respective pad)
+
+
+[[category:ableton Live|Impulse drum module]]
+
+[[category:Tutorials]]
