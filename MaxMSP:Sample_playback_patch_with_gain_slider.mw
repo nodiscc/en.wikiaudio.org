@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:200px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''[[File:MaxMSP Patches.png|center]]''' </big>
+''Below are the Max patches that accommodate this article''
+----
+|-
+| style="background: " | 
+*'''With gain stage and envelope''' 
+[[File:Sample playback max patch with envelope.maxpat]]
+*'''With gain stage and channel on/off button''' 
+[[File:Sample playback channel strip .maxpat]]
+|}
+
+==With gain stage and envelope==
+ 
+[[File:Sample playback max patch with envelope .png|800px]]
+
+
+
+
+
+
+
+==With gain stage and channel on/off button==
+
+
+This is a simple [[MaxMSP]] sample playback patch with a gain slider and channel on/off button. 
+
+
+
+'''Instructions'''
+
+Just download the files to the right and open them in MaxMSP.
+
+To open it in Max you might have to rename the extension to '''.maxpat'''
+
+
+
+[[File:Simple max sample playback channel strip .png]]
+
+
+
+[[category:maxMSP|Sample playback patch with gain slider]]
+
+[[category:tutorials]]
