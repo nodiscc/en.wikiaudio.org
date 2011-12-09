@@ -1,0 +1,42 @@
+M/S [[stereo]] is short for Mid-side stereo. MS stereo [[microphone]]s exist but you can also create the effect with a good quality [[cardioid]] mic and condenser with a figure 8 [[polar pattern]].
+
+
+
+
+
+[[file:MSDiagram.jpg‎|right|400px]]
+
+
+
+
+
+
+
+
+== Setup ==
+
+
+*Place the cardioid mic where you would normally position it to capture direct sound from the source and place the figure-8 mic with its diaphragm at a 90-degree angle to the diaphragm of the Cardioid  mic. The Cardiod microphone is called the mid mic and the fig 8 is called the side mic.
+
+
+== Analog recording==
+
+
+#Bring the Figure 8 mix up into a console and then take a feed from the direct out of that channel and bring it back in via a line input on another channel 
+#Bring up the cardioid mic and center pan it.
+#Take the two channels of the figure 8 microphone and pan one left and one right. Now reverse the phase of one of the splits.Listen to the cardioid signal and bring up the signal from the condenser mic and you will hear the sound change from mono to a wide stereo signal. 
+
+
+
+When you mono the figure 8 signal, the left and right signal should cancel each other out and leave the cardioid mono signal.
+
+== Digital recording ==
+
+For digital recording you can either follow the directions above (they will work perfectly fine)'' or'' instead of splitting the signal of the figure 8 mic as posted in step #1 above, you can simply record both mics on their own respective tracks and then take the figure 8 mic track and copy it to another track after recording. You should then have 2 figure 8 tracks. Now simply phase reverse one of them using a phase reverse feature of your DAW.
+
+
+[[category:tutorials]]
+
+[[category:microphones]]
+
+[[category:recording techniques]]
