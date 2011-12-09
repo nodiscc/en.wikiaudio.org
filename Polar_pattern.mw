@@ -1,0 +1,20 @@
+A [[microphone]]'s '''directionality''' or '''polar pattern''' indicates how sensitive it is to sounds arriving at different angles about its central axis. The below polar patterns represent the locus of points that produce the same signal level output in the microphone if a given sound pressure level is generated from that point.
+
+<gallery heights="80px">
+
+Image:Polar pattern omnidirectional.png|<center>Omnidirectional</center>
+Image:Polar pattern subcardioid.png|<center>Subcardioid</center>
+Image:Polar pattern cardioid.png|<center>Cardioid</center>
+Image:Polar pattern supercardioid.png|<center>Supercardioid</center>
+Image:Polar pattern hypercardioid.png|<center>Hypercardioid</center>
+Image:Polar pattern figure eight.png|<center>Bi-directional (Figure 8)</center>
+Image:Polar pattern directional.png|<center>Shotgun</center>
+
+</gallery>
+
+
+
+==External links==
+
+* [http://www.dvcreators.net/microphone-polar-patterns/ Dvcreators.net video demonstration of 4 different polar patterns]
+* [http://askasoundguy.com/home/2009/03/10/tech-tuesdays-polar-patterns/ AskASoundGuy.com on Polar Patterns]
