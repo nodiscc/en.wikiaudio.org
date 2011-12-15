@@ -1,0 +1,75 @@
+The patchbay allows us to interconnect outboard gear, console, tape machine, and tie lines in a non-permanent manner. This is done so that all source and destination configurations are easily accessible.
+
+
+
+==Connectors==
+
+Different patchbays are configured to accept different types of connectors.
+
+Some types are
+
+#1/4 inch
+# T. T.
+
+All balanced connections and the patch cords are usually about 1 meter in length.
+
+==Connections==
+
+===Fully Normalled===
+
+'''Fully Normalled:''' A cable inserted into either top or bottom jack breaks the internal connection and signal now flows through the patch cable.
+
+[[File:Normalled patch.png]]
+
+===Half Normalled===
+
+'''Half Normalled:''' plugging a patch cable into the top jack does not break the signal, but creates a Y split. Plugging into the bottom jack breaks the normal top to bottom connection and allow signal to flow from the top to the bottom jack through the patch cable.
+
+
+
+[[File:Half_Normalled.png]]
+‎
+
+===Non Normal===
+
+'''Non Normal:''' This configuration consists of only input and output points for devices not normally connected to the console. No signal is traveling from the top to bottom jacks.
+
+
+[[File:Open patch.png]]
+
+===The I/O section===
+
+
+===The I/O section===
+
+The I/O patch points receive signal from the individual channels and return that signal to several places in signal flow.
+#Mic Lines – The outputs of the microphone before the pre amp.
+#Channel Mic Inputs – Input to the mic preamp.
+#MTR Returns – Output of each track from the MTR.
+#Channel Line Inputs – Input to the line position of the mic/line switch.
+#Channel Insert Sends – Pre or post equalizer signal from the I/O.
+#Channel Insert Returns – Signal enters the I/O either pre or post EQ.
+#Group outputs – output of each individual buss in the routing matrix.
+#MTR Sends – Input to each track of the MTR
+#MTR Returns – output of each track on the MTR.
+#Monitor Inputs – Input to the monitor fader/monitor path.
+
+
+==Some Terminology==
+
+===In line patching===
+'''In line patching''' – AKA patching across. This technique is when signal from the I/O is sent to a processor, & returned to the same I/O (i.e. insert send & returns).
+
+===Dead patch===
+'''Dead Patch''' – Using a patch cord to interrupt the signal path from one jack to the other.
+
+===Cross Patch===
+'''Cross Patch''' – To patch from a source to a different destination jack.
+
+===Mult===
+'''Mult''' – A poor mans distribution amp. A string of jacks, wired in parallel, so that all the jacks will see the same signal. '''''Mult''' is short for multiplier.''
+
+
+
+[[category:tutorials]]
+[[category:study guides]]
