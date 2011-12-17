@@ -1,0 +1,8 @@
+A smaller audio buffer size produce less monitoring latency. 
+Below is a formula to determine latency length
+
+
+(I/O Buffer Size/Sample Rate)*2
+
+
+[[category:measurements]]
