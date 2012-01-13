@@ -1,0 +1,30 @@
+==Recovering Lost Waveforms==
+
+When opening projects in [[Cakewalk Sonar]], occasionally, some [[audio]] regions will not display their [[Waveform|waveforms]]. Though the audio will play back without problems, this makes it incredibly difficult to do any precision editing. To restore the waveform, you need to force Sonar to redraw it. By deleting all of the saved waveforms, Sonar will automatically redraw any lost waveforms. 
+
+'''Locating the folder.'''
+
+The Waveform Cache Folder is located in the “Cakewalk Projects” folder on the C: drive. Once You find the Cakewalk Projects Folder, Click on it. inside the folder you will find all of your various projects. Scroll until you find the folder called "Picture Cache." 
+Open the folder and delete all of .WOV files. Don't worry, these files are only waveform images, and Sonar will redraw them automatically next time you open the session. 
+[[File:Sonar clip properties window.jpg|thumb|200px|right]] 
+----
+
+'''Another option''' 
+
+Another option you have is to right click on the audio region that is missing it's waveform and select "Clip Properties" or hit Alt-Enter.
+
+Once in the clip properties dialogue box, select the "audio files" tab. Once you're there, simply hit the "recompute pictures" button.
+
+This option is quicker, but is a more temporary solution.
+
+----
+
+[[File:Sonar restoring lost waveforms tutorial cache image.jpg|thumb|200px|right]]
+===Increasing size of picture cache folder===
+There is also a way to increase the "size" of the Picture Cache folder. To do this, navigate to your Cakewalk Sonar main directory. Once there locate the file called "AUD.ini" Open the file in Notepad, or another similar word processor. Near the top you will see a command line that says "PicCacheMB=50." What this is saying is that your Picture Cache file will store up to 50Mb of information. Simply type in a new, larger number in place of the one that is there. This number will vary depending on how much space you wish to allocate on your hard drive. Save the changes, and voila.   
+
+Increasing the size of the picture cache also has a side benefit. By making the cache larger, you are decreasing the frequency in which Sonar will need to redraw the waveforms, and you may in turn help your computers performance
+
+
+[[category:Cakewalk Sonar|Restoring Lost Waveforms]]
+[[Category:tutorials]]
