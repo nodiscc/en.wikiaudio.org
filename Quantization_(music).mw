@@ -1,0 +1,24 @@
+== Time quantization ==
+
+In [[digital]] [[music]] processing technology, quantization is the process of aligning a set of musical notes to a precise setting. This results in notes being set on beats and on exact fractions of beats.  The most frequent application of quantization in this context lies within [[MIDI]] application software or hardware.  MIDI sequencers typically include quantization in their manifest of edit commands.  In this case, the dimensions of this timing grid are set beforehand. When one instructs the music application to quantize a certain group of MIDI notes in a song, the program moves each note to the closest point on the timing grid.
+
+The purpose of quantization in music processing is to provide a more beat-accurate timing of sounds. Quantization is frequently applied to a record of MIDI notes created by the use of a [[musical keyboard]] or drum machine.  
+
+Quantization in [[MIDI]] is usually applied to Note On messages and sometimes Note Off messages.  Sometimes quantization is applied in terms of a percentage.  Using a percentage of quantization allows for the subtle preservation of some natural human timing nuances.
+
+==Input quantization==
+Input quantization is the process of quantization data on input. This means immediately after recording the data of the recording gets automatically nudged to the quantization grid or values that have been previously set from within the software.
+
+== Pitch quantization ==
+
+The notion of quantization can also apply to the [[Pitch (music)|pitch]] dimension of music; for example, the continuum of pitches that can be produced by the human voice might be quantized to the notes of the Western [[Equal_temperament|twelve-tone equal tempered scale]] or to any other [[Musical_scale|musical scale]].  This is the purpose of [[Fret|frets]] on stringed instruments.
+
+Part of the reason this is less common than quantization in time is that the [[MIDI]] standard represents pitch with discrete key numbers, so the kind of MIDI performance data described above must already be quantized in pitch.
+
+
+
+==Swing==
+{{Template:Needscontent}}
+
+==External links==
+*[http://digitalthinktank.org/text.php Quantized Culture], an article that describes the effect of this process on the sensibilities and aesthetics of popular music.
