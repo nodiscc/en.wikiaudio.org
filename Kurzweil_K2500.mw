@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+''This entry needs and image.Please add one here''
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+*76 note semi-weighted or 88 note weighted action keyboard 
+*V.A.S.T. variable architecture synthesis with 60 DSP functions 
+*Highly readable 60 x 240 backlit LCD display 
+*Up to 128 MB of Sample RAM 
+*Dual SCSI Ports 
+*32-track Sequencer 
+*Flash ROM (for software updates via floppy disk and SCSI). The current version for a unit without the KDFX option is 2.96. The current version for a unit with the KDFX option is 4.32. The operating system in your unit is displayed on power up. *Live Mode allows real time V.A.S.T. and KDFX processing of an external signal (requires sampling option) 
+*Sampling Option with analog and digital I/O and sample-while-play 
+*Extensive Sample Processing 
+*KB3 Mode adds an incredible tone wheel organ emulation 
+*Full MIDI controller capabilities: Includes 8 sliders, 2 ribbon controllers, 2 button switches, 4 switch pedal jacks, 2 continuous controller jacks, breath controller jack, mod wheel (without spring), pitch bend wheel (with spring), and aftertouch - all assignable to any MIDI controller number. 
+*Advanced File Management System 
+*Powerful KDFX digital reverb and effects option with digital I/O 
+*Up to 28 MB of Internal ROM Sounds 
+*DMTi Digital MultiTrack interface option for data format and sample rate conversion (interfaces with Alesis ADAT and Tascam DA-88) 
+*K2500 - 76-note semi-weighted piano-style keyboard 
+*K2500X - 88-note fully-weighted piano-style keyboard. 
+*Power Supply: User switchable international power supply 
+*Architecture: Proprietary V.A.S.T. system 
+*Polyphony: 48 voices (or 24 stereo) 
+*Display: 64 x 240 fluorescent backlit display 
+*Outputs: 8 audio outs (double as inserts) plus mix master pair. 600 ohm stereo headphone out 
+*With SMPK-2 Sample Option: Stereo 1/4" unbalanced analog hi-Z input (tip/ring/sleeve); two balanced (Lo-Z) XLR inputs. 
+*Digital I/O: AES-EBU, optional S/PDIF (via Optical and RCA) inputs and outputs. 
+*KDS (Kurzweil Digital Stream) out provides digital out for interfacing with other options. 
+*Sample RAM: up to 128 MB via standard 30 or 72 (depending on date of manufacture) pin SIMMs 
+*Sound ROM: up to 28 MB; 8MB base ROM with full K2000 file compatibility. 
+*Optional 8 MB Orchestral ROM Sound Block and 8 MB Contemporary ROM Sound Block; 4 MB Stereo Grand *Piano Sound Block 
+*Sequence/Program RAM: 256KB user-programmable battery-backed RAM, expandable to 1.25MB via standard SIPP memory. 
+*SCSI support: Two SCSI-1 25-pin D connectors (to Apple specifications and pinout) 
+*OS Upgrades: User-installed upgrades supplied on 3.5in DOS compatible floppy disks or via download from Kurzweil's web site, saved to 3.5in FD or transfer via SCSI to K2500R battery backed "Flash" EPROM. PC DOS compatibility required. 
+*Advanced File Management System: DOS based, compatible disk format allows for friendly cataloging and retrieving of sounds/files, and powerful utilities include: file search, provide info about media/available space/used space etc., disk MACRO, and Startup file applications allow easy custom configuration. 
+*Sequencer: Full-function sequencer with 16 song and 16 arrangement tracks. Offers pattern, linear, and step recording, Cut, Copy, Paste, advanced 'groove' quantizing, event list editing and other powerful editing tools. Sequences can be triggered in real time from the keyboard. 
+*Compatibility: Reads/writes Standard MIDI Files, AIFF, and .WAVE files. Reads libraries via SCSI in Roland 700 series, Akai S900, S950, S1000, S1100, and S3000, and Ensoniq EPS, and ASR file formats. Reads FDs in Ensoniq and Akai formats. Dimensions:K2500 47.8" x 17.8" x 4.8" (121.4 cm x 45.1 cm x 12.2 cm), K2500X 54.3" x 17.8" x 4.8" (137.9 cm x 45.1 cm x 12.2 cm) Weight:K2500 55.5 lb. (25.2 kg), K2500X 72 lb. (32.7 kg) Suggested List Price: K2500 $5,556.00, K2500S $6,440.00 (includes sampling option), K2500X $6,120.00, K2500XS $7,000.00 (includes sampling option), 
+
+|}
+
+The '''Kurzweil K2500''' is a 76 note keyboard workstation.
+
+{{stub}}
+
+
+[[category:Kurzweil|K2500]]
+
+[[category:synths]]
