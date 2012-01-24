@@ -1,0 +1,22 @@
+'''Autopunch''' is an automatic record punch in feature for Logic.
+
+To use Autopunch in Logic do the following.
+
+[[Logic: Record to an audio track|Record enable]] a track in Logic.
+
+Select the '''Autopunch''' button from the transport so that it is red [[File:Logic autopunch icon.png]]
+
+Create a cycle using the ''bottom half'' (autopunch markers) of the time display bar.
+
+
+
+[[File:Logic autopunch markers.png]]
+
+
+
+When you [[Logic: Record to an audio track|begin recording]] Logic will only record within the time span of the autopunch markers.
+
+
+[[category:Logic|Autopunch]]
+
+[[category:tutorials]]
