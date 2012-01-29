@@ -1,0 +1,40 @@
+
+
+{{#widget:YouTube|id=3OYbsk8rEPw|width=640|height=480}}
+
+=== Pro Tools create group ===
+----
+
+
+Click '''Track/Group''' from the top menu.
+
+
+
+[[Image:Pro tools track group menu .png]]
+
+
+
+
+Choose the tracks you wish to add to the group, select them and click '''Add'''. Then click '''OK'''
+
+
+
+[[Image:Pro tools group tracks create menu.png]]
+
+
+
+When you move the faders in the mixer window or edit regions in the edit window the movements and edits will now be grouped.
+
+You can disable groups by going to the mixer window and disabling the group number as shown in the image below.
+
+[[Image:Pro tools group disable.png]]
+
+
+==References==
+
+{{Mahalo|http://www.mahalo.com/learn-pro-tools-9-introduction-tutorials/edit-group-pro-tools-9 How to Edit a Group in Pro Tools 9}}
+
+
+[[category:tutorials]]
+
+[[category:Pro Tools|Groups]]
