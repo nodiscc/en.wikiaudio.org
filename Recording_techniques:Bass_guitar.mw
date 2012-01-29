@@ -1,0 +1,35 @@
+
+
+
+
+
+
+{{Instrument recording‎}}
+
+=Video=
+{{#widget:YouTube|id=8CEDwn9JTiE|width=640|height=480}}
+
+
+==Bass amplifier recording techniques==
+
+'''Guidelines'''
+*Always make sure to check [[phase]] relationship between the DI and amplifier if recording both.
+*If recording into a DAW you can align the amplifier track with the DI track to make them more in phase.
+
+===Microphone Placement===
+'''Each technique begins with a bullet point.'''
+
+*Use a large diaphragm microphone such as a [[AKG D112|D-112,B52]] or [[Electrovoice RE20|RE-20]] and use in combination with a [[Shure SM57]]. Point them at the amp off center and a few inches away from the cone. Mix the large diaphragm mic with just a little bit of the SM57.
+
+*Split the signal with a DI.Send one to a bass amp and mic with a large diaphragm condenser microphone.Now send the other signal to a guitar amp and set it to distort and give it a dirty sound. EQ the guitar amp to taste. Mix the DI signal in to taste.
+
+
+{{Template:More techniques}}
+==References==
+The Recording Engineers Handbook. ISBN 1-93292-900-2
+
+
+
+
+[[category:tutorials]]
+[[category:recording techniques|Bass amp]]
