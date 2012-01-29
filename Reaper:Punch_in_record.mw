@@ -1,0 +1,32 @@
+To punch in record in Reaper:
+
+#If you want to punch in based on a defined cycle go to '''Options menu / Record mode: Time selected auto punch''' or right click the record button and choose '''Record mode: Time selected auto punch''' (image below). If you would like to punch in based on a specific section of a region, you can split it and then choose '''Record mode:auto punch selected items''' and then select the region you want to add a take to.
+#Select the time span of the punch using the loop points (image below)
+#Arm the track (image below)
+#Click the record button (Image below)
+
+
+
+
+
+[[File:Reaper punch in settings.png]]
+
+
+
+'''<big>Or</big>'''
+
+
+
+[[File:Reaper record button options.png]]
+
+
+
+
+
+[[File:Reaper punch recording.png]]
+
+
+
+[[category:Reaper|Punch in record]]
+
+[[category:tutorials]]
