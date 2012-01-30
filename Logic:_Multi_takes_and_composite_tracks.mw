@@ -1,0 +1,80 @@
+==Video tutorial==
+
+
+{{#widget:YouTube|id=UwLtCrILH50|width=640|height=480}}
+
+
+== Logic:Multi takes and composite tracks ==
+
+
+
+
+To record multiple takes to a logic ''audio'' track and then compile them follow these steps.
+
+#Set the input of the audio track(s) you wish to to record your multiple takes to.
+#Create a cycle to span the length of time for the takes (the cycle span is the green block in the image below).
+#Begin recording your takes
+
+The process should look similiar to the image below.
+
+
+[[Image:Logic_8_recording_multi_takes.png‎]]
+
+
+Once you're done recording the end result should look similar to this image below.
+
+
+[[Image:Completed_multi_takes_in_logic.png‎]]
+
+
+Select the region and '''click the arrow''' next to the name of the take file. (Displayed in the image below)
+
+[[Image:Logic_Take_file_arrow_and_name.png‎]]      
+
+[[Image:Logic_Take_file_arrow.png‎]]
+
+
+You should now see all your takes unfolded.
+
+
+
+[[Image:Logic_unfolded_takes.png‎]]
+
+
+Now, if you make selections to the  parts of each take ( highlighted in blue in the image below) and push play on the transport, you will hear each selected section. 
+
+
+[[Image:Selected_multi_tracks_for_composite_Logic_8.png‎]]
+
+
+Once you have all the selections of each track you wish to compile, you can compile it in one of two ways , either refold the track by clicking the [[Image:Logic_multi_take_arrow_.png]]‎  icon (to the left of the track name).
+
+or
+
+Click the [[Image:Multi_take_logic_arrow_(right).png‎]] icon and choose one of the following options.
+
+
+
+
+'''*Flatten'''
+
+This will create a new track with cross fades in between each region.
+
+[[Image:Logic_crossfaded_composite_track.png‎]] 
+
+
+
+
+
+
+'''*Flatten and merge'''
+
+This will create a digital mix down of the individual selections hence creating a new audio file.
+
+[[Image:Digital_mixdown_of_multi_takes_Logic_8.png‎]]
+
+
+[[category:tutorials]]
+
+
+[[category:Logic|M]]
