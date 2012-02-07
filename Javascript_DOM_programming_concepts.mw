@@ -1,0 +1,70 @@
+==Javascript DOM programming==
+This is for audio/sound engineers who want to learn to program & make audio-based web apps, etc.
+
+{{#widget:YouTube|id=URF2sVQWuxU|width=640|height=480}}
+
+
+
+You must first understand basic HTML to understand the DOM.
+
+==What is the DOM?==
+
+*'''DOM''' stands for '''Document Object Model''' and it is a representation of the entire html page as a series of nodes and attributes. In HTML-speak this also include all "tags" I.E.  <nowiki><div>, <ul>, <span> <tr></nowiki>... etc.
+
+
+*You can access any of these nodes and change,add and remove them.You can also change,add and remove attributes of them.
+
+==The Dom Tree==
+
+The browser sees the document as a nested list of notes,attributes and child nodes. A node can be anything. It can be an element,a text,a comment or anything else.
+
+
+==DOM retrieval methods==
+
+There are two ways to retrieve elements from the DOM. They are:
+
+*'''document.getElementByID(ID)'''
+''returns the element with the ID.''
+
+*'''document.getElementByTagName(name)'''
+''returns an <u>array</u> of all the elements with the name.''
+
+
+===Storing in variables===
+
+You can assign variables to the DOM "'''getElementBy'''" retrieval methods.
+
+''Example:''
+''This assigns x to an element with the '''id''' of '''nav'''''
+
+'''x = document.getElementById('nav');'''
+
+
+
+
+
+===getElementByTagName stores in an array===
+
+Since '''getElementTagName''' stores elements in an array, the elements are accessed starting at 0. <u>Computers start counting at 0</u>, unlike humans which start counting at 1.
+
+===nextSibling & previousSibling===
+
+You can use '''nestSibling''' and '''previousSibling''' to choose the next or previous element in the
+'''getElementByTagName''' array. 
+
+
+===parentNode===
+
+You can reach the element that the current one is embedded in using '''parentNode'''.
+
+===childNodes===
+If an element contains other elements then these elements are its children. 
+
+===Node properties===
+====nodeType====
+====nodeName====
+====nodeValue====
+
+
+[[category:Javascript|DOM]]
+[[category:tutorials]]
