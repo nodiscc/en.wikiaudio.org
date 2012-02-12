@@ -1,0 +1,31 @@
+Double click a software instrument / [[MIDI]] ''region''
+
+
+
+[[File:GBregion.png]]
+
+
+In the editor that appears select the notes you want to quantize then select an option from the '''Align to''' menu.
+
+Choose the quantization value you want.
+
+
+[[File:Gb quantize.png]]
+
+
+
+You can quantize other MIDI data by clicking the View menu and choosing any of the available options.
+
+
+
+[[File:Gb midi view.png]]
+
+
+[[File:Gb midimenu.png]]
+
+==Video tutorial==
+{{#widget:YouTube|id=G0bXy9wfH4M|width=640|height=480}} 
+
+
+[[category:GarageBand|Quantize]]
+[[category:tutorials]]
