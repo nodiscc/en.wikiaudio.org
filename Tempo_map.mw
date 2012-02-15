@@ -1,0 +1,4 @@
+A '''tempo map''' is a series of  [[MIDI]] (or other time based data) tempo changes programmed into a DAW or sequencer that are (usually) used to accommodate an audio file or files that play at fluctuating or variable tempos. This is done so that the MIDI tempo and bar ruler is "lined up" with the audio material making it easier to edit and overdub.
+
+
+{{template:stub}}
