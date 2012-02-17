@@ -1,0 +1,163 @@
+----
+
+
+
+'''<big>Video tutorial</big>'''
+
+{{#widget:YouTube|id=nsdaYBaiZzs|width=640|height=480}} 
+
+
+
+
+= Logic 8 & 9=
+
+
+To set up external [[MIDI]] modules to work with the environment you must first set up the [[Mac OS:AMS audio MIDI setup|MAC OS Audio/MIDI]] setup.
+
+
+== MAC OS Audio/MIDI setup ==
+
+===[[MIDI]]===
+[[Image:Mac Audio MIDI setup.png|thumb]]
+
+First, make sure you know what physical MIDI ports your external MIDI devices are connected to.
+
+#Open up the [[Mac OS:AMS audio MIDI setup|Mac OS's '''Audio MIDI setup''']]. 
+#Go to '''Window''' (menu) and '''MIDI studio'''
+#Choose '''MIDI devices'''
+#Add a virtual device for every real device you have connected to your MIDI interface. You can do this by clicking the '''"Add Device"''' button. 
+#When the device appears, double click on it and set the '''Manufacturer''' and '''Model''' fields for your device(s).
+#Then, connect the virtual MIDI cables from the device(s) to the interface to reflect how they are connected physically.
+
+Repeat these steps for every device that you have connected to your [[MIDI interface]].
+
+===[[Audio]]===
+Make sure your MIDI hardware ''audio outputs'' are connected to the <u>physical inputs of your hardware audio interface</u>. You can then set the drivers Logic uses in [http://en.wikiaudio.org/Logic:Select_audio_interface_for_record_an_playback here]
+
+== External MIDI tracks ==
+
+To record and play back external MIDI [[track]]s, open Logic and create an external MIDI track.
+You can do this from selecting the '''track''' menu and then '''new''' in the arrange window menu.
+
+Once you create the track you can assign any MIDI device you want to it by clicking on the media icon [[Image:Media_icon._Logic_8.png‎]] and opening the '''Library''' tab.
+
+In the Library window you should see a list of all your external MIDI devices.
+
+Select the one you want and then select a receiving channel, as shown in the image below.
+
+
+[[Image:Logic_8_MIDI_tracks.png]]
+
+
+
+You should be able to trigger your MIDI device(s) from Logic now.
+
+== MIDI track parameters ==
+
+When you select a MIDI track in the arrange window, there are a series of parameters that are accessible to the left and are assigned to that track. (see image below)
+
+[[Image:Logic_8_MIDI_track_parameters.png‎]]
+
+
+===Icon===
+This is the image assigned to the track. [http://en.wikiaudio.org/Logic:_Assigning_image_icons_to_track_headers Click and hold on the image to change it].
+
+===Port===
+This is the output port of your MIDI interface that this track will transmit out of.
+
+===Channel===
+This is the MIDI channel the selected track is transmitting on.
+
+===Program===
+This is used to change patches of your MIDI track.
+
+===[[Volume]]===
+This changes volume of the MIDI track.
+
+===[[Panning|Pan]]===
+This changes pan of the MIDI track.
+
+===[[Transposition]]===
+Transposes the output of the selected MIDI track.
+
+===[[Velocity]]===
+Changes the velocity of the notes being played on the selected track.
+
+===Key Limit=== 
+Limits the number of notes that will play back to a specified range.
+
+===Vel Limit===
+Limits the note velocity range, only notes within that range will play back
+
+===Delay===
+Offsets MIDI information.
+
+===No Transpose===
+Makes the track immune to changes in the MIDI thru transposition field (not shown)
+
+===[[MIDI:Channel_messages_tutorial#Reset_All_Controllers|No Reset]]===
+Makes the MIDI channel immune to a reset all controllers message.
+
+===Style===
+Allows you to choose a staff style, and double clicking it opens the staff style window
+
+== Setting up custom Multi instruments ==
+
+To have the names of selected [[patch|patches]] in Logic reflect accurately the names of the patches contained in the devices connected to your MIDI interface you must add custom Multi instruments. To do this follow the steps below
+
+
+Open Logic and go to '''Window/Environment'''.  and make sure you are in the '''Midi instr''' layer which is accessible in the upper left corner of the environment via a drop down menu.
+
+Once there you should see Multi instruments that reflect the virtual objects you just created in the '''Audio/MIDI setup'''
+
+Multi instruments look like the image below.
+
+[[Image:Logic_Multi_instrument.png‎]]
+
+The 16 number boxes represent the 16 [[MIDI channel]]s. Make sure the channels you intend to use on your Multi instruments have those channel boxes un-slashed 
+
+
+If you double click the icon at the top of the multi instrument you can view its internal patch names. 
+
+
+
+
+
+[[Image:Logic 8 Multi instrument patch names.png|700px]]
+
+
+
+
+
+The patch names displayed in a generic "Multi instrument" are a general MIDI patch map. To make your Multi instruments patch names reflect the device(s) you have in your session you must either manually write in all the patch names, or import a Multi instrument that already has that information embedded in it. 
+
+
+
+Fortunately, Logic comes with a file called " Various Multi Sets" which has templates for various devices so you don't have to manually write in this information.
+
+To import a Multi instrument from the Various Multi Sets go to '''file / open'''; When Logic ask if you want to close the current session choose "don't close". 
+
+Open up the Various multi sets file.
+
+The layers in the upper left corner are manufacturers, and the Multi instruments in each layer represent devices created by that manufacturer. (see image below)
+
+
+
+[[Image:Logic_8_various_multi_sets.png‎]] 
+
+
+
+To import the Multi instrument(s) simply copy & paste them ''from'' the Various Multi set session ''to'' the environment layer of your song (you can have both open at the same time).
+
+
+Once you have the Multi instruments imported to your Environment you must reassign the port setting to reflect how these devices are connected to your Midi interface.
+
+
+[[Image:MIDI_port_assignment_Logic_8.png‎]]
+
+
+
+
+[[category:tutorials]]
+
+[[category:Logic|M]]
