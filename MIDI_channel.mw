@@ -1,0 +1,5 @@
+'''MIDI channels''' are individual channels that [[MIDI]] channel message data is transmitted on. There are 16 MIDI channels per MIDI port.
+
+
+==Also see==
+[[MIDI:Channel messages tutorial]]
