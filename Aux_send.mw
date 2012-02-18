@@ -1,0 +1,10 @@
+
+'''Aux-send''' is a feature of a professional multi-channel sound mixing console which provides an effects loop, allowing the insertion and level control of outboard audio processing to be added to an audio source or channel within the mixing console. This feature is typically found on mixing consoles that are in recording, concert and broadcast settings.
+
+The routing configuration and usage of an aux-send will vary depending on the application. In the most common configuration, an aux-send output is connected to the audio input of an outboard audio effects unit (most commonly a reverb or delay unit). The audio output of the outboard unit is then connected to the aux-return input on the mixing console (if the recording console has one) or as an alternative it can be connected to one of the input channels on the mixing console. Mixing consoles most commonly have a group of aux-send knobs in each channel strip, where one knob corresponds to each aux-send on the board. The knobs enable the user to adjust the amount of signal that will be sent from its corresponding channel into the signal bus routed to its corresponding aux-send output.
+
+The benefit of using an aux-send is that it enables the signals from multiple channels on a mixing console to be simultaneously routed to a single outboard device. For instance, audio signals from all the channels of a sixteen channel mixing console can be routed to a single outboard reverb unit so that all channels are heard with reverb.
+
+[[category:recording techniques]]
+
+[[category:mixing techniques]]
