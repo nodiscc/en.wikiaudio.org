@@ -1,0 +1,49 @@
+
+{{#widget:YouTube|id=olMJNn2HpFA|width=640|height=480}}
+
+
+
+
+Tab to transient is a feature in Pro Tools that allows you to "jump" to the peak areas ([[transient]]s) of an [[audio]] file.
+
+You need to first enable the '''Tab To Transient''' feature. Do this by clicking the Tab To Transient button so that it is blue (image below)
+
+
+
+
+
+[[File:Pro Tools tab to transient button .png]]
+
+
+
+
+
+
+'''1.''' Use the [[Pro_Tools:Tools#Selector_Tool|selector tool]] and place the cursor on the audio region.
+
+'''2.''' Push '''Tab'''.
+
+To go in the reverse direction hold down '''Option''' and push '''Tab'''
+
+====To select  region by transient==== 
+
+'''1.''' Use the selector tool and place the cursor on the audio region.
+
+'''2.''' Hold '''Shift''' and push '''Tab'''
+
+
+To select the reverse: 
+
+Hold '''Shift''' and '''Option''' at the same time and then push '''Tab'''
+
+
+
+
+==References==
+
+{{Mahalo|http://www.mahalo.com/learn-pro-tools-9-introduction-tutorials/tab-to-transients-pro-tools-9 How to Use the Tab to Transients Function in Pro Tools 9}}
+
+
+[[category:Pro Tools|Tab to transient]]
+
+[[category:Tutorials]]
