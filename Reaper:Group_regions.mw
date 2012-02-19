@@ -1,0 +1,51 @@
+To group regions in [[Reaper]] select the regions and use the key command '''G'''.
+
+The grouped regions will be signified with a green icon link in their upper left corner (image below) .
+
+
+[[File:Reaper group regions.png]]
+
+
+==Ungrouping regions==
+To ungroup regions, first select them and use the key command '''U'''
+
+
+
+
+
+==Grouping without key commands==
+
+
+To group regions (items) in '''Reaper''' just select the regions you  wish to group (hold shift to select multiple items) then right click and  choose '''Group/Group Selected Items'''
+
+[[File:Reaper group items.png]]
+
+
+
+
+
+
+Now  when you move these items they will be grouped and move together. To  ungroup items just click the icon in the upper left corner of the  region.
+
+
+
+
+
+You  can also enable/disable item grouping and then move grouped items  around and re-enable item grouping. This way you can change the relationship between the grouped items. You can do this by clicking the  group items enable/disable icon in the upper left corner of the main tracks window [[File:Reaper group items icon.png]] or [[File:Reaper groupI.png]] (later version).
+
+
+
+[[File:Reaper disable and enable grouped items.png]]
+
+
+==Also see==
+
+*[[Reaper:Group tracks]]
+
+[[category:Reaper|Group items]]
+
+[[category:tutorials]]
+
+
+[[category:reaper|group]]
+[[category:tutorials]]
