@@ -1,0 +1,16 @@
+<html>
+<a id="redirectme" href="http://qa.wikiaudio.org/ask "></a>
+
+</html>  
+
+
+<center>
+'''Transferring''' 
+
+[[file:loading icon.gif]]
+
+</center>
+ 
+
+<html> <script type="text/javascript"> document.location.href=document.getElementById('redirectme').href </script> 
+</html>
