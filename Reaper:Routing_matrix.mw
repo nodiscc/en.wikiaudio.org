@@ -1,0 +1,52 @@
+==Routing/Group [[Matrix]]==
+
+In the example images below we have [[Reaper:Create track|created 4 tracks.]]
+
+Each listing to the left (the '''Source''') represents a track (including the Master output which isn't circled in the image below).
+
+
+[[File:Reaper matrix track channels.png]]
+
+
+
+===Basic output routing===
+
+The '''Destination''' is where each track output will be sent. (see image below)
+
+
+[[File:Reaper matrix track channels output.png]]
+
+
+
+To route from one track to another go to the source track and check the box under the destination track you want to send it to (image below)
+
+[[File:Reaper basic routing with matrix.png]]
+
+
+
+===Track inputs===
+
+The bottom portion of the matrix displays the input of each track. The red dot displays which track input is used. In the image below all tracks are set to use '''input 1'''
+
+
+[[File:Reaper matrix track channels inputs.png]]
+
+
+
+
+
+
+===FAQ===
+=====What are the X's ?=====
+[[File:Reaper matrix feedback protection.png]]
+
+
+The X's are just a way to insure that a feedback loop isn't created by routing a track to itself. 
+
+
+===Video tutorial===
+{{#widget:YouTube|id=aFAW1bjMvds|width=640|height=480}}
+
+[[category:Reaper|Routing matrix]]
+
+[[category:tutorials]]
