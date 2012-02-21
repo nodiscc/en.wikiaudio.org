@@ -1,0 +1,109 @@
+==Pro Tools creating markers (memory locations)==
+
+
+
+{{#widget:YouTube|id=boCbmHapgEY|width=640|height=480}} 
+
+
+
+
+
+
+To create [[DAW track markers|markers]] (memory locations) follow these steps.
+
+
+Make sure the marker display is visible in the ruler bar in [[Pro Tools]]. Go to '''View > Ruler > Marker'''
+
+
+[[File:Pro Tools view menu markers.png]]
+
+
+
+You can then place markers by pushing the '''Enter''' key (mac) on the numeric keypad 
+
+A dialog will appear and you can name the marker as well as define some additional properties.
+
+
+[[File:Pro Tools marker settings box.png]]
+
+
+[[Markers]] are one of many properties of what are called memory locations which store additional time based information. 
+
+You can access memory locations from the [[Pro_Tools:Create_markers#Memory_Locations_window| Memory Locations window.]]
+
+===Time Properties===
+
+====Marker====
+This recalls a timeline references that can be either [[Bar]]/[[Beat]]/[[Tick]] or a [[sample]] based reference ([[absolute time|absolute)
+====Selection====
+This saves an edit selection that can be retrieved from the memory locations window 
+====None====
+Ignores time properties.
+
+
+===General Properties===
+
+General properties are pieces of information that get stored with memory locations.
+====Number====
+The number can be used to reorder markers or to overwrite existing memory locations
+====Name====
+This names the marker
+====Zoom Settings====
+The current zoom setting gets stored along with the marker.
+====[[Pre/Post Roll]] Times====
+The current [[Pre and Post roll]] times get stored with the marker
+====Track Show/Hide====
+This recalls [[tracks]] that are hidden
+====Track Heights====
+Track height gets stored with marker
+====[[Group]] Enables====
+Recalls which Edit and Mix [[Group]]s are enabled.
+
+====Window Configuration====
+This recalls the current window configuration.
+
+==Memory Locations window==
+
+You can access the memory locations window by going to  '''Windows''' > '''Memory locations'''
+
+
+[[File:Pro Tools 8 memory locations window.png]]
+
+
+The view filter allows (shown below) you to hide memory locations based on the properties they contain.If a memory location has more than one property associated with it you will need to select both properties to hide it from the list 
+
+[[File:Pro Tools memory locations view filter.png]]
+
+
+From left to right they are:
+
+'''Marker''', '''Edit selection''', '''Zoom settings''', '''Pre/Post roll''', '''Show/Hide''','''Track heights''','''Active Groups''', and '''Window configuration'''
+
+
+
+==Change default time reference==
+
+To set the default memory location time reference in Pro Tools you need to select a different time reference in the Pro Tools ruler bar (image below).
+
+
+
+[[File:Pro Tools time marker time reference.png]]
+
+
+
+==Also See==
+
+*[[Pro Tools:Marker selection with key commands]]
+*[[Pro Tools: Automatically name markers (markers on the fly)]]
+
+
+==References==
+{{Mahalo|http://www.mahalo.com/learn-pro-tools-9-introduction-tutorials/markers-pro-tools-9 How to Create Markers in Pro Tools 9}}
+
+
+
+
+
+[[category:Pro Tools|Markers]]
+
+[[category:tutorials|Pro Tools]]
