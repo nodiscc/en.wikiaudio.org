@@ -1,0 +1,9 @@
+ 
+'''Core Audio''' is a low-level [[API]] for dealing with [[sound]] in Apple's Mac OS X and iOS operating systems. It includes an implementation of the cross-platform OpenAL library.
+Apple's Core Audio documentation states that "in creating this new architecture on Mac OS X, Apple’s objective in the audio space has been two fold. The primary goal is to deliver a high-quality, superior audio experience for Macintosh users. The second objective reflects a shift in emphasis from developers having to establish their own [[audio]] and [[MIDI]] protocols in their applications to Apple moving ahead to assume responsibility for these services on the Macintosh platform."
+
+
+{{wikipedia|Core Audio|Core Audio}}
+
+
+[[category:Standards and protocols]]
