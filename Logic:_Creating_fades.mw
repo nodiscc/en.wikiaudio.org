@@ -1,0 +1,31 @@
+To create a [[fade]] select the region you want to add the fade to.
+Then move the fade parameters until you get the fade you want (image shown below)
+
+
+[[Image:Logic fade.png]]
+
+
+==Speed up & slow down fades (Logic 9)==
+
+A speed up fade or slow down fade is a fade that gradually speeds up or slows down the [[audio]] material. To create this kind of fade click and hold the "fade in" or fade out" parameter and select the type of fade you want. (image below)
+
+[[File:Logic speed fade.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[category:logic|Fades]]
+
+[[category:tutorials]]
