@@ -1,0 +1,38 @@
+To create a headphone mix within Logic do these things.
+
+'''1.''' Create an [[Logic: Create Aux send|Aux track]] for every person in the band that will be needing their own headphone mix and set the output of each aux to reflect the outputs the headphones are connected to on your [[audio interface]].
+
+'''2.''' Name each one of the Aux channels (double click the bottom of the aux channel strip) to reflect the band member that will be using it. Such as Bassist, drummer etc. Then set the input of each one of the Aux channels to a [[Bus]].
+
+'''3.''' On each audio track add a bus for each person who will need their own headphone mix. You can do this quickly by holding down the Shift key, selecting all the tracks and then clicking and holding on the sends area of one of the tracks and setting it to a bus. If you set the Busses to [[pre fader]] you can control the entire mix from the sends for each musician, if you select [[post fader]] you can set an overall mix for everyone by using the primary [[channel fader]]s and then modify it slightly by using the busses on a case-by-case basis for individual musicians.
+
+
+
+
+
+[[File:Logic headphone mix.png]]
+
+
+==[[Solo]] and [[Mute]] Issues==
+
+If you Solo or Mute the control room tracks the headphone tracks will also be muted or solo'ed. 
+
+===To fix this===
+
+If you want to solo control room tracks while having the headphone routing tracks unaffected you will need to "Solo safe" the tracks that are outputting to the headphones. 
+
+
+In the example above you would Solo Safe the Drummer,Bassist,Guitarist,Keyboard tracks. 
+ 
+As far as the Mute issue goes, you have three options (as far as I can tell).
+ 
+'''1.''' Simply mute by turning down the channels you don't wish to hear.
+
+'''2.''' Create an additional routing scheme for each of the main audio tracks where the main outputs get routed to new busses ''and then mute those busses''.
+ 
+'''3.''' Create and program a series of environment "buttons" (and/or sliders) that cable to the channels you want to mute and use them to toggle the fader from zero to some defined value.
+
+
+[[category:Logic|Headphone Mix]]
+
+[[category:tutorials]]
