@@ -1,0 +1,23 @@
+The "3:1 rule" refers to a general guideline commonly applied by [[recording engineer]]s that establishes a ratio of distances between any two [[microphones]] based on the distance to the [[sound]] source being recorded by those microphones. 
+
+The rule is used to minimize [[comb filter]]ing where different arrival times of different [[frequency|frequencies]] causes some of them to [[phase cancellation|cancel out]] but leaves others alone.  
+
+
+== The Rule ==
+
+For every 1 unit of distance between any Microphone A (B,C,D etc.) and any Sound Source X (Y,Z,etc.), the distance between Microphone A and any other Microphone(s) (B, C, D, etc.) should be 3 units of distance.
+
+The distance from any given mike to the next closest mike must be 3x as far as that mike is from the nearest sound source.   This must be done for all combinations of mikes and sound sources in order to keep comb filtering effects small enough to be ignored. 
+
+
+== The principle behind the 3:1 rule ==
+
+The 3:1 rule is a practical method of positioning multiple microphones so that comb filtering will be less than 1db.   It relies on an approximation of received signal strength that falls off the farther the mike is from the sound.  At 3x distance the farther sound has been reduced enough so that phase cancellations would not cause a comb filtering effect in excess of 1 db.   
+
+If not used,  comb filtering can put notches into the received signal that are quite noticeable. 
+
+Mikes that are equidistant from the sound source will result in comb filtering unless they are separated from each other by 3x their distance from the sound source. 
+
+This is why X-Y stereo miking puts the two capsules directly over/under each other.  If they were offset laterally then comb filtering would be noticeable until they were 3x distance apart.  
+
+[[category:recording techniques]]
