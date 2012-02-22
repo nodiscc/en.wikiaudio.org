@@ -1,0 +1,45 @@
+==Pro Tools: edit modes==
+
+==Video tutorial==
+
+{{#widget:YouTube|id=mDijHeNqOjE |width=640|height=480}}
+ 
+
+
+
+
+
+{{youtube|qqijcFM-u88}}
+
+==Overview==
+[[Image:Pro Tools edit modes.png]]
+
+
+The edit modes are in the upper left hand corner of the edit window. These modes determine how [[audio]] and [[MIDI]] regions are moved and edited.
+
+===Shuffle===
+This mode allows you to move regions in a manner where they automatically snap back-to-back without space between them or overlapping. This is used to rearrange adjacent parts of the session. 
+
+===Spot===
+This mode allows you to move,place or trim regions to specific destinations using numerical values.
+
+===Slip===
+This mode allows you to move regions freely without affecting other regions
+
+===Grid===
+This mode allows you to snap regions and MIDI notes to a time increment on a grid that is based off the selected  time scale.
+
+[[Image:Edit modes absolute relative grid.png]]
+
+====[[Absolute time|Absolute]] grid====
+The absolute grid snaps data to exact points on the time scale.
+
+====[[Relative grid]]====
+Relative grid moves data in increments that reflect the ''grid units''
+
+
+
+
+[[category:Pro Tools|Edit modes]]
+
+[[category:Tutorials]]
