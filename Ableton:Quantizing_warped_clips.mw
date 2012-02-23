@@ -1,0 +1,20 @@
+To [[Quantization (music)|Quantize]] a clip in Ableton Live, first select the clip and make sure it is [[Ableton Live:Creating warped loops|edited the way you want it.]]
+
+Then right click (or '''CTRL-click''') and choose '''[[Quantization (music)|Quantize]] settings''' to choose your grid value. Then choose '''Quantize''' from the same menu.
+
+
+
+
+[[File:Ableton Live quantize selection menu.png]]
+
+
+
+
+What will happen is Live will create a series of warp markers where it interprets transients of the file to be, and then it will quantize those warp markers and hence the transients. It should look similar to the image below.
+
+[[File:Ableton Live quantized clip.png]]
+
+
+[[category:Ableton Live|Quantize]]
+
+[[category:tutorials]]
