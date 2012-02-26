@@ -1,0 +1,43 @@
+== Logic Setting the [[sample rate]] ==
+ 
+
+
+
+
+'''1.'''Go to the [[transport]] bar and click and hold on it.
+
+[[image:Logic Customize transport bar.png]]
+
+
+
+'''2.'''A menu will appear that says '''customize transport bar'''. Select it and let go of the mouse.
+
+
+
+
+'''3.'''In the window that appears check the box that says '''Sample Rate or Punch Locators''' and click '''OK'''
+
+
+
+
+[[Image:Logic sample rate selector .png]]
+
+
+
+
+
+'''4.'''In the transport window you should now see the sample rate of your session displayed. Click and hold it to choose a different sample rate.
+
+
+
+
+[[Image:Logic sample rate in transport.png]]
+
+
+
+[[Image:Logic Sample rate drop down menu.png]]
+
+
+[[category:tutorials]]
+
+[[category:logic|Sample rate]]
