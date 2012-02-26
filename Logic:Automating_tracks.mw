@@ -1,0 +1,113 @@
+==Logic 9==
+
+
+'''<big>Note</big>'''
+
+The automation for '''Logic 9''' is the same as '''Logic 8''' the only difference is the placement of the Track Automation menu. In Logic 9 it can be accessed under the Track menu or by clicking a region while holding control. This is opposed to the options menu shown [[Logic:_Automation_of_audio_tracks#Move_Current_Track_automation_data_to_region|here.]]
+
+<gallery>
+
+File:Logic 9 automation menu.png|Logic 9 automation menu from track menu
+File:Logic 9 automation menu from region.png|Logic 9 automation menu by '''Control''' clicking a region
+
+</gallery>
+----
+
+
+
+
+
+
+
+
+
+
+== Logic 8 and 9: Automation of audio tracks ==
+
+
+To automate tracks in [[Apple Logic]] the first thing you need to do is click and hold the [[automation modes]] selector and then select the mode you wish to use from the list. The automation modes are highlighted in red below.
+
+ 
+
+[[image:Track automation Logic_1.PNG]]
+
+ 
+===Automation modes===
+A description of the modes is as follows:
+
+====Off====
+Automation is turned off.
+
+====Read==== 
+Automation is read but not written.
+
+====Touch====
+Automation is written when track parameters are moved (but not before) and then when the mouse is lifted reverts back to it's previous state and does not overwrite further.
+
+====Latch====
+Automation is written when the track parameters are moved and then continues to overwrite even when the mouse is lifted.
+
+====Write====
+Automation overwrites all existing data before and after the mouse is lifted.
+
+===Displaying automation===
+ 
+
+After you record the track automation if you would like to see a visual representation of it displayed on the track then click "View" and "Track Automation" 
+
+ 
+
+[[image:Track automation Logic_4.PNG]]
+
+ 
+
+ 
+
+ 
+
+The display you see should be similar to the one below.
+
+ 
+
+[[image:Track automation Logic_5.PNG]]
+ 
+
+ 
+
+ 
+
+If you would like to change the parameters you see in the automation display then click the track panel that says "volume" and choose another parameter. Look at the image below for clarity:
+
+ 
+
+[[image:Track automation Logic_6.PNG]]
+
+ 
+
+ 
+
+You can automate and display other automated parameters such as plug ins (shown below):
+
+ 
+
+ 
+[[image:Track automation Logic_7.PNG]]
+
+=== Move Current Track automation data to region ===
+
+
+
+You can also add sections of automation to MIDI regions.
+
+'''Before'''
+
+[[image:Move_Current_Track_automation_data_to_region.png]]
+
+
+'''After'''
+
+[[image:After_Move_Current_Track_automation_data_to_region_.png‎]]
+
+
+[[category:tutorials]]
+[[category:Logic|A]]
