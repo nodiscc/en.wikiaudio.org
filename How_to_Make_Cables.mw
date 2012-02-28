@@ -1,0 +1,58 @@
+[[File:Pliers crimp 01CJC.png|thumb|right|alt=Crimp pliers|A crimp tool|200px]]
+[[File:Component_video_RCA.png|250px|left|RCA cables]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[RCA]] cables, used in home television, Computers, consoles, [[mixer]]s, amplifiers and other [[audio]] equipment that gets modified electrically may require a good cable for sound fidelity. Cables bought in stores may cost a lot more than what you can make with the basic material.
+
+
+
+
+
+
+
+
+== Things you'll need ==
+* Lengths of wire with respectable gauge 
+* Wire strippers
+* Cutters
+* A crimper
+* Connectors
+* A solder iron
+* (Leadless) Solder
+* Heatshrink tubing
+
+== Steps ==
+# Cut your cables to the length you need.
+# Strip the ends by turning the wire stripper 360 degrees clockwise than counter-clockwise to ensure a nice cut, then pull it out.
+# Put on some solder to the exposed part of the wire.
+# Insert two heatshrink tubing about one inch long each onto your cable.
+# Put on your connectors.
+# Crimp them firmly.
+# Add some more solder.
+# Solder another length of cable if you have a ground pin.
+# Heat the shrink around the connector
+# Test with a ohmmeter and a "load".
+
+== Tips ==
+* Calculate the length of wire you need and add a little extra. Cables should not be dangling or enrolled onto itself. When cables cross each other, it creates interference.
+* Calculate the gauge according to the length of the cable and the amount of impedance it will carry.
+[[Category:Cables and connections]][[Category:Tutorials]]
