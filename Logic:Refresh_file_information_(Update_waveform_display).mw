@@ -1,0 +1,7 @@
+Sometimes Logic will not display the waveform of an audio file properly (sometimes not at all). This can be fixed by using the '''Update File Information''' feature.  Select the audio file you want to update and go to the Audio BIN ( '''Media / Bin /Audio File''') and choose '''Update File Information'''.
+
+[[File:Logic file update.png]]
+
+
+[[category:Logic|Refresh file information]]
+[[category:tutorials]]
