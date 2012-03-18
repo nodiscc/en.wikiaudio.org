@@ -1,0 +1,10 @@
+----
+
+
+
+To trigger an external hardware [[MIDI]] device from a web browser you might be able to use a javascript library called [http://abumarkub.net/abublog/?page_id=399|'''Midibridge''' available here.]
+
+
+[[category:MIDI]]
+[[category:Javascript]]
+[[category:programming]]
