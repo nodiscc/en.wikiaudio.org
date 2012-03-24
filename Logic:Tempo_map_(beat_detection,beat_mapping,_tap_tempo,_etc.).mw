@@ -1,0 +1,252 @@
+This article demonstrates different [[tempo map]]ping procedures in Apple Logic.
+
+
+==Adjust tempo using Beat Detection==
+Beat detection is a feature introduced in Logic 9 and is used to find the [[tempo]] of an audio file. You can also use Beat Detection to have Logic's tempo change in a manner that conforms to the detected tempo of the audio file.
+
+
+===Video tutorial===
+{{#widget:YouTube|id=0NMYmNQKGRM |width=640|height=480}}
+
+===To use beat detection follow these steps===
+
+
+Select an audio file that has been placed on a [[track]].
+
+
+
+Then go to '''Option menu/Tempo/Adjust Tempo Using Beat Detection'''
+
+
+
+
+
+
+[[File:Logic 9 Adjust tempo using beat detection menu.png]]
+
+
+
+
+
+
+
+
+
+
+The window that appears will automatically display the tempo that has been found for the audio material and it will be listed in the '''Resulting Tempo''' value. If you click the '''Advanced options''' you should get additional options including other possible tempo's of the audio material. 
+
+If you think the '''Resulting Tempo''' value is incorrect you can  choose one of the other values if they seem more accurate.
+
+
+
+
+
+
+
+
+[[File:Logic beat detection resulting tempo and detection results.png]]
+
+
+
+
+
+
+
+[[File:Logic beat detection create tempo change options.png]]
+
+
+
+
+
+Once you've set your parameters click '''OK'''
+
+
+
+
+
+
+
+
+
+
+===Parameters explained===
+
+
+Below all parameters for the Beat Detection parameter box are explained.
+
+
+
+
+[[File:Logic 9 adjust tempo using beat detection with advanced options.png]]
+
+
+
+
+
+
+
+
+
+*'''Resulting tempo:''' - this is the tempo that Logic detects the audio file to be playing at and is the [[MIDI]] tempo Logic will change to.
+'''Advanced Options'''
+*'''Detection results:''' - this is a choice of possible tempo options. The first one is usually the "correct" one.
+
+*'''Adjust By:''' - These values either double or half the [[BPM]] of the resulting tempo.
+
+*'''Rounding:''' - These are settings that the resulting tempo can be rounded to
+
+
+*'''Create Tempo Change'''
+**'''Globally -''' This creates a tempo change for the entire song
+**'''At Selection Start and End -''' This creates a tempo change between the start and end of the [[sample]]
+**'''At Selection Start Only -''' This creates a tempo change at the start of the audio region
+**'''Nudge Regions to Beat -''' If your region had dead air at the beginning of it this feature will nudge the beginning of the first transient to the nearest [[beat]]
+
+== Tempo map (beat mapping, tap tempo etc.) ==
+
+
+
+=== Preface ===
+ 
+
+
+
+
+There are a couple of ways to create a [[tempo map]] based on the audio material that you decide to use.
+If you simply want to conform Logic's MIDI tempo to the tempo of a small piece of of audio , such as a drum loop, you can use the 
+'''''Adjust tempo using region length and locators''''' function.
+
+If you wish to create a tempo map for a larger audio file such as a song, you can use the '''''Beat mapping''''' function or create a '''''tap tempo'''
+''
+
+=Find tempo of regions or songs and making a tempo map=
+
+
+
+==Logic tempo from audio file using Adjust tempo using region length and locators==
+
+
+
+
+
+If you have a small audio file, such as a drum loop you can conform Logic's MIDI tempo to it by following these steps.
+
+#Import the audio file.
+#Place the downbeat of the file in the arrange window to correspond to a downbeat in Logic's time ruler display.
+
+Below we have a 1 [[bar]] audio file that has been imported and set to the downbeat of bar 1.
+
+
+[[image:Two_bar_drum_loop_.png‎ ]]
+
+
+To conform Logic's MIDI tempo to the drum Loop first set the Locators so that they span the length of where the audio file ''should'' fit. In other words our drum loop is 1 bar, so we will move the locators to span 1 bar as in the image below. 
+
+[[Image:Logic_drum_loop_with_off_locators.png‎]] 
+
+
+Our MIDI tempo as it stands is 120, which isn't the tempo of the drum loop, hence the reason why the drum loop doesn't fit within the span of the locators.
+
+
+Now, do these things
+
+#Select the audio region in the '''Arrange window'''
+#Go to the '''Options''' menu.
+#Choose '''Tempo/Adjust tempo using region length and locators'''
+#A message box will appear asking: "'''Change tempo of project globally or create Tempo Change?'''"
+If you choose "Create", a tempo change will only be created for the span of the region. If you choose "Globally", the tempo change for this region will span the entire song.
+
+The tempo of our audio file was now change to 
+
+
+[[Image:Tempo_counter_Logic_8.png‎]]
+
+And the MIDI tempo conforms to the drum loop
+
+[[Image:MIDI Tempo conformed to audio file Logic 8.png]]
+
+
+
+==Beat mapping==
+{{#widget:YouTube|id=jtiv2VCOGM8|width=640|height=480}} 
+
+
+
+
+
+
+
+
+
+If you want to create a tempo map for a file longer than a drum loop, an entire song for example,then you can use the '''Beat Mapping''' function
+
+To use the Beat Mapping function first add an audio file to the arrange window.
+Keep in mind this process will work better if the file you import has defined tempo transients.
+Make sure you place the down beat of the material in a manner that correlates to a down beat on Logic's bar ruler. Next determine the [[time signature]] of the audio material and type that value in the transports signature panel. In our case its 4/4. 
+
+[[Image:Transport_Logic_time_signature.png‎]] 
+
+
+
+Once you import the audio file go to '''View''' / '''Configure global tracks''' and make sure "Beat mapping" is checked.
+Then go to the Global tracks menu in the arrange window and click the fold down arrow next to it as shown in the image below.
+
+[[Image:Global_tracks_menu_Logic_8.png‎]] 
+
+
+
+Next, select the audio file in the arrange window and  click "'''analyze'''" in the beat mapping track.
+This process will find the transients of the audio file.
+
+You should end up with a series of lines that look similar to the image below.
+
+
+[[Image:Logic_8_Beat_Map_analyzed.png‎]]
+
+
+The top vertical white lines represent the bar ruler values and where certain transients of the audio file '''''should''''' land. The bottom white lines represents where Logic has detected transients in the audio file.
+
+To create a tempo map you now have to listen to the audio file and move the top white lines to correlate with the respective rhythm transients of the audio material.
+
+
+
+
+
+For example, '''In the image below the 2nd bar in the time ruler is being connected to the 2nd bar of our 4/4 audio file'''. To create a tempo map you would repeat this pattern for the entire audio file. This would create a fluctuating MIDI tempo that corresponds with the audio material. 
+
+[[Image:Logic_beat_map_transients_.png‎]]
+
+== Tap Tempo MIDI Map==
+
+
+
+
+
+{{#widget:YouTube|id= SmGSuXl_3g0 |width=640|height=480}}  
+
+
+
+Another way you can create a tempo map to a song (or find its tempo) is by recording a '''''tap tempo'''''.
+
+To create a ''MIDI tap tempo'' map follow these steps.
+
+#Import the song you wish to create a tempo map to, and add that file to an audio track.
+#Record enable a MIDI track and push record on the transport, then "tap" a midi note to the respective time value of the song. For out example we will assume we have a song that plays in 4/4 time, so we will "tap" every quarter note (1/4) for the entire song.
+#Once you do this, manually edit each MIDI note you just tapped by moving it so it lines up as perfect as possible to each corresponding note in the song. 
+#Now select the MIDI region you just created and click the '''"beats from region"''' option on the '''Beat Mapping''' track. 
+#In the '''note value''' field select the time signature of your taps. In our example it was 1/4
+
+
+Now you should have a tempo map. You can see a visual representation of your tempo changes by looking at the tempo track in the global tracks header. You might need to go to '''view / configure global tracks''' and click '''"tempo" to see it.
+'''
+
+
+
+
+
+
+
+
+
+[[category:tutorials]]
+[[category:Logic|T]]
