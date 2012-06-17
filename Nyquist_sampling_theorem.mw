@@ -1,0 +1,33 @@
+==Video tutorial==
+
+{{#widget:YouTube|id=D4dfZj8pi2A}}
+
+
+
+
+
+The '''Nyquist sampling theorem''' is a fundamental result in the field of information theory, in particular telecommunications and signal processing.  In layman's terms the theory states that a bandlimited analog signal that has been sampled can be perfectly reconstructed from an infinite sequence of samples if the sampling rate exceeds 2B samples per second, where B is the highest frequency in the original signal.
+
+This theorem is also known as:
+
+* Nyquist-Shannon sampling theorem
+* Nyquist-Shannon-Kotelnikov
+* Whittaker-Shannon-Kotelnikov
+* Whittaker-Nyquist-Kotelnikov-Shannon
+* Cardinal Theorem of Interpolation Theory
+
+If the sampling rate is insufficient (in other words, less than double the highest frequency in the original signal), a phenomenon known as "Nyquist foldover" is observed. The phenomenon causes frequencies greater than half the sampling rate to be reconstructed as frequencies an equivalent distance ''below'' the sampling rate; for instance, a signal at 100 Hz that is sampled at 180Hz  will be reconstructed as a signal at ((180/2)-10) = 80 Hz. This phenomenon is also observed in other media, such as with the capture of car wheels or helicopter rotors on film.
+
+{{stub}}
+
+
+
+[[category:signal processing]]
+
+
+
+
+
+
+
+<small>This article uses material from [[Wikipedia:Shannon_sampling_theorem]] and is licensed under its respective agreement.</small>
