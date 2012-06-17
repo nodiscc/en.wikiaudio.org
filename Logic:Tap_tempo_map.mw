@@ -1,0 +1,31 @@
+
+{{#widget:YouTube|id=SmGSuXl_3g0}} 
+
+== Tap tempo map ==
+
+
+You can create a [[tempo map]] of a song (or find its tempo) is by recording a '''''tap tempo'''''. You can also use this technique to tap a tempo and record the taps ''as'' a tempo map.
+
+To create a ''tap tempo'' map, follow these steps.
+
+#Import the audio file you wish to create a tempo map to, and add that file to an [[Logic:_Create_a_new_track|audio track]]
+#Record enable a MIDI track and push record on the transport, then "tap" a midi note to the respective time value of the song. For out example we will assume we have a song that plays in 4/4 time, so we will "tap" every quarter note (1/4) for the entire song.
+#Once you do this, manually edit each MIDI note you just tapped by moving it so it lines up as perfect as possible to each corresponding note in the song. 
+#Now select the MIDI region you just created and click the '''"beats from region"''' option on the '''Beat Mapping''' track. 
+#In the '''note value''' field select the time signature of your taps. In our example it was 1/4
+
+
+Now you should have a tempo map. You can see a visual representation of your tempo changes by looking at the tempo track in the global tracks header. You might need to go to '''view / configure global tracks''' and click '''"tempo" to see it.
+'''
+
+
+
+
+
+
+
+
+
+
+[[category:Logic|Tap tempo]]
+[[category:tutorials]]
