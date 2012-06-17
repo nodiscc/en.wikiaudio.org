@@ -1,0 +1,111 @@
+==Steady state tempo material==
+
+
+{{#widget:YouTube|id=IycR-U7-3ys}}
+
+----
+
+
+'''Warped loops''' or warped ''clips'' as they are called in Ableton are loops that playback in sync with other loops and conform to Ableton Live's global tempo in real-time. This way if you speed up or slow down the tempo of the song all the clips will change with it and stay in sync with one another.
+
+'''1.''' Drag a file to the clip area of a track.
+
+'''2.''' Turn on Warp
+
+'''3.''' Make a selection you would like to loop in the clip editor
+
+
+
+
+
+
+
+[[File:Ableton Live turn on warping and editing a loop.png]]
+
+
+
+
+'''4.''' Right click on it and choose '''Loop Selection'''
+
+
+
+
+
+[[File:Ableton_Live_loop_selection.png]]
+
+
+
+
+
+
+
+
+You can then fine-tune the loop by zooming in and moving it's start and end points. Make sure you know how long the loop is (count the bars or measures, so for example if it's a four bar loop make note of it).
+
+When you are done click the looped selection and choose '''Crop Sample'''
+
+
+
+
+
+[[File:Ableton Live fine tune loop.png]]
+
+
+
+
+
+
+[[File:Ableton_live_crop_sample.png]]
+
+
+
+
+
+
+
+Once you do this immediately look at the length display value(s) (image below). If they are anything other than the actual length of the loop then do these things.
+
+'''1.''' Type in the real value. Once you do this the end loop marker will change.
+
+
+
+[[File:Ableton clip length.png]]
+
+
+
+'''2.''' Add a warp marker to the end of the the sample (click the file and choose '''Warp From Here''').
+
+
+
+
+[[File:Ableton adding warp maker to end of clip.png]]
+
+
+
+
+'''3.''' Move the warp marker to the loop marker by clicking and dragging it.
+
+
+
+
+[[File:Ableton end warp marker.png]]
+
+
+
+
+
+
+Now when you make global tempo changes your loop should follow along with them perfectly.
+
+
+If you need any clarification please see the corresponding [[:File:Ableton Live warping audio with consistent tempo tutorial.ogg|video]] for this tutorial.
+
+==Fluctuating tempo material==
+
+{{video|[http://en.wikiaudio.org/images/c/cd/Ableton_Live_looping_and_warping_a_played_drum_performance.ogg Looping and warping a played drum performance]||}}
+
+
+
+[[category:Ableton Live|Warping loops]]
+
+[[category:tutorials]]
