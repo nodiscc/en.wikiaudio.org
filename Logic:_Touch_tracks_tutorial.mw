@@ -1,0 +1,104 @@
+
+==Video tutorial==
+
+
+
+{{#widget:YouTube|id=cmJfC_lF8Bs}}
+
+
+
+
+===Logic:Touch tracks tutorial===
+
+
+'''1.''' To create a touch track object open the environment and click "new" at the top menu. Then choose "touch track".
+
+
+[[Image:Logic environment touch track .png]]
+
+
+'''2.''' Assign the output of the touch track to a software instrument or MIDI device by holding down '''Option''' and clicking the output port of the object. Then select the instrument you wish to assign it to in the menu that appears 
+
+
+
+[[Image:Touch track assigned to soft synth.png]]
+
+
+
+
+
+'''3.''' Double click the touch track object to open up the touch track window.
+
+
+
+
+
+
+[[Image:Logic touch tracks object.png]]
+
+
+
+
+
+
+'''4.''' Drag a MIDI region to a touch track window key by clicking and holding and moving it to the desired key.
+
+
+
+
+
+[[Image:Logc Touch tracks window open.png]]
+
+
+
+
+
+
+'''5.''' Assign the touch track object as a [[Logic: MIDI track setup (Environment)|MIDI track in Logic]]
+
+
+
+[[Image:Logic touch track in arrange .png]]
+
+[[Image:Logic touch track as track in arrange window.png]]
+
+
+
+
+
+
+
+
+'''6.''' Push play on the transport and play the note (on your keyboard controller) that the file has been dragged to. You should hear the sequenced region play
+
+==The Trigger modes==
+
+The trigger column determines how regions are played back
+
+
+===Multi===
+Playing the trigger note starts the region. Playing it again restarts the region, 
+without stopping playback of the previously triggered version.
+
+===Single===  
+Playing the trigger note once starts the region. Playing it again stops 
+playback, and restarts the region. 
+
+===Gate===  
+The region plays until the trigger note is released
+
+===Gate Loop===  
+The region loops until the trigger note is released. 
+
+===Toggle===  
+Playing the trigger note starts the region. Playing it again stops playback. 
+
+===ToggleLoop===  
+Playing the trigger note starts region looping. Playing it again stops 
+playback. 
+
+
+
+
+[[category:tutorials]]
+[[category:logic|Touch tracks tutorial]]
