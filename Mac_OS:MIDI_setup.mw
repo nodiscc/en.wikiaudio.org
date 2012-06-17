@@ -1,0 +1,32 @@
+== MAC OS MIDI setup ==
+
+{{#widget:YouTube|id=XpYU1uZHDtM}}
+
+
+
+
+
+----
+
+First, make sure you know what physical MIDI ports your external MIDI devices are connected to.
+
+#Open up the Mac OS's '''Audio MIDI setup'''. This is in the '''Applications / Utility''' folder
+#Go to '''Window''' (menu) & choose '''MIDI devices'''.
+#Add a virtual device for every real device you have connected to your MIDI interface. You can do this by clicking the '''"Add Device"''' button..
+#When the device appears, double click on it and set the '''Manufacturer''' and '''Model''' fields for your device(s)and make sure all channel buttons for input and output are enabled.
+#Then, connect the virtual MIDI cables from the device(s) to the interface to reflect how they are connected physically.
+
+
+[[File:Mac Audio MIDI setup virtual cabling.png]]
+
+
+
+Repeat these steps for every device that you have connected to your MIDI interface.
+
+[[category:Mac OS]]
+
+[[category:tutorials]]
+
+===Also see===
+
+*[[MIDI:_star_configuration]]
