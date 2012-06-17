@@ -1,0 +1,42 @@
+
+
+{{#widget:YouTube|id=3odgBl8HhBg}}
+
+
+==Using the Evoc 20 Polysynth as a vocoder==
+
+
+To use the Evoc 20 poly synth as a vocoder follow these steps
+
+
+'''1.''' [[Logic:Create a new track|Create 1 audio track and and 1 instrument track.]]
+
+'''2.''' On the audio track add a pre fader bus send.
+
+
+[[Image:Logic pre fader bus send.png]]
+
+
+
+'''3.''' On the Evoc 20 poly synth set the side-chain insert to the same bus as the one being sent from the audio track.
+
+
+[[Image:Evoc Polysynth 20 side chain input.png]]
+
+
+
+'''4.''' On the Evoc 20 poly synth choose one of the vocoder presets
+
+
+
+[[Image:Evoc Polysynth 20 choosing preset.png]]
+
+
+
+'''5.''' Add or record an audio file to the audio track, turn up the bus send and when you play it you should hear the vocoder effect.Since the bus is pre fader you can turn down the fader and hear the effect without the original signal blended in if you wish.
+
+
+
+[[category:logic|Vocoder set up using Evoc 20 Polysynth]]
+
+[[category:tutorials]]
