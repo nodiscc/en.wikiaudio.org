@@ -1,0 +1,36 @@
+==Arrangement view==
+==Video==
+{{#widget:YouTube|id= 7Ez3pyzLRws |width=640|height=480}}  
+
+
+
+
+
+
+
+
+-----
+
+To make [[tempo]] changes to an [[Ableton Live]] song from the arrangement view go to the master track, zoom in on it and set the first drop down option to '''''Mixer''''' and the second drop down option to '''''Song Tempo'''''.
+
+Then Right click (or CTRL click) the tempo display that appears and choose '''''Draw mode'''''. Then choose your grid value and draw in your tempo change(s).
+
+
+
+[[File:Ableton Live arrange view tempo changes.png]]
+
+==Clip Scenes==
+
+To add tempo changes to clip scenes you can rename the scene with a tempo value such as '''100 [[BPM]]''' (image below)
+
+
+
+
+
+
+[[File:Ableton Live tempo change scene.png]]
+
+
+[[category:Ableton Live|Tempo changes]]
+
+[[category:tutorials]]
