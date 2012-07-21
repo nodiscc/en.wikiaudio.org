@@ -1,0 +1,40 @@
+== Video tutorial ==
+
+{{#widget:YouTube|id=2qyGcX8UDyI}} 
+
+
+
+
+
+
+
+
+
+
+==Article tutorial==
+For this tutorial you will need a control signal and an affected signal.
+
+For our [[side chain]] example we will use a kick [[drum]] (control signal) to trigger a [[compressor]] which will dynamically attenuate (or ''[[Ducking|duck]]'') a track with a sustained note (the affected signal).
+
+This means every time the kick drum plays the [[sustain]]ed note will be compressed.
+
+
+To accomplish  this follow these steps:
+
+#Create 2 [[software instrument]] tracks (You can use audio or instrument tracks for this effect, but for our example we are using instrument tracks)
+#On the first track insert a software instrument with a drum kit and record a kick drum on every quarter note for 2 [[bar]]s. After your done, insert '''Bus 1''' into the ''sends'' field of the tracks channel strip  and turn it up.This will automatically create an '''[[aux track]]''' with the input as [[Bus]] 1, this is unnecessary for what we are trying to do so go to the ''aux track'' channel strip and change the input to '''no input'''
+#On the second [[software instrument]] track record a [[sustain]]ed note that plays for 2 bars ( you can do this by opening up the ES1 on a software instrument track and using the default patch).
+#Now on the track you just recorded the sustained note on ,add a compressor plug in to it's respective channel strip. In the side chain field of the compressor click, hold and select '''Bus 1''' as shown in the image below.
+
+
+[[Image:Logic_8_Compressor_insert.png‎]] 
+
+
+
+#Push play on the [[transport]]
+#Turn the compressors ratio all the way up and begin to pull the threshold down. You should hear the sustain note begin to fluctuate in [[volume]] in accordance with the kick drum hitting, if not try pulling up the gain on the compressor
+
+
+[[category:tutorials]]
+
+[[category:Logic|S]]
