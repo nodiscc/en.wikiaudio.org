@@ -1,0 +1,62 @@
+==Single audio files==
+
+{{in Progress}}
+
+
+==Trigger multiple audio files with one button==
+
+
+
+[[File:HTML 5 synced audio playback.png|thumb|Image|300px]]
+
+
+-----
+The code below allows for the triggering of multiple audio files at the same time with one play and one pause button. This method has very bad latency and syncing issues.The code below is a good way to demonstrate this. To use, just replace "Your_Audio_File" 1 & 2 with your own audio files. If you are using Firefox you will have to use .ogg files. 
+Then paste into an html document. 
+
+
+<source>
+
+
+<audio id="audio1" src="YOUR_AUDIO_FILE 1.wav" controls preload="auto" autobuffer></audio>
+
+<audio id="audio2" src="YOUR_AUDIO_FILE 2.wav" controls preload="auto" autobuffer>
+
+</audio>
+
+
+
+<script>
+function PlaySound(soundobj) {
+
+var thissound=document.getElementById(soundobj);
+
+thissound.play();
+
+}
+
+
+function PauseSound(soundobj) {
+
+var thissound=document.getElementById(soundobj);
+
+thissound.pause();
+
+}
+
+
+</script>
+
+
+<form>
+
+<input type="button" value="PlaySound" onClick="PlaySound('audio1'),PlaySound('audio2')">
+
+<input type="button" value="PauseSound" onClick="PauseSound('audio2'),PauseSound('audio1')">
+
+</form>
+
+</source>
+[[category:javascript]]
+[[category:programming]]
+[[category:tutorial]]
