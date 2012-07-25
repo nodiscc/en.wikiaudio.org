@@ -1,0 +1,11 @@
+'''SoundManager''' is a Javascript audio API which plays audio files using the HTML-5 protocol and includes a Flash "fall back" for older browsers. The API was developed by Scott Schiller.
+
+
+
+
+==External links==
+*http://www.schillmania.com/projects/soundmanager2/
+
+[[category:programming]] 
+[[category:SoundManager]]
+[[category:Web Audio]]
