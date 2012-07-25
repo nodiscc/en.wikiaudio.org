@@ -1,0 +1,88 @@
+'''instructions:'''
+
+
+This little piece of code was done using DEV C++. 
+
+To use in DEV C++ you first need to go to the linker and type in   '''-lwinmm'''  for it to work. (images below) 
+
+
+
+
+Compile the code and run. Then tap the Q key for one sound, and any other key for the other sound. 
+
+Modify code to do your bidding. Experiment and have fun.
+
+
+
+
+'''Note:''' There is a horrible delay when triggering the sounds. :(
+
+
+
+
+[[File:Dev CPP Project options.png]]
+
+
+[[File:Dev CPP add lwinmm.png]]
+
+
+
+----
+<source>
+
+#include <cstdlib> 
+
+#include <iostream> 
+
+#include <windows.h> 
+
+#include <conio.h> //this header is needed to use _getch()
+ 
+int main(int argc, char *argv[]) 
+
+{
+
+top:     
+
+
+
+using namespace std;
+
+
+
+
+char tap  = _getch(); 
+
+
+
+//_getch loads tap with one character that the user enters 			           
+
+
+
+//the code continues after one key is pressed 		
+
+
+if( tap == 'q')  			
+
+
+
+cout<<PlaySound("C:/WINDOWS/Media/tada.wav", NULL, SND_FILENAME); 
+ 	
+
+	  		
+else {cout<<PlaySound("C:/WINDOWS/Media/chime.wav", NULL, SND_FILENAME); 
+			
+	 		
+
+
+goto top; 
+
+   
+system("PAUSE");     
+
+return EXIT_SUCCESS;
+}
+
+</source>
+[[category:programming]]
+[[category:tutorials]]
