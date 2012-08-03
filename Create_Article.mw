@@ -1,0 +1,41 @@
+
+
+
+
+<big>
+<big>
+<center>
+Type the title of the information you would like to share and click 
+
+'''Create'''
+<inputbox>
+type=create
+width=34
+buttonlabel=Create
+</inputbox>
+
+[[File:easy.png|link=Special:UserLogin|link=]]
+</center>
+
+{{#css:
+
+#gumax-content-body {background: none repeat scroll 0 0 #FFF;
+border: 1px solid #FFF;
+margin: 0;
+padding: 20px;
+}
+
+
+.gumax-firstHeading { display: none; }
+
+
+#gumax-p-search form #searchGoButton, #gumax-p-search form #mw-searchButton { display: none; } 
+#content {background:transparent none repeat scroll 0 0;
+border-color:#FFFFFF -moz-use-text-color;}
+#content {background:transparent none repeat scroll 0 0;border-color:#FFFFFF -moz-use-text-color;}
+
+#gumax-p-login {font-size: 120%;    text-align: right;}
+
+}}
+
+__NOTOC__
