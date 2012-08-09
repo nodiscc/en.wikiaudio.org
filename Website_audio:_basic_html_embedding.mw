@@ -1,0 +1,21 @@
+== Web audio html embed tutorial==
+
+
+
+#Upload the audio file to your webserver and make sure it is in the same directory as your website. 
+
+#Copy and paste the following code onto your website:
+
+<source><EMBED SRC="myaudiofile.wav" VOLUME="50" HEIGHT="60" WIDTH="144"></source>
+
+
+
+
+Replace the "myaudiofile.wav" with the name of your audio file. Keep the quotation marks. This embeds the audio and creates a player that allows you to turn the audio on and off.
+
+#Adjust volume, height and width settings to match your website by changing the respective values in the code :   
+ <source> VOLUME="50" HEIGHT="60" WIDTH="144"</source>
+
+
+
+[[category:tutorials]]
