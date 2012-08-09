@@ -1,0 +1,10 @@
+Impulse response can refer to one of two definitions.
+
+#Acoustic sample used for realistic acoustic reproduction (such as used with convolution reverb )
+#A measurement of sound pressure versus time.
+
+An impulse response (IR) is the output of a system/room when excited by an impulse. Mathematically an impulse is a (ideal) signal of a infinite short duration, which correspond in the frequency domain to a signal of an infinite wide frequency range. 
+
+In room acoustic, an impulse is used, or derived from other signals, to estimate the acoustic response of environments.
+
+{{stub}}
