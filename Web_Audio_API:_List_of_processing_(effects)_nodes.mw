@@ -1,0 +1,36 @@
+==GainNode==
+*In Use Code Example:
+[[Web Audio API: How to connect nodes]]
+
+==RealTimeAnalyserNode==
+
+==BiquadFilterNode==
+
+===Filter Types===
+*LOWPASS = 0
+*HIGHPASS = 1
+*BANDPASS = 2
+*LOWSHELF = 3
+*HIGHSHELF = 4
+*PEAKING = 5
+*NOTCH = 6
+*ALLPASS= 7
+
+==AudioPannerNode==
+
+==ConvolverNode==
+
+==OscillatorNode==
+*In Use Code Example:
+[[Web Audio API: How to connect nodes]]
+
+==DynamicsCompressorNode==
+
+==WaveShaperNode==
+
+==JavaScriptAudioNode==
+
+
+[[category:Web Audio API|List of processing (effects) nodes]]
+[[category:HTML-5]]
+[[category:Programming]]
