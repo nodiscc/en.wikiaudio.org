@@ -1,0 +1,67 @@
+
+
+==The problem==
+The oscillator NoteOff method doesn't turn off the oscillator and allow for it to be turned back on. 
+
+==The solution==
+To turn the oscillator off you must use the '''.disconnect()''' method. Below is working code that demonstrates how to toggle an oscillator on and off. You will need to replace the image src's with your own.
+
+
+<source><!DOCTYPE html>
+<meta charset="UTF-8">
+<title>toggleSwitch</title>
+
+
+<input type="image" src= "off.png" value="play" class ="off" id="btn1"  />
+<script>  
+   
+   buttonClickResult = function (){
+   var button = document.getElementById('btn1'); 
+   button.onclick = function buttonClicked() 
+{  
+  
+        if(button.className=="off")    
+	    {
+	        button.className="on";     
+	        button.src='on.png'; 
+	              oscOn ();  
+	             
+	    }
+	    else if(button.className=="on")       
+	    {  
+	        button.className="off";           
+	        button.src='off.png';           
+	        oscillator.disconnect(); // This method is what disconnects the oscillator. NOT "noteOff"
+	    }               
+
+}  
+   };
+   
+   buttonClickResult();
+   
+
+
+context = new webkitAudioContext(); 
+
+var oscOn = function(){                       
+oscillator = context.createOscillator(),   
+oscillator.type = 2;       
+oscillator.frequency.value = 200;
+gainNode = context.createGainNode(); 
+oscillator.connect(gainNode); 
+gainNode.connect(context.destination); 
+gainNode.gain.value = .1;  
+oscillator.noteOn(0); 
+ 
+
+
+
+};
+   </script>
+</source>
+
+
+[[category:Web Audio]]
+[[category:Web Audio API|Toggle oscillator on and off]]
+[[category:HTML-5]]
+[[category:Programming]]
