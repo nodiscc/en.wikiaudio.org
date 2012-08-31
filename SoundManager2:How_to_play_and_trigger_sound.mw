@@ -1,0 +1,157 @@
+First download SoundManager2 and unzip the file to your desktop. It should create a folder called something like soundmanagerv297a-20111220. You can rename this simply to '''Soundmanager2''' if you like.
+
+
+Create a new folder on your desktop called '''Mysoundtest'''.
+
+Open the SoundManager folder and copy/paste the following folders and file contents into the '''Mysoundtest''' folder.
+
+*'''Script'''
+*'''Src'''
+*'''Swf'''
+*'''Index'''
+
+
+
+Now within the '''Mysoundtes'''t folder create another folder called '''audiofiles'''.
+
+
+
+Inside the '''audiofiles''' folder add an mp3 file. For our example we will title it '''my.mp3''' (You should do the same for the code below to work).
+
+Make sure your MP3 file does ''not'' have a (accidentally created) double extension.
+
+Open the index file with your text editor and delete its contents. Then copy and paste the below code into it.
+
+
+<source>
+<script type="text/javascript" src="script/soundmanager2.js"></script>
+
+<script type="text/javascript">
+
+soundManager.flashVersion = 9;
+
+soundManager.url = 'swf/';
+
+soundManager.onready(function(){
+
+soundManager.createSound({
+
+id:"myMp3",
+
+url:"audiofiles/my.mp3",
+
+stream: true,
+
+autoPlay: true,
+
+multiShot: false,
+
+});
+
+soundManager.play('myMp3','my.mp3');});
+
+</script>
+
+</source>
+
+
+
+Save the file and relaunch it in your browser. The file should begin playing.
+
+==Troubleshooting==
+
+If the file doesn't play try this.
+
+Go to this link
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html
+
+Click '''Edit Locations'''.
+
+Then click '''Add Locations''' and '''Browse for folder'''.
+
+Then choose the folder with all of the assets, which in this tutorial is the '''Mysoundtest''' folder.
+
+Refresh the browser and relaunch. The file should play.
+
+===Latency===
+For latency try using
+
+'''soundManager.useHighPerformance = true''' , and possibly '''soundManager.flashVersion = 9 '''
+
+==Trigger via image click (or other element)==
+
+
+<source>
+
+<html>
+
+
+<head>
+
+
+<script type="text/javascript" src="script/soundmanager2.js">
+
+
+</script>
+
+
+<script type="text/javascript">  
+
+//soundManager.debugMode = false; // disable debug output  
+
+soundManager.url = 'swf/soundmanager2.swf'; // path to movie  
+
+
+
+soundManager.onload = function() {
+
+// soundManager.createSound() etc. may now be called
+
+
+soundManager.createSound({id:'myMp3',
+url:'audiofiles/my.mp3',
+onfinish:function()
+
+{window.location.href='index.php'}});
+
+
+};
+
+</script>
+
+</head>
+
+<body>
+
+<!-- IMAGE BEGIN -->
+
+
+<p>
+
+<table width="100%" border="0" summary="IMAGE">
+
+<tr>
+
+<td align="left">
+
+<img src="our_image.png" alt="Previous" border="0"width="38" height="31"
+onclick="soundManager.play('myMp3',{volume:50}) ">
+
+
+</td>
+
+</table>
+
+</p>
+
+<!-- IMAGE END -->
+
+</body>
+
+
+</source>
+
+[[category:programming]]
+[[category:SoundManager]]
+[[category:tutorials]]
+[[category:Web Audio]]
