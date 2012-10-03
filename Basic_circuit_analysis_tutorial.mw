@@ -1,0 +1,115 @@
+===Basic circuit collapsing===
+
+
+====Video====
+
+{{#widget:YouTube|id=3o8_EARoMtg |width=640|height=480}}
+
+{{#widget:YouTube|id=7vHh1sfZ5KE |width=640|height=480}}
+
+{{#widget:YouTube|id=ZrMw7P6P2Gw |width=640|height=480}}
+
+{{#widget:YouTube|id=3NcIK0s3IwU|width=640|height=480}}
+
+
+
+
+
+
+
+
+====Basic Ohm's law====
+
+
+[[File:Ohm's law triangle.PNG|100px]]
+
+Voltage = Current multiplied by Resistance
+
+
+Voltage is measured in Volts, resistance is measured in Ohms (Ω)and current is measured in Amperes
+
+*'''Voltage''' is constant in <u>parallel</u>
+*'''Current''' is constant in <u>series</u>
+
+
+----
+
+====Calculating resistance totals in series circuits====
+
+[[File:Circuit example with 2 resistors.png]]
+
+
+
+To find the resistance total of a series circuit simply add up all the resistor values. 
+
+The '''RT''' (resistance total) for the circuit above is 5Ω
+
+This is also the procedure to "collapse series branches" in series/parallel combination circuits which gives you the REQ (resistance equivalent) of the branch 
+
+
+----
+
+====Calculating resistance totals in parallel circuits====
+
+[[File:Parallel circuit example with 2 resistors.png|Parallel circuit example with 2 resistors.png]]
+
+
+To find the '''Resistance total''' for a parallel circuit (see image above)
+
+*Divide 1 by each resistor value and add up the total. '''Example:''' 1/R1  +  1/R2  etc..
+*Divide 1 by the total.  '''Example:''' 1/answer 
+*The result is the total resistance.
+This is also the procedure for "collapsing parallel branches" of series/parallel combination circuits which gives you the REQ ( resistance equivalent ) of the branch 
+
+The '''RT''' for the example circuit is 5Ω
+
+
+----
+
+====Basic circuit analysis of combination series/parallel circuits with resistors====
+
+'''Example circuit''' 
+
+[[File:Circuit example with voltage and 4 resistors.png]]
+
+
+
+For our example we will find the resistance total ( '''Rt''' ) for the entire circuit, the current total ( '''It''' ) for the entire circuit and the power total ( '''Pt''' ) for the entire circuit. We will also find the Voltage drops ( '''VR''' ) across and current ( '''IR''' ) through each resistor.
+
+
+
+{| border="1" cellpadding="20" cellspacing="0"
+|+ align="bottom" style="color:#e76700;" |''Circuit''
+|-
+|'''V = 20V'''
+|VR1 =?
+|IR1 =?
+|-
+|Rt =
+|VR2 =?
+|IR2 =?
+|-
+|It =
+|VR3 =?
+|IR3 =?
+|-
+|Pt = 
+|VR4 =?
+|IR4 =?
+|}
+
+
+
+'''Step 1.''' To find resistance total ( '''Rt''' ) collapse all series branches and then collapse all parallel branches and add both series and parallel '''REQ's''' together.This will give you the '''Rt'''.
+
+'''Step 2.''' To find current total ( '''It''' )  divide the Voltage '''V''' by the RT.This will give you the '''It'''
+
+'''Step 3.''' Multiply parallel REQ's by current total ( '''It''' ).The result is the voltage amount across each lane of parallel branches ( This is Not the VR's for the resistors). Write this number down it will be needed.
+
+'''Step 4.''' Uncollapse the parallel branches and divide collapsed series branches (and single branch resistors) into the voltages you found in step 3. This will give you the current drops through each resistor ( '''IR''' ).
+
+'''Step 5.''' Uncollapse series resistors. Multiply the resistance of each resistor by the current through it (IR) to get its voltage drop (VR)
+
+
+[[category:circuitry]] 
+[[category:tutorials|Circuit]]
