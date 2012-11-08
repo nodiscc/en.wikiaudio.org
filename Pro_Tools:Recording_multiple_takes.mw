@@ -1,0 +1,30 @@
+
+==Multiple takes as a playlist==
+ 
+To record multiple takes as playlists first go to  '''Settings''' / '''Preferences''' /  '''Operations'''/ and then click  the box next to '''Automatically  create new playlist when loop  recording'''. Make sure [[Pro Tools:Link timeline and edit selection|Link timeline and  edit selection are <u>'''on'''</u>]] and [[Pro Tools:loop  record enable|Loop Record enable]] is active. Then begin recording takes  within a '''cycle'''
+
+===Video===
+
+
+{{#widget:YouTube|id=  MVeggVbmpvQ|width=640|height=480}}
+
+==Not as playlist==
+To record multiple takes ''not'' as playlists first go to  '''Settings / Preferences /  Operations''' and then uncheck the box next to '''Automatically  create new playlist when loop  recording'''.Make sure [[Pro Tools:Link timeline and edit selection|Link timeline and edit selection are <u>'''on'''</u>]] and [[Pro Tools:loop record enable|Loop Record enable]] is active. Then begin recording takes within a '''cycle'''
+
+
+
+
+
+[[File:Pro Tools cycle.png]]
+
+
+
+When you are done right click on the region and go to the '''Matches''' menu you can choose different takes to playback and edit.
+
+
+[[File:Pro Tools multiple take selection matches menu.png]]
+
+
+[[category:Pro Tools|Recording multiple takes]]
+
+[[category:tutorials]]
