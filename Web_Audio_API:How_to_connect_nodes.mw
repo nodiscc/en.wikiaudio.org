@@ -1,0 +1,38 @@
+Below is a working copy-and-past usable piece of code that explains how to connect Web Audio API nodes. It uses an Oscillator Node and a Gain Node.
+
+<source>
+
+<!DOCTYPE html >
+<meta charset="UTF-8">
+<title>Test</title>
+
+
+<button id="soundTrigger" onmousedown = "buzz()">Buzz </button>
+
+<script type="text/javascript">
+
+context = new webkitAudioContext(); // This is the first line of code you always need with the Web Audio API
+
+function buzz(){                       // wrap code in function
+oscillator = context.createOscillator(),   // create oscillator
+oscillator.type = 3;                  // 4 types of oscillators are available. They are Sine wave = 0, Square wave = 1, Sawtooth wave = 2, Triangle wave = 3, a fifth option exists as well called "custom".
+
+gainNode = context.createGainNode(); // Declare gain node
+oscillator.connect(gainNode); // Connect sine wave to gain node
+gainNode.connect(context.destination); // Connect gain node to "speakers"
+gainNode.gain.value = 1;  // This is the volume.
+oscillator.noteOn(0); // Play sine wave
+
+};
+
+</script>
+
+</source>
+
+==References==
+*http://stuartmemo.com/
+
+[[category:HTML-5]]
+[[category:Programming]]
+[[category:Web Audio]]
+[[category:Web Audio API|How to connect nodes]]
