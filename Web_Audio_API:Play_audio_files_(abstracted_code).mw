@@ -1,0 +1,94 @@
+This is a simplified version of the Web Audio API code necessary to play back audio files. HTML & CSS is added below for example purposes.
+
+If you want to copy and paste the code you need to click '''view''' in the menu above.
+
+==HTML==
+
+<source> <!DOCTYPE html>
+<meta charset="UTF-8">
+<title>example</title>
+<link rel="stylesheet" href="example.css">
+
+<script src="easyAudioAPI.js"></script>
+
+<div id="audioOne"></div>
+<div id="audioTwo"></div>
+
+
+</source>
+
+
+==CSS==
+
+<source> #audioOne{
+	position:absolute;
+	width:100px;
+	height:100px;
+	background-color:orange;
+
+}
+
+#audioTwo{
+	position:absolute;
+	left:200px;
+	width:100px;
+	height:100px;
+	background-color:orange;
+
+}</source>
+
+
+
+
+==easyaudioapi.js==
+
+
+<source>  
+
+
+
+// Two Examples
+var audioOne   = new audioApiKey("audioOne","A.mp3","mouseover");    // the first parameter is a dom node and the next is the audio file you want to trigger.The third parameter is the event.
+var audioTwo  = new audioApiKey("audioTwo","b.mp3","click");     
+
+// END of two examples
+
+var context = new webkitAudioContext();
+function audioApiKey(domNode,fileDirectory,audioTriggerEvent) {
+this.audioTriggerEvent = audioTriggerEvent;
+this.domNode = domNode;
+this.fileDirectory = fileDirectory;
+var bufferFunctionName;
+var incomingBuffer;
+var savedBuffer;
+var xhr;
+
+bufferFunctionName = function () {
+var source = context.createBufferSource();
+source.buffer = savedBuffer;
+source.connect(context.destination);
+source.noteOn(0); 
+};
+var xhr = new XMLHttpRequest();
+xhr.open('get',fileDirectory, true);
+xhr.responseType = 'arraybuffer';
+xhr.onload = function () {
+        context.decodeAudioData(xhr.response,
+             function(incomingBuffer) {
+                 
+                 savedBuffer = incomingBuffer;
+                 
+                 var note = document.getElementById(domNode);
+                 note.addEventListener(audioTriggerEvent, bufferFunctionName , false);
+             }
+        );
+};
+xhr.send();
+};
+
+
+</source>
+
+[[category:Javascript]]
+[[category:Web Audio API]] 
+[[category:Web Audio]]
