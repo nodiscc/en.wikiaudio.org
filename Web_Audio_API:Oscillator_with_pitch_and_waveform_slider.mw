@@ -1,0 +1,113 @@
+Below is working code that displays an image which can be clicked to turn on and off an oscillator. There are additional pitch and waveform sliders that can be used to modify the oscillator. The image files  ('''on.png''' & '''off.png''') should be replaced with your own images. The click.wav can either be ignored or replaced with a "click" sound to create a theatrical effect analogous to a switch being "clicked on/off".
+
+<source> 
+
+
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<title>toggleSwitch</title>
+
+  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/hot-sneaks/jquery-ui.css" type="text/css" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" charset="utf-8"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js"></script>
+
+
+
+
+
+
+
+<!--Audio Tag For Click & JavascriptCode-->
+       <audio id="bgm" src="click.wav" preload="auto" autobuffer = "true" > </audio>
+     <script>
+    	function playClickSound(filename){
+    	var snd = new Audio(filename);
+    	snd.play();
+    }
+</script>
+   
+<!--END-->
+
+<input type="image" src= "off.png" value="play" class ="off" id="btn1"  />
+<p>Pitch</p>
+<input id="pitch" type="range" min="5" max="500" step="1" value="50"/>
+<p>Wave</p>
+<input id="oscType" type="range" min="0" max="4" step="1" value="0"/>
+
+   <script>  
+   
+   buttonClickResult = function (){
+   var button = document.getElementById('btn1'); 
+   button.onclick = function buttonClicked() 
+{  
+  
+        if(button.className=="off")    //if class name is "off"
+	    {
+	        button.className="on";     // assign it to "on" and....
+	        button.src='on.png'; 
+	              oscOn ();  // assign it's scr img 
+	              playClickSound('click.wav');  
+	    }
+	    else if(button.className=="on")       //if class name IS "on"
+	    {  
+	        button.className="off";           //Change it to "off"
+	        button.src='off.png';           // and assign it a different src image
+	        playClickSound('click.wav'); 
+	        oscillator.disconnect(); 
+	    }               
+
+}  
+   };
+   
+buttonClickResult();
+   
+
+
+context = new webkitAudioContext(); // This is the first line of code you always need with the Web Audio API
+
+oscOn = function(){                       // wrap code in function
+oscillator = context.createOscillator(),   // create oscillator
+    
+
+
+gainNode = context.createGainNode(); // Declare gain node
+oscillator.connect(gainNode); // Connect sine wave to gain node
+gainNode.connect(context.destination); // Connect gain node to "speakers"
+gainNode.gain.value = .1;  // This is the volume.
+oscillator.noteOn(0); // Play sine wave
+document.getElementById('pitch').addEventListener('change', function() {
+oscillator.frequency.value = this.value;
+}); 
+
+document.getElementById('oscType').addEventListener('change', function() {
+oscillator.type = this.value;
+}); 
+
+
+
+};
+
+
+   </script>  
+
+
+
+
+
+
+
+
+
+</source>
+
+
+==Video==
+{{#widget:YouTube|id= -GK4oEr-XKA |width=640|height=480}}
+
+
+
+[[category:HTML-5]]
+[[category:Programming]]
+[[category:Web Audio]]
+[[category:Web Audio API|Oscillator with pitch and waveform slider]]
