@@ -1,0 +1,114 @@
+__NOTOC__
+[[File:Logohomepage.png|left|323px|link=]] 
+
+
+
+
+
+[[File:What would you like.png|link=|right]]
+
+
+
+
+
+
+<inputbox>
+buttonlabel=Search
+type=fulltext
+width=40
+</inputbox>
+
+{{#css:
+#gumax-content-actions li#ca-edit a {
+display:none;
+}
+
+
+
+}}
+
+{{#css:
+#banner{
+display:none;
+}
+}}
+
+{{#css:
+
+#addthistoolbar {
+position: relative;
+top: -320px;
+float: right;
+padding: 0px;
+padding-top: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+border-style: solid;
+border-width: 1px;
+}
+
+
+}}
+
+
+
+<div class = "wrapperMainPageWave">
+<div id="waveformImage">[[File:WaveformMainPage.png]]</div>
+<div id="playHead"></div><div id="cover"> </div>
+</div>
+<div id="joinButtonWrapper>
+<div class="joinButton">Join</div>
+<div id="signUp"> [[File:Signup.png|link=|right]]</div><div id="mainPageGoTos"></div>
+
+<div id="mainPageBoxes">
+{| 
+|-
+| [[image:newsletter.png|link=http://wikiaudio.us4.list-manage.com/subscribe?u=94ab35248277a98bc6bbedd00&id=ccfdd75d55]]||  [[image:categories.png|link=Categories]] || [[File:Store.png|link=http://qa.wikiaudio.org]]
+|}
+
+</div>
+
+
+
+===Recent Changes===
+{{Special:Newpages/10}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{#css:
+ 
+#gumax-content-body {background: none repeat scroll 0 0 #FFF;
+border: 1px solid #FFF;
+margin: 0;
+padding: 20px;
+}
+
+#gumax-p-navigation {     margin-top: -45px;     position: relative;     z-index: 900; }
+#gumax-content-actions {     background: none repeat scroll 0 0 transparent;     color: #999999;     height: 1px;     text-align: center;     white-space: nowrap; }
+.gumax-p-navigation-spacer{ display: none; }
+.gumax-firstHeading { display: none; }
+#gumax-content-actions ul li a { display: none; }
+#gumax-p-search form #searchInput { display: none; }
+#gumax-p-search form #searchGoButton, #gumax-p-search form #mw-searchButton { display: none; } 
+#content {background:transparent none repeat scroll 0 0;
+border-color:#FFFFFF -moz-use-text-color;}
+
+#p-logo, #p-logo a, #p-logo a:hover { display: none; }
+#p-logo a:hover { display: none; }
+#content {background:transparent none repeat scroll 0 0;border-color:#FFFFFF -moz-use-text-color;}
+#gumax-header {height: 0px;margin: 0 auto;min-height: 30px;padding: 0;position: relative;z-index: 100;}
+#gumax-p-login {font-size: 120%;    text-align: right;}
+
+}}
