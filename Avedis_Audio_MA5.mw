@@ -1,0 +1,39 @@
+{| border=0 cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; width:250px; background:#fff; border-collapse:collapse; border:2px solid #999; font-size:83%; line-height:1.5; " 
+|- 
+| style="background:; color:black" |  <big>'''{{PAGENAME}}''' </big>
+[[File:Avedisaudio_ma5.jpg|150px|thumb|left]]
+----
+|-
+| style="background: " | 
+
+<big>'''Specifications'''</big>
+* Frequency Response <10Hz to -3dB at 67kHz
+* Input Impedance ≅1250 ohms
+* Output Impedance <75 ohms, bias variable
+* Common Mode Rejection Ratio >100dB min @ 60Hz
+* Maximum Output Level +32.2 dBu @ 100KΩ, +27 dBu @ 600Ω bias variable
+* Power Requirements ±16 vdc @ 75mA per rail
+* Gain Voltage 0 to 33.4 Volts
+* Gain dB 0 to 71.2 dB
+* Equivalent Input Noise -110 dBu; Unweighted 300kHz bandwidth
+* Weight 2.5 lbs / 1.13kg 
+|}
+
+
+The MA5 was first released in the fall of 2007, after many months of design and collaboration with various transformer manufacturers. It was only after Jensen Transformers supplied materials and design, for the custom Class A output transformer, that the MA5 was finally born.
+
+It features a 28kHz push-button for enhancing high frequency detail which can make equalization corrections easier in later stages of mixing. This shelving filter is done only in the output stage, rather than the preamp stage to enhance output driver stage harmonics, at a gentle rise of 6dB peaking at 28kHz.riginally, the early run of the faceplates were made in red with white lettering but was soon changed to a black faceplate with white lettering and red accents at the top.
+
+In the summer of 2010, another color was specified by a local dealer inspired by the color of an old HP test equipment sometimes used at shop. A red Marconi style gain knob is an option instead of the default black through the dealers. The plastics used in the Marconi style knob is made in the UK using the original die dating back at least 50 years.
+
+In it's early prototype stages, the MA5 was loosely called the "Liger" signifying the combination of older British Class A circuitry in an American operational amplifier (op-amp) format.
+
+The number of slots cut in the cover indicate the metal manufacturing run. The earliest MA5's had 5 slots and more were added each time a new order was placed.
+
+{{stub}}
+
+
+[[category:Avedis Audio|MA5]]
+
+[[category:Amplifiers]]
+[[category:Preamplifiers]]
