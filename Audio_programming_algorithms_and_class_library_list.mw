@@ -1,0 +1,95 @@
+=C++=
+
+==Ambiera==
+
+Cross platform sound library for C++, C# and all .NET languages
+* http://www.ambiera.com/irrklang/index.html
+
+==Boost==
+
+* http://www.boost.org/doc/libs
+
+==Clam C++ Library for audio and music==
+*[http://clam-project.org/ Homepage]
+*[http://clam-project.org/download.html Download]
+*[http://clam-project.org/screenshots.html Screenshots]
+
+==The CREATE C++ Signal Library==
+*[http://fastlabinc.com/CSL/index.html Homepage]
+
+==JUCE==
+* [http://www.rawmaterialsoftware.com/juce.php JUCE]
+
+
+==KFR==
+Fast, modern C++ DSP framework, FFT, Audio Sample Rate Conversion, FIR/IIR Filters, Biquad (SSE, AVX, ARM NEON)
+* [https://www.kfrlib.com KFR Framework]
+* [https://github.com/kfrlib/kfr Source Code on GitHub]
+
+
+==Libsndfile C library for reading and writing files containing sampled sounds==
+*[http://www.mega-nerd.com/libsndfile/  Libsndfile]
+
+
+==Marsyas==
+*http://marsyas.info/
+
+
+
+
+==Overtone==
+
+*http://jng.imagine27.com/articles/2011-10-02-171602_overtone.html
+
+==Soundfile++==
+
+* http://soundfile.sapp.org/
+
+==SoundTouch Audio Processing Library==
+
+* [http://www.surina.net/soundtouch/ SoundTouch]
+
+==The Synthesis ToolKit in C++ (STK)==
+
+Written by Perry R. Cook & Gary P. Scavone
+
+*[https://ccrma.stanford.edu/software/stk/classes.html Class index]
+*[https://ccrma.stanford.edu/software/stk/download.html Download]
+*[https://ccrma.stanford.edu/software/stk/system.html Requirements]
+
+=Java=
+
+==Beads==
+*http://www.beadsproject.net/
+
+==JSyn==
+http://www.softsynth.com/
+
+==JASS==
+http://people.cs.ubc.ca/~kvdoel/jass/
+
+
+=Javascript=
+
+==Buzz==
+http://buzz.jaysalvat.com/
+
+==SoundManager==
+*http://www.schillmania.com/projects/soundmanager2/
+
+=Python=
+
+==Audiolab==
+*http://www.ar.media.kyoto-u.ac.jp/members/david/softwares/audiolab/ 
+
+
+==Loris==
+
+*http://www.cerlsoundgroup.org/Loris/
+
+
+==MusicKit==
+
+*http://musickit.sourceforge.net/
+
+[[category:Programming]]
